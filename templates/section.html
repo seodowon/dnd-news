@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% import "_macros.html" as M %}
+{% block title %}{{ sec.name }} — {{ site.name }} {{ ed.date }}{% endblock %}
+{% block today %}{{ ed.date|korean_date }}{% endblock %}
+{% block secnav %}{% for s in sections %}<a href="section-{{ s.id }}.html" class="{{ 'on' if s.id == sec.id }}">{{ s.name }}</a>{% endfor %}{% endblock %}
+{% block main %}
+<h1 class="page-h sec-{{ sec.id }}">{{ sec.name }} <small>{{ ed.date|korean_date }}</small></h1>
+{% if sec.id == 'money' %}{{ M.money_panel(ed.market) }}{% endif %}
+<div class="grid2">
+  {% for a in items %}{{ M.card(a, '') }}{% else %}<p class="notice">이번 호에는 교차확인을 통과한 {{ sec.name }} 기사가 없습니다.</p>{% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,34 @@
+# 속보란 갱신 — 20분마다
+name: 속보 갱신
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  breaking:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: 속보 수집
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m dndnews breaking
+      - name: 발행
+        run: |
+          git config user.name "dnd-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data/breaking.json docs/breaking.html docs/data
+          git commit -m "속보 $(TZ=Asia/Seoul date '+%F %H:%M')" || exit 0
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done

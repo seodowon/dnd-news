@@ -1,0 +1,53 @@
+# 조간 발행 — 매일 04:00 KST (UTC 19:00) 시작, 06:00 전 완료
+name: 조간 발행
+on:
+  schedule:
+    - cron: "0 19 * * *"     # 04:00 KST
+    - cron: "40 19 * * *"    # 04:40 KST 예비 실행 (GitHub 예약이 지연·누락될 때 대비, 이미 발행됐으면 건너뜀)
+  workflow_dispatch:           # Actions 탭에서 수동 실행 가능
+    inputs:
+      force:
+        description: "이미 발행됐어도 다시 제작"
+        type: boolean
+        default: false
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+      - name: 오늘 이미 발행됐는지 확인
+        id: check
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          if [ -f "data/editions/$TODAY.json" ] && [ "${{ github.event.inputs.force }}" != "true" ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT; echo "$TODAY 발행분이 이미 있어 건너뜁니다."
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip != 'true'
+        with: { python-version: "3.11", cache: pip }
+      - run: pip install -r requirements.txt
+        if: steps.check.outputs.skip != 'true'
+      - name: 신문 제작
+        if: steps.check.outputs.skip != 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          KRX_ID: ${{ secrets.KRX_ID }}
+          KRX_PW: ${{ secrets.KRX_PW }}
+        run: python -m dndnews edition
+      - name: 발행 (커밋 → GitHub Pages 자동 반영)
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          git config user.name "dnd-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data docs
+          git commit -m "조간 $(TZ=Asia/Seoul date +%F)" || exit 0
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done

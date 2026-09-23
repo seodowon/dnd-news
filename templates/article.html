@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% import "_macros.html" as M %}
+{% block title %}{{ a.headline }} — {{ site.name }}{% endblock %}
+{% block desc %}{{ a.dek or a.headline }}{% endblock %}
+{% block today %}{{ ed.date|korean_date }}{% endblock %}
+{% block secnav %}{% for s in sections %}<a href="section-{{ s.id }}.html" class="{{ 'on' if s.id == a.section }}">{{ s.name }}</a>{% endfor %}{% endblock %}
+{% block main %}
+<div class="article-wrap">
+<article class="article">
+  <div class="meta">{{ M.meta(a) }}<span class="rankno">{{ ed.date }} · {{ a.rank }}면 기사</span></div>
+  <h1>{{ a.headline }}</h1>
+  {% if a.dek %}<p class="dek">{{ a.dek }}</p>{% endif %}
+  <div class="byline">
+    {% if a.draft %}원문 헤드라인 · 기사 미작성
+    {% else %}AI 기자 작성 · 문장 단위 사실확인 통과{% if a.factcheck and a.factcheck.removed_sentences %} (근거 부족 {{ a.factcheck.removed_sentences }}문장 삭제){% endif %}{% endif %}
+    · {{ ed.generated_at|kst('%Y.%m.%d %H:%M') }} KST
+  </div>
+
+  {% if a.key_points %}
+  <div class="keybox"><h2>핵심 요약</h2><ul>{% for k in a.key_points %}<li>{{ k }}</li>{% endfor %}</ul></div>
+  {% endif %}
+
+  <div class="body">
+    {% for p in a.body %}
+    <p>{{ p.text }}{% for c in p.cites %}<sup><a href="#src-{{ c }}">{{ c }}</a></sup>{% endfor %}</p>
+    {% endfor %}
+  </div>
+
+  <section class="srcs">
+    <h2>근거 자료</h2>
+    <ol>
+      {% for s in a.sources %}
+      <li id="src-{{ s.n }}"><span class="o">{{ s.outlet }}</span> <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a> <time>{{ s.published|kst('%m.%d %H:%M') }}</time></li>
+      {% endfor %}
+    </ol>
+    <p class="also">이 소식을 보도한 언론·기관 ({{ a.outlets|length }}곳): {{ a.outlets|join(' · ') }}</p>
+    <p class="note">이 기사는 위 보도들만을 근거로 작성됐습니다. 근거 자료로 확인되지 않는 문장은 게재 전에 삭제됩니다. 오류를 발견하시면 알려주세요.</p>
+  </section>
+</article>
+<aside class="related">
+  {% if related %}<h2 class="kicker">{{ section_name[a.section] }} 다른 기사</h2>
+  {% for r in related %}{{ M.card(r, '', 'mini') }}{% endfor %}{% endif %}
+  <a class="more" href="index.html">← {{ ed.date }} 신문 1면</a>
+</aside>
+</div>
+{% endblock %}

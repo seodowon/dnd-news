@@ -1,0 +1,87 @@
+{% macro strip(m) %}
+<div class="strip" aria-label="주요 시세">
+  <div class="wrap strip-in">
+    {% for r in m.groups['지수'][:6] + m.groups['환율·금리'][:1] + m.groups['환율·금리'][4:5] + m.groups['원자재'][:1] + m.groups['원자재'][2:3] %}
+    <span class="q"><b>{{ r.name }}</b> <span class="v">{{ r.value|num }}</span> <span class="{{ r.pct|updown }}">{{ r.pct|signed(2,'%') }}</span></span>
+    {% endfor %}
+    {% for c in m.crypto[:1] %}
+    <span class="q"><b>{{ c.name }}</b> <span class="v">${{ c.usd|num(0) }}</span> <span class="{{ c.pct|updown }}">{{ c.pct|signed(2,'%') }}</span></span>
+    {% endfor %}
+  </div>
+</div>
+{% endmacro %}
+
+{% macro meta(a) %}
+<span class="chip sec-{{ a.section }}">{{ section_name[a.section] }}</span>
+{% if a.draft %}<span class="verify draft">헤드라인 · {{ a.outlets|length }}개 언론 보도</span>
+{% else %}<span class="verify" title="{{ a.outlets|join(', ') }}">✓ {{ a.outlets|length }}개 언론 교차확인{% if a.official %} · 공식발표{% endif %}</span>{% endif %}
+{% endmacro %}
+
+{% macro card(a, base, size='') %}
+<article class="card {{ size }}">
+  <div class="meta">{{ meta(a) }}</div>
+  <h3><a href="{{ base }}{{ a.slug }}.html">{{ a.headline }}</a></h3>
+  {% if a.dek and size != 'mini' %}<p class="dek">{{ a.dek }}</p>{% endif %}
+</article>
+{% endmacro %}
+
+{% macro money_panel(m) %}
+<section class="panel money" id="money">
+  <header class="panel-h"><h2>돈의 흐름</h2><span class="asof">데이터 기준 {{ m.fetched_at|kst('%m.%d %H:%M') }} KST · 각 시장 최근 종가</span></header>
+  <div class="money-grid">
+    {% for gname in ['지수','환율·금리','원자재'] %}
+    <table class="qt">
+      <caption>{{ gname }}</caption>
+      <tbody>
+      {% for r in m.groups[gname] %}
+      <tr><th>{{ r.name }}</th><td class="v">{{ r.value|num }}</td><td class="{{ r.pct|updown }}">{{ r.pct|signed(2,'%') }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endfor %}
+    <table class="qt">
+      <caption>암호화폐 (24시간)</caption>
+      <tbody>
+      {% for c in m.crypto %}
+      <tr><th>{{ c.name }}</th><td class="v">${{ c.usd|num(2 if c.usd and c.usd < 10 else 0) }}</td><td class="{{ c.pct|updown }}">{{ c.pct|signed(2,'%') }}</td></tr>
+      {% endfor %}
+      <tr><th>김치 프리미엄</th><td class="v" colspan="2">{% if m.kimchi_premium is not none %}<span class="{{ m.kimchi_premium|updown }}">{{ m.kimchi_premium|signed(2,'%') }}</span>{% else %}—{% endif %}</td></tr>
+      </tbody>
+    </table>
+  </div>
+  {% if m.flows %}
+  <div class="flows">
+    <h3>투자자별 순매수 <small>{{ m.flows.date }} · 한국거래소</small></h3>
+    <div class="flow-grid">
+      {% for mkt, v in m.flows.markets.items() %}
+      <div class="flow">
+        <h4>{{ '코스피' if mkt == 'KOSPI' else '코스닥' }}</h4>
+        {% set mx = [v.values()|map('abs')|max, 1]|max %}
+        {% for who, amt in v.items() %}
+        <div class="bar-row"><span>{{ '기관' if who == '기관합계' else who }}</span>
+          <span class="bar"><i class="{{ amt|updown }}" style="width:{{ (amt|abs / mx * 100)|round(1) }}%"></i></span>
+          <span class="{{ amt|updown }} amt">{{ amt|eok }}</span></div>
+        {% endfor %}
+        {% set t = m.flows.top_foreign[mkt] %}
+        <p class="top">외국인 순매수 상위: {% for s in t.buy[:3] %}{{ s.name }}{{ ', ' if not loop.last }}{% endfor %}</p>
+        <p class="top">외국인 순매도 상위: {% for s in t.sell[:3] %}{{ s.name }}{{ ', ' if not loop.last }}{% endfor %}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</section>
+{% endmacro %}
+
+{% macro flash_list(items, root) %}
+<section class="panel flashbox">
+  <header class="panel-h"><h2><i class="dot"></i>속보</h2><a href="{{ root }}breaking.html">전체 보기 →</a></header>
+  <ol class="flash" data-live="{{ root }}data/breaking.json">
+    {% for f in items %}
+    <li><time>{{ f.time|kst }}</time><a href="{{ f.url }}" target="_blank" rel="noopener">{{ f.ko }}</a><span class="src">{{ f.outlet }}</span></li>
+    {% else %}
+    <li class="empty">아직 수집된 속보가 없습니다.</li>
+    {% endfor %}
+  </ol>
+</section>
+{% endmacro %}

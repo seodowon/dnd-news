@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}속보 — {{ site.name }}{% endblock %}
+{% block today %}<span id="clock"></span>{% endblock %}
+{% block secnav %}{% for s in sections %}<a href="index.html#s-{{ s.id }}">{{ s.name }}</a>{% endfor %}{% endblock %}
+{% block main %}
+<div class="bk-head">
+  <h1 class="page-h"><i class="dot"></i>실시간 속보</h1>
+  <p class="bk-sub">국내외 언론사·공식기관 속보를 20분마다 모아 원문 링크와 함께 싣습니다. 해외 기사는 제목을 번역하고 원문 제목을 함께 적습니다. <span id="updated"></span></p>
+</div>
+<div class="filters" role="toolbar" aria-label="분류">
+  <button class="on" data-f="all">전체</button>
+  <button data-f="flash">속보 표시</button>
+  {% for s in sections %}<button data-f="sec-{{ s.id }}">{{ s.name }}</button>{% endfor %}
+</div>
+<ol class="timeline" id="timeline" data-src="data/breaking.json">
+  {% for f in feed %}
+  <li class="tl sec-{{ f.section }}{{ ' flash' if f.flash }}" data-sec="{{ f.section }}" data-flash="{{ 1 if f.flash else 0 }}">
+    <time datetime="{{ f.time }}">{{ f.time|kst }}<small>{{ f.time|kst('%m.%d') }}</small></time>
+    <div class="tl-body">
+      <div class="tl-tags">
+        {% if f.flash %}<span class="badge">속보</span>{% endif %}
+        {% if f.official %}<span class="badge off">공식발표</span>{% endif %}
+        <span class="chip sec-{{ f.section }}">{{ section_name.get(f.section, '') }}</span>
+        {% for p in f.people %}<span class="chip person">{{ p }}</span>{% endfor %}
+      </div>
+      <a class="tl-title" href="{{ f.url }}" target="_blank" rel="noopener">{{ f.ko }}</a>
+      {% if f.lang != 'ko' %}<p class="orig">{{ f.title }}</p>{% endif %}
+      <p class="src">{{ f.outlet }}{% if f.also %}<span class="also"> · 함께 보도: {{ f.also|join(', ') }}</span>{% endif %}</p>
+    </div>
+  </li>
+  {% else %}
+  <li class="empty">아직 수집된 속보가 없습니다.</li>
+  {% endfor %}
+</ol>
+<script>window.SECTION_NAMES = {{ section_name|tojson }};</script>
+{% endblock %}

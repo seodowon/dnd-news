@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}지난 신문 — {{ site.name }}{% endblock %}
+{% block main %}
+<h1 class="page-h">지난 신문</h1>
+<ul class="archive">
+  {% for d in dates %}<li><a href="{{ d }}/index.html">{{ d|korean_date }}</a></li>{% else %}<li>아직 발행된 신문이 없습니다.</li>{% endfor %}
+</ul>
+{% endblock %}

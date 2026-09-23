@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% import "_macros.html" as M %}
+{% block title %}{{ site.name }} {{ ed.date|korean_date }}{% endblock %}
+{% block today %}{{ ed.date|korean_date }} · {{ ed.generated_at|kst('%H:%M') }} 발행{% endblock %}
+{% block secnav %}{% for s in sections %}<a href="{{ root }}{{ base }}section-{{ s.id }}.html">{{ s.name }}</a>{% endfor %}{% endblock %}
+{% block strip %}{{ M.strip(ed.market) }}{% endblock %}
+{% block main %}
+{% if ed.mode == 'draft' %}
+<div class="notice">시험 운행판입니다 — AI 기사 작성 없이, 교차확인을 통과한 헤드라인만 원문 링크와 함께 보여줍니다.</div>
+{% endif %}
+
+{% if arts %}
+{% set lead = arts[0] %}
+<section class="front">
+  <article class="lead">
+    <div class="meta">{{ M.meta(lead) }}</div>
+    <h1><a href="{{ base }}{{ lead.slug }}.html">{{ lead.headline }}</a></h1>
+    {% if lead.dek %}<p class="dek">{{ lead.dek }}</p>{% endif %}
+    {% if lead.key_points %}
+    <ul class="points">{% for k in lead.key_points %}<li>{{ k }}</li>{% endfor %}</ul>
+    {% endif %}
+    {% if lead.body %}<p class="lede">{{ lead.body[0].text }}</p>{% endif %}
+    <a class="more" href="{{ base }}{{ lead.slug }}.html">기사 전문과 출처 보기 →</a>
+  </article>
+  <div class="top-list">
+    <h2 class="kicker">오늘의 주요 뉴스</h2>
+    {% for a in arts[1:6] %}
+    <article class="row">
+      <span class="rank">{{ a.rank }}</span>
+      <div>
+        <div class="meta">{{ M.meta(a) }}</div>
+        <h3><a href="{{ base }}{{ a.slug }}.html">{{ a.headline }}</a></h3>
+        {% if a.dek %}<p class="dek">{{ a.dek }}</p>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <aside class="side">
+    {{ M.flash_list(flash, root) }}
+  </aside>
+</section>
+{% else %}
+<p class="notice">오늘은 교차확인을 통과한 기사가 없습니다.</p>
+{% endif %}
+
+{{ M.money_panel(ed.market) }}
+
+<section class="more-news">
+  <h2 class="kicker">이어지는 뉴스</h2>
+  <div class="grid3">
+    {% for a in arts[6:] %}{{ M.card(a, base) }}{% endfor %}
+  </div>
+</section>
+
+<section class="sections">
+  {% for s in sections %}{% if by_sec[s.id] %}
+  <div class="secblock" id="s-{{ s.id }}">
+    <h2 class="sec-h sec-{{ s.id }}"><a href="{{ root }}{{ base }}section-{{ s.id }}.html">{{ s.name }}</a> <small>{{ by_sec[s.id]|length }}</small></h2>
+    {% for a in by_sec[s.id][:4] %}{{ M.card(a, base, 'mini') }}{% endfor %}
+  </div>
+  {% endif %}{% endfor %}
+</section>
+
+<p class="stats">이번 호 제작: 언론사·기관 {{ ed.stats.outlets }}곳의 보도 {{ ed.stats.collected }}건 검토 → 교차확인 통과 {{ ed.stats.verified_stories }}건
+{% if ed.mode == 'ai' %}→ 사실확인 탈락 {{ ed.stats.dropped_by_factcheck }}건{% endif %} → 게재 {{ arts|length }}건</p>
+{% endblock %}

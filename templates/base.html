@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.name }} — {{ site.tagline }}{% endblock %}</title>
+<meta name="description" content="{% block desc %}{{ site.name }}: 국내외 언론 보도를 교차확인해 매일 아침 전하는 AI·투자·돈의 흐름 신문{% endblock %}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="{{ root }}style.css">
+<link rel="alternate" type="application/json" href="{{ root }}data/breaking.json">
+</head>
+<body class="page-{{ page }}">
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <span class="today">{% block today %}{% endblock %}</span>
+    <nav class="util">
+      <a href="{{ root }}breaking.html" class="live-link"><i class="dot"></i>속보</a>
+      <a href="{{ root }}archive.html">지난 신문</a>
+      <a href="{{ root }}about.html">편집 원칙</a>
+    </nav>
+  </div>
+</header>
+<div class="wrap masthead">
+  <a class="logo" href="{{ root }}index.html">{{ site.name }}</a>
+  <p class="tagline">{{ site.tagline }}</p>
+</div>
+<nav class="secnav">
+  <div class="wrap secnav-in">
+    <a href="{{ root }}index.html" class="{{ 'on' if page in ('home','edition') }}">1면</a>
+    {% block secnav %}{% endblock %}
+    <a href="{{ root }}breaking.html" class="{{ 'on' if page == 'breaking' }}">속보</a>
+  </div>
+</nav>
+{% block strip %}{% endblock %}
+<main class="wrap">
+{% block main %}{% endblock %}
+</main>
+<footer class="foot">
+  <div class="wrap foot-in">
+    <div>
+      <strong>{{ site.name }}</strong>
+      <p>모든 기사는 AI가 국내외 언론사·공식기관 보도를 바탕으로 작성하고, 서로 다른 언론사 2곳 이상의 보도 또는 공식 발표로 교차확인한 뒤 문장 단위 사실확인을 거쳐 싣습니다. 기사마다 근거가 된 원문 링크를 밝힙니다.</p>
+      <p>시세·수급 수치는 데이터 제공처(Yahoo Finance, CoinGecko, 업비트, 한국거래소)에서 직접 가져오며 AI가 만들지 않습니다. 투자 판단의 책임은 투자자 본인에게 있습니다.</p>
+    </div>
+    <nav>
+      <a href="{{ root }}about.html">편집 원칙·출처 목록</a>
+      <a href="{{ root }}archive.html">지난 신문</a>
+      <a href="{{ root }}breaking.html">속보</a>
+    </nav>
+  </div>
+</footer>
+<script src="{{ root }}app.js" defer></script>
+</body>
+</html>
