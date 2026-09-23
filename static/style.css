@@ -205,3 +205,6 @@ sup a{font-size:11px;color:var(--accent);font-weight:700;margin-left:1px;padding
 .notice{margin-bottom:18px}
 @media (max-width:640px){.topbar{font-size:12px}.util{gap:10px}.today{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
 .qt{align-self:start}.page-section .grid2,.grid2{margin-top:18px}
+.alt-heads{list-style:none;margin:0 0 14px;padding:10px 0 0;border-top:1px solid var(--rule-2)}
+.alt-heads li{padding:6px 0;font-size:15px;line-height:1.45;border-bottom:1px solid var(--rule-2)}
+.alt-heads span{font-size:12px;color:var(--muted);margin-left:4px}

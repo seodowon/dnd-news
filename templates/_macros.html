@@ -13,8 +13,7 @@
 
 {% macro meta(a) %}
 <span class="chip sec-{{ a.section }}">{{ section_name[a.section] }}</span>
-{% if a.draft %}<span class="verify draft">헤드라인 · {{ a.outlets|length }}개 언론 보도</span>
-{% else %}<span class="verify" title="{{ a.outlets|join(', ') }}">✓ {{ a.outlets|length }}개 언론 교차확인{% if a.official %} · 공식발표{% endif %}</span>{% endif %}
+<span class="verify" title="{{ a.outlets|join(', ') }}">✓ {{ a.outlets|length }}개 언론 교차확인{% if a.official %} · 공식발표{% endif %}</span>
 {% endmacro %}
 
 {% macro card(a, base, size='') %}

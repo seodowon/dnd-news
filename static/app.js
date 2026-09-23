@@ -44,7 +44,7 @@
       (f.people || []).forEach((p) => tags.appendChild(el("span", "chip person", p)));
       const a = el("a", "tl-title", f.ko); a.href = safeUrl(f.url); a.target = "_blank"; a.rel = "noopener";
       body.append(tags, a);
-      if (f.lang !== "ko") body.appendChild(el("p", "orig", f.title));
+      if (f.lang !== "ko" && f.ko !== f.title) body.appendChild(el("p", "orig", f.title));
       const src = el("p", "src", f.outlet);
       if (f.also && f.also.length) src.appendChild(el("span", "also", " · 함께 보도: " + f.also.join(", ")));
       body.appendChild(src);

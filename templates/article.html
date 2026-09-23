@@ -11,7 +11,7 @@
   <h1>{{ a.headline }}</h1>
   {% if a.dek %}<p class="dek">{{ a.dek }}</p>{% endif %}
   <div class="byline">
-    {% if a.draft %}원문 헤드라인 · 기사 미작성
+    {% if a.draft %}원 언론사 제목 · 서로 다른 언론사 {{ a.outlets|length }}곳 보도 확인
     {% else %}AI 기자 작성 · 문장 단위 사실확인 통과{% if a.factcheck and a.factcheck.removed_sentences %} (근거 부족 {{ a.factcheck.removed_sentences }}문장 삭제){% endif %}{% endif %}
     · {{ ed.generated_at|kst('%Y.%m.%d %H:%M') }} KST
   </div>
@@ -27,14 +27,15 @@
   </div>
 
   <section class="srcs">
-    <h2>근거 자료</h2>
+    <h2>{{ "보도한 기사" if a.draft else "근거 자료" }}</h2>
     <ol>
       {% for s in a.sources %}
       <li id="src-{{ s.n }}"><span class="o">{{ s.outlet }}</span> <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a> <time>{{ s.published|kst('%m.%d %H:%M') }}</time></li>
       {% endfor %}
     </ol>
     <p class="also">이 소식을 보도한 언론·기관 ({{ a.outlets|length }}곳): {{ a.outlets|join(' · ') }}</p>
-    <p class="note">이 기사는 위 보도들만을 근거로 작성됐습니다. 근거 자료로 확인되지 않는 문장은 게재 전에 삭제됩니다. 오류를 발견하시면 알려주세요.</p>
+    {% if a.draft %}<p class="note">DnD News는 기사를 새로 쓰지 않고, 여러 언론사가 공통으로 보도한 소식을 원문 링크와 함께 모아 전합니다. 자세한 내용은 각 원문에서 확인하세요.</p>
+    {% else %}<p class="note">이 기사는 위 보도들만을 근거로 작성됐습니다. 근거 자료로 확인되지 않는 문장은 게재 전에 삭제됩니다. 오류를 발견하시면 알려주세요.</p>{% endif %}
   </section>
 </article>
 <aside class="related">

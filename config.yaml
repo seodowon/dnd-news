@@ -14,6 +14,7 @@ edition:
   candidates: 30            # 검증 탈락을 대비해 초안을 쓰는 후보 수
   lookback_hours: 26        # 몇 시간 전 기사까지 모을지
   min_outlets: 2            # 교차검증: 서로 다른 언론사 최소 개수
+  max_foreign: 6            # 해외(영문) 보도 최대 게재 수
   hold_until: null          # "06:00" 으로 두면 완성 후 06:00(KST)까지 기다렸다가 공개
 
 models:

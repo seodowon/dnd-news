@@ -88,10 +88,14 @@ def fetch_feed(feed: dict, since: datetime, canon, require_time: bool = False) -
         if not title or NOISE.match(title):
             continue
         outlet = feed["outlet"]
+        title = re.sub(r"\s*[|│]\s*$", "", title)
+        if outlet != "@google":
+            title = re.sub(r"\s+-\s+" + re.escape(outlet) + r"\s*$", "", title)
         aggregated = outlet == "@google"
         tier = feed.get("tier", 2)
         if aggregated:
             title, raw_outlet = _google_split(e, title)
+            title = re.sub(r"\s+-\s+" + re.escape(raw_outlet.split()[0]) + r".*$", "", title) if raw_outlet else title
             outlet = canon(raw_outlet)
             if outlet is None:             # 신뢰 목록에 없는 매체는 사용하지 않음
                 continue

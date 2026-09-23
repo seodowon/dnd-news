@@ -5,7 +5,7 @@
 {% block main %}
 <div class="bk-head">
   <h1 class="page-h"><i class="dot"></i>실시간 속보</h1>
-  <p class="bk-sub">국내외 언론사·공식기관 속보를 20분마다 모아 원문 링크와 함께 싣습니다. 해외 기사는 제목을 번역하고 원문 제목을 함께 적습니다. <span id="updated"></span></p>
+  <p class="bk-sub">국내외 언론사·공식기관 속보를 20분마다 모아 원 언론사 제목과 링크 그대로 싣습니다.{% if not free_mode %} 해외 기사는 제목을 번역하고 원문 제목을 함께 적습니다.{% endif %} <span id="updated"></span></p>
 </div>
 <div class="filters" role="toolbar" aria-label="분류">
   <button class="on" data-f="all">전체</button>
@@ -24,7 +24,7 @@
         {% for p in f.people %}<span class="chip person">{{ p }}</span>{% endfor %}
       </div>
       <a class="tl-title" href="{{ f.url }}" target="_blank" rel="noopener">{{ f.ko }}</a>
-      {% if f.lang != 'ko' %}<p class="orig">{{ f.title }}</p>{% endif %}
+      {% if f.lang != 'ko' and f.ko != f.title %}<p class="orig">{{ f.title }}</p>{% endif %}
       <p class="src">{{ f.outlet }}{% if f.also %}<span class="also"> · 함께 보도: {{ f.also|join(', ') }}</span>{% endif %}</p>
     </div>
   </li>

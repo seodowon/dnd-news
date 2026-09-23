@@ -6,7 +6,7 @@ from datetime import datetime
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from .common import DATA, KST, ROOT, SITE, log, read_json, write_json
+from .common import DATA, KST, ROOT, SITE, llm_available, log, read_json, write_json
 
 WEEKDAYS = "월화수목금토일"
 
@@ -48,7 +48,7 @@ def _env(cfg: dict) -> Environment:
         return f"{'+' if v > 0 else ''}{v / 1e8:,.0f}억"
 
     env.filters.update(num=num, signed=signed, updown=updown, kst=kst, korean_date=korean_date, eok=eok)
-    env.globals.update(site=cfg["site"], sections=cfg["sections"],
+    env.globals.update(site=cfg["site"], sections=cfg["sections"], free_mode=not llm_available(),
                        section_name={s["id"]: s["name"] for s in cfg["sections"]})
     return env
 
