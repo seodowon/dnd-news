@@ -6,7 +6,7 @@
 site:
   name: "DnD News"
   tagline: "AI · 투자 · 돈의 흐름"
-  url: "https://news.example.com"      # 실제 도메인으로 교체
+  url: "https://seodowon.github.io/dnd-news"   # 내 도메인을 사면 여기를 교체
   timezone: "Asia/Seoul"
 
 edition:

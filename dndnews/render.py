@@ -95,8 +95,10 @@ def render_edition(cfg: dict, edition: dict, as_index: bool = True) -> None:
     shutil.copy(ROOT / "static" / "style.css", SITE / "style.css")
     shutil.copy(ROOT / "static" / "app.js", SITE / "app.js")
     cname = cfg["site"]["url"].split("//")[-1].strip("/")
-    if cname and "example.com" not in cname:
-        (SITE / "CNAME").write_text(cname + "\n")
+    if cname and "example.com" not in cname and "github.io" not in cname and "/" not in cname:
+        (SITE / "CNAME").write_text(cname + "\n")   # 내 도메인을 쓸 때만
+    elif (SITE / "CNAME").exists():
+        (SITE / "CNAME").unlink()
     (SITE / ".nojekyll").write_text("")
     render_breaking(cfg, feed)
     log.info("사이트 생성 완료: %s", SITE)
