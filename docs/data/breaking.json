@@ -1,5 +1,1419 @@
 [
  {
+  "id": "d6804cb276",
+  "time": "2026-09-30T21:03:35+00:00",
+  "title": "트럼프, 韓 대미투자 사업 발표…\"발전소·원전·알래스카 LNG\"",
+  "ko": "트럼프, 韓 대미투자 사업 발표…\"발전소·원전·알래스카 LNG\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809741",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a643f30921",
+  "time": "2026-09-30T21:00:12+00:00",
+  "title": "서울-프랑스 학생교류 넓힌다…AI·직업교육 협력도",
+  "ko": "서울-프랑스 학생교류 넓힌다…AI·직업교육 협력도",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20260930147500530",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c072e0e0c0",
+  "time": "2026-09-30T21:00:08+00:00",
+  "title": "기자재 관세인하까지 꺼낸 美…알래스카 LNG 사업성 높일까",
+  "ko": "기자재 관세인하까지 꺼낸 美…알래스카 LNG 사업성 높일까",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202609222245465642",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "10271c6cb8",
+  "time": "2026-09-30T21:00:00+00:00",
+  "title": "금리 발작 올라탄 개미들…증시 등지고 '고금리 채권'으로",
+  "ko": "금리 발작 올라탄 개미들…증시 등지고 '고금리 채권'으로",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003809637",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5f7e7d01f4",
+  "time": "2026-09-30T21:00:00+00:00",
+  "title": "[美중간선거 한 달 앞①]트럼프 2년 심판대…공화, 상·하원 다수당 지킬까",
+  "ko": "[美중간선거 한 달 앞①]트럼프 2년 심판대…공화, 상·하원 다수당 지킬까",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003808793",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "41adef2eaa",
+  "time": "2026-09-30T21:00:00+00:00",
+  "title": "\"AI 직원에게도 사원증 준다\"…라온시큐어, 'AI 신원·권한 관리' 승부수",
+  "ko": "\"AI 직원에게도 사원증 준다\"…라온시큐어, 'AI 신원·권한 관리' 승부수",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003807888",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "909b1f7769",
+  "time": "2026-09-30T21:00:00+00:00",
+  "title": "유튜브 계정공유 중단 피해 속출…서울시, 구글에 개선 요청",
+  "ko": "유튜브 계정공유 중단 피해 속출…서울시, 구글에 개선 요청",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003809343",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e541c52438",
+  "time": "2026-09-30T21:00:00+00:00",
+  "title": "\"AI에 일 맡기긴 했지만…\" 10곳 중 8곳은 결국 사람이 고친다",
+  "ko": "\"AI에 일 맡기긴 했지만…\" 10곳 중 8곳은 결국 사람이 고친다",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003809270",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f49eadd09a",
+  "time": "2026-09-30T20:59:00+00:00",
+  "title": "포스코인터내셔널 3Q 영업익 3958억 전망…전년比 25%↑-하나證",
+  "ko": "포스코인터내셔널 3Q 영업익 3958억 전망…전년比 25%↑-하나證",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202609302348195428",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "048f0485c8",
+  "time": "2026-09-30T20:59:00+00:00",
+  "title": "How the ‘AI Put’ has become the only thing that matters for stocks",
+  "ko": "How the ‘AI Put’ has become the only thing that matters for stocks",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "152dbdf9fe",
+  "time": "2026-09-30T20:56:00+00:00",
+  "title": "[속보] 美상무 \"500억달러 이상 알래스카 LNG 프로젝트에 투입\"",
+  "ko": "[속보] 美상무 \"500억달러 이상 알래스카 LNG 프로젝트에 투입\"",
+  "lang": "ko",
+  "outlet": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sZ05UUDZyWVd2aFBnVms0R01HTVpHaTA0Y0xDVDhOMzR3U2ZnZDJiaktDTnFPZkdpcGE2OGZFdHItYVdIVnVybi1SeFhURDY1VS1QbC1DRGVwWXAy?oc=5",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "567f070d59",
+  "time": "2026-09-30T20:54:14+00:00",
+  "title": "[속보] 트럼프 정부 \"알래스카 LNG, 500억달러 넘는 한국 자금 투자될 것\"",
+  "ko": "[속보] 트럼프 정부 \"알래스카 LNG, 500억달러 넘는 한국 자금 투자될 것\"",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTVlHeDQ3RFJtUVZzUHBldWFRMlV3UmRTY1ZVWXZ5dnhwNk9GWXlNbzZMTHlXb3RLQXNtRGdUNDNhOWtuNzZEeTlSNlM2VlpPUndFdWFhajBaUQ?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0739f16199",
+  "time": "2026-09-30T20:53:00+00:00",
+  "title": "국내 '코인 개미' 1천만명대?…3명 중 2명은 거래 안해",
+  "ko": "국내 '코인 개미' 1천만명대?…3명 중 2명은 거래 안해",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20260930172300002",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c5212bee61",
+  "time": "2026-09-30T20:51:46+00:00",
+  "title": "뉴욕증시, 물가 둔화에도 혼조세…다우 0.86%↓·나스닥 0.24%↑",
+  "ko": "뉴욕증시, 물가 둔화에도 혼조세…다우 0.86%↓·나스닥 0.24%↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809733",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "993b753867",
+  "time": "2026-09-30T20:51:33+00:00",
+  "title": "마이크론, 분기매출 73.5조원 '사상최대'…\"내년 실적 더 강력\"",
+  "ko": "마이크론, 분기매출 73.5조원 '사상최대'…\"내년 실적 더 강력\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001007400091",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "30f7446bc7",
+  "time": "2026-09-30T20:50:26+00:00",
+  "title": "President Trump’s AI regulation accord with top tech CEOs appears ‘purely voluntary’",
+  "ko": "President Trump’s AI regulation accord with top tech CEOs appears ‘purely voluntary’",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWt6a1BWY0hic2M5SGNyWnRFLWNua0I5bUZOckg0U0JjSUdUOHhmalVSVjJNYjlSNE9kSWluWkJDZW05X0NkZV96SGJEd0FHT0p3Nl96QzZfLVJFNG0wbUc4bHJ4VVl4T0w5dEpaSF80X3JZTkhQMUVNei1wQVpLU1c2WjNSOTNIcko5UHdUdHRkd3FKYzYxamFfTUhiZHE5VGtTaHZ2V2NYRi15OXl0dG9jSjhWVHBUcjZQd00zS29JNUlrN2dFeUtob2dWaVZXT1AtZHBhNA?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "17dc070860",
+  "time": "2026-09-30T20:50:00+00:00",
+  "title": "[속보] 美상무 \"한국, 美에너지 인프라에 약 2000억달러 투자\"",
+  "ko": "[속보] 美상무 \"한국, 美에너지 인프라에 약 2000억달러 투자\"",
+  "lang": "ko",
+  "outlet": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tSGRJZmRfc1lwZnYtOHFuTDRocjJ6dW9HclhyT0tidnBIUTRYTDBKdHlFeTI3d0R1bm5EcDdGSFlpMVhValhNWFBrZ29lVkNXVU9fNC1BeUVtcDlm?oc=5",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c1ec5c78ca",
+  "time": "2026-09-30T20:48:38+00:00",
+  "title": "[속보] 트럼프 \"알래스카 주민들에 엄청난 승리…즉각 13000개 일자리 창출\"",
+  "ko": "[속보] 트럼프 \"알래스카 주민들에 엄청난 승리…즉각 13000개 일자리 창출\"",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3T3JMQTNLUkNjMTRXUkxXVnQ1ZzdKTFNGV3d3OXVPYWJqUFlBendSM0xEeXdCUXgtZmpqWjNWRlRWOWhCaFhjZU5pOUhrRjB4ZDBHSXVLc0Z4UQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ccd2a485cb",
+  "time": "2026-09-30T20:47:54+00:00",
+  "title": "Ask Trump's AI chatbot who won in 2020. You might not get an answer.",
+  "ko": "Ask Trump's AI chatbot who won in 2020. You might not get an answer.",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUFKZ2RNZWdNNHRZNDgyVjNIdzcwRzJjNlpYRHRWLXpGTXlrN2Y3emRLSzVtRTMzWWVDSW9vajhLdUl6MkxsOWxJSE9jcUZqcE1iRVdWZEh1ZjBUek9TY21yYk5NTlBYaHBSQUI0cXd3R2ZlUEVrcTZRdDduZjhIQ0ZuTGoybjBz?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8d7cfc0979",
+  "time": "2026-09-30T20:47:33+00:00",
+  "title": "Musk returns to Trump world for Pentagon war study",
+  "ko": "Musk returns to Trump world for Pentagon war study",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fM2h4ZWhJbkF4V3pzWEF1UEEzV3BTNnp4WFBNOFl1SGFwT1hYWEt5VFNndmYtbEN1RzJBeXRPbHZmM3EwNERGOEN0NjU1bnBEZkJfWjVLNGtKZmJac011VzZ5UENUZHpJbFFOME8tRU5lTFNnZFpiWVp3QQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b028dc8db3",
+  "time": "2026-09-30T20:46:49+00:00",
+  "title": "[속보]美상무 \"韓, 원전 1200억·LNG 500억·발전소 220억달러 투자\"",
+  "ko": "[속보]美상무 \"韓, 원전 1200억·LNG 500억·발전소 220억달러 투자\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809743",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0454d37a6a",
+  "time": "2026-09-30T20:43:00+00:00",
+  "title": "Jeffries knocks Trump opposition to AI guardrails",
+  "ko": "Jeffries knocks Trump opposition to AI guardrails",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUlWcXdfNkQ5ckJLZFZIZDBLZTVGMGlGajhEM0JPUU5aRnlxR1BRMXJ6eV9TYmVvYzRWTXdqdmRzU3JOR0tPZWthWUxjM3Y2T1pfR2h1blNOSlRVYlphTHZ2ZG0xclM1MllNQUw3M3BlaGZBaVlSTXd0U1paWDNaV3RFVlNIS3VfaVpZ0gGQAUFVX3lxTE81dzZwdVIzc2xJSk9ZdEh2WkM4RGNvbnluVkR5enhVeVkyQjQxc2ZOOVlMTmN1YkxNRHJaTi1YU2xoSkc5QjBZUFlSQk44VGs4V3ZPZjlhcDk3WjJhZE5CWXVkVmRnc1Jfelc0TDhzbzBHSlFZbVh3alQxZ2I1d2xRRGhpRFlTV0dGdVVqNDBpOA?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "72524a55a5",
+  "time": "2026-09-30T20:42:43+00:00",
+  "title": "[속보] 트럼프 \"韓, 텍사스 가스발전·대형 원전 8기 투자\"",
+  "ko": "[속보] 트럼프 \"韓, 텍사스 가스발전·대형 원전 8기 투자\"",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GekdxbjgzYndDRG5HZm9FNWxlMGdWRUdYMWVoczZQdWZGdHZFZF9qaTJZbEtuTWJvN2RLN3Z4aEktdzJZcFlpbmZUZm1ZUTZVRFE2clZjMjRVcnhmWGhBeA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "5343059643",
+  "time": "2026-09-30T20:41:01+00:00",
+  "title": "[속보] 트럼프, 한국 미확정이라는데 알래스카 투자 확정 발표",
+  "ko": "[속보] 트럼프, 한국 미확정이라는데 알래스카 투자 확정 발표",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rYUVUdlFqZVV6aHA1NnliMWZBUy1DcjlVcmtORjZZVFZjNEVDbnQzTEhlOTV0M2g1THlZZzUyY01PaFphVlY2V3RrNGhPWlVZazVxU1V3cG3SAV5BVV95cUxQeHN5N1BjOWplUlZhdEM4QTV6NTV2U0tqNEp0VmtmaFdkT09yLTlEdFRENUswR0trYU5MTHRDMlVuS0hHcVhlWV93QnF2T3k0NTBNWGhWTjFNclk5cUxB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d92143e0d0",
+  "time": "2026-09-30T20:41:00+00:00",
+  "title": "Exclusive / How Zuckerberg shaped Trump’s AI industry pledge",
+  "ko": "Exclusive / How Zuckerberg shaped Trump’s AI industry pledge",
+  "lang": "en",
+  "outlet": "Semafor",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDRuQ01kVGRNWEFnMWNGTF9SSFdpaDl2a3dGb24tbzJqU3dnaXNZQmVWS1EzQjFtRjlMUXUwLXplbkhkQTZYN2J4VmNsYjRDYl9HRmZLdHNvTEdGMmlqQmNnd1F2YWl2OTFaa1V1a3EtU2EzM2RVbWpLUVZiczZScVVKaU9mNFhwdU8yLW40T09oOUh3?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "저커버그"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b0d8a9a569",
+  "time": "2026-09-30T20:40:29+00:00",
+  "title": "[속보] 트럼프 \"한국, 관세인하 위해 비용 지불…美, 막대한 수익 창출\"",
+  "ko": "[속보] 트럼프 \"한국, 관세인하 위해 비용 지불…美, 막대한 수익 창출\"",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Q29QUHhnRlctSXZ4Yl9KV2x0YV9nRGlQblJfb20wTVNBWGc4YTF1NkxDNGdGRWRGRWh5MTlZMXhwSnNraXBnMkJLMU8za0VSRmhBVmVRakdNZw?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cea455b135",
+  "time": "2026-09-30T20:40:00+00:00",
+  "title": "[속보] 트럼프 “한국 대미투자… 가스발전소·원전 8기·LNG”",
+  "ko": "[속보] 트럼프 “한국 대미투자… 가스발전소·원전 8기·LNG”",
+  "lang": "ko",
+  "outlet": "국민일보",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBV1c5Qmp5c0tLeGt0bzJiYnlOX3IybHpWeW1xQ3Itd09tT0VtMmF4M3BSQUpfWXotLUhSWUNEV09UamhPemhzMVZ1bEZuVkxWalFfd0djbUVYZnpCNm8wYUhaTDlESFFTRjFoMGxvZnEwZ25Wczl2N2Rn0gFsQVVfeXFMTWJPMkxPVUp6ZzByX1A0WnEyTXFKcnlOdUpLVC1XdG5EU2NTblZZZ1d4cGlpejFyanlvdmtnOXJBQzBROUxheEdLbE9TcDdfckVqRlRiNUhMd2l2Q3VMNEkwcmNNRU9uVUFOYjVl?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f1019d6f69",
+  "time": "2026-09-30T20:40:00+00:00",
+  "title": "Trump’s AI chatbot turns on its master",
+  "ko": "Trump’s AI chatbot turns on its master",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1VfVUFmc3JMal8wLWRlUW9meUhnR0RkTUVjbFZnMFdRTzl1ck1LZWRlWG9XQUVGTWRYRy1VbExCV081X0xDQ21KYzFEdnh1NnNWUGlRcVFpdGZ3eWlUWnVDVnBlRXRCSk5kOUpkLTJNbEktaVZDVUgwZEN5Zl8xNjNB?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1e37309ef0",
+  "time": "2026-09-30T20:38:37+00:00",
+  "title": "[2보] 트럼프, 韓대미투자 발표…'알래스카 LNG 개발' 포함",
+  "ko": "[2보] 트럼프, 韓대미투자 발표…'알래스카 LNG 개발' 포함",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001006900071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "중앙일보",
+   "파이낸셜뉴스",
+   "한국경제",
+   "헤럴드경제"
+  ]
+ },
+ {
+  "id": "d67be9210c",
+  "time": "2026-09-30T20:38:30+00:00",
+  "title": "[속보]트럼프, 韓대미투자 발표…'발전소·원전 8기·LNG\"",
+  "ko": "[속보]트럼프, 韓대미투자 발표…'발전소·원전 8기·LNG\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010536206121",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cbb6e973ce",
+  "time": "2026-09-30T20:38:09+00:00",
+  "title": "[속보] 트럼프, 韓대미투자 발표…‘알래스카 LNG 개발’ 포함",
+  "ko": "[속보] 트럼프, 韓대미투자 발표…‘알래스카 LNG 개발’ 포함",
+  "lang": "ko",
+  "outlet": "헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wREpmTlRaSExGZDMzSmp3LXBJQzBId0hGNjJfNFBSellNZHoxU09ZQU1pYjVBdmgyR1RDdU8zVWo0WkpWVEdacGFxczRKN0hKV1JEX3pR?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "JTBC",
+   "동아일보",
+   "연합뉴스",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "41a7a7468b",
+  "time": "2026-09-30T20:37:53+00:00",
+  "title": "[속보]트럼프 \"알래스카 파이프라인 건설로 美 LNG 수출 더 확대\"",
+  "ko": "[속보]트럼프 \"알래스카 파이프라인 건설로 美 LNG 수출 더 확대\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809739",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "caba2413bb",
+  "time": "2026-09-30T20:37:00+00:00",
+  "title": "[속보] 트럼프, 한국 대미투자 발표...‘알래스카 LNG·원전 8기 포함’",
+  "ko": "[속보] 트럼프, 한국 대미투자 발표...‘알래스카 LNG·원전 8기 포함’",
+  "lang": "ko",
+  "outlet": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nekdTd2lNUEFQWXhIZHVaeHF5VnNRUjlvUmFqT2djdW5YOWRKU0pVZUFlcElfR3VtYlZIUWRBajBQUVVTbnJabDlVaGFKaWNkcDFLdQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "중앙일보",
+   "헤럴드경제"
+  ]
+ },
+ {
+  "id": "a40d3ea804",
+  "time": "2026-09-30T20:36:37+00:00",
+  "title": "[속보]트럼프, 韓대미투자 첫 프로젝트 발표…알래스카 LNG 포함",
+  "ko": "[속보]트럼프, 韓대미투자 첫 프로젝트 발표…알래스카 LNG 포함",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010535263446",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "동아일보",
+   "연합뉴스",
+   "중앙일보",
+   "한국경제"
+  ]
+ },
+ {
+  "id": "4f35af7274",
+  "time": "2026-09-30T20:36:09+00:00",
+  "title": "[속보]트럼프, 韓 대미투자 발표…‘알래스카 LNG’ 포함",
+  "ko": "[속보]트럼프, 韓 대미투자 발표…‘알래스카 LNG’ 포함",
+  "lang": "ko",
+  "outlet": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95azBmVEFZY29raHY4MjNod2dKRElNTm0ybE05NlFuRFRhNnpWRTVpenlaUmNudS15VUZNTTZET08zY2xROFIzTFNsRmVPVDhybVN3c21UcUMxa0gteTlNNGN4M2Y0N2s2X0c3OXlZczRMZmPSAWZBVV95cUxNblMtc3pSS3NfZ3AxUko5T2pmc2xtX1dyQWVNU0VQVFdfM25BRGlxVXhKM2dlN2lYWUJtVzUxUWtEX2N5bjhQUUFpOTZkMTNnQS1RQjFBNDUtSmdoZUlYeGlFOVFIQ0E?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "중앙일보",
+   "파이낸셜뉴스",
+   "한국경제",
+   "헤럴드경제"
+  ]
+ },
+ {
+  "id": "b2abcbf0a5",
+  "time": "2026-09-30T20:35:26+00:00",
+  "title": "[속보] 트럼프 \"韓, 2000억달러 대미투자…알래스카 LNG 개발 포함\"",
+  "ko": "[속보] 트럼프 \"韓, 2000억달러 대미투자…알래스카 LNG 개발 포함\"",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Y3BhZnNZaGhiUm85RldSMVdLWjEyYlpzamJBb3RqbFVzWUUybDVpM3p0eWN4Zlo2SERwU2xxWGloZU9ZOTdraWJQN3VHdlhnMVQxc05NNmhtUQ?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "430d07be42",
+  "time": "2026-09-30T20:35:16+00:00",
+  "title": "[속보]트럼프 \"韓 대미투자 패키지, 한미 파트너십 공고히하는 진전\"",
+  "ko": "[속보]트럼프 \"韓 대미투자 패키지, 한미 파트너십 공고히하는 진전\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809738",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5b2eafd8b3",
+  "time": "2026-09-30T20:35:04+00:00",
+  "title": "[속보] 트럼프, 韓 대미투자 발표…‘알래스카 LNG 개발’ 포함",
+  "ko": "[속보] 트럼프, 韓 대미투자 발표…‘알래스카 LNG 개발’ 포함",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sTkFZQ3JnYkNmaTRxclE3YWQ2d1ZaQm9GbmZoaWZiWFNERVV4RmgxcTlHY0dpbGJtYnh2NmxXaktVMl9tZHRyUFJQUnY1ME1tUFVOdWpn?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "JTBC",
+   "동아일보",
+   "연합뉴스",
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "9f42d9e099",
+  "time": "2026-09-30T20:32:47+00:00",
+  "title": "[속보] 트럼프, 韓 대미투자 발표…'알래스카 LNG 개발' 포함",
+  "ko": "[속보] 트럼프, 韓 대미투자 발표…'알래스카 LNG 개발' 포함",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVDR0NlNYSndfUU9OZm16Y05Fa0pWTUwwanFZWXVteExuV1BQZVNIY1FZNW5lVFdhZkhudEZGN1M0OE5WTVh4bHVxTlNnNFZTYUFfbThfRUdUZw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "동아일보",
+   "연합뉴스",
+   "중앙일보",
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "f750dda797",
+  "time": "2026-09-30T20:32:44+00:00",
+  "title": "[국제유가] 하루 만에 반등…브렌트유, 9월 14% 폭등",
+  "ko": "[국제유가] 하루 만에 반등…브렌트유, 9월 14% 폭등",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010528315136",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9388112425",
+  "time": "2026-09-30T20:32:38+00:00",
+  "title": "[속보] 트럼프 \"한국 대미투자…텍사스 가스발전·대형 원전 8기\"",
+  "ko": "[속보] 트럼프 \"한국 대미투자…텍사스 가스발전·대형 원전 8기\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001006700071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "아시아경제"
+  ]
+ },
+ {
+  "id": "118c0b5328",
+  "time": "2026-09-30T20:32:33+00:00",
+  "title": "[속보]트럼프 \"韓 2000억달러 美투자…발전소·원전 8기·LNG\"",
+  "ko": "[속보]트럼프 \"韓 2000억달러 美투자…발전소·원전 8기·LNG\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809736",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "902b206502",
+  "time": "2026-09-30T20:30:45+00:00",
+  "title": "뉴욕증시, 美 8월 물가지표 예상치 하회에도 혼조세",
+  "ko": "뉴욕증시, 美 8월 물가지표 예상치 하회에도 혼조세",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001006200072",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "74358c1b0b",
+  "time": "2026-09-30T20:30:00+00:00",
+  "title": "삼성전자 로봇, 100개 공장서 키운다…장기 목표는 '가정용 도우미'",
+  "ko": "삼성전자 로봇, 100개 공장서 키운다…장기 목표는 '가정용 도우미'",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003809464",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "520b23fb4f",
+  "time": "2026-09-30T20:28:25+00:00",
+  "title": "마이크론, AI 메모리 호황에 매출 379% 급증…전망도 예상 상회",
+  "ko": "마이크론, AI 메모리 호황에 매출 379% 급증…전망도 예상 상회",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010501139853",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "58185bb7e8",
+  "time": "2026-09-30T20:28:13+00:00",
+  "title": "[뉴욕증시] 혼조세 속 나스닥만 반등…'속슬' 9월 30% 넘게 폭등",
+  "ko": "[뉴욕증시] 혼조세 속 나스닥만 반등…'속슬' 9월 30% 넘게 폭등",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010523457999",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c73991d99b",
+  "time": "2026-09-30T20:25:22+00:00",
+  "title": "Trump Says Jerome Powell Should Be ‘Forced’ To Resign",
+  "ko": "Trump Says Jerome Powell Should Be ‘Forced’ To Resign",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmtIWldKM1Z5cG9YREpoNkU3YldGSzdBZlpqR3MtT3JQT2NYTUtqS2pIN3oxQnFGdlJYSVcxZndpVFgtV2xBN3gxVVZiWW1hbTRkd0YtNmlxZTl0NGpnbjhtMjFWc3ZiOEF3MnlWYmVyVlFWc3lUQlBHZWRTakxqQzdQX3VnNXliaURfQV9HbGFiZFlMSFRkRjZsSlYydl9jS1F6X3JXR0h3azZZNmtXOWpURFJvOTRrc1YtVHI2Vkp3NHlFV3lEdEZMbUdzWUdoLWV6R2dyYzd4QVAw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "파월"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c14c5811f8",
+  "time": "2026-09-30T20:24:00+00:00",
+  "title": "Key allies left out of Trump’s new in-crowd NATO group",
+  "ko": "Key allies left out of Trump’s new in-crowd NATO group",
+  "lang": "en",
+  "outlet": "Politico",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3N6T0xhakhhU2Nib3ZQbkxOS0tNYUpTcmxnLUhtcmxIZGpOdk5MT1d1aldqd2FDb2gxRk5uZXdkNDhPckF4MDktQWVjMlpRalliUk5hOU1xclprdG9OTGdLd213UUlFdXVZWmxDTVg3QW1MdUhHYkxibFpxVVNFdWFn?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2237e29fbc",
+  "time": "2026-09-30T20:20:24+00:00",
+  "title": "Trump DoJ indicts 10 individuals on noncitizen voting related charges in Minnesota",
+  "ko": "Trump DoJ indicts 10 individuals on noncitizen voting related charges in Minnesota",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkNqXzBoS3RQeVNSbWJVYTVTOEJqeldpRlhtemF5TnB4TDNyQk5tbHk4ZW9QRDVSLVdXY0diMFByc21BMGdKbTlHcHJoMy14VV8wdUZYdDBQaTBtemhMVlhzMEZoS3o5RjFObFI2Q1ZKWXRiVGJQTVdhWm1vZ1pxdE1HQlBZQXlQMUQ0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cc415e2a92",
+  "time": "2026-09-30T20:17:37+00:00",
+  "title": "코딩 신기록·사이버보안 공동 1위…구글 '제미나이 4' 공개",
+  "ko": "코딩 신기록·사이버보안 공동 1위…구글 '제미나이 4' 공개",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010516005199",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e516f77fc8",
+  "time": "2026-09-30T20:15:58+00:00",
+  "title": "국제유가, 미·이란 협상 교착에 상승…브렌트유 0.9%↑",
+  "ko": "국제유가, 미·이란 협상 교착에 상승…브렌트유 0.9%↑",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001005700072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "88feeaa987",
+  "time": "2026-09-30T20:15:17+00:00",
+  "title": "Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?",
+  "ko": "Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sUUwwdm1LalRweEJhQUNEcEFHRVVkS1Z3OWVSdHk3SW5tYTJxbUpMQlZNVnNTVHhLMUpLUGc5aWEzN2RqUnhVUUZWcGVPOUcxbFRTTEhJUXVuMjVVWGE5TzFiMVlMaVRsOTBYRUQ2NGt3c0py?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c0ea7b1a27",
+  "time": "2026-09-30T20:13:16+00:00",
+  "title": "[속보] 마이크론 실적 예상 상회…AI 메모리 호황에 매출 5배 급증",
+  "ko": "[속보] 마이크론 실적 예상 상회…AI 메모리 호황에 매출 5배 급증",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XTTNlSEc1WGQyTG13Skh6UW5IY05JTUIxREJCajBMQzBTZVZoOFN2WXFVVExzN0NHazJVMWl5ZmtiZENvOVlzV3lROTZIbF96WHlFRmZySkR1NE4yX3FWdGJGN05zSmvSAWxBVV95cUxON3JJcUtDVG1RUTl2Q1AtTXdwM2p3WVRLRFlQMXotbEtUSGVzM2xvM0FEUnNKaUx3bXlvcnVzRFg3NnhIY0FZSFp3TXVwQXRIcld4ZUQ1Y0hmd1poZFY0Z1gzZVdjRkNoam1KeWU?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "68ab5620d5",
+  "time": "2026-09-30T20:12:41+00:00",
+  "title": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny",
+  "ko": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjZPdzBKbzhWOXVZeWNweTJQa2VuOC1vLXZqVjcwUjNfU3o0czNVbGtEQ1FOeklfanpCcDNpT1lIZnhXc1F4THlfdkJiRHVEMDA0a3pUcGQ4VHZhS2Flc21fQkJNQm5Tb1J4YXNqRWcyUy1lOVgtSllrS3c0RV9xcF9Bb2Y4cHREREhOeF80NTdOZXFy?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c58201bfa5",
+  "time": "2026-09-30T20:09:52+00:00",
+  "title": "트럼프 \"이라크서 마지막 미군 철수…영구 주둔 거부\"",
+  "ko": "트럼프 \"이라크서 마지막 미군 철수…영구 주둔 거부\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809734",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "55f0f08944",
+  "time": "2026-09-30T20:07:44+00:00",
+  "title": "Trump says he has done a 'bad job' explaining his economic record",
+  "ko": "Trump says he has done a 'bad job' explaining his economic record",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUktuMmI0YTl6TWxBaFdCSXR1VmpSanZOQ2xxWmRQR1QzRWVuNDRkcGhJNmw5RjN0OVdacjJRUmNoM3FfM1J6SVNNTzNvQnRleXNkLTV5cFRHS1ZSRVFqYklwNzVaQTZVVW51ajBCUV9zMlYxM0p4RTJaVnFxMWs4R19jQ3RuOEk3UlRwV200dkRUTTN5bFFHMGdJOUJ0REpIbTkzWXp2alp3VGZwZmZxOF9fc1M?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "aed9b724c2",
+  "time": "2026-09-30T20:07:23+00:00",
+  "title": "[속보]PCE 둔화·10년물 고점…뉴욕증시 혼조 마감",
+  "ko": "[속보]PCE 둔화·10년물 고점…뉴욕증시 혼조 마감",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94OGx1NGg3MEhEaXZ1Uko3d2xKem5nQjhHUFlOdUhSMVlSMHV4Y0Yyb3JVdXJDSXpmYk9PTWtCTTdZZGYzZUVjeEtmejMzeDlvLTY0Y3VaZDMzTWY1X2kzag?oc=5",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "bda22a9582",
+  "time": "2026-09-30T20:06:18+00:00",
+  "title": "[속보]뉴욕 증시, 물가 둔화속 혼조 마감…나스닥만 상승",
+  "ko": "[속보]뉴욕 증시, 물가 둔화속 혼조 마감…나스닥만 상승",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261001_0003809731",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "08a7ded197",
+  "time": "2026-09-30T20:05:00+00:00",
+  "title": "[속보] 미 10년물 국채 금리 고공행진에도 나스닥 0.24%↑",
+  "ko": "[속보] 미 10년물 국채 금리 고공행진에도 나스닥 0.24%↑",
+  "lang": "ko",
+  "outlet": "국민일보",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HNXRtMkNaZGplN2hfb3hTQ3l2cnZkSnNDcmpheUI5QTdCb0JCTlFpNEM4a0pfMDhuRFRINXUyMGdIc0xjb1JOUWd4T2VoUE92MUlqYXpFdW1DN2o2d3VkcUdMVnVETzjSAWxBVV95cUxQZk5YWlNYOGx1U1FCSmVQQWtFWTBsWWlaY3M1RTdnZVRPQnNsWnA2ZGxlQUEwNnZkSDQyUGp1T25aSW0tazVqckNscjhhbFo5cXlZTHVsTk51RnUwX08xRzQzdVQwQ05WYXl2Smc?oc=5",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "610f08ee68",
+  "time": "2026-09-30T20:03:45+00:00",
+  "title": "How does Trump’s White House AI accord work?",
+  "ko": "How does Trump’s White House AI accord work?",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUg2Ti12MFhzMFZNT3NJWXRsdEJlMXlXY1pjUjlWZHRqMXpzeW5zX2g5SEczU3E5dFRBbm9CQmVJM2VzWmFidlBoZXVoSXp1TlAxNmNxV18xTl8zVmNLNnJUV2F6ajA5SVhSaE5aM05RYXoyci12WlFDbGJGUUJESHhoUGlOTklBczN2WEZFVdIBlAFBVV95cUxPdUJkQ1JkaTVHMVdka0dTam5GWk1wemFQSFBrM0JXQUpUQ1kxS1pHM2NzR29sMjk2eXBBeThreFBCOVQ5Qzg4T0JoclVSdGVfYm9QelpWckRHUk9GNW9aRWdIcW5UNDlrLTUwNnBmODhacnBPbmVJVUlsdWUyb1JMSGludHJMYjJvZzM2Zk1ySlpTT3Iw?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "84c75427c3",
+  "time": "2026-09-30T20:01:24+00:00",
+  "title": "[속보][뉴욕증시] 초반 강세 접고 나스닥만 반등…반도체도 혼조세",
+  "ko": "[속보][뉴욕증시] 초반 강세 접고 나스닥만 반등…반도체도 혼조세",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010500512471",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f57c1f9a56",
+  "time": "2026-09-30T20:00:46+00:00",
+  "title": "[속보]뉴욕증시, 지수별 혼조 마감…다우 내리고 나스닥 오르고",
+  "ko": "[속보]뉴욕증시, 지수별 혼조 마감…다우 내리고 나스닥 오르고",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ISDhBcldCLVJYZllUMmJJbS13b0RJa1hBOVhnOXNxNVRKVnl3RlhJSXJ0SjdaWVdkaXpUT2ZVOTBNUGhxWWJhc0RHV3hFbW56YlF0SGhxTWNBRElWZHBORFE5clVLLWvSAWxBVV95cUxOX2F2MHZxb0FjQXhUNDY2Ql9OcXhhSVphcEg4bnRJYmE3d253UEdydlVoUTBhcThnT25LNmhpdXYxZ1FtWFQ4c1ZmMXVMX01KcW1VX05xbUJQdDlvSlI2dlpOMEs4dnF6RGQ3SFU?oc=5",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f33553395a",
+  "time": "2026-09-30T20:00:06+00:00",
+  "title": "'7,000선 공방전' 지루한 박스권…코스피, 4분기 전망은",
+  "ko": "'7,000선 공방전' 지루한 박스권…코스피, 4분기 전망은",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20260930088400008",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "defa706833",
+  "time": "2026-09-30T20:00:00+00:00",
+  "title": "삼전·닉스, 이달 '국내 최대 반도체 전시회'서 격돌…\"차세대 HBM 기술 공개한다\"",
+  "ko": "삼전·닉스, 이달 '국내 최대 반도체 전시회'서 격돌…\"차세대 HBM 기술 공개한다\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20260930_0003809322",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "41a4f1c6b9",
+  "time": "2026-09-30T19:55:02+00:00",
+  "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+  "ko": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHhORUloOEFhdGNocEV0Mm1kSzZRVFB1b081VUJUUXhkT2EyU3VOTDlpY1pzRGZTV19iVkJkNDlvcmJRcFdaa2d5dVhmUlFCdmkyaEdVTEZmeW92eTNzUkExalg4MUN0Tmh1T3oxaHljU2ctd1lBT2diZjVMSTdaT9IBhgFBVV95cUxPOUt6S0xMc3RfcFhZWmVPWmRtdnA3TVhWT3VkUFFUSEkxdlFIUHp1eHZnX29RS2RrU21BM3lIcVl2NXlBN2FwcjY5Y0l6Q05qMTB3Wm5IZ2JXc25SSlhoLUxIZGx2RVNLcWxHRUJDSmlIaDhKSDF0VzhyZHhreE9OSS0yLWg4QQ?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "22ded2e3a7",
+  "time": "2026-09-30T19:48:00+00:00",
+  "title": "Justice says he supports Trump, ICE: ‘Some are twisting my words’",
+  "ko": "Justice says he supports Trump, ICE: ‘Some are twisting my words’",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IcHBKZ2lYaUN6WFhiNDI5d0otb0huLS1ndlhVZXdCa1AzWU4tb1JuZXVLQVhUbVJuMWlKdVhveVZPVnRHZGR3alcxNmlOcWNYbUNtbHUyV1doQXoteF93SDMtcXFhN29GY1p3cnlMNk5SYWVMU1RRa9IBfkFVX3lxTFBkVEpSM0FDSnVUaEtLVjRXMVAwTXN1MVJXVWJqVEI0Q2N1OTVMSXJSYlBCWmdHN3V0dndmYzVkYW1CeXo0N25qcUtad0FlM1lyN0UwMzJGS1FIQ0Izd21vRlBqeHJZR1JLdGNfQzFNRjZmYkszTjFEYnF6V0xWQQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0973ccf82d",
+  "time": "2026-09-30T19:46:13+00:00",
+  "title": "Trump’s Approval Rating On The Economy Hits All-Time Low",
+  "ko": "Trump’s Approval Rating On The Economy Hits All-Time Low",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHU1SVFBbUtJSjVSZmRISTNRRVNybnRvazRzTlVXaDZ4YU9tNFFyX0VXa3puRG9TSjdmLUJxMklLRzdiY294eG90NmhSN2xpRmRxUlA1Vm1hQ05jQ2gwelQxTFp6dGZMZGNiUS1pVnFmaUlOdE1FSFJhRkpCUzhheGNmMUVCMC1yUjl5a1AtSFVxeHhOSFIxN2dyOElHWmEtSEY5aUl1NnQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1cee80bba6",
+  "time": "2026-09-30T19:46:05+00:00",
+  "title": "美 10년물 금리 장중 5.3% 돌파…24년 만에 최고치 경신",
+  "ko": "美 10년물 금리 장중 5.3% 돌파…24년 만에 최고치 경신",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001005300072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "92da493752",
+  "time": "2026-09-30T19:40:47+00:00",
+  "title": "빌 게이츠 \"AI 자율규제는 미친짓…약물규제·안전벨트 없는 셈\"",
+  "ko": "빌 게이츠 \"AI 자율규제는 미친짓…약물규제·안전벨트 없는 셈\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001005200091",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c5138af91a",
+  "time": "2026-09-30T19:35:35+00:00",
+  "title": "트럼프 \"호르무즈서 사흘간 운송된 원유, 어느 때보다 많아\"",
+  "ko": "트럼프 \"호르무즈서 사흘간 운송된 원유, 어느 때보다 많아\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001004800071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9213c05438",
+  "time": "2026-09-30T19:27:56+00:00",
+  "title": "Trump Claims White House Had ‘Massive Gaping Wounds All Over’ Before Renovations",
+  "ko": "Trump Claims White House Had ‘Massive Gaping Wounds All Over’ Before Renovations",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTm92dU53YjBLaVAydHFaSUpUNmJQMGdGSXRvSzlnNzhhM3Rqd1MxTU9LX05obnRMTmxqRFFsaXRYRFFtUmFjY0drRFgyeGd6NHNiQVVVLXN0ODFQcGdCam9qbjFWbGstcktzZ0hQbVRPWEpaWlFQVElReHF1OHYyTW9hU2w2RGxVMDBNcVJqUFozOWNud3dMdlJfeFRMRzl0b3RlR2ZiWnU3UkxuWHhlbVFRTWxRYWRrYU9DUzFSbldRWE5JZmllRnlweElSbkZMYzg0QjFOMzdzXzFuelE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f1f3dba468",
+  "time": "2026-09-30T19:26:00+00:00",
+  "title": "Trump administration grants Mamdani security clearance 9 months into his term",
+  "ko": "Trump administration grants Mamdani security clearance 9 months into his term",
+  "lang": "en",
+  "outlet": "Politico",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTFGdTlXdGJnUzE5WGJILXZjbHlycVNBTjFsay13RURoZkcxUDBnanE3aE1jSm9DMFJJZ19FUElqUFdVM3ZlSU5uZkQ2a3RobVZlMVNJQjFtU2FqN1cweGNCU2xrbXhZQUkxWm1UWXQxR2p4bGRQbVRqd0ROMjlYRXhNRmRMYUhqMmVvVWdsdi1LdWtBTktFTGJQTHRTNWYycTd2bDhJc1J4a3M4QTlHak1TS1BhRGozWjk2VnpWd0wyRDQxUFBRbkhR?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1fa257a8c8",
+  "time": "2026-09-30T19:21:38+00:00",
+  "title": "시타델 그리핀 카네기멜런대에 30억달러 기부…美대학 사상 최대",
+  "ko": "시타델 그리핀 카네기멜런대에 30억달러 기부…美대학 사상 최대",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001004100072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4af87e51cf",
+  "time": "2026-09-30T19:21:00+00:00",
+  "title": "Republican redistricting in Texas and Florida may not turn out as Trump had hoped",
+  "ko": "Republican redistricting in Texas and Florida may not turn out as Trump had hoped",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzJVMDNSYWJ5allnZlVZREFyMlVaZjhaeEVTWE5FWWhDbW00eFBZVmhXMHFWaGpGaVZRR21vOXdXX3h2Wk5vMFZWdHRGRHoyc2s3eWdfOUNyRkFjeDBWaTVzczdFOWpjWnNXZzFvZVAtRDMzVXNMMUhaWDJkWWFNdDBhUEN4ZEI1MXV4VjJSaEswcUJOeVZXS19JckxXdi1Nc2RBaVQxcTNMNE5Q?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5c0161dbd1",
+  "time": "2026-09-30T19:14:05+00:00",
+  "title": "\"PCE 물가지수도 못 막았다\" 美 국채 수익률 상승 지속…고용 동향에 촉각",
+  "ko": "\"PCE 물가지수도 못 막았다\" 美 국채 수익률 상승 지속…고용 동향에 촉각",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010352479810",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ddaa9189ee",
+  "time": "2026-09-30T19:09:19+00:00",
+  "title": "US FCC head says controversial Trump ads do not raise concerns",
+  "ko": "US FCC head says controversial Trump ads do not raise concerns",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORU50RHRjNGNGNHMxNVYyNlF4dFMwWWNKRTNIQ1I2MllwaGtMRDc1ajgwMVFFaS1fcUFfNUtmZElDSUdieUFyZG56U0R6T1FDM3V1TWMwQXg4OVUzdTl5ZlJycjRGa2ZhRnkzcUlBcE5pOTZqV0hmVVJBQUZua2xpTW1uMmlpTEhZSDhQZUZyZ2paV2k5bmljYlhNaXJXUDVMdlJ2cElB0gGrAUFVX3lxTE05eG1ObHRQVkZmQnVJSXhVQnlBc2dhdXM1RmZuZjYybTdVRkZMV01fZ010OWNNZEZYOTY0cWxEaXExVm85ajNfcy1sOVYzYzUycW9ieTRTd2VNN0lQTXEtc05FUG8wR0wzR1ZPX2YxZXRDOFFuWVZKdmpOcEx3VVhOUlp0VW5aY2t1SWFJanFZOVB5aW1HT2NUZVJSby1sV29EWmw2a1I0MWR6WQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "21ff8c9b1f",
+  "time": "2026-09-30T19:09:00+00:00",
+  "title": "Trump says ‘MAGA and REAL Patriots’ will never like Fox News over hosting Democrats",
+  "ko": "Trump says ‘MAGA and REAL Patriots’ will never like Fox News over hosting Democrats",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXVWa1hOQzdlYk92a2lOWHYtcGtzV0FDTEhXVmFlRVZTVGQxakpaOC1CUTlvS0Q2M1phQkg1VXRvWDQtSFFqbkdaWmFLMVdsTzQ1dmhfV0l3VlJRalRINnRTSnc5MVNEWWVDaGZGXzlwWWl0dDRINWxaR2ZPR2pXMjhB0gGHAUFVX3lxTE1sSkFIUDZrbFBSUmtQNEJ3M3I2NmR4eENkVnZOMHNUYUI4emRZY1RHRUNwYUxfQXEyQ1RyQ29pd0RLbV8wbTJkMHdQNGhZVlUyeGFiTHd4eFJ5aGhtTEI4ZlI2b3dJak8yVUlJektXaXk4aVdxNGdRSW9TYVZ0cmFJei00WUs0UQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "22789f61b3",
+  "time": "2026-09-30T19:01:50+00:00",
+  "title": "Watchdog finds problems but no Fed misconduct in Powell-era renovation project",
+  "ko": "Watchdog finds problems but no Fed misconduct in Powell-era renovation project",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnN2cDczYmlxZHdIZlAxeWVkVWZPVlA4SmJ2eHB2UTVjZzhHbTRuUy1uazQyblA1UDBFbDVXOFNyUXdJUFZUVHVwR2pHR3dqSkhNbGdmQ1Iyb3k3R3A5MlZuYnhkd2ROX0xLaHVFeGVSUG0tTHhneWxJdmFTeUVPalBQQTN4elgzME1GejM5dUJ2WG5sbG1heGlCZjIxd1NtOGtTMDhoM21ZNVpOSVMwZEIxSjM3cjRYQkhzTA?oc=5",
+  "section": "money",
+  "people": [
+   "파월"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a05063d6c3",
+  "time": "2026-09-30T18:54:25+00:00",
+  "title": "트럼프, 미군 이라크 철수 완료에 \"미국과 이라크의 승리\"",
+  "ko": "트럼프, 미군 이라크 철수 완료에 \"미국과 이라크의 승리\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001004000071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fff8860595",
+  "time": "2026-09-30T18:53:00+00:00",
+  "title": "Watch live: Trump, Lutnick to announce major US energy investments",
+  "ko": "Watch live: Trump, Lutnick to announce major US energy investments",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa1l5ZUROR0NjV1BtNEFEZUhIOUxtVGJleVJIQjdmX2NOdV90TmQzOExfZUVBOGdjcUVMVmpTclFIOExCel9oWXNmOV9EVEVqSURwNUhtSzFBTlcxTnAwZUMyZVNhT1d1bURaVHR0RzVLVUlTMENaSGRwdU56cEZjV1pNUk5DQWpUaUdvWTdqYTVXQ042Q0hEZjZfUXJ0UW9LZk5CN3RVRUU1SUJGS0Etd2xoX1BTUW9pRUwxTGVsUkkxU3JIcWMtSHNmOHRVUzR2U1djQkw1Z9IB3AFBVV95cUxQSVFlUHZzWXYwU0JlSElLY3JidUdwaEJBMWhhV1R0VFBSOHFlYmFSeFdzek5HVWRoWjY2bW1MZmdxV0RfMUNNd21sMnowUjFfSkpUaE5XRlZEVkgzOFFFR284OGZjbFpTTkVpdXlLaHoyR2VlQTRSZVEtVFA2VVBCckVvTlZzN1dDUDk4Ym9xOHY2OWZlWVdtYTIza3hRRzNwYUxpYXdCeU13TmcybXFsc3E2YWRiRmFYTGlUX1Zad1BBeXFkeFlpQTJmaGFpVWd5MFJYandzSU83Qno5?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "51369d35dd",
+  "time": "2026-09-30T18:53:00+00:00",
+  "title": "Appeals court backs finding Trump colluded with IRS, Treasury",
+  "ko": "Appeals court backs finding Trump colluded with IRS, Treasury",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGwtYWp6NUVCeElVdW1CUW8zdTFYWU1HTEJLYlM4UDRENEpnR2RTTXF4NEZUNk5yekNhQURnLVBNa0VNcWMweXdCMG92dlpkNVkzc2ZkRW5vZ3NnQ1N3XzRIemN0cGFFNFVueDFLUlJCMFRwcExNblh1Y01KUWxfZmJmclFkZFZQUS02ci1MU1ZLQlRINnN3WHdKTnFVaGhhelcyOTFMOUIxbGZHTjAtT9IBtgFBVV95cUxQUVpRVF9VNjB2OTA0RVdwNTRfd29hQjN5OGJGaHg2cHMtODB2U0lySlVpeThVU3BvNGNIRHc4TC14dFE1T2d2M0lZTWwwRVBleVF6akR0TGRoTm9VTUdzdVlYeXYtanVVRW84MVZndV9jU3hGRlp0SjFHYkFuMDFZaUFxb1UybV9QRXJhOUw0UXNWRzBOOGpwOGxSVnBfc2xSbzlpbjU5dndPWGlsMDZwMWoxNXZWUQ?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3278f1bb19",
+  "time": "2026-09-30T18:51:23+00:00",
+  "title": "美 FTC, 앤스로픽·오픈AI 등 조사 확대…AI 위험성 관련 사상 최초",
+  "ko": "美 FTC, 앤스로픽·오픈AI 등 조사 확대…AI 위험성 관련 사상 최초",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610010308409072",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d8e68ac7d2",
+  "time": "2026-09-30T18:48:58+00:00",
+  "title": "Trump’s New Tariffs Get a Familiar Day in Court",
+  "ko": "Trump’s New Tariffs Get a Familiar Day in Court",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHRPek5DQy1ncW5wTWpTaDNwM1VsWk1aZjloUG9mNGlkVmNteTJadXJWY0NfbFAyRXprZ0ZNdFhKYWFPNWV3dkkwZWZSMFZ1N0xzNE14Q0h6eVVNTUx0bkdHX1p3T1p5aWcyd19EOTdUcDFCVzVEY3U3QmF1TmNPMDBvdVo?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5f9d7c722b",
+  "time": "2026-09-30T18:47:57+00:00",
+  "title": "I Went Home to Miami to See How Hispanic Voters Feel About Trump and Immigration",
+  "ko": "I Went Home to Miami to See How Hispanic Voters Feel About Trump and Immigration",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlVnX1dXUGs3eml3S1hGNzZVRmhQS2g5SjYtVWFrZ2JFXzhrSGRsWmk5a0tYdE12dFpJeUZERC1TUlp4V1pMUUdIREZxUW42NzJFdWRST1I1aWJCZ2F0bmJOWHBmQWVSNC1wckFUclg5MHBsdGlFcDUtWFJNOU9VVllraC0yc3VUZHE4OTJlZ0wyWC1LVGFjbWc4dldfM3ZXR2xteERkVi0xV3YyOHgyUEdVeFpKQndEQ2JURTBoWnZ4OFF2d1VJ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "762300e697",
+  "time": "2026-09-30T18:43:00+00:00",
+  "title": "Trump says US exit from Iraq a ‘victory’ for both countries",
+  "ko": "Trump says US exit from Iraq a ‘victory’ for both countries",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGN5THY0eWNxNF9wNkN4T3ZZaFZkV3FUb0FqX1QzQU5uZjBhMHk1YjBoTW44QXdMMjUzdmM4VExJUlVoTW1pTnRHbDQ5UlVGYlJSdFFlTlAxbmZCYTRVRTE1ME9rOUZ3ZXBFWkx5Z1duS29wbk1MOUJCdTdONllWZWV5NVNZUjjSAYwBQVVfeXFMUDRUUGtjbWhqS2ZHbmE1NzdhbHJaQnA2S2xKcGludlQ2clRJME15TGZDTHhNVndkTkstNFZQVmgxdmRFTW1tbmc3SzEwNm5oaHpXNWpVX3hWNjR5ZnplQlJlVUI5TFlaUFdBNXJyd0JzQW82WS1mQ0cxN0ctS2F5endiOGlkOHhhaEZ1ZDY?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "515b4c69d8",
+  "time": "2026-09-30T18:34:00+00:00",
+  "title": "Lara Trump says Iran war could cost Trump the midterms",
+  "ko": "Lara Trump says Iran war could cost Trump the midterms",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ091R2VUdEV1LTNody1WZVJfM0N0M0VuSWp2enJZYWItQWQtYkg2SmxwQ2VyaGRlcDA4OUI1Vm1uWE1NM3dhaEFvem9hVlJlR29hTW54VnhSYUxvOG9MNE9sVjJmOFlBQnZxc016U05mVHpkR2lmT0VBREt3aFRoLdIBhgFBVV95cUxQSjdoOUxkNm45cVNRTDNMbk1wSWFiV3BnRWR4MW9Pd1lyTE1DS3E2cXozVEVpaVJXaWk4ZTVDNEJic2g3ekRsSlpkaTlKV1pMeUJ0b1FBeFhxeTFVcmFtRDcyWktPRmdReW9PUkduMllTZi1qbndnUVJacjJoX1FYaHRFa2l4dw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "952d84c36e",
+  "time": "2026-09-30T18:30:49+00:00",
+  "title": "Ken Paxton heard saying Trump's GOP midterm convention hurt him: Report",
+  "ko": "Ken Paxton heard saying Trump's GOP midterm convention hurt him: Report",
+  "lang": "en",
+  "outlet": "ABC News",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXVpUG0zRXVVVUI0bm5WbEQ0VkVuclE0akVXUEdZdUk0bndvYmx0SzRNRTl1aE92di02R0didldwLS1NRmxTNkJybGVTNjhfTmkxQ3BRVmR4U2JhcUh5aThCRm9MSHhjcmxXTktQYmZILUU5NHgxMlhKbm5zUGt5V19mZmljeDAxUjBLLVBHeXNDaVUyY0JTYk1jODlYQ2Fm0gGmAUFVX3lxTFBERU5TcjVYUjdiTXQ3RmhNWF9NZlYzRWZId0tPRmZtdWlJSFdhWUJiMVE4TlVxVWVFNjJlbWprdkN3RDNkUlN6Ul9rbmRfM2FTTGdFXzBKZWNjRVJzcndCTWQ2cEZzNkx3RVVqT1BRSFdpNXJtYmxBNkxPY1ktTDMwMGU2UGFxX1FDR2lhUHEyYTJRNG9FN0VyS2l2RGM3SGtDN3Myc3c?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "CNN"
+  ]
+ },
+ {
+  "id": "53fc8a07f4",
+  "time": "2026-09-30T18:20:57+00:00",
+  "title": "트럼프, 우군 폭스뉴스까지 비난…\"민주당 출연시켜 내 험담\"",
+  "ko": "트럼프, 우군 폭스뉴스까지 비난…\"민주당 출연시켜 내 험담\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261001003200071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ad21fcfb76",
+  "time": "2026-09-30T18:20:00+00:00",
+  "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+  "ko": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "64426ecb1e",
+  "time": "2026-09-30T18:07:13+00:00",
+  "title": "Trump Looks to Sideline Canadian Potash With Belarusian Supply Deal",
+  "ko": "Trump Looks to Sideline Canadian Potash With Belarusian Supply Deal",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2VsVHZ0dlhHNDBZTF9LT2g0RFVoUHZBM0g5QUF3eWE2aXdjMndfb2c0MTd1TVY3QU11TUJPcGszN2RXcWtfTmhYMmFjTVVSZjM5dC0yZEZjeGYyd2lkWVVfWHZHLTNCMXBDdFNEc09FMDFCZFFjMkkyRXRYbGRPMlZwbWw2ZE1zZlVsQlVBSFNkSGFfUXNFZGxWcXFqQ3VjRjlHWlNISkQyTzhoTEQ0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "110514064e",
   "time": "2026-09-30T16:36:57+00:00",
   "title": "Trump to unveil $200 billion investment in US projects by South Korea, White House says",
@@ -151,7 +1565,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "ABC News"
+  ]
  },
  {
   "id": "857eefcc81",
