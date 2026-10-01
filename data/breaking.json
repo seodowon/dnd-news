@@ -1,5 +1,77 @@
 [
  {
+  "id": "61a5a5c11a",
+  "time": "2026-10-01T23:11:00+00:00",
+  "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+  "ko": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1162299324",
+  "time": "2026-10-01T23:09:31+00:00",
+  "title": "트럼프, 농구스타 로드먼 소개하며 '김정은과 인연' 언급",
+  "ko": "트럼프, 농구스타 로드먼 소개하며 '김정은과 인연' 언급",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002022100071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b7e0420976",
+  "time": "2026-10-01T23:02:34+00:00",
+  "title": "[마켓뷰] 마이크론 호실적에 반등한 코스피, '7천피' 탈환하나",
+  "ko": "[마켓뷰] 마이크론 호실적에 반등한 코스피, '7천피' 탈환하나",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002019500008",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3e65a5a556",
+  "time": "2026-10-01T23:02:33+00:00",
+  "title": "美 10년물 5.34% 최고치 경신…글로벌 국채 투매 심화(종합)",
+  "ko": "美 10년물 5.34% 최고치 경신…글로벌 국채 투매 심화(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002004951072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2db1d2fbd9",
+  "time": "2026-10-01T23:00:00+00:00",
+  "title": "[속보] 9월 물가 2.9%↑, 한 달 만에 2%대…고유가에 석유류 14.8%↑",
+  "ko": "[속보] 9월 물가 2.9%↑, 한 달 만에 2%대…고유가에 석유류 14.8%↑",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HY2pEN1IxNGx3TzlNcVQwSEtEY1poSmZXQ05hUHBTVjNCcDF5UGhZdXMyVnE2aE9UWmNsckxvUU1taXBHMXgteVQweG5iWWhFcV9JcdIBWkFVX3lxTE5MQTI4WmFzSnBjTUF2RnliOHpvM1NFdDBlRDc3cW5xVFgxSTFWc1RKa0NqWTQyV3V6NU12M0lZVTNTWkNZTk5JNFZyS0hXMnlMcTBmNXFCMzROdw?oc=5",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "50988eb4f3",
   "time": "2026-10-01T22:55:00+00:00",
   "title": "Trump sends out $500 ACA refunds and a letter promoting his record",
@@ -332,6 +404,22 @@
   "also": []
  },
  {
+  "id": "747c6cd4fa",
+  "time": "2026-10-01T21:16:19+00:00",
+  "title": "Trump does not rule out demolishing the Kennedy Center",
+  "ko": "Trump does not rule out demolishing the Kennedy Center",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZ6dHNZQ3BDVEZ0OS01ZG5yN0F5TEtpdTNlMC1ydU5PZ2JudEVyZ0VJUFNxb1ZJUE9Hd09yRWxBRXd5ZkRUZm5GNkhLQXRwcU1fZTB6Tnl3ME14cUVnVTIzZXVRcGt3X2dkdXlUanFueVhSbEtROTFsV29nUnJPb05oQ2lSX0ViTWxfWUVwR3pLSUNRQ0pVUGVod09kazBsTVA3MQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "3b693e863c",
   "time": "2026-10-01T21:15:24+00:00",
   "title": "나이키, 실적 엇갈리고 구조조정 발표…내년부터 감원 착수",
@@ -561,6 +649,22 @@
   "section": "people",
   "people": [
    "이재용"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0107302451",
+  "time": "2026-10-01T20:48:09+00:00",
+  "title": "Lara Trump said the Iran war could cost Republicans the midterms. Here's how the president responded.",
+  "ko": "Lara Trump said the Iran war could cost Republicans the midterms. Here's how the president responded.",
+  "lang": "en",
+  "outlet": "Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QS0FiaXlmYXhKTVBZNi1MblI3eUF3OW9FREJWek9OY1AwTkVLQU9PYlJVWXIwTUxyMTYyamtxd2hhRzk1Y3FqV1k5RFdvRkQxSlNJNy1nWkRBX0x3TV9uNGRsal9hU09wZnFDekU2QmlQdHpjVUVJbGpRdWE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
   ],
   "flash": false,
   "official": false,
@@ -9685,168 +9789,6 @@
   "lang": "ko",
   "outlet": "한국경제",
   "url": "https://www.hankyung.com/article/2026093034376",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c173d48001",
-  "time": "2026-09-29T23:13:01+00:00",
-  "title": "추석 후 코스피 '뚝' 떨어질 때…이틀새 16% 넘게 오른 비결은",
-  "ko": "추석 후 코스피 '뚝' 떨어질 때…이틀새 16% 넘게 오른 비결은",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202609303353i",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3ee010b2ef",
-  "time": "2026-09-29T23:13:00+00:00",
-  "title": "한투증권 \"은행주, 고금리 속 주주환원 경쟁력 두드러져\"",
-  "ko": "한투증권 \"은행주, 고금리 속 주주환원 경쟁력 두드러져\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20260930024700008",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "37860a48ce",
-  "time": "2026-09-29T23:10:43+00:00",
-  "title": "'키멀쇼' 출연한 맘다니 \"'뉴욕 사랑'만큼은 트럼프와 의견일치\"",
-  "ko": "'키멀쇼' 출연한 맘다니 \"'뉴욕 사랑'만큼은 트럼프와 의견일치\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20260930012000075",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bfa6b60b67",
-  "time": "2026-09-29T23:10:03+00:00",
-  "title": "[마켓뷰] 美금리 악재 속 반도체주 상승…코스피 반등 시도하나",
-  "ko": "[마켓뷰] 美금리 악재 속 반도체주 상승…코스피 반등 시도하나",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20260930024600008",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ffaceb4b8f",
-  "time": "2026-09-29T23:09:34+00:00",
-  "title": "\"SK하이닉스, AI 메모리 수요 오히려 늘어날 것\"-NH",
-  "ko": "\"SK하이닉스, AI 메모리 수요 오히려 늘어날 것\"-NH",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026093034116",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f448096eb7",
-  "time": "2026-09-29T23:06:15+00:00",
-  "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
-  "ko": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDd2UldoNG4tNFQzQ20yVTVkMW15NWNyVVVEYkRXR1FRLUlrWkRramtsLXdMejBCVVdJYnBDV1BSdGFYY0xxU1RnTmZTaVg1TlJYMEJuN1QtaVpSUFdPX3hSQ1NFeHdfdVk5akhDX2tsQ0JERkNnSVpBQmhuMnQzQjBkRjBjcjMw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ea64c616b4",
-  "time": "2026-09-29T23:06:04+00:00",
-  "title": "Trump Launches Government Chatbot That Contradicts Some of His Claims",
-  "ko": "Trump Launches Government Chatbot That Contradicts Some of His Claims",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTM3MUJlbmFoV294ZFBNdHNwMEN4ZFR2dHRtbGg4MGF5dmhLWFNZUkFIbEZIck5oRXJWMVdpX1VkWEhJSURUWG93TTczNHdLX3hybHBwN2NSYWR1LXJweGhyX3hidlF5SlFGUlNiZ0FDQm85Skt3ck1qSHh5cnZPa0ZR?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "86df9c017f",
-  "time": "2026-09-29T23:04:47+00:00",
-  "title": "'매일 30억씩 결제'…이 게임 하나로 주가 65% 날았다",
-  "ko": "'매일 30억씩 결제'…이 게임 하나로 주가 65% 날았다",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202609303344i",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "366f6ae0fd",
-  "time": "2026-09-29T23:03:09+00:00",
-  "title": "AI CEO 소집한 트럼프, 정부 새 규제 선긋고 업계 자율규제 협약(종합)",
-  "ko": "AI CEO 소집한 트럼프, 정부 새 규제 선긋고 업계 자율규제 협약(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20260930004751071",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ef3125f10f",
-  "time": "2026-09-29T23:02:46+00:00",
-  "title": "[머니톡스] 미 국채금리 6% 육박…버블·무모한 베팅은 설 자리가 없다",
-  "ko": "[머니톡스] 미 국채금리 6% 육박…버블·무모한 베팅은 설 자리가 없다",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20260930020200546",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c5cb5dd3ef",
-  "time": "2026-09-29T23:02:24+00:00",
-  "title": "[오늘의 증시]美증시 약세에도 반도체는 견조한 흐름…코스피 반등 시도할 듯",
-  "ko": "[오늘의 증시]美증시 약세에도 반도체는 견조한 흐름…코스피 반등 시도할 듯",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20260930_0003807985",
   "section": "ai",
   "people": [],
   "flash": false,
