@@ -1,5 +1,93 @@
 [
  {
+  "id": "70068b1a95",
+  "time": "2026-10-02T23:00:06+00:00",
+  "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
+  "ko": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002136000008",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "59f3eadd2f",
+  "time": "2026-10-02T23:00:04+00:00",
+  "title": "[신간] 문학번역에서 인공지능 번역까지…'번역과 저작권'",
+  "ko": "[신간] 문학번역에서 인공지능 번역까지…'번역과 저작권'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002141100005",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d3fa735cd5",
+  "time": "2026-10-02T23:00:00+00:00",
+  "title": "금리 급등에 주식 매력 '흔들'…구원투수는 '실적'[금리 쇼크①]",
+  "ko": "금리 급등에 주식 매력 '흔들'…구원투수는 '실적'[금리 쇼크①]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003812247",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7c414bd0fc",
+  "time": "2026-10-02T23:00:00+00:00",
+  "title": "지금 통과해야 연내 상장…코스닥본부 \"한주에 8곳도 심사\" [여의도는 지금]",
+  "ko": "지금 통과해야 연내 상장…코스닥본부 \"한주에 8곳도 심사\" [여의도는 지금]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610021343200983",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3132615625",
+  "time": "2026-10-02T22:59:15+00:00",
+  "title": "미 법무부, \"파월 전 Fed 의장 수사 재개 않겠다\"",
+  "ko": "미 법무부, \"파월 전 Fed 의장 수사 재개 않겠다\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261003_0003813368",
+  "section": "money",
+  "people": [
+   "파월"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "2b343b5d75",
+  "time": "2026-10-02T22:50:09+00:00",
+  "title": "\"AI에 개인정보 뚫릴라\"…애플, 맥컴퓨터 데이터접근 통제 강화",
+  "ko": "\"AI에 개인정보 뚫릴라\"…애플, 맥컴퓨터 데이터접근 통제 강화",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261003013900091",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "07a4985fef",
   "time": "2026-10-02T22:41:56+00:00",
   "title": "트럼프, 선거용 '알래스카 투자' 관철하려 韓에 관세카드 꺼낼까",
@@ -14,6 +102,26 @@
   "flash": false,
   "official": false,
   "also": []
+ },
+ {
+  "id": "a5da022a12",
+  "time": "2026-10-02T22:41:49+00:00",
+  "title": "Trump expected to name Jay Clayton as AI tsar",
+  "ko": "Trump expected to name Jay Clayton as AI tsar",
+  "lang": "en",
+  "outlet": "South China Morning Post",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3hXWElDSURmWUtJTndDRGlBbXEyRDVrcU5Zd2NtV09QeHpyOVhYVTdBN2VHVWZuTE03V0xSWEMzQlh0WWJkVEl0S0ZGMDF3N1RWYUZXRnFZNkFiWWN3Tmo1MHpIaEt1d05nZW1UdUxNZkl0THlQZjJlTHk1N2NFSy1EUGwzTkdNY3lKM1BiSEN0b1pOWlM0TGdQWi0zc2JzMlZDeVRxV3JuS0pK0gGsAUFVX3lxTFBSOThJREgxN2lXaEd6Mm5zR0tYUFRZUUotQ3lYTmdzeHVKYlVvUlF4cnhSSm1BVnRwQjdYeE9sX09TSHdLN0hjRk55eDdSMXR3M0tZV3o3bE55QTZXemhXeWh3QjdObGg4am1QT0NBUy1SRTBNRWJoNF8zRDdGOEpaVnFkYTdzU1AydEc4aTBLZ0FubGIzbHYtQzh1dFdyMVZYYVo5RjFKYUVqMjA?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Axios",
+   "Wall Street Journal",
+   "Washington Post"
+  ]
  },
  {
   "id": "197d1f3c44",
@@ -55,6 +163,22 @@
   "lang": "en",
   "outlet": "Washington Post",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXFuS1lIdW9tc0w1S0U1a0tvRGhGdVZEdzkycnRkeURWZV9jWkkyQUtrN3F2RE1DU2k1MkZtTERZU3dCdnd2aHpXOVgzeVN0QkItMXNOai14Vm1mYk54QmQ4ZE1vZ0FLMUpyNnQyYl9nRUZjM0syMTRFQk85WjNwU3dXSERkM3hJcW5IWWk1UE8tdmxsdENUa0JOYjZiT1gzRGpTa3o1V1paQmpMNm9TNDR4X28?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "910737f440",
+  "time": "2026-10-02T22:20:41+00:00",
+  "title": "Opinion | Why voters are rejecting the ‘strong’ Trump economy",
+  "ko": "Opinion | Why voters are rejecting the ‘strong’ Trump economy",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWFsSEhnZzZXMDRlQ2tzZ21nQlFRQnVUelVCRldnNkRmbXdpbG9FZmRYMElLWlFaSlFhRDMtcVNXMGZreW1ibC05VzRFYnAxaVkzOGU2RlluejNNRnVlNVBobE5ySnEyb1FzRWk2MU52R2xxUU1QcUFVeUEwTndmbHZmemVIUmJFV2dKa2pGSQ?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -228,6 +352,22 @@
   "also": []
  },
  {
+  "id": "70c6eaf95d",
+  "time": "2026-10-02T21:47:00+00:00",
+  "title": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
+  "ko": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUFEZ0FMZW56b0FHTmxJRjEwYXBlWUFxVHdIVXRHcTlhUHhnX0RVd0VNSTROSUtCRy02VE12VmFyam5IMFZaN2stYUxaTDlCUXlFZzB6TGUyTjR4a1d4eVZFMFI4cTFxV2QxRkdJYzN3d3FHMXpMdXBkdTNpUThnbU5PaVF2V2EwN1NIdW9yR2pTTDl1bWtySFRrS29RODRaOEVoU3E4dURMNFhKckFwWDZjQW1Idw?oc=5",
+  "section": "crypto",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "69b5128e9a",
   "time": "2026-10-02T21:46:27+00:00",
   "title": "트럼프 \"韓 알래스카 투자 합의않으면 곧 두배 청구\" 노골 압박(종합)",
@@ -260,6 +400,22 @@
   "also": []
  },
  {
+  "id": "bd6febfba2",
+  "time": "2026-10-02T21:42:33+00:00",
+  "title": "Federal judge orders Trump administration to stop border wall construction at Big Bend National Park",
+  "ko": "Federal judge orders Trump administration to stop border wall construction at Big Bend National Park",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZlA1RE9SUG81MFhaa0JVTU5BNHNJanU2WnFMMDBDcTlBaVZuV3hORzB5alVndU0tT3RaTFFMZTlKQ1dKNGFKMmoyN0Y0V2o5QTZ5aFdNV204Y25JcTRCT29YVmhoS3NnS2VnWUoyVzBuRTltX2VpLTdxMndPb1NCanMwVlJUWXFlRWdFMEJaUE9Hcjd4MEJFWFpkT3RWN1hreVUwZUhHdHVqUmoxN3dzcDlBcGV4Q016anFQaXBpYjVHZG5ITDBlaGlpNkVXb3BB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "92ebe43022",
   "time": "2026-10-02T21:41:10+00:00",
   "title": "EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause",
@@ -267,6 +423,22 @@
   "lang": "en",
   "outlet": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzlIVmhvVUZ0aG1rRENIVUd4TEpFZTVQZkVrRkRpNEtQUVBJbUJWOHdyQ1VRcjkxUGtTb2prWC1JX1A5OFhWZU90XzJKd3VEM2RFc0dkM3ZwcVAtZ0RYN1BFenF4LTNLYTNtSG45b1J6S283R1pIS3ZpSGlwa1pOeVVKejd0U3FCZmZWUzBDaEhhOVQ0QU1QNnc1SUFwQnlscFZVck5JVml0aHhqTk53amFGWUwxQQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "964fb19f07",
+  "time": "2026-10-02T21:41:04+00:00",
+  "title": "Federal court temporarily blocks Trump administration’s border wall in Texas’ Big Bend region",
+  "ko": "Federal court temporarily blocks Trump administration’s border wall in Texas’ Big Bend region",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenBEVEMxTGlsampPUW90Vy1GaFlYQWtlUWpVeDYxbVFMcWF0a2xPT0s5ZkNlQ2dVRzI3Q0l1Ulo4dWx5NGtJbDlNT2NsaXZ4b2pWSGNoOWRjalJ6MjhvNXZMcUNldC05TXFudFF4QU10UFpnM2ZwWkYyTEpBNUpVaFo2ZF9ZUGc5ZzBRTVl5R2pnOURobkF3SXNfcENEMHdYU1IxbERoUEtvR0xtS21tcFdwc0VTbm9wclE?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -393,7 +565,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "뉴시스"
+  ]
  },
  {
   "id": "5d9d731f2a",
@@ -787,7 +961,8 @@
   "flash": false,
   "official": false,
   "also": [
-   "Axios"
+   "Axios",
+   "South China Morning Post"
   ]
  },
  {
@@ -983,7 +1158,8 @@
   "also": [
    "Axios",
    "CNN",
-   "Reuters"
+   "Reuters",
+   "South China Morning Post"
   ]
  },
  {
@@ -1354,8 +1530,8 @@
   "also": [
    "CNN",
    "Reuters",
-   "Wall Street Journal",
-   "Washington Post"
+   "South China Morning Post",
+   "Wall Street Journal"
   ]
  },
  {
@@ -8178,168 +8354,6 @@
   ],
   "flash": false,
   "official": false,
-  "also": [
-   "Reuters"
-  ]
- },
- {
-  "id": "253ddb9d17",
-  "time": "2026-09-30T23:13:16+00:00",
-  "title": "LG전자, 미국에 AI 데이터센터용 칠러 공장 신설…국내도 증설",
-  "ko": "LG전자, 미국에 AI 데이터센터용 칠러 공장 신설…국내도 증설",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001023000003",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
   "also": []
- },
- {
-  "id": "8f2fc727ce",
-  "time": "2026-09-30T23:11:45+00:00",
-  "title": "“현대모비스, 현대차 판매 부진·환율 부담에 주가 전망 휘청”…목표가↓",
-  "ko": "“현대모비스, 현대차 판매 부진·환율 부담에 주가 전망 휘청”…목표가↓",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12165562",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "70b2b89aec",
-  "time": "2026-09-30T23:03:23+00:00",
-  "title": "마이크론 폭발적인 실적에도 주가는 왜 롤러코스터 타나",
-  "ko": "마이크론 폭발적인 실적에도 주가는 왜 롤러코스터 타나",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/business/12165558",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fa3f05d946",
-  "time": "2026-09-30T23:02:21+00:00",
-  "title": "The AI telling farmers when to harvest",
-  "ko": "The AI telling farmers when to harvest",
-  "lang": "en",
-  "outlet": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b44a5854e2",
-  "time": "2026-09-30T23:01:47+00:00",
-  "title": "[마켓뷰] 美금리 악재·마이크론 호실적…코스피 반등하나",
-  "ko": "[마켓뷰] 美금리 악재·마이크론 호실적…코스피 반등하나",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001020000008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2490d47e92",
-  "time": "2026-09-30T23:00:15+00:00",
-  "title": "내년부터 '금싸라기 땅' 꽁꽁 숨겨둔 상장사 드러난다",
-  "ko": "내년부터 '금싸라기 땅' 꽁꽁 숨겨둔 상장사 드러난다",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202609305001i",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a89f8474a0",
-  "time": "2026-09-30T23:00:04+00:00",
-  "title": "내연→전기차공장 전환 행정절차 단축…반도체 팹 증설 속도↑",
-  "ko": "내연→전기차공장 전환 행정절차 단축…반도체 팹 증설 속도↑",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20260930156400002",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e9b3c3ae46",
-  "time": "2026-09-30T22:59:55+00:00",
-  "title": "물가 둔화했는데, 멈추지 않는 금리(10년 5.3%) … 마이크론 실적 좋지만 [김현석의 월스트리트나우]",
-  "ko": "물가 둔화했는데, 멈추지 않는 금리(10년 5.3%) … 마이크론 실적 좋지만 [김현석의 월스트리트나우]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610016031i",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1aa000541d",
-  "time": "2026-09-30T22:55:51+00:00",
-  "title": "US FCC chair says government ads featuring Trump do not raise concerns",
-  "ko": "US FCC chair says government ads featuring Trump do not raise concerns",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZzcnV2cXlaWndtMUF4UllFS1M2czFITXZ4Mkg3T0JKMUdCQjFNSW5rSFhUV0NheGN5MUw0cklqcjlqVnB0SUplWk51c29UZll6b1gyOVFySHRlZFNLM2hVWWRIMzVXdk9XclFZMXdYZXcxVU1CX2o1UnR3NUt6Qzl2d2RncmR4dk12cXJwNGJpLTcwWjR0Z1p4NlVCdF9FMGNfV1NzMlVnY3FDSnBmR1hn?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "62bb7c9981",
-  "time": "2026-09-30T22:51:00+00:00",
-  "title": "Google shows it’s not out of the AI race just yet",
-  "ko": "Google shows it’s not out of the AI race just yet",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "27cda5c662",
-  "time": "2026-09-30T22:50:17+00:00",
-  "title": "Trump says he is still considering diesel export ban",
-  "ko": "Trump says he is still considering diesel export ban",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzJhUjBKWGtXV3haSjJWRVFyS0VjRE1Xb0pSS2NnQUpHeWRFTXd2ZldXd2hxbFhxM1RyWEl0NUltckZaYjV3dW1SZW9ieTdYNWJJTW9jQy00OERwd0xiMk1KWkVqNUJfN3JEUS1qQTM4NE9aS09qbVU5dUc2WnZfalZNYXFDbDNYRTI1eXRvRGhYS3gtUHR5TE9rMThYc0thSVlTTTZjYw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Politico"
-  ]
  }
 ]
