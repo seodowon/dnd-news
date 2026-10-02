@@ -1,5 +1,724 @@
 [
  {
+  "id": "f45a1621b0",
+  "time": "2026-10-02T14:54:05+00:00",
+  "title": "트럼프 美경유 가격 급등 속 \"유럽, 비축 경유 방출키로 합의\"",
+  "ko": "트럼프 美경유 가격 급등 속 \"유럽, 비축 경유 방출키로 합의\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003813315",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "50a409b786",
+  "time": "2026-10-02T14:49:00+00:00",
+  "title": "‘Complete destruction of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
+  "ko": "‘Complete destruction of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "adfb299aab",
+  "time": "2026-10-02T14:38:02+00:00",
+  "title": "산업부 \"트럼프 언급 84억불 석유프로젝트는 합의에 없는 내용\"",
+  "ko": "산업부 \"트럼프 언급 84억불 석유프로젝트는 합의에 없는 내용\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002185600003",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9c38f55b08",
+  "time": "2026-10-02T14:37:20+00:00",
+  "title": "트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억불\" 주장(종합)",
+  "ko": "트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억불\" 주장(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002182051071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "9d2f7620c1",
+  "time": "2026-10-02T14:34:28+00:00",
+  "title": "EXCLUSIVE: Europe agrees to release diesel stocks, Trump says",
+  "ko": "EXCLUSIVE: Europe agrees to release diesel stocks, Trump says",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "14ab7213e4",
+  "time": "2026-10-02T14:31:47+00:00",
+  "title": "트럼프 \"유럽, 비축 경유 방출하기로 합의…즉시 시작될 것\"",
+  "ko": "트럼프 \"유럽, 비축 경유 방출하기로 합의…즉시 시작될 것\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002185700071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "97419b034d",
+  "time": "2026-10-02T14:30:50+00:00",
+  "title": "Trump’s Approval Rating On The Economy Hits All-Time Low In 2 Polls This Week",
+  "ko": "Trump’s Approval Rating On The Economy Hits All-Time Low In 2 Polls This Week",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2R0TXpTTUZZc2I3c0J0eVY1UE1ScUkyZTFCYjNYZEtlSklIZU9YRjdLdDZXNmlwS1ZSMGJjZ3pDRWdlbG9uTUdRZGJfQllVMzFmSlZzV2NZV1F1ek5sWm5QX05xSUFmeHpnczg0M1dlX0dhS013WW5PMXZDc2Y2TDRmdkFxMWdmWmxuSGxZd1VINVcxSWZGUnhCWXdfVmJ0X01EQ2JxLWJLVld3VjZZTjNVdzNfaUdkcncyWXBlT1lCUFYx?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6059a124b4",
+  "time": "2026-10-02T14:30:00+00:00",
+  "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+  "ko": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "221a8c99e4",
+  "time": "2026-10-02T14:19:42+00:00",
+  "title": "[속보] 트럼프 \"유럽, 비축 경유 방출하기로 합의…곧 시작\"",
+  "ko": "[속보] 트럼프 \"유럽, 비축 경유 방출하기로 합의…곧 시작\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003813314",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "de8cc230db",
+  "time": "2026-10-02T14:18:25+00:00",
+  "title": "여자축구, 8년 만에 동메달…북한은 일본에 져 은메달(종합2보)[나고야AG]",
+  "ko": "여자축구, 8년 만에 동메달…북한은 일본에 져 은메달(종합2보)[나고야AG]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003813312",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "df64ab9bbe",
+  "time": "2026-10-02T14:17:13+00:00",
+  "title": "Trump push to end US clock switching hits dead end",
+  "ko": "Trump push to end US clock switching hits dead end",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGpob2lBQVMzeXBmMm92bkNsWER2MGdwTjdkakFxQ0pLLXp3Z0F6TkxJd2ZtU3lUVUdsblc4MDZSdmFPSW1zbHFXRGFEbGVGRFp1R1FDLUJCekZMUGNXRTB6aElXZV8tWlltYWVhWUlEa00tQmZLSGRaTng3a1ktU0NuWUNkbDZQLWwtTndNdTZFUld5Y0Vtb2tfVGI3T2thQ2VodVZmaWg2anFoQ3hJ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "bf6f1d3572",
+  "time": "2026-10-02T14:16:40+00:00",
+  "title": "Trump claims Europe agreed to release ‘massive amount’ diesel stockpile",
+  "ko": "Trump claims Europe agreed to release ‘massive amount’ diesel stockpile",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDR4X3lxbmMwMUZ5TGtscVpZamlUMnVHRXlyclpUenZYZzBJNWpMU1BpOW5IM21WSFZPNjJaVEoyZ0hxdHJJQWNIUjB6VGQ1cV96dXNMSV9ja2RCQVFXTlctbllzMUtIMllwTjVQa1B4X01CdGxENkRYc2kwVlplUFloeGh5Y2I2dHJycFdieFREV0pid09Tc1dCTHFna2RCUGk3VEJNbnhQQTBX0gGyAUFVX3lxTE9XeEtTR2Z4MDl2cTNBbTRIMERPNVVBSC1TYmV6dXpQS1pVSGF3akJDZjlzQ0hPc2V5QVltTGx2WXBrQnpaRG1penRIZ0F4WkJnSEJ0WUk2X2pZR3JSSWxQeGg5dFFIMkVBeE9xdnozQ1d1dUtVZ0todmpxNjR5NnE1TkhmTUJtQU81VFdTM0ZNZmdsQ0dnOWZfTXpWNjFUeVh4OEFuaFA5emdLVmFOeEduRVE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Reuters"
+  ]
+ },
+ {
+  "id": "0843421a63",
+  "time": "2026-10-02T14:12:17+00:00",
+  "title": "Europe agrees to release stocked diesel oil, Trump says",
+  "ko": "Europe agrees to release stocked diesel oil, Trump says",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera"
+  ]
+ },
+ {
+  "id": "6db79668c2",
+  "time": "2026-10-02T14:06:22+00:00",
+  "title": "뉴욕증시, 연준 10월 금리 동결 가능성에 상승 출발…다우 0.68%↑",
+  "ko": "뉴욕증시, 연준 10월 금리 동결 가능성에 상승 출발…다우 0.68%↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003813307",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "941f43404f",
+  "time": "2026-10-02T13:58:16+00:00",
+  "title": "Trump expected to name Jay Clayton as AI czar, CNN reports",
+  "ko": "Trump expected to name Jay Clayton as AI czar, CNN reports",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1YtcTVTVVkxcjFJU2xzeXBjNlBrbDBveDJKa0taREVldjdkTWlVeFJXRHEzbE5lM1ZEaFVoTVRKMWNKQjRwRlZ5OTc2anRMNkhPMGVtSk5MdUR5ZWxNVzgyUXNNbTMtSDZtR0NWRkVBZlNDOUR1a0txd0wzLXJ0Mm1Gb0pVQk5qeU1jdE1nakdUQmw3c2REOGtaM3k?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "CNN"
+  ]
+ },
+ {
+  "id": "1478c13202",
+  "time": "2026-10-02T13:48:03+00:00",
+  "title": "뉴욕증시, 비농업 고용지표 소화하며 상승 출발",
+  "ko": "뉴욕증시, 비농업 고용지표 소화하며 상승 출발",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002183900009",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ba9a03825f",
+  "time": "2026-10-02T13:40:41+00:00",
+  "title": "Trump is expected to name Jay Clayton as AI czar",
+  "ko": "Trump is expected to name Jay Clayton as AI czar",
+  "lang": "en",
+  "outlet": "CNN",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqOURyempOZDNNNkFNWlVESFZBOWxNTHpqV3dzVURhaTFCbHlyMmZuQWVTaDVXZ3J6VEFmYUM1dzU3VXBfb25HanZpYmxEcmhDNjJtbEg1bWQzZ3p3NlBiWWZNaTAyanVnZVRTc0xZdkxybHJZbExHOE5qVQ?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Reuters"
+  ]
+ },
+ {
+  "id": "3a3bc3ab65",
+  "time": "2026-10-02T13:38:56+00:00",
+  "title": "[속보] 뉴욕증시, 연준 10월 금리 동결 가능성에 상승 출발",
+  "ko": "[속보] 뉴욕증시, 연준 10월 금리 동결 가능성에 상승 출발",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003813305",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0d3a6d6dcb",
+  "time": "2026-10-02T13:35:50+00:00",
+  "title": "트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트 84억불 투입\" 일방 발표",
+  "ko": "트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트 84억불 투입\" 일방 발표",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610022233270405",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "2df783d2b8",
+  "time": "2026-10-02T13:35:47+00:00",
+  "title": "美 9월 고용 2만9천명 증가 그쳐…10월 금리인상 베팅 감소(종합)",
+  "ko": "美 9월 고용 2만9천명 증가 그쳐…10월 금리인상 베팅 감소(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002180652072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5d45f5cc9c",
+  "time": "2026-10-02T13:31:00+00:00",
+  "title": "Americans rebel against Trump's red-baiting, sending socialism to a record high in opinion polling",
+  "ko": "Americans rebel against Trump's red-baiting, sending socialism to a record high in opinion polling",
+  "lang": "en",
+  "outlet": "Fortune",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOU1mOHlMUlZfQzlfelhwTW8tWWludFFERk5aS2xfNWlTSlVxTDhRa1czb3VmSDd0dkppdExBZ2hwR1A5SFlLZF9RQWhsdkQ5VTFwSHdFZDdsLXdxb0xOYWdmR203YldDM2VPMFpmTF9SempYbW41eXl0YzFKYjZkOTVLQ0t3YVk2T3V0MlBwbDRPM1drRHlLZ0JrU0pYU2hPSjBtWWtVRUNTWTdq?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "bcce359675",
+  "time": "2026-10-02T13:30:00+00:00",
+  "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+  "ko": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0b2890e3c9",
+  "time": "2026-10-02T13:28:19+00:00",
+  "title": "트럼프 \"한국과 협상 좋아져…석유 증산 프로젝트 84억불 투입\"",
+  "ko": "트럼프 \"한국과 협상 좋아져…석유 증산 프로젝트 84억불 투입\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261002_0003813295",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "9ef4979e63",
+  "time": "2026-10-02T13:26:50+00:00",
+  "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+  "ko": "Trump vs Europe as US presses for release of emergency diesel stocks",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1ZaZUFQNlF2dlhrSzh4S3NTdk4wRnZlZGw1cXBKQmduVEUwSFV0NUFyQ1pIOHlEMjhVTXpCMmFtanJibll4UTk1RGhGOU9NYlBCcFZqNEN0cUNtdENTZllrTWVyS3dsYkN4QkVLWnR2cFlLQ3R1SGxCa0VybWZwc2xHbDJvNmdUWWJNSWh4anhrel9PWXdDdWtBOEc2YmxpeVNrSGdCVVFEemZWTWfSAbMBQVVfeXFMUGp2VFd5Ym5MR0l3YzR6YmFSOU1FcGRNQUhaNFJrWGc4N1ZRRC01UFFEbXNaQUF4aWZIdkdTcDFicjJtVnE3VWEyYVEzMGZHVnM5MjFBWnpFNy0zS3NOb3lmY2JkcFdVZUd6YzhvNDZocFN3Y1BMODlPOHItSkRXc3JMWDZRd2dmdjBkSU5SNzlUenphZ056ZW1veGNjNmNrSE5KTVdyOHFzTmhMdnc4NWdMY0E?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "394f49722b",
+  "time": "2026-10-02T13:13:00+00:00",
+  "title": "[속보]트럼프 “한국과 거래 더 좋아지고 있어···84억달러 원유 증산 사업도 포함”",
+  "ko": "[속보]트럼프 “한국과 거래 더 좋아지고 있어···84억달러 원유 증산 사업도 포함”",
+  "lang": "ko",
+  "outlet": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaV92ZjNHMm1nSEIzVFFxbDVLMGRWVmEybjRhdzdWQXdXVUJBY3g3TktpUWlIRkpNSjByZVZJM0ZHRnQtTkM0S1VTQllaMnJacUhvUHZ4RTJkUdIBX0FVX3lxTFBLWFo2YXlBd1ROS0ltSy01bjZLcnk5UU1tVjg5VEN6TXFCUUdTbkg3TFpReVVQTnhPZ1RFRXpZNE1jN1VrNFFjN3QtelcxOGR2X3lmMkg4My1fYjBkY3lZ?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "55219d06d8",
+  "time": "2026-10-02T13:01:10+00:00",
+  "title": "Trump says US deal with South Korea includes $8.4 billion for oil recovery",
+  "ko": "Trump says US deal with South Korea includes $8.4 billion for oil recovery",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpSdDRDc2MzeVQ0R28ycC03cXdDVTBvUGN0WTh3eGJSQ0I4UEN1Sk1PSzQ4NjF2QjVRTVhXbnMtN2JFSWxrUGtlTDhoNTRMVUZpTS1KT2xVcGh3czdZN0loQnNDb1d4UXVJMllkTk00cXhrUHNRbHpnakhJSGJ3OVRCRjA2QloydDZILUQyTl9UaFc5aHlmVjVYZWRBbUE4dXp4Q0ZfWEdGdEp1cTRLeXkxNVdvNFBObDVWd3hmWUtfZw?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "923fc442c0",
+  "time": "2026-10-02T13:01:00+00:00",
+  "title": "A small Texas town stopped Trump’s border wall construction – for now",
+  "ko": "A small Texas town stopped Trump’s border wall construction – for now",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWEQ5Mk5nYW5KemMyb2ZWajBIanRfWWxNUmJINkRHV000YVlDWi1QM0tDVVo1RWltNVFFZ3V2UU5OQ3g0ZGNtOHJydmFfSHViemNobTBydUNLUzh3aG5qbWlaQUl4b19aYmxXRVdIeVRHRzRySElyZk1hRzhNVGliMm5IeHBPX2J4T05pWA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c13cb12355",
+  "time": "2026-10-02T13:00:00+00:00",
+  "title": "Trump’s taxpayer-funded propaganda is blatantly illegal",
+  "ko": "Trump’s taxpayer-funded propaganda is blatantly illegal",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Qb3VaSUtYMmV1Wl8zVEQ3dEVpa0lHaTRVWGlTZ0M4eTlaVzRPbjFCMExfS3lwbEozOFhlN2lldFZaZWlpeG5LM2tUSkI4YzFoSVlodXFHM1ZUUFEyM01fdmE5cEtGd0RCQWlUdVNkbkJKNXY3V29vREM0VmV4d9IBgwFBVV95cUxPX0ZvQVJjdXh1eDdzVzdjTVVCMjZRSXE0cXM4SkVnZTdkN2VQeVJDMXBNSXhTUllWZG4tSTRuQTQxNUw2b082S0tnRThncFpIaHNXOVd6Y3B5ZzhObktNWE5OVGREMWZocVJsaDduNWdOQTJoZmlxbUNOMi1BOGF6ZzZ0UQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e2bf699fd4",
+  "time": "2026-10-02T12:54:23+00:00",
+  "title": "[속보] 트럼프 “韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입”",
+  "ko": "[속보] 트럼프 “韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입”",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1LURUTDRzZXFVRllBcU9tRlROZUxmSVFxcmRWX0VOX3FwV29obXFGOUpYUUxFekI5bmlPTVNfVUR3YzVuT19fQUozWWVfbnJYeVpkekpB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "21df545584",
+  "time": "2026-10-02T12:54:00+00:00",
+  "title": "[속보] 트럼프 \"한국과 협상 좋아져...석유 증산 프로젝트에 84억불 투입\"",
+  "ko": "[속보] 트럼프 \"한국과 협상 좋아져...석유 증산 프로젝트에 84억불 투입\"",
+  "lang": "ko",
+  "outlet": "YTN",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvdDFLZkxYSktKXy1JNzhXUHRXd0dac1YwT0QyVlBWby1kMkRLY01GaFlJWklZeHQ5cFpSYXRZNDlXeU5nV3gzQ3oyWld5dkNTY0NWRHR1WTR6a3lQcjNWazhHZDA0QzYxUXpjNmRjTQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "뉴스1",
+   "뉴스핌",
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "c845330bce",
+  "time": "2026-10-02T12:53:41+00:00",
+  "title": "[속보] 트럼프 “한국과 협상 더 좋아져…석유 증산에 11조원 투입”",
+  "ko": "[속보] 트럼프 “한국과 협상 더 좋아져…석유 증산에 11조원 투입”",
+  "lang": "ko",
+  "outlet": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSktEMHk3R2VVZHJvdVZvdkRpVUxNLUZ3RjFDWHRCWFYzZ1BTY2VYZlVFNkM5cUpDZXVYZHpTSVIxVWtTYTVYejFGcHoxc3NiWkhMdzV4ajJtblpfc1RMenBSRlJEWmRyQk1GcnB0YXpWaW5KZHpHeXNDekZibks2cEtsY0REQQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "매일경제",
+   "연합뉴스",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "16ee97f53c",
+  "time": "2026-10-02T12:53:12+00:00",
+  "title": "[속보] 트럼프 \"韓과 협상 좋아져‥석유 증산 프로젝트에 84억 달러 투입\"",
+  "ko": "[속보] 트럼프 \"韓과 협상 좋아져‥석유 증산 프로젝트에 84억 달러 투입\"",
+  "lang": "ko",
+  "outlet": "MBC",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lOC1TeWVUTUpPQThwV1FzYkh5bUJtUGhFQ25LRlVXNFUxVUVRREVSdDRibGRFRVlGQWFWc2ZKU0FUS1p3TlU4cmpRVmtuNUJaRmtKNkFtVWU0TDRON0hWUHVTTS0xVlZGclY4LXFTMklnN1Iy0gF0QVVfeXFMTWFfaXljY19XUE1lVVJrdVlmcFVDeTVldnMyQ09fMzZXOU1aSTJHQmJRM25fcHk0eUVBbjFDNndvVVB6dXkya1FFQ0stUGVpTWRwT3JFaUVNNXpheUE1Yl9icXNzZmlsX01lWFFLX0cwMHF5ZHM?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "YTN",
+   "뉴스1",
+   "뉴스핌",
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "9893bb42f7",
+  "time": "2026-10-02T12:53:03+00:00",
+  "title": "[속보] 트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억弗 투입\"",
+  "ko": "[속보] 트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억弗 투입\"",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OR0hQQ2xSM1V4RDJXcU1fS0xiU2ZLYzBYZll1Y1l0SjVidG13Ulg2ZGVsUW81VjA1QV9hSXR0RXNEQWpSRGxLU0tRU1JpQjY1cUxlTUpwcljSAV5BVV95cUxQRXVjTFRSQ0pGVHJKazFqdy04WHM5UVJsTEZIb3Z6SEwxa0VwZHY5VnRCRFZJZDdGaldKejU0cDV4ZGUxNlQ0RUhPbmZJeWk4T0Nmd3ZKZlVWNWJiaFlR?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스핌",
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "0c71d6a540",
+  "time": "2026-10-02T12:53:00+00:00",
+  "title": "[속보] 트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억 달러 투입\"",
+  "ko": "[속보] 트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억 달러 투입\"",
+  "lang": "ko",
+  "outlet": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZQWZpZnRXNTVaaTRtQXN3YUlUbVg0LTJXdEU4QVYxdkNTcnVFSEcwVFFTLVpiMkE4cnNnT0lTbnRCQVpRYmxDRDdfOHJ1YzlmS1ZvdnpsM3MwSHR6?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "4fe2dc02be",
+  "time": "2026-10-02T12:52:21+00:00",
+  "title": "I’m even more bullish about stocks than a year ago",
+  "ko": "I’m even more bullish about stocks than a year ago",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a7aa3462d3",
+  "time": "2026-10-02T12:50:41+00:00",
+  "title": "[속보] 트럼프 “韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입”",
+  "ko": "[속보] 트럼프 “韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입”",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWmR6ODVyelROSG9fdHlWdGZnejRlWFdtQ203eFFYMU1fS1BOWVlRMC1pMEQweGRTQm0tNFlsWjNCYWI2T2ZrTjFSWTFycjV4akxYQTRn?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "6b30c04b2a",
+  "time": "2026-10-02T12:48:00+00:00",
+  "title": "[속보] 트럼프 \"한국과 협상 좋아져…석유 증산 프로젝트에 84억불 투입\"",
+  "ko": "[속보] 트럼프 \"한국과 협상 좋아져…석유 증산 프로젝트에 84억불 투입\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bndQbnhvMk9NelNJa2dNd3NiRUlZa3lUMEhTbEJYcUIydktxcW0ybU83Zy14ZE1vMEdWTUE4Vlc1a09OVmhGcU1fS0JTUGxCQ0NicVFPYU5XdWpTWlozcmZlVHNnTDA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "12d41c839a",
+  "time": "2026-10-02T12:47:44+00:00",
+  "title": "[속보] 트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입\"",
+  "ko": "[속보] 트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002181000071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "MBC",
+   "YTN",
+   "뉴스1",
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "5d141868ed",
+  "time": "2026-10-02T12:35:32+00:00",
+  "title": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 ‘기계의 화폐’로 주목받는 이유[엠블록레터]",
+  "ko": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 ‘기계의 화폐’로 주목받는 이유[엠블록레터]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12167560",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ca1d866f54",
+  "time": "2026-10-02T12:03:50+00:00",
+  "title": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은 경고 [플러스 관심종목]",
+  "ko": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은 경고 [플러스 관심종목]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12167540",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8b5c20e587",
+  "time": "2026-10-02T12:02:00+00:00",
+  "title": "Trump pushes Senate Republicans on ‘No More Changing of Clocks Act’",
+  "ko": "Trump pushes Senate Republicans on ‘No More Changing of Clocks Act’",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWF2aUxSOEtlN2VadHpqMnRldS1PUGVmYzh1VllsRkVCd09PMUNJT2N6QzZ5MldZX3NwLTh0Ri14NWtEekZoSWhJcWRYOTZGYXQ4RE85RC0tSzJQY1pZeWpRazR5cXgybGtTS3NDaGRwc1NHSmpHLUJFNG9TTV9vTXFMdXNvUkpqVkdQcHNkU1M5aWk2X0VsS0htZjY4VnNCTWfSAacBQVVfeXFMTzlWUVFGbGp0ZDNMaHFQR2ZvaVdnaUxCdHdfLWdYSUh2SmNSWDVMUERzMVJXYlFzMnk0VEwtUFVyMHo2QWJmQkh5R2h0N3ByRDJWNERKYWJrd0hTQlA1OU1zU0xfTXNZeHRTS0dzWjVKSTJvYncwa2xmUDRmMG5LY1JHZHRYUFRTU1E4eGpiUDhPX1JFNk90SFh6QmFlSjZjTWhrdmthR1k?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "22ce544b0e",
+  "time": "2026-10-02T12:01:58+00:00",
+  "title": "Gold miner M&A is finally producing something that glitters",
+  "ko": "Gold miner M&A is finally producing something that glitters",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/64d54c96-0124-45d0-842c-587ab0641ee2?syn-25a6b1a6=1",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "6f056713bc",
   "time": "2026-10-02T08:29:17+00:00",
   "title": "이재명 대통령, \"청년 어려움 이해하고 노인 존중하는 성숙한 사회에 최선\" [뉴시스Pic]",
@@ -5275,635 +5994,5 @@
   "also": [
    "뉴시스"
   ]
- },
- {
-  "id": "be6bb6f979",
-  "time": "2026-10-01T00:06:17+00:00",
-  "title": "전국 고속도로서 피지컬 AI 실증…현대차그룹, 도로공사와 맞손",
-  "ko": "전국 고속도로서 피지컬 AI 실증…현대차그룹, 도로공사와 맞손",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001033300003",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "aae4d49d72",
-  "time": "2026-10-01T00:06:16+00:00",
-  "title": "앤트로픽 \"피지컬AI, 사람 노동 74% 대체가능...문제는 비용\"[글로벌AI브리핑]",
-  "ko": "앤트로픽 \"피지컬AI, 사람 노동 74% 대체가능...문제는 비용\"[글로벌AI브리핑]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010757229103",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "17989a6f3e",
-  "time": "2026-10-01T00:05:17+00:00",
-  "title": "트럼프 정부 \"의료 비용 절감했다\"며 100만명에 500弗 지급개시",
-  "ko": "트럼프 정부 \"의료 비용 절감했다\"며 100만명에 500弗 지급개시",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001034100009",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8ffbf32b61",
-  "time": "2026-10-01T00:04:52+00:00",
-  "title": "베로나 “AI에이전트 권한 가지려면 블록체인 인증 필수” [매일코인]",
-  "ko": "베로나 “AI에이전트 권한 가지려면 블록체인 인증 필수” [매일코인]",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12165589",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "52c9447001",
-  "time": "2026-10-01T00:04:41+00:00",
-  "title": "[속보] 9월 수출, 사상 최초 1200억달러 돌파…반도체 호황도 역대 최대 - 조선비즈",
-  "ko": "[속보] 9월 수출, 사상 최초 1200억달러 돌파…반도체 호황도 역대 최대 - 조선비즈",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzR2T3dnWTdwNlJZYVpBcjZDdkhqLWxCMGM2bkVtc2U4SWxyVlJ6cXliTnJUX1RPM0dMQV9KTXlZTTc4ZHJVTUNNV2doLUtDZkhOMTJjT1ZKRDQ4U3lIeDl1R1lIby1VeHdmN1owY0xfM0R0Y0JLMEpQZmtIX2h6UVdXV2tfQdIBmgFBVV95cUxPeUNwX3M2WWVrd1ZkXzJ0ZkRMY251cW1FeUpMVEJGYjhlMElLXzY5Mm8wNGFkby1jZVRwQjhWVWl1VFR3bjFBQkg1ck41QW9ObEtTTXUySjBCSkVqRnhxS2V1TDR0bVRBMjZvZkdmSGRxMTN6TUJVTUc2ZXBOdmpNV1FSQ1BKS3VNUnN1X2p1YmdKc1dHWW5mdklR?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bdd7234c78",
-  "time": "2026-10-01T00:03:59+00:00",
-  "title": "[속보]코스피, 6800선 하회… 장중 0.66%",
-  "ko": "[속보]코스피, 6800선 하회… 장중 0.66%",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tTUFJZzdtOUtvQUFVQzhqZ0ZSU3dpd05sdmxsaVlWbkk2azM1UHFJcWZKS2F1UlVjRzVQRUthREJ1TTVRT05XTDZWbWRtSXJ2eEgtT2Z1M3A2VmxPdmhtMnp3LURCZ2ZM?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "273ddd94e0",
-  "time": "2026-10-01T00:03:30+00:00",
-  "title": "[속보] 정부, 엘리엇 ISDS 사건 패소…\"4849만 달러·지연이자 배상하라\"",
-  "ko": "[속보] 정부, 엘리엇 ISDS 사건 패소…\"4849만 달러·지연이자 배상하라\"",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SLWpFMGI0Z3ZQbk1oNXJPNnRFUmZvdlRacTBhcGxSTThJU09hdW5iaWdjVFNFS05mdXVJNkFBcjBIOEJYWkN2ZDdua1hkbUNyb3c5OTJXWG9vbHBmTHY5MG5KaTHSAWpBVV95cUxQTW5hQVpaWDBBNTBWYnBob0thUnhuZnUzX3R4UHVrNlllZG51bTVXdFB1ZWtJVEUtYnprUTZhN3R6WHdQVGlPMnhJVjloaHcyZ19uQVZDaHBYZ1phZTl3ckE4ODllOG82YmxR?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "한국경제"
-  ]
- },
- {
-  "id": "9555a47f59",
-  "time": "2026-10-01T00:03:21+00:00",
-  "title": "[속보] 9월 수출 1209억 달러 전년대비 83.5％↑…역대 최대",
-  "ko": "[속보] 9월 수출 1209억 달러 전년대비 83.5％↑…역대 최대",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01T0cyM0Q4XzZadTVrbm9zampxNzdQUFNLeS1zbTRnbXo3ZGFqMjFGWXltSl9aMjFsVTh4MUNRMHAwM3ZnU2piTlhoOTNLSmx1NDVkd3lXYXE1cDB3aFJz0gFkQVVfeXFMTnUwNXRwSjBiOENocFpyLTFQLXo4R0JxZDJnMG92ZjBnb29Id0NCcF9LajFHOWJSb084NVRJSFhFMmNkMHg2bkhsNEJfTFk5dUY5SHdfNFVyN1VXZFJoRHBSZkhpRQ?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "93988caaf9",
-  "time": "2026-10-01T00:02:56+00:00",
-  "title": "[속보]코스닥, 1.95포인트(0.23%) 내린 853.96 개장",
-  "ko": "[속보]코스닥, 1.95포인트(0.23%) 내린 853.96 개장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261001_0003809985",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "6eccf70436",
-  "time": "2026-10-01T00:02:47+00:00",
-  "title": "與, 트럼프 '알래스카 LNG 투자' 발표에 \"확정 아냐\" 선긋기",
-  "ko": "與, 트럼프 '알래스카 LNG 투자' 발표에 \"확정 아냐\" 선긋기",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010851352328",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d33a44d459",
-  "time": "2026-10-01T00:02:45+00:00",
-  "title": "[속보]9월 반도체 수출 603억달러…사상 첫 600억달러 넘어서",
-  "ko": "[속보]9월 반도체 수출 603억달러…사상 첫 600억달러 넘어서",
-  "lang": "ko",
-  "outlet": "아시아경제",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aMl81c0cxVFF4ZFYzTU1QZ0xEZkloWU4xNGljU2g3eUp0ZEFNMDZqalE3UjhvcFEyV2poUDVMUVJkNFd0VTdlZFdZT2N4eGVTY2FGdFliaFA1b090YlRJLQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "73ca5107b9",
-  "time": "2026-10-01T00:02:25+00:00",
-  "title": "[속보] 9월 무역수지 498.5억달러 흑자…사상 첫 400억달러 상회",
-  "ko": "[속보] 9월 무역수지 498.5억달러 흑자…사상 첫 400억달러 상회",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001034800003",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "86a89f9257",
-  "time": "2026-10-01T00:01:45+00:00",
-  "title": "[속보]코스피, 23.55p(0.34%) 내린 6814.49 출발",
-  "ko": "[속보]코스피, 23.55p(0.34%) 내린 6814.49 출발",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010901079290",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "연합뉴스"
-  ]
- },
- {
-  "id": "227138515e",
-  "time": "2026-10-01T00:01:44+00:00",
-  "title": "[속보] 9월 수출 사상 첫 1,200억·흑자 499억 달러 '역대 최대'",
-  "ko": "[속보] 9월 수출 사상 첫 1,200억·흑자 499억 달러 '역대 최대'",
-  "lang": "ko",
-  "outlet": "MBC",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ua3pYT0FFVnlwRmlva29SNEc1Mnh2Z011UTcxRDlOQk40QUc3TkUtZ1JCS09JdGFqajFkVDJFel8zNDkwams4M0h0cUJia2dfaDlIaWVPc1ExT0tvZVFqYzg2Z0JOY04waENxSWVkYVJnZGsz0gF0QVVfeXFMUGxkZEViSnR6bWpqUVpxa2hrYmtoUTNUeVRCNVEtTEtYOV9XbERkUGxvbFVDenhhS01EUXY4a2ljMy1DQ2pyNjE4QjY2RUJQWml2ejFGN2d1QU9TOVV1ZW82TU1xMTBydHRZSkZaUXZLX2pGc0c?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "cb2ea0e9c4",
-  "time": "2026-10-01T00:01:41+00:00",
-  "title": "[코스닥] 1.95p(0.23%) 내린 853.96(개장)",
-  "ko": "[코스닥] 1.95p(0.23%) 내린 853.96(개장)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001035300008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "e5b7407cd1",
-  "time": "2026-10-01T00:01:30+00:00",
-  "title": "[속보]코스피, 23.55포인트(0.34%) 내린 6814.49 개장",
-  "ko": "[속보]코스피, 23.55포인트(0.34%) 내린 6814.49 개장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261001_0003809983",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "연합뉴스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "4eacfe183a",
-  "time": "2026-10-01T00:01:27+00:00",
-  "title": "[코스피] 23.55p(0.34%) 내린 6,814.49(개장)",
-  "ko": "[코스피] 23.55p(0.34%) 내린 6,814.49(개장)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001035400008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "afe70db3a7",
-  "time": "2026-10-01T00:01:19+00:00",
-  "title": "OKX “은행과 지갑처럼 코인거래소와 웹3 월렛 모두 앞으로도 중요할 것” [매일코인]",
-  "ko": "OKX “은행과 지갑처럼 코인거래소와 웹3 월렛 모두 앞으로도 중요할 것” [매일코인]",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12165583",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4c5755509d",
-  "time": "2026-10-01T00:01:14+00:00",
-  "title": "다올투자證 \"삼성SDS, AI 데이터센터 본격 확장…목표가 27만원\"",
-  "ko": "다올투자證 \"삼성SDS, AI 데이터센터 본격 확장…목표가 27만원\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261001_0003810014",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1fd28a4fe7",
-  "time": "2026-10-01T00:01:00+00:00",
-  "title": "[속보] 9월 수출 1,209억 달러 ‘사상 최대’…반도체 600억 달러 넘어 역대 최대치",
-  "ko": "[속보] 9월 수출 1,209억 달러 ‘사상 최대’…반도체 600억 달러 넘어 역대 최대치",
-  "lang": "ko",
-  "outlet": "KBS",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZFgyQ1VRVGJFRmdhZ3V0eUtPZGxwd2wxTXhzVkhDNzFrQmxNYzJPdkhTRjFEX1BfNzdrRTRBbDZxa0NFY0lTWHE1VWhPdWJzTU5xaHNUYVpBa0k?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "서울신문"
-  ]
- },
- {
-  "id": "7bfc91c95c",
-  "time": "2026-10-01T00:00:55+00:00",
-  "title": "[속보] 9월 수출 1209억弗 ‘역대 최대’…반도체 첫 600억弗 돌파",
-  "ko": "[속보] 9월 수출 1209억弗 ‘역대 최대’…반도체 첫 600억弗 돌파",
-  "lang": "ko",
-  "outlet": "서울신문",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DZU5sRXhjRWNKNzBsa0t3YWlSYWdtMkd2Y2tvN0dxMjViQnpNM3FKYXd6MnBJV25DeDlpVEtmZzhPdlBfdFBQSkRZYXpCSWRDQ0kycUxCVWRuOWVfX3N6OFFFUFNMOURXN3RreHdVQQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "KBS",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "46acc1029a",
-  "time": "2026-10-01T00:00:41+00:00",
-  "title": "충남도, AI·ASF 등 가축전염병 특별방역…24시간 비상대응",
-  "ko": "충남도, AI·ASF 등 가축전염병 특별방역…24시간 비상대응",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001031800063",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f9afc40685",
-  "time": "2026-10-01T00:00:31+00:00",
-  "title": "[속보]9월 수출 1209억달러…전년比 83.5%↑ 월간 사상 최대",
-  "ko": "[속보]9월 수출 1209억달러…전년比 83.5%↑ 월간 사상 최대",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wX0wwMG9NTFRFWkZFOEhwaVdnRVFaZC1SOXVZWjRJb21RRVgyV3BRcFFqODFBelhOT2JmRDhMU05SUE5JRTRZU3QwU0ZiTFAyOUJOQnpyS0pxR1UxQ3ZJcTRnS0dOd0JSTjVNd01oUnMyOUFXaFh1etIBfkFVX3lxTE5wR29VYm55OExKcHd2eXlXZUFWTEk2R1M1Y2FnZzJRaDZnbGFOZms5ZVJpUldIdU5feXlpZzhTdzNreG5EQ1BqbFJNUlZldkpUMTRJWXdlMnlTLXZBcFk1bWFBSXRmaTJGWHRNQ3pyT0JBN3NRQTNTTTU4WDU2UQ?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f76896f72c",
-  "time": "2026-10-01T00:00:15+00:00",
-  "title": "[속보] 9월 반도체 수출 603억달러…사상 첫 600억달러 돌파",
-  "ko": "[속보] 9월 반도체 수출 603억달러…사상 첫 600억달러 돌파",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001034000003",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "아시아경제"
-  ]
- },
- {
-  "id": "a0af629f76",
-  "time": "2026-10-01T00:00:00+00:00",
-  "title": "[1보] 한국 수출 첫 8천억달러 돌파…9월 역대 최대 1천200억달러",
-  "ko": "[1보] 한국 수출 첫 8천억달러 돌파…9월 역대 최대 1천200억달러",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001033700003",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "중앙일보"
-  ]
- },
- {
-  "id": "d4e0b1c768",
-  "time": "2026-10-01T00:00:00+00:00",
-  "title": "[속보]반도체 수출 전년比 263%↑…단일 품목 사상 첫 600억불↑경신",
-  "ko": "[속보]반도체 수출 전년比 263%↑…단일 품목 사상 첫 600억불↑경신",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261001_0003809868",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2c3ee36263",
-  "time": "2026-10-01T00:00:00+00:00",
-  "title": "[속보] 9월 수출 1209억달러 '역대 최대'…누적 첫 8000억달러 돌파",
-  "ko": "[속보] 9월 수출 1209억달러 '역대 최대'…누적 첫 8000억달러 돌파",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010857177673",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "MBC",
-   "연합뉴스"
-  ]
- },
- {
-  "id": "816f64bd29",
-  "time": "2026-10-01T00:00:00+00:00",
-  "title": "[속보] 9월 수입 26% 늘어난 710.9억달러…498.5억달러 흑자",
-  "ko": "[속보] 9월 수입 26% 늘어난 710.9억달러…498.5억달러 흑자",
-  "lang": "ko",
-  "outlet": "뉴스핌",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80NWNtTWlOTFY1QWRodDB0R0cxWXMtVGQ0QVpvRTE2SGZtVVNiTVNRaHBtWkoyN3ZUTW1qdUUwMTVTNDRaRDNMbFRITlhqSzBqWDZON29qZkhOMjV4?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a16c13402b",
-  "time": "2026-10-01T00:00:00+00:00",
-  "title": "[속보] 9월 수출 1209.4억달러 '사상최대'…전년대비 83.5% 증가",
-  "ko": "[속보] 9월 수출 1209.4억달러 '사상최대'…전년대비 83.5% 증가",
-  "lang": "ko",
-  "outlet": "뉴스핌",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80MDlNTVlQS2MxdGhfSnc0MEJQM3ByWDgwc3p4VkZYZW93VmtSRkZDeFhkQTZmZVpJUDA5Wnc2R0ZvMEVncWtYQk90V0hxZW1yQUtKM2lkQk9hMGxq?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "367508aa94",
-  "time": "2026-09-30T23:58:16+00:00",
-  "title": "코딩 몰라도 AI 에이전트 만든다…SK AX, 실무형 교육 프로그램 출시",
-  "ko": "코딩 몰라도 AI 에이전트 만든다…SK AX, 실무형 교육 프로그램 출시",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261001_0003809974",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4339dfa774",
-  "time": "2026-09-30T23:58:14+00:00",
-  "title": "현대차그룹, 고속도로를 '미래차 실험실'로…충전·피지컬 AI 실증 나선다",
-  "ko": "현대차그룹, 고속도로를 '미래차 실험실'로…충전·피지컬 AI 실증 나선다",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010853509078",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c541385f4f",
-  "time": "2026-09-30T23:56:37+00:00",
-  "title": "Trump unveils South Korean investment in pipeline in Alaska, site of a tight Senate race",
-  "ko": "Trump unveils South Korean investment in pipeline in Alaska, site of a tight Senate race",
-  "lang": "en",
-  "outlet": "CBS News",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcC1DdUo3MlpYYnVISEtZb0dkTk1Kd3F2Rkw4SVVuWDhRVmR6N0ZyUkRSY2RwNUtHeWc0XzNOcHlPamQxRU9uMThJRHZQVmJFamN0RXlVSTVDV01admpUMnVNSWl6QUcxT3g1MWxYOUUwNllPTGxfZVVQaHhMV1c1THNQU096UQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0cce708e57",
-  "time": "2026-09-30T23:55:22+00:00",
-  "title": "삼성전자, JBL 창립 80주년 특별 기획전…오디오 제품 최대 48% 할인",
-  "ko": "삼성전자, JBL 창립 80주년 특별 기획전…오디오 제품 최대 48% 할인",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261001_0003809978",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "43e5dbbdc7",
-  "time": "2026-09-30T23:47:36+00:00",
-  "title": "하나증권 “포스코인터내셔널, 에너지 자산 수익 개선…안정적 성장”",
-  "ko": "하나증권 “포스코인터내셔널, 에너지 자산 수익 개선…안정적 성장”",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12165576",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "68dcbdcbc5",
-  "time": "2026-09-30T23:47:06+00:00",
-  "title": "KB증권 “삼성전자, 하반기 70조 현금배당 가능”",
-  "ko": "KB증권 “삼성전자, 하반기 70조 현금배당 가능”",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12165575",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dcd53e5408",
-  "time": "2026-09-30T23:46:28+00:00",
-  "title": "현대차, 고객 아이디어로 車앱 만든다…생성형 AI '창밖동화' 대상",
-  "ko": "현대차, 고객 아이디어로 車앱 만든다…생성형 AI '창밖동화' 대상",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010840535423",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "05eb6c58b0",
-  "time": "2026-09-30T23:43:32+00:00",
-  "title": "\"9월엔 폭락\" 징크스도 깼다... 비트코인, 9월 수익률 역대 최대",
-  "ko": "\"9월엔 폭락\" 징크스도 깼다... 비트코인, 9월 수익률 역대 최대",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010735342806",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e8a1c2ef26",
-  "time": "2026-09-30T23:40:43+00:00",
-  "title": "Trump acknowledges bind he faces on immigration policies",
-  "ko": "Trump acknowledges bind he faces on immigration policies",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzZpUUozS2h4VnRfYUp4MUZsRnFiTGV2RFZFTlkwV2FxTFAzRm5fWGxsTllXenJHbFFpTUI4VmFaWl9Namp2T2xCWGlKdF80aHdDWEd3Qk5rc09PMTh5NDVleXBxbEdUUllIaTlWdUNXYjBfalUxWEZZWkdwUVk0bzZIUkhKLURSM2lfSmY3cnI5SnBfTzkxZWtGb1pLMTJhaFdiTW4wQnNFZmVLbzVoQm0tb0ozVUNh?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6b3e044538",
-  "time": "2026-09-30T23:37:01+00:00",
-  "title": "NH증권, NHN 목표가↑…\"네오클라우드 성장이 실적개선 전망\"",
-  "ko": "NH증권, NHN 목표가↑…\"네오클라우드 성장이 실적개선 전망\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001028200008",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e6fb648545",
-  "time": "2026-09-30T23:36:29+00:00",
-  "title": "제주, 소상공인 보증 1805억 확대… 취약층엔 연 1% 생활자금",
-  "ko": "제주, 소상공인 보증 1805억 확대… 취약층엔 연 1% 생활자금",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010832586474",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b4553525c3",
-  "time": "2026-09-30T23:34:45+00:00",
-  "title": "'누구나 AI증강' SK AX, '부트캠프 바이브'로 업무혁신",
-  "ko": "'누구나 AI증강' SK AX, '부트캠프 바이브'로 업무혁신",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610010828422626",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a3ffaf4250",
-  "time": "2026-09-30T23:33:52+00:00",
-  "title": "주가 빠진 오리온, 지금이 기회?…“배당 4%대·저점 매수 유효”",
-  "ko": "주가 빠진 오리온, 지금이 기회?…“배당 4%대·저점 매수 유효”",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12165573",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
  }
 ]
