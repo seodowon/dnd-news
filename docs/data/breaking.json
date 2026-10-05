@@ -1,5 +1,439 @@
 [
  {
+  "id": "cc504900fc",
+  "time": "2026-10-05T02:15:00+00:00",
+  "title": "\"AI로 문구 썼는데 불법 광고\"..서울시, 무자격 부동산 광고 2명 송치",
+  "ko": "\"AI로 문구 썼는데 불법 광고\"..서울시, 무자격 부동산 광고 2명 송치",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610042035510123",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e06269fd8c",
+  "time": "2026-10-05T02:09:44+00:00",
+  "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+  "ko": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+  "lang": "en",
+  "outlet": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "ABC News"
+  ]
+ },
+ {
+  "id": "f5b6104c3b",
+  "time": "2026-10-05T02:08:09+00:00",
+  "title": "日, 유사시 부대·주민 수송용 AI 자율운항선 도입…무인화 추진",
+  "ko": "日, 유사시 부대·주민 수송용 AI 자율운항선 도입…무인화 추진",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005025600073",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c75d6f9c1a",
+  "time": "2026-10-05T02:07:40+00:00",
+  "title": "\"은행도 뚫렸는데, 내 돈 빼야 하나\"…AI해킹 사태에 금융소비자 불안감",
+  "ko": "\"은행도 뚫렸는데, 내 돈 빼야 하나\"…AI해킹 사태에 금융소비자 불안감",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261005_0003814316",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "86936b83ec",
+  "time": "2026-10-05T02:05:51+00:00",
+  "title": "최태원 SK 회장, 9440억 지분 매각…‘주가 충격 최소화’에 방점",
+  "ko": "최태원 SK 회장, 9440억 지분 매각…‘주가 충격 최소화’에 방점",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261005_0003814301",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "25e1395293",
+  "time": "2026-10-05T02:00:01+00:00",
+  "title": "AI로 그리는 지역의 미래…산업부, '5극3특' 영상 공모전",
+  "ko": "AI로 그리는 지역의 미래…산업부, '5극3특' 영상 공모전",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005019800003",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "79bb1e3abd",
+  "time": "2026-10-05T02:00:00+00:00",
+  "title": "'5극3특' 미래 AI 영상으로 그린다…총 21편 시상",
+  "ko": "'5극3특' 미래 AI 영상으로 그린다…총 21편 시상",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261005_0003814136",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b5ed84d22d",
+  "time": "2026-10-05T02:00:00+00:00",
+  "title": "한농대, 청년 임업 창업 키운다…AI 활용부터 가공·마케팅까지",
+  "ko": "한농대, 청년 임업 창업 키운다…AI 활용부터 가공·마케팅까지",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261005_0003814135",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f9ba34845f",
+  "time": "2026-10-05T01:51:14+00:00",
+  "title": "AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대'",
+  "ko": "AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005025700530",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b29bba0a14",
+  "time": "2026-10-05T01:38:37+00:00",
+  "title": "머스크, AI회사명 스페이스XSI로 변경한다…트럼프 기조 맞추기",
+  "ko": "머스크, AI회사명 스페이스XSI로 변경한다…트럼프 기조 맞추기",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610051035011778",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "6eaa9acad9",
+  "time": "2026-10-05T01:26:40+00:00",
+  "title": "머스크, AI회사명 스페이스XSI로 변경 시사…트럼프 기조 맞추기",
+  "ko": "머스크, AI회사명 스페이스XSI로 변경 시사…트럼프 기조 맞추기",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005022600091",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "ec212b5d65",
+  "time": "2026-10-05T01:21:40+00:00",
+  "title": "[AI픽] LGU+ '유독', 글로벌 AI 서비스 품는다",
+  "ko": "[AI픽] LGU+ '유독', 글로벌 AI 서비스 품는다",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005021700017",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0cbc523aca",
+  "time": "2026-10-05T01:20:20+00:00",
+  "title": "올트먼 \"AI 혜택 위해 위험감수\" 강조… \"나쁜 일을 일부 받아들여야\"",
+  "ko": "올트먼 \"AI 혜택 위해 위험감수\" 강조… \"나쁜 일을 일부 받아들여야\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610051008112185",
+  "section": "ai",
+  "people": [
+   "샘 올트먼"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "076b037bc2",
+  "time": "2026-10-05T01:16:43+00:00",
+  "title": "“美공장 가동하길 잘했네”…관세 발효 앞두고 날아오른 한화솔루션 [이주의 Bull기둥]",
+  "ko": "“美공장 가동하길 잘했네”…관세 발효 앞두고 날아오른 한화솔루션 [이주의 Bull기둥]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12168306",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a0d57ac8b1",
+  "time": "2026-10-05T01:10:00+00:00",
+  "title": "전남광주시의회, 반도체 용수 '댐 하류도 지원' 촉구",
+  "ko": "전남광주시의회, 반도체 용수 '댐 하류도 지원' 촉구",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002138500054",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6cbd84f4ba",
+  "time": "2026-10-05T01:07:30+00:00",
+  "title": "\"비번 끝 숫자만 바꾸면 뚫린다\"…금융 AI 해킹 '2차 피해' 막으려면[긴급진단-AI해킹 포비아③]",
+  "ko": "\"비번 끝 숫자만 바꾸면 뚫린다\"…금융 AI 해킹 '2차 피해' 막으려면[긴급진단-AI해킹 포비아③]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261004_0003814078",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3ecfb399e4",
+  "time": "2026-10-05T01:00:01+00:00",
+  "title": "\"돈 잘 버는데 왜 또 쪼개?\"…'4중 상장설'에 하닉 개미 뿔났다 [강경주의 테크X]",
+  "ko": "\"돈 잘 버는데 왜 또 쪼개?\"…'4중 상장설'에 하닉 개미 뿔났다 [강경주의 테크X]",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026100204896",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3f80659c73",
+  "time": "2026-10-05T00:55:43+00:00",
+  "title": "올트먼 \"AI 혜택 위해 위험감수해야\"…앤트로픽 규제론과 차별화",
+  "ko": "올트먼 \"AI 혜택 위해 위험감수해야\"…앤트로픽 규제론과 차별화",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005018300091",
+  "section": "ai",
+  "people": [
+   "샘 올트먼"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3e74c9cf49",
+  "time": "2026-10-05T00:55:30+00:00",
+  "title": "ICE 투입·SNS 선동…美민주, '트럼프 선거개입' 150개 상황 대비",
+  "ko": "ICE 투입·SNS 선동…美민주, '트럼프 선거개입' 150개 상황 대비",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261005_0003814171",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2f4a4f9ba9",
+  "time": "2026-10-05T00:47:00+00:00",
+  "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+  "ko": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZEpYeEUwRXdqbHhUS240eE1iaWdsSDBWQmNOcjhqbnBENVotaHN3SjlCRnVSQWU4d2REVXg5NEVpQ2ZNdDM5N2t5U2tzMkVQaUpFNFI1LThucVhZaGZwRVBXWnhVQVVJNkFvRmE4SlRxNFlCZHNoM3k3ZzlRQdIBfkFVX3lxTE1fZEpYeEUwRXdqbHhUS240eE1iaWdsSDBWQmNOcjhqbnBENVotaHN3SjlCRnVSQWU4d2REVXg5NEVpQ2ZNdDM5N2t5U2tzMkVQaUpFNFI1LThucVhZaGZwRVBXWnhVQVVJNkFvRmE4SlRxNFlCZHNoM3k3ZzlRQQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c9efbf8ddd",
+  "time": "2026-10-05T00:19:56+00:00",
+  "title": "대구시, 매립가스 자원화로 탄소배출권 21만9천t 신규 확보",
+  "ko": "대구시, 매립가스 자원화로 탄소배출권 21만9천t 신규 확보",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005016000053",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "07c77c3c68",
+  "time": "2026-10-05T00:17:14+00:00",
+  "title": "경북도, 미국 유타주·유타대와 AI·반도체 등 첨단산업 협력",
+  "ko": "경북도, 미국 유타주·유타대와 AI·반도체 등 첨단산업 협력",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261005015400053",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b75a03dfa8",
+  "time": "2026-10-05T00:13:33+00:00",
+  "title": "\"국채 5%에도 주식이 낫다…반도체 대형주 쥐고 오래 기다려라\"",
+  "ko": "\"국채 5%에도 주식이 낫다…반도체 대형주 쥐고 오래 기다려라\"",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202610042842i",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6fa0a5a38e",
+  "time": "2026-10-05T00:00:03+00:00",
+  "title": "우리은행, '우다페' 연계 '다함께 적금'…최고 연 9.0% 금리",
+  "ko": "우리은행, '우다페' 연계 '다함께 적금'…최고 연 9.0% 금리",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261004020300002",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "af5be43ff8",
+  "time": "2026-10-05T00:00:00+00:00",
+  "title": "삼성SDS, 구미 AI 데이터센터 건립 위해 지역 상생",
+  "ko": "삼성SDS, 구미 AI 데이터센터 건립 위해 지역 상생",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610021311104666",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7f4caa7e45",
+  "time": "2026-10-05T00:00:00+00:00",
+  "title": "AI로 되살아난 '경무국장 김구'…경찰박물관 특별전",
+  "ko": "AI로 되살아난 '경무국장 김구'…경찰박물관 특별전",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610041246596450",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d2fc0452d8",
+  "time": "2026-10-04T23:48:44+00:00",
+  "title": "美민주당 '트럼프 권한' 제동 법안 추진… 반(反)트럼프 호소",
+  "ko": "美민주당 '트럼프 권한' 제동 법안 추진… 반(反)트럼프 호소",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610050834354994",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "083f0f9367",
+  "time": "2026-10-04T23:46:59+00:00",
+  "title": "美민주당, 150가지 시나리오로 트럼프의 선거 개입 대비",
+  "ko": "美민주당, 150가지 시나리오로 트럼프의 선거 개입 대비",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610050839175353",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "782c65ec68",
+  "time": "2026-10-04T23:45:01+00:00",
+  "title": "[AI픽] '예·아니오'만 답하는 AI가 뜬다…0.1초 판단 '제브'",
+  "ko": "[AI픽] '예·아니오'만 답하는 AI가 뜬다…0.1초 판단 '제브'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261003039700017",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "fbcfb4ab8f",
   "time": "2026-10-04T23:32:03+00:00",
   "title": "수십년 된 보안망도 '1분 컷'…AI가 바꾼 해킹의 법칙[긴급진단-AI 해킹 포비아①]",
@@ -351,7 +785,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "파이낸셜뉴스"
+  ]
  },
  {
   "id": "d3eb0ae113",
@@ -618,7 +1054,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "BBC"
+  ]
  },
  {
   "id": "c60589c36d",
@@ -4384,270 +4822,6 @@
   "outlet": "뉴시스",
   "url": "https://www.newsis.com/view/NISX20261003_0003813526",
   "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fcb4509be3",
-  "time": "2026-10-03T01:38:59+00:00",
-  "title": "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅데이터로 본 재테크]",
-  "ko": "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅데이터로 본 재테크]",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12167737",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1e07cc1fe9",
-  "time": "2026-10-03T01:30:22+00:00",
-  "title": "[마켓노트] 금리 인상보다 중요한 중동전쟁 종결",
-  "ko": "[마켓노트] 금리 인상보다 중요한 중동전쟁 종결",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261002135600980",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bc33bf13db",
-  "time": "2026-10-03T01:30:09+00:00",
-  "title": "트럼프 \"美전략비축유 곧 확충…이란전 끝나면 에너지가격↓\"",
-  "ko": "트럼프 \"美전략비축유 곧 확충…이란전 끝나면 에너지가격↓\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261003022600071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3a6a22a85b",
-  "time": "2026-10-03T01:05:07+00:00",
-  "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까",
-  "ko": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12167729",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "94bdedeaf7",
-  "time": "2026-10-03T01:00:04+00:00",
-  "title": "군포시, 미취업 청년에 AI 구독료 지원…최대 5만원",
-  "ko": "군포시, 미취업 청년에 AI 구독료 지원…최대 5만원",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261002148500061",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "19b5753084",
-  "time": "2026-10-03T01:00:00+00:00",
-  "title": "거세지는 中 범용칩 공세…삼전·닉스, '차세대 HBM'으로 격차 벌린다[초격차 코리아①]",
-  "ko": "거세지는 中 범용칩 공세…삼전·닉스, '차세대 HBM'으로 격차 벌린다[초격차 코리아①]",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261002_0003812872",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7e7a3392a6",
-  "time": "2026-10-03T00:45:00+00:00",
-  "title": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
-  "ko": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWdldi1vZEdnNjc3VC16dUNZalpqczFBU0JNdTNDR2FTMDhMbzRqVXlrWTNlcE9pSUxKM29hSkV5c3RfanFjNkdqTnJVbFJMWS10TkNzX1hrN1ZJcDh3OGEyQWFranRqWHY1bXUwZnRmRnBMc0kxakRCcXlfNllWaWlMSUJQU3lPVlFWNk5iVGZHLWR0V3fSAZsBQVVfeXFMUGpTV3pLU1JoZGtieEJuUERudnlTakJyaUZJaUpUY3FhbmRmYk10S2g5OVpMaTJTelhsN3praHNpQmQ1TXFLMXg0UTVjejFHejlyN0Vhei1OZHMyek1mYi1GNW9NS09BY2lfMTgyMklRaUI0aVlpejlOUzF5LUFhdmkzY0hoUXRlQlcybWJmbmg5WVJOMmJXbEwtZGM?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4002076c94",
-  "time": "2026-10-03T00:40:48+00:00",
-  "title": "Trump rallies his base as he voices concern about key midterm races",
-  "ko": "Trump rallies his base as he voices concern about key midterm races",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEpxUkpqNlE3c2RqaFpBVUlIZzNKT1UyakZORlpKbUl0ZzRXUFpLZ0h3VW5vNHFCUTdwZDlTR29rS1VCRm16azFKeW16M0lRRWVQNDdrOTVvb2FRTVIyOEVZOVpJTlA5TFRhMGxvaTVMdzFXZjMwczdjVEhqSFVoNThxWVUzLWFVTG5VQllRQzNLWmx5VHhFc0YzSFJCeVZDZzJVYUhpa0o4b2pzQmxqYlBTbmZ5bzRm?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "37974b38e4",
-  "time": "2026-10-03T00:39:01+00:00",
-  "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-  "ko": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTFJPTGlLalFGVjhTM2hsd0V5akllRTY0UHczQTZ6Zmd3NmpsWmc4YUpQWWY2VjBuVzlWNzY0cjh3RndlSXZfOG8yZGw1N3hTVUJGLTJRenRoVnFmMGx0cVdyaHJGaXpqZExwX0ZvUUhrQnhPcUNFQlpOdEdmcjZLUTFVS3htZw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5d77bdd509",
-  "time": "2026-10-03T00:35:23+00:00",
-  "title": "메타, AI안전 전문가들 3개월만에 해고…\"업무 스타일 안맞아\"",
-  "ko": "메타, AI안전 전문가들 3개월만에 해고…\"업무 스타일 안맞아\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261003020000091",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "80bc81334b",
-  "time": "2026-10-03T00:31:58+00:00",
-  "title": "하루에만 10% 오른 정유주…증권사들 \"내년 실적도 예상 웃돌 것\"",
-  "ko": "하루에만 10% 오른 정유주…증권사들 \"내년 실적도 예상 웃돌 것\"",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610031573i",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "aea0e1195d",
-  "time": "2026-10-03T00:23:41+00:00",
-  "title": "산업부, 트럼프 84억달러 석유 사업에 \"합의에 없어\"",
-  "ko": "산업부, 트럼프 84억달러 석유 사업에 \"합의에 없어\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610030916466210",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "645d60f9eb",
-  "time": "2026-10-03T00:12:22+00:00",
-  "title": "알리바바 인공지능 치엔원, 중국 우호 서사와 검열 내장",
-  "ko": "알리바바 인공지능 치엔원, 중국 우호 서사와 검열 내장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261003_0003813399",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a7d00b7033",
-  "time": "2026-10-03T00:00:03+00:00",
-  "title": "투자사기 피해금 카지노 칩으로 돈세탁…40대 징역 1년 8개월",
-  "ko": "투자사기 피해금 카지노 칩으로 돈세탁…40대 징역 1년 8개월",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261002074000051",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e20b309d6d",
-  "time": "2026-10-03T00:00:03+00:00",
-  "title": "[IPO챗] 디티에스 등 4개사 수요예측…2개사 공모주 청약",
-  "ko": "[IPO챗] 디티에스 등 4개사 수요예측…2개사 공모주 청약",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261002074300008",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4166434a3c",
-  "time": "2026-10-02T23:40:00+00:00",
-  "title": "\"금리 대폭 올리기 힘들어\"…전문가가 본 수도권 집값 안정의 조건",
-  "ko": "\"금리 대폭 올리기 힘들어\"…전문가가 본 수도권 집값 안정의 조건",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261002_0003812024",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2d8cee4c93",
-  "time": "2026-10-02T23:34:55+00:00",
-  "title": "트럼프, 이틀째 공화당 우세 지역에서 중간선거 지원",
-  "ko": "트럼프, 이틀째 공화당 우세 지역에서 중간선거 지원",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261003_0003813378",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1f16a993bf",
-  "time": "2026-10-02T23:34:42+00:00",
-  "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
-  "ko": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026100315297",
-  "section": "kr",
   "people": [],
   "flash": false,
   "official": false,
