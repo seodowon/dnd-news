@@ -1,5 +1,47 @@
 [
  {
+  "id": "5fea860d79",
+  "time": "2026-10-06T23:04:00+00:00",
+  "title": "“추가 금리인상 필요없을 수도” 연준위원 첫 발언, 파장은",
+  "ko": "“추가 금리인상 필요없을 수도” 연준위원 첫 발언, 파장은",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12169906",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4855467e06",
+  "time": "2026-10-06T23:01:11+00:00",
+  "title": "[오늘의 증시]실적 앞두고 美증시 강세…코스피, 반도체 훈풍에 반등 전망",
+  "ko": "[오늘의 증시]실적 앞두고 美증시 강세…코스피, 반도체 훈풍에 반등 전망",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261007_0003816538",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e337fd5099",
+  "time": "2026-10-06T22:58:29+00:00",
+  "title": "AI 수혜 HDD주 급락…TDK 인수전으로 경쟁 격화",
+  "ko": "AI 수혜 HDD주 급락…TDK 인수전으로 경쟁 격화",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261007019600009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "943cba4531",
   "time": "2026-10-06T22:50:00+00:00",
   "title": "LA and San Diego residents ‘horrified’ by Trump’s comment: ‘obsessed with us’",
@@ -499,7 +541,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "Financial Times"
+  ]
  },
  {
   "id": "088b97ef08",
@@ -509,6 +553,22 @@
   "lang": "en",
   "outlet": "The Guardian",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRqbGpiQWlOc3UwUlR5ZnJJR0FYSTZta0pDellXaTV4OGlna0NPNTN0dVlJMlk1Z0RmQ0J2MjYzVEIwakpyMFFsUlQ1aWlCaTBPZjBUdTR3ZEZxU3Z0NmhtTFctNThpbUpOZkcyaldXR1hUWmw2WWhHc3RNUkFkLVZfMUJQVF8tVGdIbURvTk5wZ2k4S2E0S2ZVblpGOHc2SFhiTGdiRUFuaWc?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "14083c74ea",
+  "time": "2026-10-06T21:14:45+00:00",
+  "title": "New Maryland defense shipyard gets $6.6 billion commitment and Trump visit",
+  "ko": "New Maryland defense shipyard gets $6.6 billion commitment and Trump visit",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnNtRWdSbGZ1VU9sbXBXSXlLMWQ1MmJWbjRNYllDdHhNQzFpdzdidnZBRGJhX0ZnWkJoRE1lX25lVE12dUw3cTZpV1luazdEc3MxSE81a1QwV05EUFBnWGNnMFFYQmR6R1hDSXNYV3FLZ0puTzNablBCRUlKOXZ3d1FyVm1FSldOT1VuaGZ0azAwcnk0aW1HRUhVNzZCY3RGRlE4ekwyM0VoZzBreFRrTmZVc3RkQWM3N2w4NUNsUURZUmc?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -546,6 +606,24 @@
   "flash": false,
   "official": false,
   "also": []
+ },
+ {
+  "id": "1271c99cc4",
+  "time": "2026-10-06T21:09:16+00:00",
+  "title": "Trump says he is considering suspending federal petrol tax",
+  "ko": "Trump says he is considering suspending federal petrol tax",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "The Guardian"
+  ]
  },
  {
   "id": "32c9b17cd6",
@@ -5764,104 +5842,6 @@
   "people": [
    "트럼프"
   ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c6f33bbdfd",
-  "time": "2026-10-04T23:00:11+00:00",
-  "title": "[기자수첩] 반도체는 묶었는데 민심은 못 묶었다…전남광주 100일",
-  "ko": "[기자수첩] 반도체는 묶었는데 민심은 못 묶었다…전남광주 100일",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261003046700054",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eae4571479",
-  "time": "2026-10-04T23:00:11+00:00",
-  "title": "[통합시 100일] ③ '800조 반도체' 유치…초광역 산업생태계 구축",
-  "ko": "[통합시 100일] ③ '800조 반도체' 유치…초광역 산업생태계 구축",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261001175700054",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f89f39ee0f",
-  "time": "2026-10-04T23:00:10+00:00",
-  "title": "\"'약속의 8일', 증시 충격 주의\"…23兆 ETF 확 바뀐다, 무슨 일?",
-  "ko": "\"'약속의 8일', 증시 충격 주의\"…23兆 ETF 확 바뀐다, 무슨 일?",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610020399i",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a573c4cc85",
-  "time": "2026-10-04T23:00:02+00:00",
-  "title": "\"일주일새 12% 올랐다\"…전고체 ETF 뛰는데 뭉칫돈 향한 곳은",
-  "ko": "\"일주일새 12% 올랐다\"…전고체 ETF 뛰는데 뭉칫돈 향한 곳은",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610042690i",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "62d8384bb2",
-  "time": "2026-10-04T23:00:00+00:00",
-  "title": "주담대 금리도 '들썩'…한은 추가 인상에 이자 더 오르나[금리 쇼크③]",
-  "ko": "주담대 금리도 '들썩'…한은 추가 인상에 이자 더 오르나[금리 쇼크③]",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261002_0003813177",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5ba2946f5b",
-  "time": "2026-10-04T23:00:00+00:00",
-  "title": "[단독]자살·성폭력 등 청소년 상담 기록 1만4000건, 민간에 AI 학습용 제공…별도 동의 절차 없어",
-  "ko": "[단독]자살·성폭력 등 청소년 상담 기록 1만4000건, 민간에 AI 학습용 제공…별도 동의 절차 없어",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261002_0003813165",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "abda43f669",
-  "time": "2026-10-04T23:00:00+00:00",
-  "title": "4대 과기원 수시 '역대 최대'…AI·반도체 열풍에 '3만명' 몰려",
-  "ko": "4대 과기원 수시 '역대 최대'…AI·반도체 열풍에 '3만명' 몰려",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261002_0003812734",
-  "section": "ai",
-  "people": [],
   "flash": false,
   "official": false,
   "also": []
