@@ -1,5 +1,691 @@
 [
  {
+  "id": "d042958d78",
+  "time": "2026-10-08T20:08:27+00:00",
+  "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
+  "ko": "Trump says US ‘will not be attacking Iran’ before midterm elections",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Reuters",
+   "Washington Post"
+  ]
+ },
+ {
+  "id": "dc889dd7dd",
+  "time": "2026-10-08T20:06:39+00:00",
+  "title": "[속보]AI주 급락·유가 급등에…나스닥 1.3% 하락",
+  "ko": "[속보]AI주 급락·유가 급등에…나스닥 1.3% 하락",
+  "lang": "ko",
+  "outlet": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0RTal84dmJzYmN2ejA1TGhiNGVad0pqVExsNlJlR2xiV3hya3NneTQ1Uk1wazctclM1enppYVRQVy0td2ZMZlBndGY3RnRPdGlhNHNPSEZ5RFFsZWpKYTM4TWFPbXpkVzAxRmstWk92SUFac1gtR1dBR0t5dmR4Nw?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a9be2b4a67",
+  "time": "2026-10-08T20:05:11+00:00",
+  "title": "국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등",
+  "ko": "국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261009006300072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fa5259675d",
+  "time": "2026-10-08T20:05:00+00:00",
+  "title": "[속보] 필라델피아 반도체지수 3.39%↓… 나스닥·S&P 500 하락",
+  "ko": "[속보] 필라델피아 반도체지수 3.39%↓… 나스닥·S&P 500 하락",
+  "lang": "ko",
+  "outlet": "국민일보",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnVRZVlCSm5kUldZLUJuWTBrN2VZeXdFTkg0ZkdXV0pBS2ZmUVZKR1AzMEllQ0h0dHVzdk1faklpeXFFV2JObUdTbWVtdG5kb0pWbzR6VHVKRU45Q2hZbmpDUk9CU2xnRWFvNEtpWG0xZEFOSTRiendvbFJPU2RPbng5cXRBMTJsdkw5Uk5UaGVOcTNKMXc?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ca8873bc64",
+  "time": "2026-10-08T19:57:04+00:00",
+  "title": "White House blocks Microsoft from foreign worker hiring program",
+  "ko": "White House blocks Microsoft from foreign worker hiring program",
+  "lang": "en",
+  "outlet": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "43684b7a15",
+  "time": "2026-10-08T19:56:30+00:00",
+  "title": "Trump says comment that Iran could 'take out' Los Angeles was misinterpreted",
+  "ko": "Trump says comment that Iran could 'take out' Los Angeles was misinterpreted",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlo5Y2pEcmFzbDdDSTdjYUdlR2t5dmlvMG44Q19yX3BKWEtLZC1yaXBCRUlYN1JXUDRsRERWbDQtUkhQSUJFSU9yZjVaUGppS25KQWpiUWswUU41eUpqU2c1RF9ZSGhJN2NySWxVQXROQ3ZQNUNYOTc1RXFqcnpFaFVJNmM3VDVFYzhWbnJWRmtoSnBBRGVQOF9jdy1ad21SVU9OX1RHS3NmM2ZKWmpkak5rNWg2dnZxWFpN?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "419f17af94",
+  "time": "2026-10-08T19:52:19+00:00",
+  "title": "Trump calls for Paxton-Talarico debate as Texas Senate race heats up",
+  "ko": "Trump calls for Paxton-Talarico debate as Texas Senate race heats up",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlljZ3U3UVVBMHEtTGl0Z2hkRXFLNW1xVk9tREotcWdndGxCUlVmVlRzZzJQeWZoUUxzVkxnV1BodEplOVB3QjhVVWI1REZwdlFTYUFYY1Q0V0Z6ZnpKd0N6ZTEwY2NsbmtpeXhQNURDeUNNTjNfOXVybVctbGJkcXVidzFVSldTNk9JaWJraEQ2ejJXM1dnUV9OeWtQUlhISEZDcU54YURWbDNObnpKZk9oOA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5c7c233669",
+  "time": "2026-10-08T19:51:00+00:00",
+  "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud",
+  "ko": "The Trump administration is suspending Microsoft from a green card program, alleging fraud",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "NBC News"
+  ]
+ },
+ {
+  "id": "6dd6fa0904",
+  "time": "2026-10-08T19:46:15+00:00",
+  "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+  "ko": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "95e8d647c8",
+  "time": "2026-10-08T19:36:00+00:00",
+  "title": "At Texas Rally, Trump and Paxton Make for an Awkward Pair",
+  "ko": "At Texas Rally, Trump and Paxton Make for an Awkward Pair",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGFaek1ZMzVtU1R6aEloMzU1QnNPMEQ2OTFvdll3TXBXRXNobm52MUJpT00zYkFRaWFkZG8tRjFWUHlUQnhJM1FtbHZXQkVVTFRlZUJzRE5Pcmw2VU96M3R2MzhOWVRiNkxScDByMGJLSHFOZUxCdlEyZTVTTVEwdnc0YnNVSzdnUTdHcEVGaUZTUTNwYjBIaHljMnZ6Sjh0bUdHOTlB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "76782e0fe4",
+  "time": "2026-10-08T19:30:23+00:00",
+  "title": "Trump officials block Microsoft’s access to program for employee green cards",
+  "ko": "Trump officials block Microsoft’s access to program for employee green cards",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxEWHVLM3hrdWRUWEVKUU1iWUV5Q1pWMU9qVFlqSmEyaldsUHhKQmE3Vm0zM24wRWI4a0RfQWdBUTVZMEFkZVdSUzFWbENCUWRJY0JtUU9kRkZXcXhvTnlST3RNd005N1VTNl94YVc3aFIzckltOHl0MVl3a2ZveHZJT0NKTmJTYVNPMGcwZUNuQXBTSnJHNVIxbTE1OW9wV0YxYTlUck5fdXg1NlJHbk1JQmYxam53MldLYmM0Vmc?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ea707d6cdb",
+  "time": "2026-10-08T19:29:13+00:00",
+  "title": "WTO, 올해 상품무역 증가율 3.9%로 상향…\"AI 호황, 이란전 충격 상쇄\"",
+  "ko": "WTO, 올해 상품무역 증가율 3.9%로 상향…\"AI 호황, 이란전 충격 상쇄\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261009_0003820008",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "be05e2463d",
+  "time": "2026-10-08T19:28:19+00:00",
+  "title": "Trump’s Nobel ambitions fade, but Norway still fears his wrath",
+  "ko": "Trump’s Nobel ambitions fade, but Norway still fears his wrath",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPal9wX1UzMW9ZMmtBVHUxV0dyelZUNnNPZVJBQTNoR1NsMV9majNyMTRsYW1pR3pCYjdaX2RITjZ6akpJazlFSGFkVTVlc1hkclJpQVJYZzR4VnB5V2NLMFJyTnAxSFRGdkJLMHJGVWRLeFJoN2ZPaHpSdmkxWlVSZ0xlNHRhRHhmc2hYRXZxNnRsS2RPQWJfeGR2UHdNRVRESWNaeElZZjVQcTFneTViaVhLU3FQOW9PVWc?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cc7ce7fe1b",
+  "time": "2026-10-08T19:23:04+00:00",
+  "title": "Trump Awards Elon Musk National Medal Of Science (Photos)",
+  "ko": "Trump Awards Elon Musk National Medal Of Science (Photos)",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUmd5enU5aTRRd0dDekJJSjFrQWJQLWw1ay03aURhbFV3cXB5MDdzdjQ1UHd3ZkxnUWdZN21tcjJxRFI1Y0F6VWxsODAxMzhIWVhWNDZvR2Y3bzUwT3p6VUxyYnhjczhaeFFnVFlrdG9xT29fdUJlbnVsUUpoOEszQjFUb29EUGtkSnN3MU10aHBTazQ3Wm41cFFiRWt1V1pFbjk1bG9pcEVGZmlRQTFCa1l1RlhPRVVlaTdhRDBGT1lvNjJycTdRQUwwbzFmZ2tTb3k4SHRNMVAzMFhsOXpnbmVORkZPRnY0VzJDRUp6bjBQQVVYUTRZdQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a15cb70ed0",
+  "time": "2026-10-08T19:11:00+00:00",
+  "title": "DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack",
+  "ko": "DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelFBSUVXLUtKM0UyRmM4dDhBTnJSRjdmU05UTTZJMDJ0XzBuT1JwLU03TnJBWnNraFFNbk9oVzg3QUpldm40WlVuZnVIOWI2U1QzYmJ3MTNEOW15Rm1JM1Jwd3FNV0pVNk1aUWZfY2NfSkdlcE9BanVYMm5DTkp0Z0VoUWgzMjRETkZla1pBbkM?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1f77d61414",
+  "time": "2026-10-08T19:09:22+00:00",
+  "title": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near",
+  "ko": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlR3UHNEMFo0Zkt2RUV0S2VYUXh6RDY1MTBVQ3hjeTRXLTh2TlpZaUFoejFjMDM1WjVOYTRpYTZvNjBNUEprY3psWmxaOVgwNHJpZjZsVDZ4eXlSX3kzOFZ0czFIUlJKazJSSW5mNmxPcXJTQjlKX19teGVpOXBGSVhGTF94cXpfOVRrU2dWdXZRYmpVRmxzSDAyaXFlLU55UWtReVR2ZWs3bXE2RDAxdGVJQWhHUQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "22d7236a8e",
+  "time": "2026-10-08T19:09:21+00:00",
+  "title": "Trump emails Medicare enrollees about $90 payment, touts his policies",
+  "ko": "Trump emails Medicare enrollees about $90 payment, touts his policies",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2lmc0lKbGJCOVgzVE5TLXVZZTNvalI0bWJwaFYzamRDV2VBQzQteUh4OHRmbjBYZFdyZ0tDQ0g3Qk02Wm11RV9nYl9qaWdSRFh2QTFfTG1FSUlDY25HcnF4ak9hdWhDZ1BoT0hUcEpycU9oUVJLT1hfUnVqM0Fvc092WjlRenpqWWkzLXQtZWZEdU4yd3Zmek1BNUhDYXpVTGh0R3NwLTJ3a0NuWjNr?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dc4ed21256",
+  "time": "2026-10-08T19:04:45+00:00",
+  "title": "트럼프, 빅테크 수장들에 훈장…\"머스크는 국보\" 유독 극찬",
+  "ko": "트럼프, 빅테크 수장들에 훈장…\"머스크는 국보\" 유독 극찬",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261009005100071",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2c0283706d",
+  "time": "2026-10-08T19:03:00+00:00",
+  "title": "Trump promises not to attack Iran before November’s US midterms",
+  "ko": "Trump promises not to attack Iran before November’s US midterms",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjhTUHpWRTBJRDlla3lNb2E3cjhBRm1vSUtlYkM1V2lwNlVabU41SDVsMGFzdS0wZlEyUGh2ZER0WHBEekNldHNPS3BaYXNGdWtuWDJGT3IyZE9hNE4xb0h5WFUtTnhkeXQ5bDhVZ1V5WlFJZlYwblo4UU5zRER5Zms2UUthbHM?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Axios",
+   "Reuters",
+   "Washington Post"
+  ]
+ },
+ {
+  "id": "2599820fe6",
+  "time": "2026-10-08T19:02:31+00:00",
+  "title": "No new attack on Iran before the midterm elections, Trump says",
+  "ko": "No new attack on Iran before the midterm elections, Trump says",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSGZLdXBQSHN4LURXRDV0LTVTdGQ0WTlYWFdWenRmVTFrOERrZFdOa3MxN2RabDNIYXhMWkdBQm5ybVhUT21DNEI5dFI2cDZYbmRVN0RSWDhlckYyZHZNc3g3RG1TbkM5ckVlS1dic0NNeDM4ZFdEUkdpbWZpRFdBd0pRcnl2WUtEWVhxcm14VjBjQTBGcktHTFVMRmVPY28tZEJHaEtHNXZKUQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Financial Times",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "id": "119647d7f2",
+  "time": "2026-10-08T19:00:52+00:00",
+  "title": "Explainer: The skilled foreign tech workers' green card program under attack from Trump",
+  "ko": "Explainer: The skilled foreign tech workers' green card program under attack from Trump",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1hHTXgzeWc3WFZOUDJMdFg1dGQyNFhDSVBwZV9sTHliMzUwcjltTVNvWlowXzBfNUFwcHRMcHpjbnFOQ1NsUDd4U3hHU0d5MHNFek5HN3dIeXRZSWJqWDdvdlY2OEdMZm9La3BBUU80SVE2Y3RiMTEtZlNBSWZkMFNPdjVTQXBYWXdoZEF6dnJvbjVHcDI2WlJXS3lsem52b1dkM2c2UW1PZ1o0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ef25530664",
+  "time": "2026-10-08T19:00:06+00:00",
+  "title": "Opinion | Trump’s Speech Is Getting Filthier",
+  "ko": "Opinion | Trump’s Speech Is Getting Filthier",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVjNUeVJqejlMcWtOaEI0YVZUWnR2MFRqZXpnZURwcXZkVTVES0NWRlRETGppZ3d4eHE5RXJJQVhZMmp1OXdIT3JxeUt6MVI0Y0dYWllUWjZselNsc245Y0pERnJKdEhnRXZLUmh0d0s?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0db48b6eab",
+  "time": "2026-10-08T19:00:00+00:00",
+  "title": "The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
+  "ko": "The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlhWTldqZDRuSkhqR0Z2Q2NWWURDenFCYWhjeUkwSzRqTVRkRFlhcUJlbFdjSmVzOTNFNGY0cWdfaFpVcmV5Y3Y5SFFqV0g0WFdkUzh5UVc0TGtXRGpvYnYwbW5KNlJtbHNHenBWX0F0TERzUWlOakozSzZQVGZEbnpJUWliMWQ5TXVGZ2ZYWkNVejJ3MWRWWjN3VmZMUzY0UWpBb1RsYnJGQ1E3bzR3WDc0Z1VEaTdr?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c3f1554694",
+  "time": "2026-10-08T19:00:00+00:00",
+  "title": "‘Undistilled cheating’: Missouri voters furious in aftermath of Trump bid to rig electoral maps",
+  "ko": "‘Undistilled cheating’: Missouri voters furious in aftermath of Trump bid to rig electoral maps",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3F0ZXNHSnRYR0JOdVNDaUtHN0UyT0lmOXI2ajZsNzJSZDA4M0xFYnJscURlbkM2WDZaQWR0d1hUNjV2ZUozeExaWXo1bGQ4SmRFUk1tQnhPZEdkRXVEV0FWai1QSjFzWnFKa0VhNTBlSDdISVJHTUFKNlJtR0lLdFEwWVJUd2QzNWQtOUlBd0hHeDh6emh1Q1VyRFhDWEQ5U1E?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cb934f213e",
+  "time": "2026-10-08T18:52:21+00:00",
+  "title": "EXCLUSIVE: Trump AI task force leaders to meet on Thursday, vice chair says",
+  "ko": "EXCLUSIVE: Trump AI task force leaders to meet on Thursday, vice chair says",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmZPMDBxRGtiQkZEWFFYWV9LTjczVXFyNjcyd3R4WWxDQ0JPbS1KZHdTNEdNMFJUWXdOVmNwMmo3RUpHQTI2aS1peEduTzdhYU80amRIOUVBV05LMlJfMXRiYmdKUEVEY1dLelAyWFlzNU55WUhjdXBsR3lEZFVWRDQxSWtocjc4OFZ3bVhtUXh5MW1xWWo1ZGQ3UTRqVllm?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2dc008b75e",
+  "time": "2026-10-08T18:48:57+00:00",
+  "title": "폭스마저 등 돌렸나…트럼프 관련보도 줄이고 유세 생중계 안해",
+  "ko": "폭스마저 등 돌렸나…트럼프 관련보도 줄이고 유세 생중계 안해",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261009004900071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "eaa3bfb974",
+  "time": "2026-10-08T18:38:15+00:00",
+  "title": "트럼프 \"백악관, SI 대신 AI 용어 쓰면 누구든 적 간주\"",
+  "ko": "트럼프 \"백악관, SI 대신 AI 용어 쓰면 누구든 적 간주\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261009_0003820006",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9423a8f9ba",
+  "time": "2026-10-08T18:37:37+00:00",
+  "title": "Judge Extends Pause on Trump’s Ban Against CNN, MS NOW and Politico",
+  "ko": "Judge Extends Pause on Trump’s Ban Against CNN, MS NOW and Politico",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTVHMk1TdG9zaENJYUxJTDdoQmxwMnRGMkNSbFRHLUpfSlhtZ3EwNTZCTHhRcjM3UDI2dmxpeDJ3UnJVWDRGdG83UkVnMWFPcVYzZFVCeWd4R1hzdVVGY3A1WklUMFdoTHpoMjZwR211V0hmMEFnanJydkpWcFA5MVlJSDBtMlJUZ2xRZG1zb1RWN0k?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a3213942e7",
+  "time": "2026-10-08T18:19:00+00:00",
+  "title": "Bond yields fall as the Treasury market passes a crucial test of investor confidence",
+  "ko": "Bond yields fall as the Treasury market passes a crucial test of investor confidence",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "68d9b97e64",
+  "time": "2026-10-08T18:15:12+00:00",
+  "title": "Trump’s White House Ban on CNN, Politico and MS Now: What to Know",
+  "ko": "Trump’s White House Ban on CNN, Politico and MS Now: What to Know",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm5aQnJrQXNKZ0xwTk9LOVp2VlBOVHpHSFlycEFNVWo1aUhyc2ZXMGVLYXphT0FGYVBSa3hyZ0wxd2U1ZG1vdnBseWc3d1RwTHlmMmR0MGlhclhIX2tsT2UzZExEMWRnX0lmS3pSc29yNVBIa0I2TXdQWmZDVG1YY0JwR3dhRHVJT0NndQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "770073ce2c",
+  "time": "2026-10-08T18:14:39+00:00",
+  "title": "Crypto crumbles as anniversary of flash crash nears",
+  "ko": "Crypto crumbles as anniversary of flash crash nears",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6d6085fe26",
+  "time": "2026-10-08T18:13:38+00:00",
+  "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms",
+  "ko": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1e7e2aaff2",
+  "time": "2026-10-08T18:11:19+00:00",
+  "title": "Trump: U.S. won't attack Iran before midterms",
+  "ko": "Trump: U.S. won't attack Iran before midterms",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14RFBvYzVXa3RmREx2eGVTVVNwMDZCclJsZzZPVkxiR0lieFFwZDRncDFSNkxaUUk5UHFlRUUtSm1sWnJOM1VNQ2VSdFlGNkg1UFJTekJMN1JUVWw2aW0zZUVIRGx3RENQSHp5d21BQWtmX1FCaUVySg?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "The Guardian"
+  ]
+ },
+ {
+  "id": "9ecac851fb",
+  "time": "2026-10-08T17:56:00+00:00",
+  "title": "Trump made ‘clear’ that media ban was due to critical coverage, lawyer tells judge",
+  "ko": "Trump made ‘clear’ that media ban was due to critical coverage, lawyer tells judge",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80X05ZU1BIUDVVeU00eGF2U29VYU8wT0lsM0RZTzNES21EbE5zNl83X0FLalFjbUY2VE9OSkFTLTJEUnJCemhFSzV4WTBtVDJHUEl2QjJaWG5mcU1KYUFmNF94OGlVd2RIWjMxSE9zWXlfOEVsaEdHZQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "befb0f6da7",
+  "time": "2026-10-08T17:49:41+00:00",
+  "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+  "ko": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "885bd39ee4",
+  "time": "2026-10-08T17:46:09+00:00",
+  "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud",
+  "ko": "The Trump administration is suspending Microsoft from a green card program, alleging fraud",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGR4Z1ZlRGJ5eUNrRWtHU203alVpQm5RYk1sMVkyRGtKYjd5bERQN0dvb2hzMWd3c0tFVkdWTjdsczY2Z0ppc1FZQllkZ0FBa1Z0TlphLVhtSmd0c1ZhVmRqa01IV2dNTkNuZkNxYlE1bUJFZnQxeDhpZngtdXJmRW5mVmlJWThnbmNjYmkweDVibjlnQUVQb2J3YXdPSnc4dGRSZHp3WkxQMW15ckEwYWJnX2t0cVNUV1dFeVZR?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP"
+  ]
+ },
+ {
+  "id": "7891827cef",
+  "time": "2026-10-08T17:44:00+00:00",
+  "title": "NFL takes on Trump in push to give states power over Kalshi, Polymarket",
+  "ko": "NFL takes on Trump in push to give states power over Kalshi, Polymarket",
+  "lang": "en",
+  "outlet": "Politico",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVd2SHdubVpuSjIwU1NlYS1YS1Z1M3BCbnpMcjh6M2ZJVVNSb1Ayc3o0MWVZdmt2R01NY200bmV6UjN6SElZQnVSUXk0OUdOSDRoa1JVSVp1Z2JHZHluZWRWY0wyaUVXVThiUG1vcW5sTGZLd09STW5XT2dxSGpmZ0RDbkVDNlh4MGE3QjNnVQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b2c3fa5499",
+  "time": "2026-10-08T17:43:00+00:00",
+  "title": "Trump says you're an 'enemy' of the White House if you don't support his AI rebrand",
+  "ko": "Trump says you're an 'enemy' of the White House if you don't support his AI rebrand",
+  "lang": "en",
+  "outlet": "Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUtMUVdudXl3TWZHYTZZajBNejdBdGl2T3pEaUVTV2Z1ZUVqTnIxZVhnaGlFcVJVWWNrT0czS3FlaDk5MnptUDBNY25nUjlydnUtTFQ2R3gwR1gzbXhjYTFYMWpaQmpIQXhmWnMwZ3l3U1M4cEZkRkJnX2F4R1d3Vm1ocF9sNm1Ncm01ZWhGMER2bjJQ?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3131f0c652",
+  "time": "2026-10-08T17:40:06+00:00",
+  "title": "Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company",
+  "ko": "Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWko1TDVDR05nRjZMc0F5WjBMNlByZTlPZzUzS3J5RVFxa3Y5SGJBUDF1M2VjUU02TGJvRU1KUy10QXBhLVM5ZGJUWEM2dWtHdnI0Vnh6X2hXSHplZVN6QVB6UDNtSjdzMzhWdE1Yck5sWUZrM3B1WTVfVTJZNTlodE1KX0JUanM1azdNRkdmTTdqUDNEMWc?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2171127482",
+  "time": "2026-10-08T17:34:00+00:00",
+  "title": "Trump says US will not resume military strikes on Iran before the Nov. 3 midterm elections",
+  "ko": "Trump says US will not resume military strikes on Iran before the Nov. 3 midterm elections",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0thVWlRMWtDWlpWNHJDakpfMS1oM2N0bDdKSWVNRUVUNi04aGRHYmdXdnNxQnV5d1FoLWdGRC1xS01CeHdVZnZvMkE1U1RYSXhLbkhBamhjcFBsVmhseVhlWERlVmFFNG4yNy1ZWFdpQmVsSHNBRmEzOXAxOFN2SWE1QnFmSmxsOVJ4U0h4ZnphblZN?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Financial Times",
+   "Reuters",
+   "Washington Post"
+  ]
+ },
+ {
+  "id": "a6d5662df7",
+  "time": "2026-10-08T17:25:00+00:00",
+  "title": "‘Chaos and cruelty’: the kids trapped in Trump’s immigration enforcement campaign",
+  "ko": "‘Chaos and cruelty’: the kids trapped in Trump’s immigration enforcement campaign",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWJONFBKcW1uUWVFWDNWYlpZMGRVaDNlOVlraU1BazV1Ym1PRGVNVHozRjlYWnhESGhJMTBQLXhZcThGVzZlRjVuOE9tZGNCd191NjR6OTh2aUc5bmFRaDFfOGhUM1NWa0lTeXVVdktvYmJUcndleUtmWXI3SjBaXzFyQk1CUWNvTEJrWldRUDVZMmtvekd4Y0lwYw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5cb4a46a34",
+  "time": "2026-10-08T17:22:39+00:00",
+  "title": "Trump says US will not attack Iran before midterm elections in November",
+  "ko": "Trump says US will not attack Iran before midterm elections in November",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Financial Times",
+   "The Guardian",
+   "Washington Post"
+  ]
+ },
+ {
   "id": "ee93151c21",
   "time": "2026-10-08T14:47:00+00:00",
   "title": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer",
@@ -9267,674 +9953,6 @@
   "url": "https://www.yna.co.kr/view/AKR20261007005800072",
   "section": "global",
   "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "50e5faaed7",
-  "time": "2026-10-06T20:15:00+00:00",
-  "title": "[속보] 국제유가·美국채금리 하락…S&P500·나스닥 장중 ＇사상 최고＇",
-  "ko": "[속보] 국제유가·美국채금리 하락…S&P500·나스닥 장중 ＇사상 최고＇",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwdHNjT0N1bS1pQ29VWGZTNTJYcy05R0hBaVM2N3Q4dE5Ydk1odno0MDU3UHNqTWlXZENQaFB3WU9CREVEOGRzcmc1bWVzbkJOazJ0NTdLakUwanVPdDVOdGhKS1kwYjN2NXJQaXcyNTY0RXM3anZtUnN2TTM?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bb81b4b3b1",
-  "time": "2026-10-06T20:14:57+00:00",
-  "title": "Trump remarks that Iran could \"take out\" Los Angeles, San Diego draw backlash",
-  "ko": "Trump remarks that Iran could \"take out\" Los Angeles, San Diego draw backlash",
-  "lang": "en",
-  "outlet": "Axios",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JdzZycjRjekt1ajZrWWpVdllxYldzVkEyYWFqZkNiMDVjNXlzMzZmWjJnc21PRFg3a1VWa1hQRnlUblMzcXJ6OTE5TDhmQW0xRDZxNnBmVW9RVFBzc2poMGN5cVNiX3NaSkV3V0hqMk5IMjA?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "49d35b00da",
-  "time": "2026-10-06T20:13:18+00:00",
-  "title": "트럼프 이어 오바마도 중간선거 등판…격전지서 전·현직 유세전",
-  "ko": "트럼프 이어 오바마도 중간선거 등판…격전지서 전·현직 유세전",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007005300071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "26ae383357",
-  "time": "2026-10-06T20:13:08+00:00",
-  "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
-  "ko": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d5ed00233f",
-  "time": "2026-10-06T20:09:11+00:00",
-  "title": "[속보]美국채금리 숨고르자 S&P·나스닥 '사상 최고'",
-  "ko": "[속보]美국채금리 숨고르자 S&P·나스닥 '사상 최고'",
-  "lang": "ko",
-  "outlet": "이데일리",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXNKUklqQVg3ZnRkVUEtMHBFSjlNUWR2Wm9ENnBZc3RIVUpOUDF1UUZHNm9fLVNRc1ZsNmlDT1hDU0dSSFhZQnlGMlUxVk9yM095SlRubG84V1U1eXVRLWZxTHNFTDYzWUZkWHFNbVBrR2Z2WTk1YUFHcm1LUnlCWg?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f63ff381e9",
-  "time": "2026-10-06T20:03:05+00:00",
-  "title": "[속보]뉴욕증시 상승 마감…S&P500·나스닥 장중 사상 최고치",
-  "ko": "[속보]뉴욕증시 상승 마감…S&P500·나스닥 장중 사상 최고치",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003816460",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7126da5522",
-  "time": "2026-10-06T20:02:00+00:00",
-  "title": "[속보] 뉴욕증시 강보합 마감… SK하이닉스 ADR은 6.37%↓",
-  "ko": "[속보] 뉴욕증시 강보합 마감… SK하이닉스 ADR은 6.37%↓",
-  "lang": "ko",
-  "outlet": "국민일보",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94b0JCektDc1JIZGNaTWtUall5aWtIWnNfb2RidDVfUFdEMC11MzdvWFdhdFRMd01KVmlvT01wdDItcl9zc1hTbnA1TjJXLU94azgzUk1zVEczWktuTlNyRTZIQkZONFNOMHVQRdIBbEFVX3lxTE94b0JCektDc1JIZGNaTWtUall5aWtIWnNfb2RidDVfUFdEMC11MzdvWFdhdFRMd01KVmlvT01wdDItcl9zc1hTbnA1TjJXLU94azgzUk1zVEczWktuTlNyRTZIQkZONFNOMHVQRQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8e79a9c832",
-  "time": "2026-10-06T20:01:24+00:00",
-  "title": "[속보][뉴욕증시] S&P500도 사상 최고 합류…3대 지수 일제히 상승",
-  "ko": "[속보][뉴욕증시] S&P500도 사상 최고 합류…3대 지수 일제히 상승",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610070500477324",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "278d6a29c5",
-  "time": "2026-10-06T20:01:23+00:00",
-  "title": "[속보] 뉴욕증시 상승…S&P500·나스닥 사상 최고, 유가·국채금리 하락",
-  "ko": "[속보] 뉴욕증시 상승…S&P500·나스닥 사상 최고, 유가·국채금리 하락",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PWVRZdnpuQWR6RG0tTk5ETU9KNkhwS2FWM25nQjRCZDdEMjBPWktzNWd5eGFzaUduanItUEFWUEdhTWJqY0o2Sk1CcjdLRzBmOVp5YTdYcHBlcHAxSFAtTnZ3djhGM2_SAWxBVV95cUxPOEtXTTlfTWFTb2JrdGJxVWJTOENRTVhzOXV6dDcxbmw2SVhNTllhV0p3Rm9ZWDdVbkU2QjFYX29IcmlRcUZyVU9QOTRjdUhaN3puX2xKdTU2VHpUUHZKWjRiYzFTVUZpZV83alA?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "64180fa280",
-  "time": "2026-10-06T18:48:25+00:00",
-  "title": "\"튀르키예, 몇주 내로 사우디에 병력·방공시스템 배치\"",
-  "ko": "\"튀르키예, 몇주 내로 사우디에 병력·방공시스템 배치\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007003500108",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2a831a33d1",
-  "time": "2026-10-06T18:48:24+00:00",
-  "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles?",
-  "ko": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles?",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXBPV1VucDNvUnVXRTVtNmgwTG5lMl9IUDZWX2xsS1NicU1vdGhpMDBFeGU1eVNxX2dNaVRPWnB0dE43dExlMHlRVWIzNy1wYUF6b3pETkU0MjVsY0JtV0pSa2hULUhZandXSHZDYjl6N2o2Umhla3hmOFVwS3ZpeTlfZ0NLMkY2alRF?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "77f5f6a6d6",
-  "time": "2026-10-06T18:47:10+00:00",
-  "title": "California leaders slam Trump for saying Iran could ‘take out’ L.A. or San Diego",
-  "ko": "California leaders slam Trump for saying Iran could ‘take out’ L.A. or San Diego",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS25XakJYZG1NakF1U0NVTVRmVWZJMHkweHBMUFk3U2w1NDdMNmFseTFnLWZiZkNmNlplajVhMGIyRWFqOGlUTmVmU0ZfYXk2TXgzc1RQejhybERvU2lJbEgxY0tCNktQTjRGWEE1RnhyWGxCSXYtcWxWeVU1SmY1Umw3ckJYZmh1eGhOcWNfZjJaMG5nWHdPZHVUdmIzM2VwczBzdEozVDh2djB4N2d4TktYNEMzYVRXRk9ianRQb3FFdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1295d42951",
-  "time": "2026-10-06T18:41:30+00:00",
-  "title": "월가 또 사상 최대 보너스 전망…올해 120조원대 이익 추정",
-  "ko": "월가 또 사상 최대 보너스 전망…올해 120조원대 이익 추정",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007002600072",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "42841d1cd1",
-  "time": "2026-10-06T18:39:11+00:00",
-  "title": "EPA air chief leaves agency after overseeing Trump regulatory rollback",
-  "ko": "EPA air chief leaves agency after overseeing Trump regulatory rollback",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3R6Wk5lbmw2Q1FCaG0xQ0VvYlBpMUFwTkUxeWhibW9DY2k0aXpIc2I3NTRFVWtVbS1URC1jRHF1bTJfUmdRTkFMZ3hrRFhRSUFFZHVzdWptQVE2NGtGQmxUcFA1cjRacFBDYWtLelNfVmZoRXhRekJWUU00NkV6SGFibTlkUUVNQjBpemRmVTVUTlZRVEdzNUEyMFdTVkdUcURtVlFfWURxdXprYk1TTGlDSmh6eDdpRzBtRnNKTGM?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7408cf5cf5",
-  "time": "2026-10-06T18:39:00+00:00",
-  "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-  "ko": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "891b692b57",
-  "time": "2026-10-06T18:25:00+00:00",
-  "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-  "ko": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5f20172aaa",
-  "time": "2026-10-06T18:24:03+00:00",
-  "title": "트럼프, 2차대전 후 첫 미군 총살형 승인…군부대 총기난사범",
-  "ko": "트럼프, 2차대전 후 첫 미군 총살형 승인…군부대 총기난사범",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003816452",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "696e920a31",
-  "time": "2026-10-06T18:20:21+00:00",
-  "title": "머스크, TSMC와 테라팹 협력 논의 언급…인텔 주가 '흔들'",
-  "ko": "머스크, TSMC와 테라팹 협력 논의 언급…인텔 주가 '흔들'",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007002700075",
-  "section": "ai",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "be49357899",
-  "time": "2026-10-06T18:20:00+00:00",
-  "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-  "ko": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "40b600c893",
-  "time": "2026-10-06T18:19:40+00:00",
-  "title": "Maryland officials won’t speak at Trump’s shipbuilding event",
-  "ko": "Maryland officials won’t speak at Trump’s shipbuilding event",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVpvTXRXclpEMVc0V3VSWEljWHJaZENZMVF3RHNoeXFlR0FqMFlPSUE0ZWdrMUJIZVBYUTd5LUNfYno3NjdSd2ltLW5DSG5GTkhIUm9aV1ZiUk51QXdlWERaRS1aOUI2WXZBY05OQjhNRWNRQkpQelU2dTY0V0FoZ2dZN0Z1Q3RnZlZxbElSOWVWTFhEYnF0Rmt3b0NqYl95UlRHOHdWQk5XR3c?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2a5e76fb69",
-  "time": "2026-10-06T18:19:25+00:00",
-  "title": "Justice Department tells employees to adopt Trump’s AI rebrand",
-  "ko": "Justice Department tells employees to adopt Trump’s AI rebrand",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVNpaEZ5OW5lZnl4S2FsMTJLX3c1bWQ3NXFLSEFnQUYwT2todVZxY29LSGtCeGF4Rl9rYVNuRDJPS0RzNTE3N1d6TjVUNUxjRnkzMkgwTHNTS0RQcVRNaHBwVVU2aUNkTUdmRGhTR3RQelJFamotbVhYMWhoZlplZEdmUzE4YlFBb0RPcXdBSWV3NEpCNVJlVHRzVjh3RFZrcUZaMmRIVGNCNnNKMUFUVktwdXJzNEFINEQ5UnlR?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d74667de1e",
-  "time": "2026-10-06T18:10:00+00:00",
-  "title": "Whistleblower suit alleges Trump ordered FBI investigation on LA anti-ICE protesters",
-  "ko": "Whistleblower suit alleges Trump ordered FBI investigation on LA anti-ICE protesters",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVktkV0RRWWhQUjZvMGN3ZWtrb0VZRUFjME45dW1sT0FndUFjR3NzR2VuVlgyTF9WZmREaTFCb0NBME1iSVROZkNUOGVPWGpBWmttbG5NUklTTG5FNlR5OUFzOUJiMEtRa1lOZGkyNVNYRG1Xb1N6NHpKODhFUFRTbg?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6d86769a17",
-  "time": "2026-10-06T18:08:05+00:00",
-  "title": "\"유조선 부족, 배럴당 200달러 유가도 각오해야\" 비톨",
-  "ko": "\"유조선 부족, 배럴당 200달러 유가도 각오해야\" 비톨",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610070236389870",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8700a0dda4",
-  "time": "2026-10-06T18:07:00+00:00",
-  "title": "Trump temporarily expands access to tax-free red-dyed diesel. Will it lower costs?",
-  "ko": "Trump temporarily expands access to tax-free red-dyed diesel. Will it lower costs?",
-  "lang": "en",
-  "outlet": "CBS News",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FRDJteHhaa0pJQzVFX0VROWxXYVRCZHZ6V3hpcEF6QXhNbzd5bWxjQW9wNW05Q2NFbEdoMHl3N2ZlYktRRVlLa1JQS3A0dEdmQURmc2M5eXpVbWlTX1lHZVpWNXYyT1BOaGtDeFRQc2kxUlNpd0E?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "90d9553e79",
-  "time": "2026-10-06T17:58:57+00:00",
-  "title": "Trump approves firing squad execution for Fort Hood shooter",
-  "ko": "Trump approves firing squad execution for Fort Hood shooter",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRWTm1oLXhpS2ljRUF1cjJ5VFdoVVFfTGFNbUtFUU5rMElSQjZOam9FOVE3YS14OVhTcWxEa3ZpWm1UWnZMOEtzY2ROaThtVHVWLU93QUx5Z25MN1lYOFVhdHdJUTZnMzIxU0M5NVNoR2pvcS1CbU5sYi1pa2R5QWg4R01ScHVONG1uOFJ2ZDJtUkFjVldIR1BVRDlBU08ydk5LMHEzd3hyNHZ2UEplbkV3NEpENDdQVnYtZnNyclZDWFR6?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "788430a348",
-  "time": "2026-10-06T17:52:48+00:00",
-  "title": "Northeast Democrats urge Trump administration action as heating oil costs surge",
-  "ko": "Northeast Democrats urge Trump administration action as heating oil costs surge",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjNTOThyMXhvc1UzM1A2TVVrak53cDQ2d2h5dElha3lIWVU1NXVVbjhpRHhCejJldi1IS04tOVpBNzR1eDFGeGthX0F3TUNmSXljbkhaWnR6X0xIRmtMNUZtbW5KeG9nQ0NTMXFsdE9rdmdlTjE5dlFOR3JfbFJiWGJUU1pBUTd3RE8wNHgtcVowX1NlWUxRM3VESDM3d1NYRFFJdUJEeGR0eGd3blZtZnhKRDZpTlR3bE1fMEtKS25NS0l0OFVvVw?oc=5",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5cd1dab9c8",
-  "time": "2026-10-06T17:51:00+00:00",
-  "title": "Schumer alleges illegal coordination between Trump, PAC on ads",
-  "ko": "Schumer alleges illegal coordination between Trump, PAC on ads",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNWZ0WDNTOWl5MTJnSVpSUzN6LUhLSDFRaFZ1ZkFNbS13ekgwM1doRC1TVW5VYUY4c3RiUzhMOHQ1RzBPWW9oOGpPN1Q4ZGF5X0xkZEp0U1g2NDQ4S01yYkREVHlQRFNCMG0wZW1Lak1aeHZDUEZVY3lNbEJPbkXSAYQBQVVfeXFMUDVJVndPMWtmREZlQXBJQlpjYTlXdGxuSlJJRVJYRHNpSDV4NXRqZDNlSzA5cm9ya1NST19PYUhIaWNyM1lWbS1lMUdNX3BPa2puOFpiamxMZkVhU2RJOC11blhRTlRmaXppenhGY2RBeDZTWVRsbW1FV0QxdEstYkNXekhV?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9279521c0b",
-  "time": "2026-10-06T17:50:00+00:00",
-  "title": "“언제까지 일해야 할까”…AI로 계산하는 '경제적 자유 시점'",
-  "ko": "“언제까지 일해야 할까”…AI로 계산하는 '경제적 자유 시점'",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261006_0003814854",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a7ce42f470",
-  "time": "2026-10-06T17:32:00+00:00",
-  "title": "Trump blasts Fox News for interviews with El-Sayed, Osborne",
-  "ko": "Trump blasts Fox News for interviews with El-Sayed, Osborne",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbkFpMjhROWtZeGxNRWxmaUxTVFRHd1hMNFh0dTNpWk52bXZmdHZHRUZldEV3alE4Y0FwSFpDeE81bTBiZW1ZZ3JGVG8wX21XTUxlTjA0Y1FMWFh4eGJUaUhPVFBtbmVxUGhDTVB1NDJHU0VOTm5MaFZVQTExRWhBT2lLYzV1UlFZNExoUGFZNDZ0OVJsZVI2ZWFuQVF6bnp2UkUtaHhhc1RLdTBKX04w0gG0AUFVX3lxTE9PVEFQWWNPY05oVXgtenhxMUxhV2RSMXR0cEdMM3habHRsS1dMRFozQmtsbVR1Z3hQMmRRVWplaFlCZ0pKT19lSjJ2QWoxVlpMY0pXb3ZxYU9EVWFGXzROVmhCR2pSZGxHb0xlUjBiRkh6ZjlSNFltRnRydkw1dUhSMGlIUnRXNFdoYmFjWVVteDJCYkkwSW9rOXpWeTQ0M0NTOENnb0pjNHVsVWhfVjdLMXQ2TA?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "38ff8cbf9e",
-  "time": "2026-10-06T17:25:27+00:00",
-  "title": "트럼프, 프랑스 공교육 시위에 \"이슬람이 나라 차지하려해\"",
-  "ko": "트럼프, 프랑스 공교육 시위에 \"이슬람이 나라 차지하려해\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003816451",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "66f1c68f24",
-  "time": "2026-10-06T17:16:35+00:00",
-  "title": "Wall Street says Elon Musk's Terafab talks with TSMC could spell bad news for Intel",
-  "ko": "Wall Street says Elon Musk's Terafab talks with TSMC could spell bad news for Intel",
-  "lang": "en",
-  "outlet": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVlMZWlRNHI2cVp2RGJEZUd5WXJaYTQzbEZ1Rkh2MDZvbktBWmswcTFGa0lVc2IzOHRLX3NETXNycGFEYXlocmdWYzVUTWk0VjhHbHZZWWtpYmI2TUc5Zk44V29nZmNCV3lsclk5MENNNHVKbHN4ZVhLZ0h6dWNHZUE0bE9pUmFiaDB1dGJLdExvV21sZzhVbWJRYzdSb1NYYTRwRTJITGhaN2laVXRhQUtNcHZWYVU?oc=5",
-  "section": "ai",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fcecea4578",
-  "time": "2026-10-06T17:00:00+00:00",
-  "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-  "ko": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ce104afb85",
-  "time": "2026-10-06T16:59:33+00:00",
-  "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-  "ko": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ced5230036",
-  "time": "2026-10-06T16:50:26+00:00",
-  "title": "Crypto is expanding the boundaries of what can be priced",
-  "ko": "Crypto is expanding the boundaries of what can be priced",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "09a7acea58",
-  "time": "2026-10-06T16:42:33+00:00",
-  "title": "트럼프 \"이란이 LA·샌디에이고 파괴하게 두라\" 파문…백악관 \"왜곡\" 진화",
-  "ko": "트럼프 \"이란이 LA·샌디에이고 파괴하게 두라\" 파문…백악관 \"왜곡\" 진화",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610070133185662",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6657984b00",
-  "time": "2026-10-06T16:35:56+00:00",
-  "title": "미 8월 무역적자, 작년 3월 이후 최대…AI, 관세 탓",
-  "ko": "미 8월 무역적자, 작년 3월 이후 최대…AI, 관세 탓",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610070057347635",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6f62579e1e",
-  "time": "2026-10-06T16:30:00+00:00",
-  "title": "이더리움 20개 중 1개 쓸어가…비트마인 '5% 확보' 눈앞",
-  "ko": "이더리움 20개 중 1개 쓸어가…비트마인 '5% 확보' 눈앞",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261006_0003815964",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2beae682c3",
-  "time": "2026-10-06T16:30:00+00:00",
-  "title": "Trump’s California quip blows up",
-  "ko": "Trump’s California quip blows up",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeFQ5OTNHOUNhYU1iQXlGOFdDcE83MDZFMWRyNmFjblNhUk5jQ2NYNFlhV2ppVDdRZ1lVRVoyc3pManJITDY5X1dBWWVKV1otaG40SEFMUnFwb0JUdWo4Vl9SVkpjclFlZi0xUklEVE9vVGs1a05feFVNSlgzeGVZMFJBcXhQVElUN2VmVtIBlgFBVV95cUxPb2pHaGJLREtJYkxSdVd1SGZQdXoxOTlwaXVEUkxDNUlNSElOLUVqUVM3bkJqc0RSWEJqd1NLQWdMUTRFMlNBQlNwaDhkQnJadFU1YlFvMllRS2VpUnlENnIxcDVWRHBkX2NtVUJFS2stR2t2Mkl2UWo4aWk3bHZ0Q3gwWVVfSmhpdE5rSVBKZXFINy1YdWc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eb6f498684",
-  "time": "2026-10-06T16:25:10+00:00",
-  "title": "They told the world AI was dangerous. Now Trump’s allies are coming for them.",
-  "ko": "They told the world AI was dangerous. Now Trump’s allies are coming for them.",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHJoZDRlT3loX2JwU1hjblNTNGI3U0o4d0ZST0djdXZZbmpBTVRZSXNYc1JyeFQyWjZWSWZjZWVrTVdLd1BxX080VEJuckNRSnFzZlhSb3BTdGwtRm9aTkNMU0FEeGxneGdFWlBnVTZsbWd0OE5COXo0QXBsX3VDMTdzamEwME9YbC13dXRSazFQQmtTTW1FdGhhb1d1MWpRcGMyVEl5WDYtT2VaUlJsdUIybTcwa0JWYzRBT3BWbWg?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5a70507da4",
-  "time": "2026-10-06T16:23:50+00:00",
-  "title": "트럼프 \"LA·샌디에이고 파괴하게 놔둬라\"…이란전 발언 논란",
-  "ko": "트럼프 \"LA·샌디에이고 파괴하게 놔둬라\"…이란전 발언 논란",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261006202800071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "684f4c9fe6",
-  "time": "2026-10-06T16:17:00+00:00",
-  "title": "Sununu rattles off disagreements with Trump at New Hampshire town hall",
-  "ko": "Sununu rattles off disagreements with Trump at New Hampshire town hall",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1FQQnNaXzk5MEhSQVdSbzVKQnY1b2ZFdGxkSTkxaWJ6YWllT1VlT3liRE9BSFVRN1d5VmpwUVdHRHhfa0YzRDlrOUlWbE1YYjd1akI3UzBPRGdxdXdaODNWNFloM3NHeW82dEx3bE8zVzNFS3R4S0tUaXdSWkFocUZ30gGHAUFVX3lxTE1RSWZvdnNNM2JmWEV3VjUwYTRlbVhJRXBVX19ON0xjOTNYalB1dmpEc1d6MTIxOHRDQXYyYjUzLWhVUmZadzhDcVhKaUMxMldnUmtsUDN6MXpJdVYtNkp6MEFYSlFMaHlGRzNLMUpzNVp0aHpzaW1jT0NwajZNVmtTeV9pRjZ2bw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7f88f26def",
-  "time": "2026-10-06T16:16:27+00:00",
-  "title": "Susan Collins, a political survivor, tries to outrun Trump",
-  "ko": "Susan Collins, a political survivor, tries to outrun Trump",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDgxSTNySzZPYjJYNklwSWtya2VYRE5XQmstSk9sWHh5c2tOUlpSQnR5bENzMGhIdmR1cnpJaGRGX0dIcEd4TlpTS0lzeWpwV1J1Y1lVYkNJUzlaNFBzZUVCNU1lYzFnS2NsMjJvRGExUW1IYjdLMzRhUG16a3ljRV9hRTlOdXVvTG40bkxidmxEclBaaTJjeVVwaFFVZnZ1Y1J3SVJR?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "062bf6f5ed",
-  "time": "2026-10-06T16:15:40+00:00",
-  "title": "캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증",
-  "ko": "캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007001100072",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1d8b2d4ed4",
-  "time": "2026-10-06T16:07:45+00:00",
-  "title": "Olympian cleared in vandalism case seeks watchdog probes of Trump's Reflecting Pool project",
-  "ko": "Olympian cleared in vandalism case seeks watchdog probes of Trump's Reflecting Pool project",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1ueUxLRGpyZXB0LV9ZcDlkTnl5QzBsVlM0VDhzWjdYMDNNcTZuanNmdlhFZVJLRXd3NjRpRHdTOE1xRzI3YTFrLTR5b0p6VmhIb01TYmtZWlZLVUdJSEUtak5iVjNVZ0VySzdZTzd3YXB1ZFAxOXkwYU02UEpWeUduM1VCUnpGS19aMTZuN0tSTjFnY2U0TFVTQkdEMTZCX3dQY0pVYWxHZVo1V1lweVktaUVSVVZKNDlWX1pKRkJTTzdJVlpNbw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
   "flash": false,
   "official": false,
   "also": []
