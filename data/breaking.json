@@ -1,5 +1,760 @@
 [
  {
+  "id": "1c120601cb",
+  "time": "2026-10-09T23:00:01+00:00",
+  "title": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향",
+  "ko": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261008150700008",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ced685d1cb",
+  "time": "2026-10-09T23:00:00+00:00",
+  "title": "당근·채찍 썼지만 무용지물…금융당국 'AI 해킹' 감독망 구멍[K금융의 보안 민낯②]",
+  "ko": "당근·채찍 썼지만 무용지물…금융당국 'AI 해킹' 감독망 구멍[K금융의 보안 민낯②]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261009_0003820315",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d556362210",
+  "time": "2026-10-09T23:00:00+00:00",
+  "title": "AI 데이터센터가 살린 철강…관세 50%에도 대미 수출 급증",
+  "ko": "AI 데이터센터가 살린 철강…관세 50%에도 대미 수출 급증",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261006_0003815046",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "000486dbaa",
+  "time": "2026-10-09T22:59:07+00:00",
+  "title": "Analysis | Trump is trying last-minute ways to bring down prices",
+  "ko": "Analysis | Trump is trying last-minute ways to bring down prices",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUZtbmtRdDdBeEZzNmNuZ1BpbkdmLU5laGZIYjZ6cm5QUDhPVkpDUm9WZVZvV19iVU5LQ0F1Vk1XekJoV0lFSkJVZDd0Q0p5QWZ0QklUOEtOMUxacEExVW5HeGRfcklGeHhsbzBCT2pubkg4R3ZNb01mWmF1NWVsUW9BMlFjd0s5U0R5YUswUkpKZU1ZRTBwM3hKWnJ2Z2R5bVktSA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1befe887bf",
+  "time": "2026-10-09T22:45:41+00:00",
+  "title": "앤트로픽 인공지능 경찰에 허위 살인 제보",
+  "ko": "앤트로픽 인공지능 경찰에 허위 살인 제보",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261010_0003820419",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7031d6065b",
+  "time": "2026-10-09T22:31:00+00:00",
+  "title": "“미술도 증발한다”…백남준부터 디지털·AI 시대까지 37점",
+  "ko": "“미술도 증발한다”…백남준부터 디지털·AI 시대까지 37점",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261008_0003819200",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cbf1754325",
+  "time": "2026-10-09T22:27:35+00:00",
+  "title": "Trump announces diesel deal with Russia in bid to lower prices",
+  "ko": "Trump announces diesel deal with Russia in bid to lower prices",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjZFUm54SlFoNWZvRHdYVXE5Z1JDc0h5eE96V2JmVk41eWs2TlRkcjRXaW1nb3Vfa08yeUlFSE15NlFpeTExekZRLXY3WHdGZDdOMHY2ZkpuWjA5cEhsZkUzNUVwTDNySS1hQW8yeWtSejk5TzJTbm84SVVtazFnM0ZaUk5sekE0SUhQTFFkUU5oczQ1QXR5TXYzdGpNYmRuVFRPeDJuMA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Financial Times"
+  ]
+ },
+ {
+  "id": "d7bd4bf6db",
+  "time": "2026-10-09T22:20:12+00:00",
+  "title": "백악관 새 대변인에 보수 평론가 자카리아…트럼프 미디어 고문",
+  "ko": "백악관 새 대변인에 보수 평론가 자카리아…트럼프 미디어 고문",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610100716395247",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "caf88c1433",
+  "time": "2026-10-09T22:18:42+00:00",
+  "title": "Trump taps conservative commentator as next White House press secretary",
+  "ko": "Trump taps conservative commentator as next White House press secretary",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1dvdWV4SDhCY29fQjVjNFhlRS1Rek9MekVXcWxJbmRSX3JQcU9PZWdLcGx3N0V6eWRyQTdGRnFQcVVFM0JDNnhjbG9ReWhxUWVxZERRX2VheDRDdlhSaGtLUGg2VHhkazBSRldLX0ozaUNXd2JBTkNUTWp0a2ZtS3k0TzF6dDhyVXZLY2tIaEZfaTBSQWtVUm9YYXBMN1JFb044aFVKb2Y1YjhuT2hzdGhLblluMmNIZkJPMw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "CBS News",
+   "CNN",
+   "The Guardian"
+  ]
+ },
+ {
+  "id": "7eb846e74a",
+  "time": "2026-10-09T22:16:40+00:00",
+  "title": "앤트로픽, 'AI모욕' 이용자 차단…\"클로드 지속 학대시 대화 종료\"",
+  "ko": "앤트로픽, 'AI모욕' 이용자 차단…\"클로드 지속 학대시 대화 종료\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261010011300009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3e0319e26b",
+  "time": "2026-10-09T22:10:00+00:00",
+  "title": "Zelenskyy accuses Trump of ‘smokescreen’ oil deal amid talks to end Ukraine war",
+  "ko": "Zelenskyy accuses Trump of ‘smokescreen’ oil deal amid talks to end Ukraine war",
+  "lang": "en",
+  "outlet": "Politico",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGJLMDNhQUZreGMxSjN2a1pqVmdwd0tsY2d4eXZ0a2U5SUZsWUd3Q25BS3JGRDJ5TkFfcFRNZjR3ZHY1SzBqcnJ5RWdRNTNUbWZBM0hkTEg3NkMzcEVxdWV4NFRYOWJrMWVic2pOY0lYVC1KSDBLN2puNnpIOFBESlZ4MWZiWnpGZDRKOXoyOA?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "24bc08e7cd",
+  "time": "2026-10-09T22:06:22+00:00",
+  "title": "Trump agrees deal with Putin for Russia to release diesel",
+  "ko": "Trump agrees deal with Putin for Russia to release diesel",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Washington Post"
+  ]
+ },
+ {
+  "id": "cddf747815",
+  "time": "2026-10-09T22:03:46+00:00",
+  "title": "Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports",
+  "ko": "Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck12bXVNTXJIb1F0Z0tKeGlXMUtBY25WS0t6Yng5Y1hXTl9RbERlM1FxSFM0RGM2YTdfNjFodC0xMEFLR1FBVllNQ0FGQUp5blN6Vzhhc3hWRlpFYjVENXBzN1dIdkR2dDVWbXpSMUIybTdDNFJNUm1rRU5wSTZLcm5uSUloZXNXUWF4ajQ3NnMzSjdkaEFmRFh5OW5TWTFYaldWQVNRNmZQVEdJTUhGVkFWLUtnZ3g2T1hyemZaeFlFUlR1RHVv?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9668d62e42",
+  "time": "2026-10-09T22:03:00+00:00",
+  "title": "Trump sends mixed signals on livestreaming Hasan execution",
+  "ko": "Trump sends mixed signals on livestreaming Hasan execution",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVY3RWRiblZnTVMxRDVOTlVzcHFJSkFucUxKWmROVnA2eHphbUZYQUY2T3NCTjhRNHdDUnBYQXBoaWsxTm9wU1ZPR1VPbkFGZVV6S3I3VjAyX0wzZy1GRmhKWUtkVWFBazBhLTg5b0g5Mlc5OTRQNDZHaWJqMXVLeXBIZ182WjNpN08tNlNCRUNJWFlva2fSAZsBQVVfeXFMTWM0NmxYZUNjMHg5N3BlampOS0ViaU8yRDRnOHBOTEVKY1haYXdIUWNFQmhXaTJnczdOVU0yZkJ3ZjhNc1REenRGaDc4aGdtdUdpSi1kbWh4T2NBeXgtOVQ0X3ZhSUM1OHIxeUFKNjFvQ19oSUhFaUdsNWNubW9Mb3NSRnMyUG9vUm95Y2xOMV84RWRPTVd2TGNqMm8?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f2319bf64e",
+  "time": "2026-10-09T22:02:35+00:00",
+  "title": "\"BTS 투어 난리 났는데 죽 쑤는 주가\"…엔터주 반등 열쇠는 [종목+]",
+  "ko": "\"BTS 투어 난리 났는데 죽 쑤는 주가\"…엔터주 반등 열쇠는 [종목+]",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026100814886",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7837fe5995",
+  "time": "2026-10-09T22:00:00+00:00",
+  "title": "'반도체 붐'에 실험실 사고 늘지만…대학가 안전불감증은 여전",
+  "ko": "'반도체 붐'에 실험실 사고 늘지만…대학가 안전불감증은 여전",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261008_0003819834",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fc30f4e1ec",
+  "time": "2026-10-09T22:00:00+00:00",
+  "title": "계란값 흔드는 AI 살처분…'산란계 백신 상시접종' 해답될까",
+  "ko": "계란값 흔드는 AI 살처분…'산란계 백신 상시접종' 해답될까",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261008_0003818673",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8fb9fc3225",
+  "time": "2026-10-09T22:00:00+00:00",
+  "title": "최수연 경기도의원 \"양주가 키운 정치인…변화로 보답\"",
+  "ko": "최수연 경기도의원 \"양주가 키운 정치인…변화로 보답\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261007_0003817381",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4e2184c9c8",
+  "time": "2026-10-09T22:00:00+00:00",
+  "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+  "ko": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "287d893d90",
+  "time": "2026-10-09T21:57:00+00:00",
+  "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+  "ko": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2b3762f956",
+  "time": "2026-10-09T21:54:28+00:00",
+  "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+  "ko": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+  "lang": "en",
+  "outlet": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b2b9035387",
+  "time": "2026-10-09T21:47:00+00:00",
+  "title": "Exclusive | Kalshi Probes Bets on Trump’s Pick for New White House Press Secretary",
+  "ko": "Exclusive | Kalshi Probes Bets on Trump’s Pick for New White House Press Secretary",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXMtVlkxUEU1UUNqVWtDdWluMFNzZEc1WE51dzU3SnhrU2xEc093d2puLTM5bjNjMHhfQ2tKMXljM0lVd2tMYnVJTWsxNTlXU05weXNkSm9OdTUtbmxoWGdGZ0lqQ2dGdnppMFM1SDJTNG81T3AzZlFhMFEyQzBBZzVUXzgybVZjck5LNlFSR3hWNDVscjdINVdqSzRndm1Xb1RfWnlxb3RFNVZ6d2pid2VWOXVQNVpB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "New York Times"
+  ]
+ },
+ {
+  "id": "09e66b34b7",
+  "time": "2026-10-09T21:45:45+00:00",
+  "title": "[국제유가] 소폭 상승…호르무즈 유조선 피격, 멕시코만 원유 생산 차질",
+  "ko": "[국제유가] 소폭 상승…호르무즈 유조선 피격, 멕시코만 원유 생산 차질",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610100642384022",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5703f9c716",
+  "time": "2026-10-09T21:37:17+00:00",
+  "title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
+  "ko": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3drMkRmc2YyUGl4RkMzcXozV0xxbDk1RUlLV29TRHVKcG9rUnNoNnllQkV4V0ZQMVpzTXpLbkd3aWNuNkx2a0ZGbG9JRmwwTElXYWkyY294Rl9VT1VCOGhUd1RvYUcyYkxxNHYxZnVLQ2FKX3FrSDIwR3BhUDk4VV9VZlZpVEd1QmRNZW1yNE9TQ1RNV2VzMjBISUtqeVJBRUE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "CBS News",
+   "CNN",
+   "Wall Street Journal"
+  ]
+ },
+ {
+  "id": "bd340d5dc6",
+  "time": "2026-10-09T21:33:01+00:00",
+  "title": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
+  "ko": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261002022300017",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "95fe3a0362",
+  "time": "2026-10-09T21:31:02+00:00",
+  "title": "[속보] 트럼프 “푸틴과 방금 통화, 러 경유 480만t 푼다…기름값 급격히 떨어질 것”",
+  "ko": "[속보] 트럼프 “푸틴과 방금 통화, 러 경유 480만t 푼다…기름값 급격히 떨어질 것”",
+  "lang": "ko",
+  "outlet": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdV94d1p4elRmNU1aQnZiX3prZnhrODV6VUhFWWVseVRtSkNNT3Y3SW0ybllSTXhHRUpmdVl4UkxXNUpKN2daZl9RODh6dmdWSTVlMHlYYXlaVVNUS1hoaTlxNUYyeTVKcWNXNHVvNVN3WW13cC03ZmVaRldtdVpDV3VuUmF1UQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6f77467a6e",
+  "time": "2026-10-09T21:30:48+00:00",
+  "title": "US judge rules Trump administration’s use of voter data unlawful",
+  "ko": "US judge rules Trump administration’s use of voter data unlawful",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFI3aVRGTTV0S0ZzeGs4bzJ0TzBHLWlwa0RvSE9uTm95RDI4ajZVR2I1VnlFLU11RENOdmdNSnBDUUNIakhDbzFSV002el9DazhmZXhwQkpjMW1EdXRMT3dfZi1qanVHSkJNRUdSR2s3U2JYT0dKaW5QTzdWYTM2Qk50V1lzQ2pBc3pTMzc1c2lXNzdjMHl2TDRVbTZqMTFBWkE1WnRjY9IBrAFBVV95cUxQMVQwakNKRkk2R1JjVHpPek5sSDdEU25jSVNkcGp2eGNaemZpZk1BZXFqbWhkTXk2M29ud2xGQWtoRzdKWkFRN0VCXzhrVUl4TElXb2pCSDlrOUdEV0thRks2SEJqTkE0bWppUGtkUi1hVDJDYjBkcFdJMXBkZjU3Z0lnbkVkN3RSTk9OclBzbmtlb3U3TGNDeDhWdEFvT0N2TWUteXd4Z1VfWlMx?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cb31aec8ae",
+  "time": "2026-10-09T21:30:00+00:00",
+  "title": "‘Piece by piece’: Trump administration vows to dismantle the International Criminal Court with sweeping new sanctions",
+  "ko": "‘Piece by piece’: Trump administration vows to dismantle the International Criminal Court with sweeping new sanctions",
+  "lang": "en",
+  "outlet": "Fortune",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3BHclRrLVhWaUczdFpQNVJ4SEhGWldFdWg1N0lGT1Y1TEpXc00yRThoOXZld29ZLUE2cWFpcTlnV015OHdkVG5pYUtVaWppak81N3FzaTF6RG84LUpnUEdxZlFqZTI3anhUYWprZDlHT3VUT3FlNWNXaGVBVy00TzFrQmtwNm8?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5b0ccfd535",
+  "time": "2026-10-09T21:21:16+00:00",
+  "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
+  "ko": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261010006751072",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0a0e1942e3",
+  "time": "2026-10-09T21:20:45+00:00",
+  "title": "트럼프, 백악관 대변인에 자카리아 임명 발표",
+  "ko": "트럼프, 백악관 대변인에 자카리아 임명 발표",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261010_0003820406",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6105bd1eb5",
+  "time": "2026-10-09T21:15:47+00:00",
+  "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+  "ko": "Trump announces Russian diesel deal amid soaring US fuel prices",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEM3STdpY1dOZzNkaUtmX3M1RGtmOU5SR0FiakRFeFhGUU1HMjNMVFV2ZTFRR25PRlBmS2hZZEJvOGQ2cTBWU21QUm41WGVGMGZUX1FKREh5SC01UUhhN1JOcnF4VmRRc2hidGstN0lmbmFWelhROEViWEtfM01wRjZva0ZMamZsdTItb3QtZml6clhjYkkxYlg3NmhCaERHMUpNTkFnLXZJTTTSAbABQVVfeXFMTnRxUW9wSHhqSlMtVW1DSUZxMUwtU2hXc21mNF9XNVdGcXhWRDZ5cWpwbnRUSGIxZ2FQQ0dwb0RGSThiZ01MUGZlelRkbXFsNUtLaGp5dFlXd2FVREoxTzE5UHIxMWFkTzc4WDJVam13UXJWbVRWNm1vS21fVm1LRzYxX3NxOWJXSEFQMDhzSFdwaW4xODl5NmEwVHhlOE5hWmRlRTBnV29aU2tnajZHREw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Washington Post"
+  ]
+ },
+ {
+  "id": "a3fa32eea8",
+  "time": "2026-10-09T21:13:00+00:00",
+  "title": "[속보] 국제유가, 상승⋯WTI 0.39%↑",
+  "ko": "[속보] 국제유가, 상승⋯WTI 0.39%↑",
+  "lang": "ko",
+  "outlet": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tSmdnbGRNUUhDaWpkbzRNZk1ZdzlBSDV1aXFicmVfSjliRzRmN1JPM3BIc2w5WXNrZ0FQX3RJOW4zbmFZWXphNG1ldDlwRjBaWHZjczE0M3Nlem5YVFJpVkp6a2RrTk5Bak15aTRR?oc=5",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "19ac75ef34",
+  "time": "2026-10-09T21:09:00+00:00",
+  "title": "[속보] 뉴욕증시, 상승⋯다우 0.83%↑",
+  "ko": "[속보] 뉴욕증시, 상승⋯다우 0.83%↑",
+  "lang": "ko",
+  "outlet": "이투데이",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03UEtJRFFGV0tBcFBFR1VrelhpR3hGZW5Cc0VFek41d2Y3NFFTdDdqMzE5ZDQ2NXAtYV9jbTVIZUtFTm1mWkIwcXEycTkySVdwU0RVRg?oc=5",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "653a308a25",
+  "time": "2026-10-09T21:08:55+00:00",
+  "title": "트럼프, 새 대변인에 보수평론가 자카리아…\"충성스런 지지자\"",
+  "ko": "트럼프, 새 대변인에 보수평론가 자카리아…\"충성스런 지지자\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261010007500071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fc2646f46e",
+  "time": "2026-10-09T21:08:00+00:00",
+  "title": "Trump says Russia has agreed to deliver millions in diesel fuel after 'highly successful discussion'",
+  "ko": "Trump says Russia has agreed to deliver millions in diesel fuel after 'highly successful discussion'",
+  "lang": "en",
+  "outlet": "Fox Business",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmt2SzE3VkE4X0ZRNEQwT3pDQ3BRSkdpM0tScWlna0xNVDV3N3p4cjFMSWxhTzhYQTFKS3plc3pyaHVnLVE3QjhINlItemVwYVBjc3d5Y0JJUEhWaThZdV80cE83ZUFpUnRLWlc4eDktYWZIR2VLeERzbjhwa2l4NXRuRHgtUGlia3cyMnRaa2ItOGNEUkt4S1hZOHRpTVpJVjliSmY5aUJ1TUNMYlFNbGlKZTEwMUFVcGZj0gHAAUFVX3lxTE13N09CYVZwaG14TzFzSGJ4eVZfSGhKZWtnTDNlUXhJNlNXZC1NazRlZWp0OUtyUjRwcWdBeTAtWlAwUUUzaGZwa3kzbEJfX2RJNmNTR1JpZlQ0LUdUWjE2TkVDUTR4T29INlY5aUNYVkxtcDdPNUVHZGVFNks5S3dNUnhhMTNXMlBZVmZOcllIckQ2VDJCclliVU1PZ0k0NHlSeC04Ny1sT3JZalJzYWUzb3Q0OWpDa2ZudldfcmNWSQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e03500d5d7",
+  "time": "2026-10-09T21:01:58+00:00",
+  "title": "Trump announces major diesel deal with Putin, infuriating Ukraine",
+  "ko": "Trump announces major diesel deal with Putin, infuriating Ukraine",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45R1VMR0FnSGE4WGFsYTRYOGpkSlRhXzByUjdPUklvbHUzeFBwcHFGLWhGb1lPWTBYZXpLZEpocXlfc0xTUU5qbVhoX1lhWEwwRmp3N3lkd2QwOFVhQWRxc2ZTTm11dmdNN01qVUVyc2xoU2ljOGlBUXF0cE9EUQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e7c819821e",
+  "time": "2026-10-09T21:01:58+00:00",
+  "title": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
+  "ko": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3ZsNzRjR1JGMG41Y2F4Z2N6dHljbzRFaUg3OTNMZEwzajBxUlRuZWQwbmlwNmxjOWUtWGt5eXVBT1VGYXh3NEN4eHcwODduSEh1V3RtdlZFUVdFZnhSMVhwQzloOThsdk1HcXpQRFl3YU0yc2RqWHdYMVBNZXZvTw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5d32eead3e",
+  "time": "2026-10-09T21:01:00+00:00",
+  "title": "\"단순 업무 줄이니, 치료에 집중\"…의사 돕는 AI[빠정예진]",
+  "ko": "\"단순 업무 줄이니, 치료에 집중\"…의사 돕는 AI[빠정예진]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261007_0003817274",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d1d3b78101",
+  "time": "2026-10-09T21:00:00+00:00",
+  "title": "내년 3월 반도체 벨트에 1인당 7억대 성과급 풀린다…삼전·닉스 '역대급 보상' 지급 일정은",
+  "ko": "내년 3월 반도체 벨트에 1인당 7억대 성과급 풀린다…삼전·닉스 '역대급 보상' 지급 일정은",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261008_0003819636",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "39c18f245e",
+  "time": "2026-10-09T20:53:01+00:00",
+  "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+  "ko": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261009056800002",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "96d98392f8",
+  "time": "2026-10-09T20:38:09+00:00",
+  "title": "뉴욕증시, 오픈AI 매출 우려 완화에 상승 마감…나스닥 0.64%↑",
+  "ko": "뉴욕증시, 오픈AI 매출 우려 완화에 상승 마감…나스닥 0.64%↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261010_0003820399",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d8626e61cd",
+  "time": "2026-10-09T20:35:57+00:00",
+  "title": "트럼프, 백악관 새 대변인에 케이티 재커리아 임명",
+  "ko": "트럼프, 백악관 새 대변인에 케이티 재커리아 임명",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261010_0003820401",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b3214e3596",
+  "time": "2026-10-09T20:35:00+00:00",
+  "title": "Mike Tyson predicts ‘Trump will win’ midterms",
+  "ko": "Mike Tyson predicts ‘Trump will win’ midterms",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0s3RllWTGdHcEJSdmVRQk14YWpRbWw0SWVGLXVDaFpaQnl5UHgwN1NLeG5PUVprN04xSmZXMXlfdEpTNFlVdWwzWEdsZzYwd3M5cW1ZSS1oYy1hMzRXdHE1NEJUajRtbmhqYjREbmkwOG9GejhGSjVNOEhmelk5bzYzZXnSAYoBQVVfeXFMTkpIMlNpX0FJQ0RzLTVsNU85VWRPdXZlcFI1cGtmOTZTNVhtcml5cy03UEo4dnpRTjFPM25BQkFHcU5uRHZFVzlodEhHdDZlWjVudW9Qb0VkUnNDekJEQlUzLThTVl9oaFp1M3A0UVMyYmY4Q1BqQ0hSUDBVM0tZWUFhb3NsOVZsam1n?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0cdd6e5de8",
+  "time": "2026-10-09T20:30:00+00:00",
+  "title": "‘고금리’를 극복하는 이익의 힘 … 현재가 90년대 버블과 다른 이유",
+  "ko": "‘고금리’를 극복하는 이익의 힘 … 현재가 90년대 버블과 다른 이유",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12172344",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f984a8ba1d",
+  "time": "2026-10-09T20:28:13+00:00",
+  "title": "뉴욕증시, 기술주 반등·중동 긴장 완화 기대에 상승",
+  "ko": "뉴욕증시, 기술주 반등·중동 긴장 완화 기대에 상승",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261010006700072",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4823cceeb5",
+  "time": "2026-10-09T20:26:44+00:00",
+  "title": "마음급한 트럼프, 푸틴에 SOS…\"러 경유 세계 공급 합의\"(종합)",
+  "ko": "마음급한 트럼프, 푸틴에 SOS…\"러 경유 세계 공급 합의\"(종합)",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261010_0003820400",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fb9d6751bb",
+  "time": "2026-10-09T20:26:06+00:00",
+  "title": "[뉴욕증시] 3대 지수 일제히 상승…기술주 반등에도 반도체는 부진",
+  "ko": "[뉴욕증시] 3대 지수 일제히 상승…기술주 반등에도 반도체는 부진",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610100522497887",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "be14a11a8d",
+  "time": "2026-10-09T20:10:13+00:00",
+  "title": "푸틴에 손벌린 트럼프 \"러 경유 공급 합의\"…대러 제재 완화(종합)",
+  "ko": "푸틴에 손벌린 트럼프 \"러 경유 공급 합의\"…대러 제재 완화(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261010004551071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ae6446bfe7",
+  "time": "2026-10-09T20:08:59+00:00",
+  "title": "[속보]다우 0.83%↑…AI주 반등·러 경유 공급 기대",
+  "ko": "[속보]다우 0.83%↑…AI주 반등·러 경유 공급 기대",
+  "lang": "ko",
+  "outlet": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnJCTU82aS1PMWNITlozcmVvYkRRNldHekJYR2hvQklKeWQ2VjJFVDVpbjdFZ29qc1VJT1l1S2ZtSG1OTVFyZFBUVnRaM1dzbGFFLUliemhST0xpWTdyblRfUTUtMFdqLWdRVHZNZXppdWxSSlp4SVJKNU10dzVNMw?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "d343d8a167",
   "time": "2026-10-09T19:03:50+00:00",
   "title": "[속보]트럼프 \"푸틴과 러시아 디젤 미국·세계 시장 공급 합의\"",
@@ -160,7 +915,8 @@
   "official": false,
   "also": [
    "CBS News",
-   "CNN"
+   "CNN",
+   "Washington Post"
   ]
  },
  {
@@ -180,6 +936,7 @@
   "also": [
    "CNBC",
    "CNN",
+   "New York Times",
    "The Guardian"
   ]
  },
@@ -232,6 +989,7 @@
   "also": [
    "CBS News",
    "CNBC",
+   "New York Times",
    "The Guardian"
   ]
  },
@@ -4903,9 +5661,7 @@
   ],
   "flash": false,
   "official": false,
-  "also": [
-   "Politico"
-  ]
+  "also": []
  },
  {
   "id": "6ca556466b",
@@ -5108,9 +5864,7 @@
   ],
   "flash": false,
   "official": false,
-  "also": [
-   "Forbes"
-  ]
+  "also": []
  },
  {
   "id": "3d065b9d65",
@@ -5838,10 +6592,10 @@
   "flash": true,
   "official": false,
   "also": [
-   "KBS",
-   "경향신문",
-   "뉴스핌",
-   "동아일보"
+   "동아일보",
+   "세계일보",
+   "아이뉴스24",
+   "연합뉴스"
   ]
  },
  {
@@ -5899,10 +6653,9 @@
   "flash": true,
   "official": false,
   "also": [
-   "KBS",
-   "경향신문",
    "아이뉴스24",
-   "연합뉴스"
+   "중앙일보",
+   "한겨레"
   ]
  },
  {
@@ -5917,11 +6670,7 @@
   "people": [],
   "flash": true,
   "official": false,
-  "also": [
-   "YTN",
-   "연합뉴스",
-   "한국경제"
-  ]
+  "also": []
  },
  {
   "id": "08b284e962",
@@ -5991,12 +6740,7 @@
   "people": [],
   "flash": false,
   "official": false,
-  "also": [
-   "서울경제",
-   "아시아경제",
-   "연합뉴스",
-   "이투데이"
-  ]
+  "also": []
  },
  {
   "id": "39add8ed21",
@@ -6189,7 +6933,6 @@
   "flash": true,
   "official": false,
   "also": [
-   "KBS",
    "중앙일보",
    "한겨레"
   ]
@@ -6307,10 +7050,9 @@
   "flash": true,
   "official": false,
   "also": [
-   "KBS",
-   "경향신문",
    "동아일보",
-   "이투데이"
+   "중앙일보",
+   "한겨레"
   ]
  },
  {
@@ -6340,2395 +7082,10 @@
   "flash": true,
   "official": false,
   "also": [
-   "KBS",
-   "경향신문",
-   "뉴시스",
-   "동아일보"
-  ]
- },
- {
-  "id": "7b6d03b0e4",
-  "time": "2026-10-07T23:03:28+00:00",
-  "title": "[마켓뷰] 6,800대까지 밀린 코스피…삼성전자 잠정 실적 주시",
-  "ko": "[마켓뷰] 6,800대까지 밀린 코스피…삼성전자 잠정 실적 주시",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008022400008",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ba4aa14b04",
-  "time": "2026-10-07T23:03:26+00:00",
-  "title": "삼성전자 3분기 영업익 107조4천억원…국내 첫 100조 시대 개막(종합)",
-  "ko": "삼성전자 3분기 영업익 107조4천억원…국내 첫 100조 시대 개막(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008019752527",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "동아일보"
-  ]
- },
- {
-  "id": "f55ae63063",
-  "time": "2026-10-07T23:02:48+00:00",
-  "title": "Trump says ‘we don’t think’ Russian plague case is a bioweapon",
-  "ko": "Trump says ‘we don’t think’ Russian plague case is a bioweapon",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXlrZWJmWVdLdE1oZldXNGlBZ1RkTzVPVmpsbGpfcDd5RUViUlViZFhCczR6YUVpMFlSc1YwQWg4SWN0bDUtem0zOEFXNWltODdVU3IzV2JQanhRREthSUx0ZnlEMGJOOGk2eHJ2dWdBS1hOUXU3ODI3bWl2VWN4SnRBTEFHdXpZUWhSVGw5MUxRTjBPWFpvcDdQaWhKUmdqbFItVmgyUFl5eEU?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News"
-  ]
- },
- {
-  "id": "8c6f86240f",
-  "time": "2026-10-07T23:02:44+00:00",
-  "title": "코나아이, 지역화폐 확대·메탈카드 성장에 실적 개선 기대",
-  "ko": "코나아이, 지역화폐 확대·메탈카드 성장에 실적 개선 기대",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080800105061",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e31ca7ac72",
-  "time": "2026-10-07T23:02:29+00:00",
-  "title": "가덕신공항·경부선 지하화·해양 AI…전재수, 부산 대전환 시동",
-  "ko": "가덕신공항·경부선 지하화·해양 AI…전재수, 부산 대전환 시동",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008020600051",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b12648042b",
-  "time": "2026-10-07T23:01:26+00:00",
-  "title": "[속보]삼성전자, 107조 3Q 영업익에 프리마켓서 1.5%↑",
-  "ko": "[속보]삼성전자, 107조 3Q 영업익에 프리마켓서 1.5%↑",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818317",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d2d088a845",
-  "time": "2026-10-07T23:00:35+00:00",
-  "title": "블룸버그 \"솔리다임, 골드만삭스 등 IPO 주관사 선정\"",
-  "ko": "블룸버그 \"솔리다임, 골드만삭스 등 IPO 주관사 선정\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008022500009",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "83a567b891",
-  "time": "2026-10-07T23:00:06+00:00",
-  "title": "삼성전자 실적 앞두고…초고수는 SK하이닉스 담았다",
-  "ko": "삼성전자 실적 앞두고…초고수는 SK하이닉스 담았다",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610089746i",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f207875381",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "8월 경상수지 461.1억달러 흑자, 역대 2위…반도체 수출 호조",
-  "ko": "8월 경상수지 461.1억달러 흑자, 역대 2위…반도체 수출 호조",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008019500002",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a1d507ee25",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "8월 경상수지 461.1억 달러…석 달 연속 400억 달러↑",
-  "ko": "8월 경상수지 461.1억 달러…석 달 연속 400억 달러↑",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818275",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "90ea7d671f",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "[속보]8월 경상수지 461.1억 달러…역대 2위",
-  "ko": "[속보]8월 경상수지 461.1억 달러…역대 2위",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818271",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "머니투데이",
-   "아시아경제"
-  ]
- },
- {
-  "id": "57f533af1e",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "반도체에 올라탄 8월 경상수지 461억달러 '역대 2위'",
-  "ko": "반도체에 올라탄 8월 경상수지 461억달러 '역대 2위'",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080735163391",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f1042f493d",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "[속보] 삼성전자 3분기 영업이익 107.4조 원 잠정 집계",
-  "ko": "[속보] 삼성전자 3분기 영업이익 107.4조 원 잠정 집계",
-  "lang": "ko",
-  "outlet": "YTN",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92VEtiZlRYMmt3S1BvSmIyR3Y5eUliNTZad1NMX245b1g1b3VLUWp4Z1hVbGJ4OVQ1U3VUSkFoc0lvSnNnd2dRd3d4eUVGb3loY0pTbEdwNFVRNnF1QzVnUjZGZW5zQUpMQmxLUEhCOA?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "JTBC",
-   "KBS",
-   "MBC",
-   "뉴스1"
-  ]
- },
- {
-  "id": "351add35a2",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "[속보] 8월 경상수지 461.1억달러 흑자…역대 2위",
-  "ko": "[속보] 8월 경상수지 461.1억달러 흑자…역대 2위",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYRW5DT01WQ3JOVXVmVndDeXVva0U0SHhhemtsNWVtSXJ5TkttUkFabEdKZDI5RU0zUEt6R09ER21RYXFzZmgxVS01b2J3SElHUjgtWU8zbUZLdVl1YTlvMGJ2ZVRMLTI3d09Z0gFwQVVfeXFMUDhnbDYtWTdxS2twUlVaSk5xcWotcnZRS1VVUjIzcXlKTnoyLXY5NWNTdTktNnktME9ZdXNDbzRjQU16Y0pLNzlIckVIN0ljT0FhT0NUcnBXVHA2SFpuWm1IWDM4YmxmUHJSS2lEV2x5Sg?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "아시아경제"
-  ]
- },
- {
-  "id": "f3dc691e61",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "Democrats sue to stop Trump from using taxpayer funds for self-promoting ads",
-  "ko": "Democrats sue to stop Trump from using taxpayer funds for self-promoting ads",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTJ2OE91UWpqaFN5WmlZdnZXcXA1R2ZCeXpnRjZVUjcwQWJfVzBOV2tXbjdYb0Z5OXpiLUE4czZFbnJ2NGRNQlp1NWRRZFNUd0tTRVdDSDZxMkJ0U29Xc0RVMUkxVjNkLWplQzZRVnZQTFpmWVlSeWlHS0d3TlB4cVFESmxaWFJmaHk1WEJEcw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2e019ad747",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "[속보]8월 경상수지 흑자 461.1억달러…\"역대 2위 또 경신\"",
-  "ko": "[속보]8월 경상수지 흑자 461.1억달러…\"역대 2위 또 경신\"",
-  "lang": "ko",
-  "outlet": "아시아경제",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yR0JRMnd5ajg5RXJ4VkhyRHRLMWo3WTRMdVVnbm1VcWx2UFhrUnRtclhKZkY4Y29FbWJsTFNaMlU5UGkzakw1OWNVczdzTDRLTzFNU3ZMZzVSZHdKVHB2RA?oc=5",
-  "section": "money",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "머니투데이"
-  ]
- },
- {
-  "id": "1767fe938f",
-  "time": "2026-10-07T23:00:00+00:00",
-  "title": "[속보] 반도체 호황…8월 경상수지 461억1000만달러 흑자 역대 2위",
-  "ko": "[속보] 반도체 호황…8월 경상수지 461억1000만달러 흑자 역대 2위",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZVE4QUdmbmxrd3dIdThWekp0WnBpUC1CdWZvVjZXamtLVzY5QWM3Ull3T1lBSHFGZlM2ZndPMTZGaVN2Y0hLSF9KenhsT25nMmlxZQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a285151098",
-  "time": "2026-10-07T22:59:56+00:00",
-  "title": "대박난 10년물 국채입찰 시사점은... 월가 “마이크론 3천달러 간다” 보고서 내놔",
-  "ko": "대박난 10년물 국채입찰 시사점은... 월가 “마이크론 3천달러 간다” 보고서 내놔",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12171082",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "233b41aebc",
-  "time": "2026-10-07T22:59:50+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 100조원 돌파… 4분기 연속 신기록·국내 기업 최초",
-  "ko": "[속보] 삼성전자 3분기 영업익 100조원 돌파… 4분기 연속 신기록·국내 기업 최초",
-  "lang": "ko",
-  "outlet": "서울신문",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LeWZfS1cybDVMMFdvU3VGdDdLOWc4U1ZUZUs3THNXWlY0aDY3dlpXM0ViZ0hXVUhQN21nQVNXVFVUcUpISkRjMERLdmI1ZXNzbnpuVFZwX3lzWW1IM2pwOVAxdHlUY2EwRjBiVUdlZw?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "매일경제",
-   "연합뉴스",
-   "한겨레"
-  ]
- },
- {
-  "id": "6a825e9d4e",
-  "time": "2026-10-07T22:56:34+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107조…역대 최대",
-  "ko": "[속보] 삼성전자 3분기 영업익 107조…역대 최대",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zUDJiRVluYy1USE91VEJiNTljQ1BoWWxqVXhneF9wbGVpUHBEMm5HZ3ZQRnY4cmFDY2NTNXJaeDdHcFNXYmRXNDl4bUZSbUJibVVqag?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "JTBC",
-   "YTN",
-   "뉴스1",
-   "뉴스핌"
-  ]
- },
- {
-  "id": "617bd741bb",
-  "time": "2026-10-07T22:55:23+00:00",
-  "title": "삼성전자, 3Q 매출 195조·영업익 107조…대한민국 기업史 신기록 썼다",
-  "ko": "삼성전자, 3Q 매출 195조·영업익 107조…대한민국 기업史 신기록 썼다",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818270",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9872d38c15",
-  "time": "2026-10-07T22:55:10+00:00",
-  "title": "삼성전자 3분기 영업익 107.4조원 '역대 최대'...전년比 782% ↑ (1보)",
-  "ko": "삼성전자 3분기 영업익 107.4조원 '역대 최대'...전년比 782% ↑ (1보)",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080748375182",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴스1"
-  ]
- },
- {
-  "id": "29df2a160c",
-  "time": "2026-10-07T22:55:00+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107.4조…100조원 돌파",
-  "ko": "[속보] 삼성전자 3분기 영업익 107.4조…100조원 돌파",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lVEJuemw5SW1Ka1YwV3g1cXE5OU9BRkNmVURJR0hDWmR5dDNudUpPcHF3T21MNnIwempCUjFFQXU0ZTRHOHI1UVEweHQxQ1NLTTYwS2dSUWdqNWM0WnRRS3BaT1JCOHM?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "YTN",
-   "뉴스핌",
-   "매일경제",
-   "중앙일보"
-  ]
- },
- {
-  "id": "fdab8239ba",
-  "time": "2026-10-07T22:54:41+00:00",
-  "title": "\"효성중공업, 3분기 실적 기대치 밑돌 전망…목표가↓\"-대신",
-  "ko": "\"효성중공업, 3분기 실적 기대치 밑돌 전망…목표가↓\"-대신",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026100897706",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2ae15796ee",
-  "time": "2026-10-07T22:54:00+00:00",
-  "title": "[속보]삼성전자 3분기 영업이익 107조4000억원…국내 기업 최초 100조 돌파",
-  "ko": "[속보]삼성전자 3분기 영업이익 107조4000억원…국내 기업 최초 100조 돌파",
-  "lang": "ko",
-  "outlet": "경향신문",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eUpWRGNIbi1jbm9ZbW5sb3RKN0NobnlqNGROWHh1NGFQSHQzR2lNZHdzczBhV1NVUGw2TDZMeTJtQm1YRnUwNHZfbkhiNzVJc09wSUlTRmJoQdIBX0FVX3lxTE4wbWpKWXBScHpVeEloc3ZJbGdyZmxmZ2U2ZGpBeXJsVFF2R01qVUE2REdHZHBKaDJySVl3R3lZem84R2VGX1AzQWc0R2pkNk5zRHlUSnMtOU9RUmV5NVpV?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "KBS",
-   "뉴시스",
    "동아일보",
-   "아이뉴스24"
-  ]
- },
- {
-  "id": "aecdde4f6a",
-  "time": "2026-10-07T22:53:49+00:00",
-  "title": "AI시대의 국어문화·MRI로 본 발음 구조…한글날 100돌 학술대회",
-  "ko": "AI시대의 국어문화·MRI로 본 발음 구조…한글날 100돌 학술대회",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008019300005",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7125995455",
-  "time": "2026-10-07T22:53:21+00:00",
-  "title": "[속보]삼성전자, 3Q 영업익 107.4조…글로벌 테크기업 최초 100조 넘겨",
-  "ko": "[속보]삼성전자, 3Q 영업익 107.4조…글로벌 테크기업 최초 100조 넘겨",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818312",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "중앙일보"
-  ]
- },
- {
-  "id": "9f2471afb6",
-  "time": "2026-10-07T22:53:11+00:00",
-  "title": "트럼프, 머스크·브린·황 등 AI 빅테크 CEO에 과학훈장",
-  "ko": "트럼프, 머스크·브린·황 등 AI 빅테크 CEO에 과학훈장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818274",
-  "section": "ai",
-  "people": [
-   "트럼프",
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f452c05f29",
-  "time": "2026-10-07T22:52:33+00:00",
-  "title": "[속보] 삼성전자, 3분기 영업익 107조원⋯전년比 783%↑",
-  "ko": "[속보] 삼성전자, 3분기 영업익 107조원⋯전년比 783%↑",
-  "lang": "ko",
-  "outlet": "서울경제",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96OVBINEZQc2lfb1I4T0ZlLVpKVjFYWGJfVXJKai1ESzFTUVVrLWxaTUM5U2xPanNwcE9abE5NSjFsYjk3VkFVU3A5bjEzejhZRUZ2OGlpd2d4cHczRjFaSndmWDc?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1",
-   "아시아경제",
-   "연합뉴스",
-   "이투데이"
-  ]
- },
- {
-  "id": "c604f371ea",
-  "time": "2026-10-07T22:51:42+00:00",
-  "title": "[2보] 삼성전자 3분기 영업익 107조4천억원…4분기 연속 신기록",
-  "ko": "[2보] 삼성전자 3분기 영업익 107조4천억원…4분기 연속 신기록",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008019751527",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "MBC",
-   "뉴스핌",
-   "서울신문"
-  ]
- },
- {
-  "id": "191c76b4f9",
-  "time": "2026-10-07T22:51:00+00:00",
-  "title": "[속보] 삼성전자 3분기 매출 195조원…작년 동기보다 126.6%↑",
-  "ko": "[속보] 삼성전자 3분기 매출 195조원…작년 동기보다 126.6%↑",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WSTl0ZWpqSWxncjFiVzE0RmEyYjFTV0ZCdUJhLVZ6VkxQdzEwM3hKLW15ZE1HM3p3Umd4NzVGNzJUY05nQ2lFYkdjQ0JLeGc0c2RDSzdNRkFuVjRyeHk5Tk8yZng2M1E?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "매일경제",
-   "아시아경제",
-   "이투데이",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "1581b4afdc",
-  "time": "2026-10-07T22:50:19+00:00",
-  "title": "오픈AI·앤스로픽 같은 날 신모델…무료 개방 vs 가격 인하",
-  "ko": "오픈AI·앤스로픽 같은 날 신모델…무료 개방 vs 가격 인하",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080743261362",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "28c548f678",
-  "time": "2026-10-07T22:50:19+00:00",
-  "title": "[속보] 삼성전자, 3Q 영업익 107.4조... 전년比 783% 증가",
-  "ko": "[속보] 삼성전자, 3Q 영업익 107.4조... 전년比 783% 증가",
-  "lang": "ko",
-  "outlet": "지디넷코리아",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JQ2RFUzNWLWVUbnVvUUxBbzQwSllzZExnWXg5amZoRV9BOVZzajRzZ3RMU1lqM0VSc1pHcjhWeEMwRlY3RDR0aTVpdUpJQjN5SDRxMmZ3?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1",
-   "뉴시스"
-  ]
- },
- {
-  "id": "fe8ef78c9f",
-  "time": "2026-10-07T22:50:02+00:00",
-  "title": "[속보]삼성전자, 올 누적 매출액 500조 돌파…영업익 254조",
-  "ko": "[속보]삼성전자, 올 누적 매출액 500조 돌파…영업익 254조",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818307",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "머니투데이"
-  ]
- },
- {
-  "id": "b3f3f6c2a8",
-  "time": "2026-10-07T22:50:00+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107.4조 ‘역대 최대’…전년 대비 782% ↑",
-  "ko": "[속보] 삼성전자 3분기 영업익 107.4조 ‘역대 최대’…전년 대비 782% ↑",
-  "lang": "ko",
-  "outlet": "JTBC",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nQW9iYnVodnhid0E4Q2RVZDlUX3R4WmFfaEN6dU55M1M2NEIxV0c0dG90QnJ4VHlpWXFMMUtmZnhFQWp6ZUVmTkVzbVBXc0s2aS1kbQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "YTN",
-   "뉴스1",
-   "뉴스핌",
-   "매일경제"
-  ]
- },
- {
-  "id": "284b2f83ba",
-  "time": "2026-10-07T22:50:00+00:00",
-  "title": "[속보]‘영업이익 100조’ 열었다...삼성전자 3분기 영업이익 107조4000억원",
-  "ko": "[속보]‘영업이익 100조’ 열었다...삼성전자 3분기 영업이익 107조4000억원",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdm1ieE1RYTRTUmZWZ080M3BGR2xnNDJkeVJLc2NlN2VZNnZfYVNZczh1aHlMelpPX0JkOUU5dTlOQ1ltWk5NU0N1SGF2ZHYtTzQzSk5vM193cmQwbjdJRk5XT1NxeUg2XzNlNnlCWm16RTdncmdXa1VtZjh6bG5uSHVFcw?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "경향신문",
-   "동아일보",
-   "아이뉴스24"
-  ]
- },
- {
-  "id": "10e1f1f302",
-  "time": "2026-10-07T22:50:00+00:00",
-  "title": "[속보] 삼성전자 3분기 영업이익 107.4조 원…국내 기업 첫 100조 돌파",
-  "ko": "[속보] 삼성전자 3분기 영업이익 107.4조 원…국내 기업 첫 100조 돌파",
-  "lang": "ko",
-  "outlet": "KBS",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MHVrdFlRT3RHV2lnMW0tdEllMTJvN1Jpa3gxNzYxZ1NIWWRhU2RXSEdGaFRnR29VeWpLUTFoTXlGejIxeHlDOExzR2tMd1pPZkxPMzBTTmd0VGM?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "YTN",
-   "경향신문",
-   "동아일보",
-   "세계일보"
-  ]
- },
- {
-  "id": "83bb54f44d",
-  "time": "2026-10-07T22:50:00+00:00",
-  "title": "[속보]‘영업이익 100조’ 열었다...삼성전자 3분기 영업이익 107.4조",
-  "ko": "[속보]‘영업이익 100조’ 열었다...삼성전자 3분기 영업이익 107.4조",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDIwMWFmSTl3Y09mVHN6NUxEby1IMmFFN2Jjcnh3ekVPMVFRVnF3THhSZ1pzYmRzQjg0NS1lVHVjSkhyZ2Y1OUZCWWZiYnY3RWhNbFVVYVJwV0Y2RDFCc3NkNVlZNmF0TXV2S0NMTm5PTC1WbnVKd1Y5aWU5cU5Eem5LVlVIcjRwbFBXZW82VE9SSHZmY205T3B6VDZxZ09nOXRXUFVxT1RFc3F0Si1ublNYTmY2aHV6bEJUYjN0bWZFQ3l5WVlybUVCVVIxMERudkdaOQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "KBS"
-  ]
- },
- {
-  "id": "b054cc65b3",
-  "time": "2026-10-07T22:49:56+00:00",
-  "title": "[속보] 삼성전자 3분기 누적 영업이익 254.1조…전년比 980% ↑",
-  "ko": "[속보] 삼성전자 3분기 누적 영업이익 254.1조…전년比 980% ↑",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XYzdQRFlQa2wzM3g2V2U4RmF3M0VMa1hKM3JyTENxQ0M4cnV1cEpMRmRvc2ZrejllRFhDT0Q0UlBLcTJGR3RuSTAxVk1wTXJSYjF6MGNSVDV3bHhDZ2dnTkdlbUc?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "서울경제",
-   "아시아경제",
-   "이투데이",
-   "한국경제"
-  ]
- },
- {
-  "id": "41a6224d81",
-  "time": "2026-10-07T22:49:46+00:00",
-  "title": "[속보]삼성전자, 3분기 매출 195兆...전년比 126.6%↑",
-  "ko": "[속보]삼성전자, 3분기 매출 195兆...전년比 126.6%↑",
-  "lang": "ko",
-  "outlet": "아시아경제",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWWF6VTlFNmhhVHBURTFXSFRDb0VtSnZLUEFHLXdUa2htRjA0R01FUmt3dGVfTUtuTk95Nk5zU2RRbm00bk9WMlh2NDliU1F5dFJIZWdnTDRvVWwtQU8zSQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "연합뉴스",
-   "이투데이",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "66160ecd70",
-  "time": "2026-10-07T22:49:01+00:00",
-  "title": "[속보]삼성전자, 3분기 매출 195조...누적 매출 500조 돌파",
-  "ko": "[속보]삼성전자, 3분기 매출 195조...누적 매출 500조 돌파",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTnl2bl9HUHRhaTRJUGk0VzZrb0tnZ3NpUk5ZQmk2U2lNVDQ4bjN6NFlIYzkxM0ZUUlFNaFZObU13Wi1FQUF6WFFVX0dOai1xTkNaX0xqUEVVbHpyb3dfVGNZV1pPRXFJa2FOUm8zbTFBZ2VaV3RGQkNn0gF_QVVfeXFMTUtWYUU2UEpqLWswQXBOZk9mbjhXQ0dRYk0xM0NqWmlldlVGLUI2cFo1M3VmeDZhLVlUMTl3TjVQaE84QmlkcVZHTnZBVjRVZE52eHZUUVlRV2FwWms2MFVaR2J1UjNTaUktVE1GeTJURnVuVGY5WmgxejVUUTR6MA?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "f3e0d75c7c",
-  "time": "2026-10-07T22:48:45+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107조…세계 테크기업 최초 100조 돌파",
-  "ko": "[속보] 삼성전자 3분기 영업익 107조…세계 테크기업 최초 100조 돌파",
-  "lang": "ko",
-  "outlet": "중앙일보",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41bl9MdlZVWGNucTc0OHZEcVV5WWMxM0VGd215cHlhaDZwVk9FSTJSRmNMVGZ3MExyWHlqSjBwenc4UnZLTHE3WnV2bXpiQVh0LTE4c2VR?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "KBS",
-   "경향신문",
-   "뉴시스",
-   "동아일보"
-  ]
- },
- {
-  "id": "165aeddbf5",
-  "time": "2026-10-07T22:48:18+00:00",
-  "title": "트럼프 사진 지운 격전지 공화 후보들…갈수록 '거리두기' 뚜렷",
-  "ko": "트럼프 사진 지운 격전지 공화 후보들…갈수록 '거리두기' 뚜렷",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008012000071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d642e040b0",
-  "time": "2026-10-07T22:48:09+00:00",
-  "title": "[속보] 삼성전자 3분기 영업이익률 55.1%",
-  "ko": "[속보] 삼성전자 3분기 영업이익률 55.1%",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBWkJCWlhpOGwzYTN4WDhzVHBLRXRlYk9JT2M5VTVoTXpKT0R5OENXdHJyS1E4ZGJVdDRoQkpibTF0RFRkRDJUVnNQNmVWLWs1R05SWTk3M3hleEoyU09HV2pmVnQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "한국경제"
-  ]
- },
- {
-  "id": "3584b73f57",
-  "time": "2026-10-07T22:48:00+00:00",
-  "title": "[속보] 삼성전자, 3분기 누적매출 500조 돌파",
-  "ko": "[속보] 삼성전자, 3분기 누적매출 500조 돌파",
-  "lang": "ko",
-  "outlet": "이투데이",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zRUMzTDNLX1JwSW5FbGM5S3JoWU80VWJwODZCVXI2NTFiMHhiQVY3a1F2T25rVTJScWw4elpmSkQ0aTF6NE5xTmhNOEVTWkxOdklMUg?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
+   "세계일보",
    "아이뉴스24",
-   "한겨레"
+   "중앙일보"
   ]
- },
- {
-  "id": "2e21aa76e6",
-  "time": "2026-10-07T22:47:58+00:00",
-  "title": "[속보]사상 최대 실적 삼성전자, 올 3Q 영업이익률 55.1% '역대 최고'",
-  "ko": "[속보]사상 최대 실적 삼성전자, 올 3Q 영업이익률 55.1% '역대 최고'",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818292",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2a972ea0fa",
-  "time": "2026-10-07T22:47:53+00:00",
-  "title": "[속보] 삼성전자 3분기 매출 전년비 127%↑ 195조…역대 최대",
-  "ko": "[속보] 삼성전자 3분기 매출 전년비 127%↑ 195조…역대 최대",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008020100003",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1",
-   "매일경제",
-   "이투데이",
-   "한국경제"
-  ]
- },
- {
-  "id": "adbce6ebd1",
-  "time": "2026-10-07T22:47:53+00:00",
-  "title": "[속보] 삼성전자 3분기 매출 전년비 127%↑ 195조…역대 최대",
-  "ko": "[속보] 삼성전자 3분기 매출 전년비 127%↑ 195조…역대 최대",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HcDdYQVJ4WjBCb1ZKNEtraU85dXdvcU9MSWdMR2NvN2x0MkZfWG9ObE8zRk14QXdTaTI5V0ZQOHl6RGtKdm1QMUpkMl9ic2hUa1E?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1",
-   "연합뉴스",
-   "이투데이",
-   "한국경제"
-  ]
- },
- {
-  "id": "9dd3886b82",
-  "time": "2026-10-07T22:47:31+00:00",
-  "title": "[1보] 삼성전자 3분기 영업이익 107조4천억원…작년 대비 782.5%↑",
-  "ko": "[1보] 삼성전자 3분기 영업이익 107조4천억원…작년 대비 782.5%↑",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008019700527",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "서울경제",
-   "아시아경제",
-   "이투데이",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "13de480027",
-  "time": "2026-10-07T22:47:00+00:00",
-  "title": "[속보] 삼성전자, 3분기 매출 195조원...전년比 126.6% ↑",
-  "ko": "[속보] 삼성전자, 3분기 매출 195조원...전년比 126.6% ↑",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080728544611",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "아시아경제",
-   "연합뉴스",
-   "이투데이"
-  ]
- },
- {
-  "id": "937ce41634",
-  "time": "2026-10-07T22:47:00+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107조4000억원… 전년比 782.5% 증가 - 조선비즈",
-  "ko": "[속보] 삼성전자 3분기 영업익 107조4000억원… 전년比 782.5% 증가 - 조선비즈",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdm9raVpocnI5VWV0dk83RDVNYVl3WVFsVXBSZnFpY0FHbmxHLVJaaVd5NUM5RTRITGtybGhPZjk2VHRfQkdFWHpTdHAyVVlRY2EtS0V5ZlZOd3ZmS2p3UDlUNG1aTk5PUmhSd21wMTBraVpfVmFBanBLazdmZUtWU3FR0gGWAUFVX3lxTE01a1BlUFd3elAycU50RENBa1BmcnN2MHFpSW5TYWhXbnV5UjVVUEMwSHR6Z0tCd3VrMXJ4TWlzUWRhX2VyVExlR2lZM0dHTU42di1GZndCWUNkcmp4cWpleUxheXl5VFl6OVRneDRreHhHUHRnR0QxVXZmVk5KNFdkcU91S3NsbU9oeDdmN1pHSHV6UmpfZw?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "매일경제",
-   "이투데이",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "d8168e5955",
-  "time": "2026-10-07T22:47:00+00:00",
-  "title": "[속보] 삼성전자, 3분기 매출 195조⋯전년비 127% ↑",
-  "ko": "[속보] 삼성전자, 3분기 매출 195조⋯전년비 127% ↑",
-  "lang": "ko",
-  "outlet": "이투데이",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MZk5rcXFOWF9yVmFVdDJWeVlMYXdxQTN2WTQzUGY1aVZESVJTd0YzXzQyRnpVSTZ3UmhxRUFMMGFpY1h6SmcwZHB0US1OeVBCaUZWSQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "매일경제",
-   "아시아경제",
-   "연합뉴스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "b4a013a5ff",
-  "time": "2026-10-07T22:46:46+00:00",
-  "title": "美 모기지 금리 3년來 최고치…트럼프 \"연준이 금리 내려야\"",
-  "ko": "美 모기지 금리 3년來 최고치…트럼프 \"연준이 금리 내려야\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818255",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9ec701d032",
-  "time": "2026-10-07T22:46:27+00:00",
-  "title": "[속보]삼성전자, 3Q 영업익 전년比 782.5% 증가…매출 126.5% 늘어",
-  "ko": "[속보]삼성전자, 3Q 영업익 전년比 782.5% 증가…매출 126.5% 늘어",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818290",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "지디넷코리아"
-  ]
- },
- {
-  "id": "35580532da",
-  "time": "2026-10-07T22:46:27+00:00",
-  "title": "[속보]삼성전자, 3분기 영업이익 107.4조…시장 기대치 넘어섰다",
-  "ko": "[속보]삼성전자, 3분기 영업이익 107.4조…시장 기대치 넘어섰다",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RN0hCQUpHOEh1MWFVQXMwZE5xRVFQNFdpX3I0aHVDa1JWS01FbDg4NmZyaVF1ZVN0MkN1SFlQcmdDNEV1YlR5WU5aVG1yTGFnYTFCakZxWjRtXzRQV1NUYmdLTnBCeUtBSjdqadIBckFVX3lxTE1mb3BHTTJPZmpiMGJwQW9QNTZJS1hhX25FVjJuaEc2b0k1WjdYcndMaWxIOUU1Wkl3WDJoR0J4elJiRThfRk1yS2Q1Z1dZZmpWVGpYa2VqVE11cVItVWd0Smp6emVwWkpQOVRMSDR2OThVZw?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "YTN",
-   "뉴스핌",
-   "한국경제"
-  ]
- },
- {
-  "id": "ab1eae2fa5",
-  "time": "2026-10-07T22:46:24+00:00",
-  "title": "[속보] 삼성전자 3분기 매출 195조…'또 사상 최대'",
-  "ko": "[속보] 삼성전자 3분기 매출 195조…'또 사상 최대'",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JY3cwMXBQbnFuWUZJYmdUM3cxdmx0aGVJWEExWVpEYkRtVXJfR1hVQWo0NjE2QXVZSXlGZEZQVEhTbWVkcWFCZTUyeUNic05ndzhIdE1sazVobVdiVmNaMnA0REU?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "매일경제",
-   "연합뉴스"
-  ]
- },
- {
-  "id": "0bd06d036d",
-  "time": "2026-10-07T22:46:15+00:00",
-  "title": "[속보]삼성전자 3분기 영업이익 107조원…전년比 782%↑",
-  "ko": "[속보]삼성전자 3분기 영업이익 107조원…전년比 782%↑",
-  "lang": "ko",
-  "outlet": "아시아경제",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fYzRlX0c4dENHR0Zlems0cmhZZDZuUDRucXlMV01jc2E3RzNEUmdVdFZYNkx2S3JXdDUydmIxYzVUdDNMMXhJVEp4cnAwcjFLdEhqX3VuMm1ia2p5M2FaNA?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1",
-   "매일경제",
-   "서울경제",
-   "연합뉴스"
-  ]
- },
- {
-  "id": "04b253aaf4",
-  "time": "2026-10-07T22:46:00+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107.4조원…분기 역대 최대",
-  "ko": "[속보] 삼성전자 3분기 영업익 107.4조원…분기 역대 최대",
-  "lang": "ko",
-  "outlet": "뉴스핌",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42Y2Z6R09sN2VIdG5BWWZjeUNDYlFsbHNhdXNwVW00eVJQQ2ZLWGxWRnNLcVdMZVNrUTRsVDdfLUxueDg1ZWltUnpOWWd2MzlfdExWaGxQTTJtQVc5?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "JTBC",
-   "YTN",
-   "뉴스1",
-   "매일경제"
-  ]
- },
- {
-  "id": "7a71cc5411",
-  "time": "2026-10-07T22:46:00+00:00",
-  "title": "[속보] 삼성전자, 3분기 영업이익 107조4000억…전년비 782% ↑",
-  "ko": "[속보] 삼성전자, 3분기 영업이익 107조4000억…전년비 782% ↑",
-  "lang": "ko",
-  "outlet": "이투데이",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1odF8wQURPeVZXczhsSWF4RUtJNlJ0Tmc2Yk9Vbl9MbVJMVUpnazc2SU53YVZHOXN3ZTNuYWZaZ1B6YkFiSkJjNXZtbVdreWRiTmotUA?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1",
-   "서울경제",
-   "아시아경제",
-   "아이뉴스24"
-  ]
- },
- {
-  "id": "6605719827",
-  "time": "2026-10-07T22:45:57+00:00",
-  "title": "AI챗봇 유해콘텐츠 신고 64% '검토 중'…최장 494일 방치 논란",
-  "ko": "AI챗봇 유해콘텐츠 신고 64% '검토 중'…최장 494일 방치 논란",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008015400017",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1682d898ce",
-  "time": "2026-10-07T22:45:54+00:00",
-  "title": "[속보] 삼성전자 3분기 영업익 107.4조 '역대 최대'…전년比 782% ↑",
-  "ko": "[속보] 삼성전자 3분기 영업익 107.4조 '역대 최대'…전년比 782% ↑",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fbzg3ekhQM3FnSjJ5cG9rMXpmdXY0VXJlQVJVZHpPa0NRakloV3Q4QzFFVnVDQmE0OTB1VFIyNFN2OWZxSElxei1yNE9qc0hWQ21rOHczYWRoNXNlc0xVVlh5T1g?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "JTBC",
-   "YTN",
-   "뉴스핌",
-   "매일경제"
-  ]
- },
- {
-  "id": "1bfef94009",
-  "time": "2026-10-07T22:45:46+00:00",
-  "title": "[속보]삼성전자, 올해 누적 영업이익 254.1조…3분기 하루에 1.2조 이익",
-  "ko": "[속보]삼성전자, 올해 누적 영업이익 254.1조…3분기 하루에 1.2조 이익",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBV1FDWTNaeVBzZk5NbXEyYWdfUG5fLXRkR1FIZmNFY0pyeDN4S2hhdHBCdUI4MWlpcXRvcnJIRXBMdldHZmlMaXpuV1BISGJ2N2kwTGNVWXZFWksxTWJJdEQxZ0ZmOERxVFh1ctIBckFVX3lxTE85NXdOQVpnU3RpOGZjSFdZRkZqRGpoRFFkdE9HMUkzek5pMVZVY1UzbXhmb2JMQk9pYko4aVNOSVJkNVhQb1ltdDF4Y2QxdjQxMWxzUnNPY0tjVS1aUXNjbzR1eEVHNDNPdVY5aGd0WEhvQQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "89f25cecb2",
-  "time": "2026-10-07T22:45:34+00:00",
-  "title": "[속보]삼성전자 3분기 매출 195조…4분기 연속 사상 최대 경신",
-  "ko": "[속보]삼성전자 3분기 매출 195조…4분기 연속 사상 최대 경신",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818289",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스1"
-  ]
- },
- {
-  "id": "16e828e56e",
-  "time": "2026-10-07T22:45:30+00:00",
-  "title": "[속보] 삼성전자 3분기 영업이익 107조…역대 최대",
-  "ko": "[속보] 삼성전자 3분기 영업이익 107조…역대 최대",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTzNUUVFlOHZlaWozY19Cb2lZY0piSHVyRWtIRGRzYkFkc0htRmNfWHBuaURwX2x0ZHlPek9qTV9iaG9MeERVeGxPaEhzaUczSHZBTDhUVl9fZw?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "JTBC",
-   "KBS",
-   "MBC",
-   "YTN"
-  ]
- },
- {
-  "id": "f6f8f885c8",
-  "time": "2026-10-07T22:45:17+00:00",
-  "title": "[속보] 삼성전자, 3분기 영업익 107조원...韓 기업 새 기록 썼다",
-  "ko": "[속보] 삼성전자, 3분기 영업익 107조원...韓 기업 새 기록 썼다",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080725422999",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "adb567ab9a",
-  "time": "2026-10-07T22:45:00+00:00",
-  "title": "[속보]삼성전자, 3Q 영업익 107.4조…韓 기업 최초 분기 영업익 100조 넘겨",
-  "ko": "[속보]삼성전자, 3Q 영업익 107.4조…韓 기업 최초 분기 영업익 100조 넘겨",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818283",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "경향신문",
-   "중앙일보",
-   "한겨레"
-  ]
- },
- {
-  "id": "e15bcf0a9f",
-  "time": "2026-10-07T22:44:05+00:00",
-  "title": "\"LG전자, 실적 쇼크에 10% 급락은 과도…목표가↑\"-DB",
-  "ko": "\"LG전자, 실적 쇼크에 10% 급락은 과도…목표가↑\"-DB",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026100897426",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3a5a966123",
-  "time": "2026-10-07T22:44:00+00:00",
-  "title": "DNC sues to stop taxpayer-funded Trump ads ahead of midterms",
-  "ko": "DNC sues to stop taxpayer-funded Trump ads ahead of midterms",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnRLbWxESzFoakR5UmlsaXE4R1ZtZUEyM2Zpa2dGNWlaUUtub01abE5JLUMwNlBXWFEzVUh2MXozRGpaYkxpcy1BRHJ5aE1uNFZFZm1Bcnd3WnM3OVpGdGZmdFBlZGJBWmdzNm1QUU1MLS0xX1ozTVhoRlltbkZ6UFBmbw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Washington Post"
-  ]
- },
- {
-  "id": "5ba90517ab",
-  "time": "2026-10-07T22:42:52+00:00",
-  "title": "영업익 782% 폭증...\"삼성전자 지금이 가장 어둡다\"는 증권사, 글로벌 IB와 '정반대'?",
-  "ko": "영업익 782% 폭증...\"삼성전자 지금이 가장 어둡다\"는 증권사, 글로벌 IB와 '정반대'?",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080726086302",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4fdfbe23de",
-  "time": "2026-10-07T22:42:12+00:00",
-  "title": "오픈AI 300여개 난제풀이에 수학계 긴장.... 대표 난제 5개 가운데 3개 진전",
-  "ko": "오픈AI 300여개 난제풀이에 수학계 긴장.... 대표 난제 5개 가운데 3개 진전",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080733143573",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "55f42361ac",
-  "time": "2026-10-07T22:40:51+00:00",
-  "title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
-  "ko": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6262165027",
-  "time": "2026-10-07T22:40:23+00:00",
-  "title": "[오늘의 증시]삼성전자 실적발표 디데이…코스피 변동성 확대되나",
-  "ko": "[오늘의 증시]삼성전자 실적발표 디데이…코스피 변동성 확대되나",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818282",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "27992cdb92",
-  "time": "2026-10-07T22:38:50+00:00",
-  "title": "오픈AI·앤트로픽 같은 날 신모델…무료 개방 vs 가격 인하",
-  "ko": "오픈AI·앤트로픽 같은 날 신모델…무료 개방 vs 가격 인하",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008017400009",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "c78bfd0923",
-  "time": "2026-10-07T22:35:42+00:00",
-  "title": "위기 맞은 '트럼프 중간선거'…지금 매수할 만한 종목은?",
-  "ko": "위기 맞은 '트럼프 중간선거'…지금 매수할 만한 종목은?",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610078720i",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "220d5cbf0d",
-  "time": "2026-10-07T22:30:19+00:00",
-  "title": "Trump wants to make his West Palm Beach golf club a permanent presidential retreat",
-  "ko": "Trump wants to make his West Palm Beach golf club a permanent presidential retreat",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0hJNGhrc3phckEyMF9GUTlpSjRkNV92dTVXM1ptRFFRVS1jNWc0dHowYXV4ZmNkNHYzVG12NndFcnZBREF3RlRWRlVpVk9HZEZ2b2ZTZUpvbUtxM2YzVXZYUmpKTFVfcmZFblhTYldTNTlYQWMzSjNrdGliOWhKUGZuRjl6endIaTZlRXJINWdDVVk1bzRtbG41WnRnSVNvRHN6UWJpSWlidkVKR3NYSFZDZFM4UTZRaWlmemc0Vk14c3U0ZlE?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8c42db6eca",
-  "time": "2026-10-07T22:26:16+00:00",
-  "title": "\"인간이면 필즈상\"…오픈AI 300여개 난제풀이에 수학계 긴장",
-  "ko": "\"인간이면 필즈상\"…오픈AI 300여개 난제풀이에 수학계 긴장",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008012100075",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4879eee0e3",
-  "time": "2026-10-07T22:24:00+00:00",
-  "title": "Rubio in Greece digs into past to tout Trump’s ‘America first’ approach",
-  "ko": "Rubio in Greece digs into past to tout Trump’s ‘America first’ approach",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlNPbVo5Tm92T0NraGUtcDJMdGFqV19VbVh1SjhTNW5VckV0RDJSQkF1enFUMU1rVHdfX0d4cjVWVHo2WlN3ZE5XYS1kdlZVSXdZWWVRengzMkpHdDdBcy1NQnZIdEN6cmJWRkpsNDQyUWl4Nm9OVjVKX3RuUXI1ampNWGJZVDVCZ2pIdnNieHU?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "da8ee6b775",
-  "time": "2026-10-07T22:21:35+00:00",
-  "title": "Trump Will Award Musk National Medal Of Science At D.C. Tech Summit",
-  "ko": "Trump Will Award Musk National Medal Of Science At D.C. Tech Summit",
-  "lang": "en",
-  "outlet": "Forbes",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2xFalBFU2hXX0FSVjJOOEVwODFUcS1WQTJwOXdiTzNsZGgxUk5XMHdvck50Sjk0SzRNemZqb0FNS0hwQmFKTE1ncS1UYTN6NGJtdHU2Z1pxV0xYTU53TElGSTlQa1VxQndfUExaN0VNMXZqaUYyZzZpTkFYOVMyMUFETUoyejY4UEo2ejU3bF9NTTcyclBVUlFlSE1yZlVkMnF1M2tpM0NDV0VJU0JPZFpTRWhpWWxNa29LTmoyUkw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프",
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "The Hill"
-  ]
- },
- {
-  "id": "02af3f2396",
-  "time": "2026-10-07T22:20:00+00:00",
-  "title": "Tillis criticizes Trump advisers for work with Russia-aligned Bosnia group",
-  "ko": "Tillis criticizes Trump advisers for work with Russia-aligned Bosnia group",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGFpVjVjdS1VbUdUelVWcjJHTjYxU2NmTlB1NGNXMHc3cGZqX1NMTG1GZ1pQUVNnUGhfU1B6V216MHVvYldlOFdrQkFwdWZJNTRCbFk2RWg4RXM5VHI5SnNQS2xzVU9CbjllbTJoMDdMVk5haWlCTjdMR0RNeVRxcWpua1TSAYoBQVVfeXFMUHRQSzY0LVpsWmd4ZnFwZThDZ2VXenhwc1IxYzVOU29jbElpT0hQYVZuSWtUZGRRTE12YlIyaHBERkFOeXYwTTBFRl9OcGo5WUpwT3JGOTlteVgtLTM5WlUxaXdZWGFkZGNwc1FoS2lvNmszdVR0OUJiTWtTTXJuSjBSMjdqOVo3QlBR?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "27f3d3f400",
-  "time": "2026-10-07T22:14:33+00:00",
-  "title": "韓 등 15개국, 車·배터리·반도체 과잉생산 공동 대응",
-  "ko": "韓 등 15개국, 車·배터리·반도체 과잉생산 공동 대응",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818269",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "39202bf56c",
-  "time": "2026-10-07T22:12:32+00:00",
-  "title": "Trump says Reflecting Pool will be refilled this week, but work is ongoing",
-  "ko": "Trump says Reflecting Pool will be refilled this week, but work is ongoing",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHdteE9zR2pPNVp3a3lMdHMtWVJkQ1hlWDVjRFhkeW1SWWRXZWUtTmJjN3M4TGlKclUxZnlKZkpRMU05bGhCeVlzUEIxaGR6MDhpaU51U2UyZHI2MU5KeUZhRHJ0aHVFTTA0QnhnbU9TU3AzUHBXVm5KTWZOWWs2enVKaTdSb3NNTGJvTGRYaUplZ0lSMGhQX2hCdUJHWUxiVGlqUmV0aEt3d19oYlI0SGlralpzb3hjVjRPSkRn?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "61a03f95c5",
-  "time": "2026-10-07T22:11:47+00:00",
-  "title": "'서류철 던지고 욕설' 다혈질 베선트…짐싸는 美재무부 관료들",
-  "ko": "'서류철 던지고 욕설' 다혈질 베선트…짐싸는 美재무부 관료들",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008007900072",
-  "section": "people",
-  "people": [
-   "베선트"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7b2fdc357c",
-  "time": "2026-10-07T22:07:50+00:00",
-  "title": "美국채 상승에 주택대출금리 7.49%…3년 만에 최고",
-  "ko": "美국채 상승에 주택대출금리 7.49%…3년 만에 최고",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080702293831",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "5c1b870b60",
-  "time": "2026-10-07T22:06:18+00:00",
-  "title": "국채금리 24년 만에 최고…3대 지수 일제히 하락 [뉴욕증시 브리핑]",
-  "ko": "국채금리 24년 만에 최고…3대 지수 일제히 하락 [뉴욕증시 브리핑]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026100896996",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2b026e8099",
-  "time": "2026-10-07T22:00:04+00:00",
-  "title": "SK하이닉스, AI환경연구소 설립한다…반도체 환경문제 선제대응",
-  "ko": "SK하이닉스, AI환경연구소 설립한다…반도체 환경문제 선제대응",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007189000003",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "116a1b25a1",
-  "time": "2026-10-07T22:00:00+00:00",
-  "title": "지지부진 코스피에 '테마주'만 무더기 급등…단기차익 노린 자금 쏠려",
-  "ko": "지지부진 코스피에 '테마주'만 무더기 급등…단기차익 노린 자금 쏠려",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003817727",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "37095b8ad6",
-  "time": "2026-10-07T22:00:00+00:00",
-  "title": "Trump’s Tariffs Put a Spotlight on Forced Labor. It Isn’t Going Away.",
-  "ko": "Trump’s Tariffs Put a Spotlight on Forced Labor. It Isn’t Going Away.",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTd1YThtaDdsOEtGUlQ2R3VsX2ZGNDRDT0hjNzFWZ2JkMXA5WnN0aHhkM2gzaC1BWGpFOHN1YUlFQ2J4V1Q2djhNbGdDUENWZXZzYjVJMGdjR3NhbzA0X2xSODhibWpyNHotNHVzdTU0SEVNbmpGRDRKU3pzZG5TRGp3RGdaemltc293WURWTFg2dEhmS19BMzFPaUZGcnoxYUYzWF9DaEZwWDFW?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1fda9cfc4c",
-  "time": "2026-10-07T21:59:24+00:00",
-  "title": "\"서울 유가지원금, 차·주유에 1%만 결제…교육업종은 주유 9배\"",
-  "ko": "\"서울 유가지원금, 차·주유에 1%만 결제…교육업종은 주유 9배\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007167100002",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "40de4d89f6",
-  "time": "2026-10-07T21:48:47+00:00",
-  "title": "DNC sues administration over taxpayer-funded pro-Trump TV ads",
-  "ko": "DNC sues administration over taxpayer-funded pro-Trump TV ads",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkR6VTgxLWFFRUZOUGdWb1dqM0ZQYmRPb2drUHhHTW0wLVBHWWp4N1BRY1pXYjZtWUZURHk1dzhDVHUtanhjakc3RkxrWGhDcFpmaFduRVhmeEZJWWxVRVhlbTBrRS1Lb0RwbWg5ZHctM09KM0ZGQkpLTVYxOVpJcTgzTElxeGdyMkF1NHZ1bW5XbFhocTRtWVgzMjZkM0N2b2FwMV9UWmp0aWFkWlpZ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f4fdc835bd",
-  "time": "2026-10-07T21:42:12+00:00",
-  "title": "美국채 상승에 주택대출금리 7.49%…3년 만에 최고",
-  "ko": "美국채 상승에 주택대출금리 7.49%…3년 만에 최고",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008011200009",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "712a7aaa2c",
-  "time": "2026-10-07T21:41:20+00:00",
-  "title": "트럼프, 美주담대 급등에 \"연준, 나라 잘 안풀리길 바라는듯\"",
-  "ko": "트럼프, 美주담대 급등에 \"연준, 나라 잘 안풀리길 바라는듯\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008009400071",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "34c9353627",
-  "time": "2026-10-07T21:33:21+00:00",
-  "title": "9월 FOMC 의사록 \"금리 연내 추가인상\"…10월 인상 없을 듯",
-  "ko": "9월 FOMC 의사록 \"금리 연내 추가인상\"…10월 인상 없을 듯",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080628008395",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "196ad8294d",
-  "time": "2026-10-07T21:32:36+00:00",
-  "title": "Trump Administration Investigates Wells Fargo for Race-Based Lending",
-  "ko": "Trump Administration Investigates Wells Fargo for Race-Based Lending",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtc2l2TUJiT2tyN2FlNzdZcWtmN1VRMGVtYnc0QTlVS3dYdlQzdHJiY0drN0w3S3czdTFWR3duQU5UTmFCMlNJSTY2eVVFMkNheUJVSnJIWTFpU24zSFlhYXR5SUh0OFlBQ3V5bHJnTHpfajFELUdZMmZn?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cc39fb5cb4",
-  "time": "2026-10-07T21:31:23+00:00",
-  "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-  "ko": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-  "lang": "en",
-  "outlet": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzNnMFpVV1dYQ2tUMHg4SWJTR2ZtRW9KZUtnSHdkNG5EZFZkQ00xVUl1VmRFSGlub0g2WlRIcXZmM2E5a3NXZDlkZXp1dHJWY3FMNUV0MDdJV2FjWW8tZ2tLSHdZWHV4WlhZa0VuNkFRVEwyTmNic0t0eFUzdFZHd1NVcGxyYTFtZFE5YUQ4Um5zRXY5dXJkNWtFeFZHZ9IBowFBVV95cUxNMjU3eDJVVWMwVld0MWVLcUM4MzB2MjI1RTdaZ3VRU0pvR1JWUHFYaG04MFRNT1l1WlV0b1prYU9ZT19NSVM3X280S0NaWXlHTVhWZHNzSkJoVElPM3lBamRxT01XTlNCQ0J0R3FCTHZmczE1bnAtNThGejE2VVdtVTFsTktNSXdqdEUxTld2aVZRRWdBcDFGZzRnUFhJclphSEo0?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프",
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "de8f5cb7f7",
-  "time": "2026-10-07T21:19:21+00:00",
-  "title": "뉴욕증시, 국채금리 부담에 하락 마감…다우 0.66%↓",
-  "ko": "뉴욕증시, 국채금리 부담에 하락 마감…다우 0.66%↓",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818235",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "304293fc6e",
-  "time": "2026-10-07T21:19:16+00:00",
-  "title": "Democrats sue Trump to halt taxpayer-funded TV ads that praised him",
-  "ko": "Democrats sue Trump to halt taxpayer-funded TV ads that praised him",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2QzWGZCaVNUbFg0dS1OU2wzYVZLNm96ejc4Y0JEOVVGODhyRmsyQ2JObVdvM3RmOE9jZFBadVBrZmZrUWR4VU5HTFYwTkxzTW9Rb2U1Sjl2UTRQOF9sM0lyWVl0MWJGeVBZdk9BNE1FRlp2a3Bhd05VSmtuRnRZeHB5SDlsejZvRUJVQkhZbDFoMEZQNmZlWHpxTVc4a3d2SThSeDFhV2M2R0J0cldxSjdZQ3VKeHRz?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "846ebe29cd",
-  "time": "2026-10-07T21:12:29+00:00",
-  "title": "[속보]마이크론 4%↑,엔비디아 0.74%↓…뉴욕증시 금리 급등 속 혼조",
-  "ko": "[속보]마이크론 4%↑,엔비디아 0.74%↓…뉴욕증시 금리 급등 속 혼조",
-  "lang": "ko",
-  "outlet": "문화일보",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wQmlxc3dibndOZXMzWlowYnVYbmVld2c0RWJYUW5ZcHRuOWdJTDk5Sk9TVlMxUnF5Wl9NanNSZ0wxWEtHc0ZwRmYtT0ZieEhI?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "28c9afc5db",
-  "time": "2026-10-07T21:11:01+00:00",
-  "title": "삼전닉스 3년뒤 주가 하느님도 몰라…유행 따라갔다 원금 녹는다는 ELS [이슈플러스]",
-  "ko": "삼전닉스 3년뒤 주가 하느님도 몰라…유행 따라갔다 원금 녹는다는 ELS [이슈플러스]",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12171049",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6058ec0a01",
-  "time": "2026-10-07T21:10:00+00:00",
-  "title": "\"증권사, 레버리지ETF 판매前 '고객에 권유 불가' 등 자체 조치\"",
-  "ko": "\"증권사, 레버리지ETF 판매前 '고객에 권유 불가' 등 자체 조치\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007194200001",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4c3fa35834",
-  "time": "2026-10-07T21:07:57+00:00",
-  "title": "Trump: Russia says suspected plague case is 'under control'",
-  "ko": "Trump: Russia says suspected plague case is 'under control'",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSk50NFp5RzR3dVFZSGQ5VHhXOFdhN1g3RU9CTURkWHZjcWdab3BJaUdMSFFzMjRoT0ZjaEdnY213TGFsNHNWeVhjY3Q1endWLTRWeGo5cEhielh1QjdtUWItSDE1elQ3TXI1UDduUTlsSS1Qclh5ZUpxUS1YMGh1dWx6U092UFZHNHUxV0ZabmJ2eVprWkpLb2kwVS1YVDk0?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0ee2354ae2",
-  "time": "2026-10-07T21:07:30+00:00",
-  "title": "Trump prods parents to claim child investment accounts as auto-enrollment begins",
-  "ko": "Trump prods parents to claim child investment accounts as auto-enrollment begins",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkVLdVFyc1VMS2tSZmFOcnZKTEZtdTM0TTl2SEhUamMyY0FtZno1cWN3bGFhU0RQdkI0UkJrWHV2NkQtUll1TGRhQWNYaEN2OWFmdUkyQ1U2ejBpcG9yQTZFWUUtRzM4WnFuZTBUUWhMcjN1dUNVSXdQekY0TndSRlNCY01VNng1djQtSWNtVUlDZFVlb29BMm9VYmV6OW5nLWgydGVNWW4?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f8f8ac958a",
-  "time": "2026-10-07T21:05:01+00:00",
-  "title": "[코스피·코스닥 전 거래일(7일) 주요공시]",
-  "ko": "[코스피·코스닥 전 거래일(7일) 주요공시]",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007192100008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4e722d5902",
-  "time": "2026-10-07T21:04:00+00:00",
-  "title": "[속보] 뉴욕증시 하락⋯다우 0.66%↓",
-  "ko": "[속보] 뉴욕증시 하락⋯다우 0.66%↓",
-  "lang": "ko",
-  "outlet": "이투데이",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JbFg4YmcyNGZkaGxhZVFKWGtuaHdmX2FPdklUdzNVSmJhV0JhX2U1b0NTRXk2SWNJTUNSYXVfSUs0TEs2T0lvdGdUc19SUVdlR2ZBMVB5dlk3X1BGWmgyVXFHYlBJVm0xY01qVGVR?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "338550f7a2",
-  "time": "2026-10-07T21:01:37+00:00",
-  "title": "뉴욕증시, 국채금리 고공행진에 사상 최고치서 반락(종합)",
-  "ko": "뉴욕증시, 국채금리 고공행진에 사상 최고치서 반락(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008007351072",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cea158985b",
-  "time": "2026-10-07T21:01:00+00:00",
-  "title": "수조원대 다단계 사기 혐의 '콕 코인'…법적 판단 '감감'",
-  "ko": "수조원대 다단계 사기 혐의 '콕 코인'…법적 판단 '감감'",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261006187900002",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7e89fee93e",
-  "time": "2026-10-07T21:00:06+00:00",
-  "title": "AI와 오목 두고 휴머노이드 체험…23∼24일 서울숲서 AI 축제",
-  "ko": "AI와 오목 두고 휴머노이드 체험…23∼24일 서울숲서 AI 축제",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007169400004",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "edfabc5ef9",
-  "time": "2026-10-07T21:00:03+00:00",
-  "title": "AI upends Singapore’s ‘quant Olympics’",
-  "ko": "AI upends Singapore’s ‘quant Olympics’",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/ec8b74b6-0cf7-4ded-abd4-85bde8a80df4?syn-25a6b1a6=1",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "90e811c201",
-  "time": "2026-10-07T21:00:00+00:00",
-  "title": "삼성전자, 오늘 3분기 실적…변동성 경고에도 증권가 \"적극 매수\"",
-  "ko": "삼성전자, 오늘 3분기 실적…변동성 경고에도 증권가 \"적극 매수\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003818040",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f1e9cab576",
-  "time": "2026-10-07T21:00:00+00:00",
-  "title": "동탄 갭투자 막히자…사내대출·사채 자금 3배로 늘어",
-  "ko": "동탄 갭투자 막히자…사내대출·사채 자금 3배로 늘어",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003817970",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4d7f6a53bd",
-  "time": "2026-10-07T21:00:00+00:00",
-  "title": "Trump’s Texas two-step: From the Politics Desk",
-  "ko": "Trump’s Texas two-step: From the Politics Desk",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYU5zZ29JNE1MS3pubzJBUDNWTHZUTmEyZVNTRVpMaklmckJsQlBOU1ZmRUExN3hEQTI2NzNJa0RKb3ZLZ1JQMHppSld1bmpmNHpQbmxCUHRLU0JQd1I4bE0wV3hsQzB5UVhmcGZMTFM4U2lyZDktb3NfbzRVSlpwaFU0VGl3SjVUMGt3WXlydkx3WnprSUlKXw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "619c3544d9",
-  "time": "2026-10-07T20:58:33+00:00",
-  "title": "스페이스X 부도 위험 보험료 사상 최고...\"엔비디아 칩 매수 위해 400억달러 조달\"",
-  "ko": "스페이스X 부도 위험 보험료 사상 최고...\"엔비디아 칩 매수 위해 400억달러 조달\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080457580741",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e6afc13093",
-  "time": "2026-10-07T20:43:36+00:00",
-  "title": "'We hope not': Trump says US doesn't believe Russian plague is a bioweapon",
-  "ko": "'We hope not': Trump says US doesn't believe Russian plague is a bioweapon",
-  "lang": "en",
-  "outlet": "ABC News",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzdETFBJZldyajh1VVpxVFdfWnJWS0FLejg4bVdzM3RSRURBakNxT21YaVNXdjA0NkxMUVRXbk1uV0NWeWQxNkZzTGlQYlVuRERHdWN5Yi1pcm5wRUZQX1pYM05XeFhhVWhYRDU4alptVVI1Uk0tcV9ZT0NjSnZuNGlUMmFyMXhhZ1EzRjU3ajVwVVNPQWhkZzhvM0cycjQtV3NXTzdDMmFueFJZZlJrYdIBtgFBVV95cUxQRGJsbkNNLS1LMXZYQV9OeHc5MUExV2dsc0JaUXVXN1pNT0NrR1dvaldZYVR3eXAybS1Yc05janJHNk0xWWFNeE1MMTFRQ3FLdHY3MFpfOXY2OS0wWFM1X0ZFcWVrdW4tZW5SQU81LXNMOERndkc0eE1NZ29TU2U1TF9lMUR6VWJWSjdyemlRcHNIZVRzNEtRV25DV2NSZUw3UkZBYnVyOG0xdzRlOXh0NUdpN2xNdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Washington Post"
-  ]
- },
- {
-  "id": "429887d468",
-  "time": "2026-10-07T20:43:14+00:00",
-  "title": "9월 FOMC 의사록 \"연내 금리 추가 인상\"",
-  "ko": "9월 FOMC 의사록 \"연내 금리 추가 인상\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818232",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "65dc1f95a8",
-  "time": "2026-10-07T20:36:00+00:00",
-  "title": "Trump pitches Trump International Golf Course for site of \"presidential retreat\"",
-  "ko": "Trump pitches Trump International Golf Course for site of \"presidential retreat\"",
-  "lang": "en",
-  "outlet": "CBS News",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjM4SHJfU2xQeG5zT2NmSWJoWF91aVdTamtaRWF3Unk3TVVwZ0VKU0gxNnl1VS1IWXRNaUZ1M2hrY1duZkxLQXplVDdBS0d3aGpfdDU2ZDRfQ1JFWWdHZnFKNEFSMUU4Z2Fpbnd6RTZHa3hENXZ5STF6Qkp4dkF6VEwtWmhVSjYxSXNYSk9uT3d3TTRMTzZYd3JCaFE2OFJhZWpadmNiUk5OWGM?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ee1064a689",
-  "time": "2026-10-07T20:34:17+00:00",
-  "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-  "ko": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-  "lang": "en",
-  "outlet": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4fa1d62766",
-  "time": "2026-10-07T20:32:00+00:00",
-  "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
-  "ko": "Trump backs away from top aides who reportedly advised pro-Russia government",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXhIN0I1VTVKQ1Q0c2k0TTJoQXhYNFJTNFlCNFdwOG5nS2ZKNTU5dnRTR3FFODhVSTZEX3Q3alJDNmVPM1JWbFp3QXhISWJPY2VYUHlaNWtwSjRXbkJ6Q0pxRUVMLS1OV3hpRlVhRGdQQ0JrU0xyMUp3QTlFMVRCSEp1MnFLdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4e3c067858",
-  "time": "2026-10-07T20:29:03+00:00",
-  "title": "He said looking like Trump would get him elected. He got 161 votes.",
-  "ko": "He said looking like Trump would get him elected. He got 161 votes.",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFZyYVFZNTdTR3FvTnpiNkNBUGl5R2t2VldkeFRqR04xSnh0R1NULTVGQmVUQUQ5RDhBM2dsQjBWd2JRVUR0X082S1EyM3ZrWkdGYVJHRTZ5dGdsZGIydUI2ejdPLWdsWkJLLUJVbnJ1TzNTR1F5aFkzaXBOUGh0X1hzcFAwMzE3UnNnWnN4Zm9rZGE0TDVnazgyMDVzMHZhREd3SHp1UUhoUEsxRzBmTy1ianc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cabe59d13b",
-  "time": "2026-10-07T20:29:01+00:00",
-  "title": "Trump's taxpayer-funded ad blitz lands in court",
-  "ko": "Trump's taxpayer-funded ad blitz lands in court",
-  "lang": "en",
-  "outlet": "Axios",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVSVdiSHJFY3llRm5CUHRsWFhwMEZyOWtlRExCZEhyRE0wU19fR0tJc1Rid0FwTllYdTVfTzhJT0xWNy04UkFrdC1wTjgyNU5aZTUtRHlOeEprSnNyYUxfY0NwUExCbHFKV2pXQmtDa29HVThFMkhoVHhn?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4ae7dbe3b6",
-  "time": "2026-10-07T20:25:35+00:00",
-  "title": "'부정선거 주장' 트럼프, 중간선거 국제 감시단은 거부",
-  "ko": "'부정선거 주장' 트럼프, 중간선거 국제 감시단은 거부",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818219",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "66f5a74202",
-  "time": "2026-10-07T20:23:00+00:00",
-  "title": "Half of Democratic voters say the party will win Congress because of Trump’s actions: Poll",
-  "ko": "Half of Democratic voters say the party will win Congress because of Trump’s actions: Poll",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWg3SlhxWHBwZ0VPLXVxN0RTRkNhS3I2YmtJTUllbHJhdERaNlRlRDdlajBfS2xSamxLcGJjSHFuVldSejBRamc5enFUUGlIX3R6bWNwQWhVZFhzZjJiU1UtNHNPU0FDclpuNGhheUV5UUlaNHRzSHdQb0w2U2plRDNScEtKZldGLWlnddIBkgFBVV95cUxPWEFDalowb1gxMUJaU0lGeWtxcF81TmpvU3NVNldIY3JBb3N0bDJ4eWxZVGJhRWhBVFUzek1idU11amtVSk1WUmhwNEwxdHRVSElpSnY1b2pEUW5jd0dFYW1yTVFrU0pOWEdmYVczaXkxanFIZ0dMTmZ0aW9zeEIwQkJjcV95S3VoeFBNSXg4LTd3dw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c57b538ca9",
-  "time": "2026-10-07T20:21:44+00:00",
-  "title": "Trump rebukes political advisers for taking other work during midterms",
-  "ko": "Trump rebukes political advisers for taking other work during midterms",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTRucXhMRDR2TlE4dE1fblBPckdrMy1uaEllcXNJQUNKMTh4UzZSekpxQ2s1T1ZOOEdPR2o4YWdrLW5LeS15NHh6bEVqc1l2ZFozcmt2QThIcHRsZGlKbXl5RFNYZHZjT3dpX1BFZXdkQXE5b0pndV9UVGdrTlNRYUJVeFI2bW95TEFuNzNvcWg2T3ZtN0I4bzBoTnlIRFAtZ3ZyRU4wTjMwNnQ1SEw3NWQ1MzhFQ3pyT2M4?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "605851efa0",
-  "time": "2026-10-07T20:21:17+00:00",
-  "title": "[뉴욕증시] 국채 수익률 반등에 사상 최고 행진 종료…'속슬' 3.3% 하락",
-  "ko": "[뉴욕증시] 국채 수익률 반등에 사상 최고 행진 종료…'속슬' 3.3% 하락",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080518301666",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b6b1bc4790",
-  "time": "2026-10-07T20:18:05+00:00",
-  "title": "Flight attendants' union flags safety concerns over Trump's Washington arch",
-  "ko": "Flight attendants' union flags safety concerns over Trump's Washington arch",
-  "lang": "en",
-  "outlet": "ABC News",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVh1TFlneHNIX01BRzRlcl9ndFhrSDFaM3d0UnhTUDVOWFlLNnFsTUREVWpUbGVCNmZ1WWpiMmtYcFZEX2djdmdMLWlubWMxT1poeUY5bEdLNVlHQmN0cWZEVklIeDhQNjF5WHRDaE5xTWM5YVBXSHQxZFF6eldHOWtPVmlNMEQ5elZ0ZjRjdUxLNXluSlZlMG1iamhLaTRycVozbElGcHFpRjR2NHA0MWhn0gG3AUFVX3lxTE5rbUpOb2IxaW5IT3RQXzVTeWduSW9KN0dmSE9pVHQ2ZXB4RFF2SV9DUkkyelNBbmR5M0o0TG1DclM4YW92SUc2dGtaTHZPZTExNmpzOXlQLThyMTJ2aG5OdVhMS2tmLUpiMnhzZ2FrSUVOXzk5cG5CMExHcGgyQ1N0REJTaHBIQmtEZndTQnVTSi1mR2IyQ0N1VzdUQlhCTGhBbXp2ejQwMUxJZUhaQ3Bmdmx4SUV1MA?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eded81434c",
-  "time": "2026-10-07T20:13:37+00:00",
-  "title": "Video Trump suggests Iran could 'take out' Los Angeles and San Diego",
-  "ko": "Video Trump suggests Iran could 'take out' Los Angeles and San Diego",
-  "lang": "en",
-  "outlet": "ABC News",
-  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UYjgzY1c0S2VwRWVSMHlraVRCNHdhWEhzdTRJTkpMVTdFZmh0bWI4a21Tb1hLM1EwZjVNUnhDYXBHek5QaGZ5M09FdXY?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "22f69ce0cc",
-  "time": "2026-10-07T20:12:23+00:00",
-  "title": "[속보]뉴욕증시 일제히 하락 마감…국채 금리 상승에 부담",
-  "ko": "[속보]뉴욕증시 일제히 하락 마감…국채 금리 상승에 부담",
-  "lang": "ko",
-  "outlet": "아시아경제",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oXzIzUTNZOHQwX0g0SUV5TEdET3RCWmZMRFJvRTF1bzFaVVJ5X1M5a3R6cWpNX2JpVzdpMFE3UTFFLUVvZmt6Z19BbW5oU3h4WGRmRU11cTRPdEFGZTJmbQ?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5e4e012afc",
-  "time": "2026-10-07T20:09:05+00:00",
-  "title": "[속보]국채금리 급등에…S&P·나스닥 최고치서 후퇴",
-  "ko": "[속보]국채금리 급등에…S&P·나스닥 최고치서 후퇴",
-  "lang": "ko",
-  "outlet": "이데일리",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWjRYV0xfMkhYaHRiUjhvZFE1MFhsNjN2eE1ncFZiaFNoSmpkam5XSkNsSUlsc25Zb3FPaDdwUHY5T0VBV3U1c1VKOGY5R0Q3el85VUZVZVM4clRmX2lOMmhiN084RWxsdlphOU84aXQ5cWZDTXpCM3lybXhuQ3RVVQ?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ed0e6a417e",
-  "time": "2026-10-07T20:06:56+00:00",
-  "title": "[속보]뉴욕증시, 국채금리 급등에 하락 마감…다우 0.66%↓",
-  "ko": "[속보]뉴욕증시, 국채금리 급등에 하락 마감…다우 0.66%↓",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261008_0003818233",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bb6d731cb6",
-  "time": "2026-10-07T20:05:00+00:00",
-  "title": "수천억 쏟아부은 은행도 AI 해킹에 털려…보안 수혜株 사도될까",
-  "ko": "수천억 쏟아부은 은행도 AI 해킹에 털려…보안 수혜株 사도될까",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12170300",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b764c89d41",
-  "time": "2026-10-07T20:03:00+00:00",
-  "title": "[속보] 스페이스X 2.51%↓… 뉴욕증시 일제히 하락 마감",
-  "ko": "[속보] 스페이스X 2.51%↓… 뉴욕증시 일제히 하락 마감",
-  "lang": "ko",
-  "outlet": "국민일보",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnZW44djhRU1hRNUtDeUlUWWdPUzZkaUpwVS1NSHlqdkk2d00zaU43NDNnRjFhcVVoMWM0LWRmUWFZdW9keEtITFFEbHhPYUVMOVlZT25SSy1RMVEySFlqQmZvRzdVd1BERC1lMdIBbEFVX3lxTFBnZW44djhRU1hRNUtDeUlUWWdPUzZkaUpwVS1NSHlqdkk2d00zaU43NDNnRjFhcVVoMWM0LWRmUWFZdW9keEtITFFEbHhPYUVMOVlZT25SSy1RMVEySFlqQmZvRzdVd1BERC1lMQ?oc=5",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3948b2d8fe",
-  "time": "2026-10-07T20:02:00+00:00",
-  "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
-  "ko": "EU drops sponsorship of disinformation conference at Trump officials’ request",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWVZNzdhSXBTUGpsN2pTZWNOS0VBUV9xZGUyZ3pvZkJfR2oyOUUwbXIyeEZBSEhDcjdJTjJQY2dGTmNVM21ZTHpUVlR4U3dmajE2MW50anVmUGV3MFVJeHRqXzNEQWVmdWF6UUhsQzJROENJMWY3ek9USk1XeXEyY0gtRnVMSEpBRUE?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "72cb2d3986",
-  "time": "2026-10-07T20:01:55+00:00",
-  "title": "[속보][뉴욕증시] 국채 수익률 반등에 일제히 하락…마이크론, 4% 급등",
-  "ko": "[속보][뉴욕증시] 국채 수익률 반등에 일제히 하락…마이크론, 4% 급등",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080501324783",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "509445fff9",
-  "time": "2026-10-07T20:00:00+00:00",
-  "title": "국정감사 사흘째…공소청·레버리지ETF·미래기금 공방 예고",
-  "ko": "국정감사 사흘째…공소청·레버리지ETF·미래기금 공방 예고",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261007199700001",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "df9e302a68",
-  "time": "2026-10-07T20:00:00+00:00",
-  "title": "삼성전자, 올 3분기 실적 오늘 발표…韓기업 사상 첫 영업익 '100조' 달성하나",
-  "ko": "삼성전자, 올 3분기 실적 오늘 발표…韓기업 사상 첫 영업익 '100조' 달성하나",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261007_0003817414",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "53bf5abf72",
-  "time": "2026-10-07T19:59:10+00:00",
-  "title": "A Public Health-Minded Senator Asks: What Comes After Trump and Kennedy?",
-  "ko": "A Public Health-Minded Senator Asks: What Comes After Trump and Kennedy?",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUxoSXBWWVljaVVlZm51b2syc1Nhdy1vVXJUSGw4UEZqeFVKWENCdndDOFJHaHYyS0FRb1B2TEVrdHd2Yllzd1RWZFlIRFptSGRONWNjcWtoQXNURDdmZWIwZHlwWndLMC1Fc0hVMHJjc0J4Q2ZLTVpTVy1mVHNyUlF2VnI?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1af93710ba",
-  "time": "2026-10-07T19:59:01+00:00",
-  "title": "Trump's midterm strategists draw scrutiny over Russia-aligned work",
-  "ko": "Trump's midterm strategists draw scrutiny over Russia-aligned work",
-  "lang": "en",
-  "outlet": "Axios",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTUNIUXdqOXVDZld1RVVGdnNRbHFaam5QZS1xcWM5M0ZPd1dMMkZLVmgyUElnS2ROcUhTei1Hd09FUG02aGFBalVCRmgydWk5WVd6UVdHMTJ1N1NnNjIxMU5NaWxOTEpab0JMS29yWTZuVjJJa3NyZEREUGpoMzRMeGVNaEg5X2RPY3YyWkotcFhhNUk?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "18fae282b6",
-  "time": "2026-10-07T19:57:00+00:00",
-  "title": "Trump brushes off question about handing out cash before election",
-  "ko": "Trump brushes off question about handing out cash before election",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0JzanZhUG5ZSGs4OTNPUXU5NldSNkE1cXBBV2U1NkNTOTRVbjhHcDdYa08zSkU4ZlBPbzR0STZJZFNzNGtiQ3RhLVlWRVFnYkt5Q1B2VjNJSzJ0ZjN3SXVncUhoOXpVcU8zWmczSHVDUTlzSUZLWEhxZWk2dzRxOEhCVlVKSkJSTWs40gGQAUFVX3lxTE9mbzBUSWhxRktCdE5ETGN4djF5NFl2QzljR0V3aHYzT3hBSkpCREhuXzJQa19hMndoTnhRSDlIZWpzMWtiMTdVaGdCbnlzdGlJLWh5ZF9Fc2FmUVNtV3pQM3N1cE5nOUJDMWxVMXlvWER2OElKZDZONkVQcE1WUUZqblFocERRdm9NNXVEeW81dQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cedae75d6b",
-  "time": "2026-10-07T19:54:07+00:00",
-  "title": "5.35% 찍은 美 국채 10년물…390억달러 입찰 흥행에 상승폭 축소",
-  "ko": "5.35% 찍은 美 국채 10년물…390억달러 입찰 흥행에 상승폭 축소",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610089597i",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2c7c4373d3",
-  "time": "2026-10-07T19:50:56+00:00",
-  "title": "9월 FOMC 의사록 \"금리 연내 추가인상 적절\"…시기는 언급 안해",
-  "ko": "9월 FOMC 의사록 \"금리 연내 추가인상 적절\"…시기는 언급 안해",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008006000072",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7058948ea4",
-  "time": "2026-10-07T19:47:23+00:00",
-  "title": "국제유가, IEA 비축유 방출 가속에 하락…WTI 1.3%↓",
-  "ko": "국제유가, IEA 비축유 방출 가속에 하락…WTI 1.3%↓",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008005800072",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1b79db149b",
-  "time": "2026-10-07T19:47:02+00:00",
-  "title": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds",
-  "ko": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpHUU05ZlNYUVZhUDRvOEtsU2tKOWJWLWM4OUZFWm1PRkJDZDJCZzBIenFyenhDT3o2T1c0QzhJRG4xS2xQTUMxX0VyZVZoSm92ZG8wdGlKdjRmeTI3SldqeHgxM3FabHRZMHI1SXA2dUsySGtza0dWNllWT21ZeVdPWEwwaHdoeUowSEJ2dWdqakxFTDNiQ1dUNkZhT0xyRThrZTM2Z0lmM1JKa2xManNhLUphOVlOOUJ0eVJzdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "953c502e37",
-  "time": "2026-10-07T19:42:16+00:00",
-  "title": "애플, 마이크론...美 실적 시즌 앞두고 '매수' 의견 확산 [월가 업&다운]",
-  "ko": "애플, 마이크론...美 실적 시즌 앞두고 '매수' 의견 확산 [월가 업&다운]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610089596i",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bd1537b65d",
-  "time": "2026-10-07T19:40:18+00:00",
-  "title": "Exclusive: Inside Trump's AI science summit",
-  "ko": "Exclusive: Inside Trump's AI science summit",
-  "lang": "en",
-  "outlet": "Axios",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zamFZZTFpRFZlaGxRWjJqYzVTZEtiM2RZU0JKSW9FMWJGZU1OQ19felRyU0dqRDRMbXhoOExBT3lTV1c2V1NTalZ0SHhvUzhSS3F0OE1IbzNWbUhURXF1VmZmYjF4MDNJV2pQX3VHa21GY1NJdG5VaDFZWk5uMEE?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fa24cb11f2",
-  "time": "2026-10-07T19:38:04+00:00",
-  "title": "[국제유가] IEA 비축유 방출 합의에 하락",
-  "ko": "[국제유가] IEA 비축유 방출 합의에 하락",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080434314638",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fbf4ce0884",
-  "time": "2026-10-07T19:35:00+00:00",
-  "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-  "ko": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "37f1e47cc8",
-  "time": "2026-10-07T19:28:06+00:00",
-  "title": "Trump threatens to fire political advisers if their interests conflict",
-  "ko": "Trump threatens to fire political advisers if their interests conflict",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDZzeWk4bkVyNGtZeHFLM0l6MVFXU25lMXp4M2xNeXkzZ0xRZE5IOEFYOFNrZmh3dmt4elJpcko3eG5zT2hrVWJ6cXRqcDV3NFZZUFotV3ZTWmV0Mm16VDctMDFFbXNxMnhDenVzd0N2Wkc2WC1LWE1NaE05RXRTWGtaZE1SSmhtNnJNTTFYTGVwZWFhV3RYLVZKVzh6bHhwMmlENm03SDV1bmJu?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "87810ae808",
-  "time": "2026-10-07T19:23:55+00:00",
-  "title": "트럼프 \"러 연구원 사망은 생물학 무기와는 관련 없어\"…불신은 숨기지 않아",
-  "ko": "트럼프 \"러 연구원 사망은 생물학 무기와는 관련 없어\"…불신은 숨기지 않아",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610080421403334",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d46b5573bd",
-  "time": "2026-10-07T19:17:56+00:00",
-  "title": "9월 FOMC \"연내 금리 인상 한 번 더\"…인상 근거 놓고는 시각차 [Fed 워치]",
-  "ko": "9월 FOMC \"연내 금리 인상 한 번 더\"…인상 근거 놓고는 시각차 [Fed 워치]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610089590i",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3c5681d900",
-  "time": "2026-10-07T19:14:00+00:00",
-  "title": "Trump predicts ‘Trump Accounts’ will limit spread of socialism, communism",
-  "ko": "Trump predicts ‘Trump Accounts’ will limit spread of socialism, communism",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2w0bFl1Y25oaTNaU1JOazN4UFdLeEI0Q3Z4Sm5xcnc1ZU1aNzJTYnotZHZLUGl0WDFZWUpVY2VvU19DUVBrYlFZNzMwblRLMmVxZG9PZVFDUmhySW9iZUpaNW1RQ1FnMGlwYlpZZzMyNEVUSndCRGhCOWRZdXd5dFlGbnpwM2xkTWg5ZjJkWTdoQdIBlwFBVV95cUxPbFVOWEZKUEdkbG1EWUlnVkVoZXQzV3NvcUd0SmliT19wT0tyVUg0ZlJfeEFieWNUT25ENmJaR3Ftc3lJOUdjVDNjSTdrM0JlUEowdy1kcGRFN3BweFgyRklseGd0VGtwYWRaUlRuWG1pc1ZzY3NqWExONlNtaExaRV9XWTdaaUZXSXdrQWE4M3BXck9zT0gw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2a9292dc0f",
-  "time": "2026-10-07T19:13:30+00:00",
-  "title": "美, 러에 페스트 정보공개 압박…트럼프 \"생물학 무기는 아닌듯\"(종합)",
-  "ko": "美, 러에 페스트 정보공개 압박…트럼프 \"생물학 무기는 아닌듯\"(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261008000751071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c25a06dc92",
-  "time": "2026-10-07T19:12:00+00:00",
-  "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-  "ko": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4e35c39301",
-  "time": "2026-10-07T19:08:48+00:00",
-  "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
-  "ko": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3JuN3BMQU12aUg5cU1MaXFYXzV0NGdFQW1HZGRqRm9KVF9jbnNWbzUyX29sNm1fckt2bFJNa3hGZ0hPcHUwYXlSTk9xSFdYUmtNTXI4QkJMYmtTdjhodnFWUE5QalNLQ3lvakFTQVdKY2FrTkFSS2c4MndUcnl5cHZUMU9TanBZTlhFbnFzY2MtNmM?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
  }
 ]
