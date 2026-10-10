@@ -1,83 +1,10 @@
 {
- "date": "2026-10-10",
- "generated_at": "2026-10-10T08:04:41.569730+09:00",
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T07:15:59.369644+09:00",
  "mode": "draft",
  "articles": [
   {
-   "headline": "[2보] 노벨평화상에 나비 필라이 전 유엔 인권최고대표",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 10,
-   "outlets": [
-    "경향신문",
-    "국민일보",
-    "뉴스1",
-    "뉴시스",
-    "매일경제",
-    "머니투데이",
-    "서울경제",
-    "아시아경제",
-    "연합뉴스",
-    "중앙일보",
-    "한겨레",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한겨레",
-     "title": "[속보] 노벨평화상에 ‘전쟁범죄·집단학살 단죄’ 나비 필라이 선정",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk5TU1RuQ0t0V3VMZUN4dXV6bkxxVnNRY0FHX3RPZHJyY1dIUmlFQk0wdEtEd2hZMEczbldzWDlIVzctb0FZaU5MRlVWZ3ZmTDhJZkNEXzV6VjAtdTNCLVJUekVVWTJCRDBnQm1ia3FCMmJZSXkxaWJ6VlhPckdVQ2NB?oc=5",
-     "published": "2026-10-09T16:06:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "한국경제",
-     "title": "전쟁 범죄를 법 심판대로…노벨평화상에 나비 필라이",
-     "url": "https://www.hankyung.com/article/2026100930991",
-     "published": "2026-10-09T14:53:36+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "노벨평화상에 나비 필라이…전쟁범죄 심판 앞장선 국제법률가(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261009052253009",
-     "published": "2026-10-09T11:14:19+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "연합뉴스",
-     "title": "[3보] 노벨평화상에 나비 필라이…남아공 출신 국제법 전문가",
-     "url": "https://www.yna.co.kr/view/AKR20261009052252009",
-     "published": "2026-10-09T09:59:08+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "연합뉴스",
-     "title": "[2보] 노벨평화상에 나비 필라이 전 유엔 인권최고대표",
-     "url": "https://www.yna.co.kr/view/AKR20261009052251009",
-     "published": "2026-10-09T09:22:06+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "아시아경제",
-     "title": "[속보]노벨평화상에 나비 필라이 전 유엔 인권최고대표",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMTRrREJTemhlRmpJVmx3aXdERFV5b1FGR0VxN3BYYnpsdktWbEJ1MDdnZG9EcFc0ZmgzLWVib1hvX3U5c01fbkkweG93X05zWWVxc2hwb0JBWUZ1VWdESg?oc=5",
-     "published": "2026-10-09T09:15:03+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 128,
-   "rank": 1,
-   "slug": "01"
-  },
-  {
-   "headline": "Trump agrees deal with Putin for Russia to release diesel",
+   "headline": "Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -85,18 +12,18 @@
    "section": "people",
    "importance": 8,
    "outlets": [
+    "ABC News",
     "AP",
     "Al Jazeera",
     "Axios",
     "BBC",
     "CBS News",
-    "CNBC",
-    "CoinDesk",
-    "Financial Times",
     "NBC News",
     "New York Times",
     "Politico",
-    "Wall Street Journal",
+    "Reuters",
+    "The Guardian",
+    "The Hill",
     "Washington Post"
    ],
    "official": false,
@@ -105,120 +32,170 @@
     {
      "n": 1,
      "outlet": "Washington Post",
-     "title": "Trump announces diesel deal with Russia in bid to lower prices",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjZFUm54SlFoNWZvRHdYVXE5Z1JDc0h5eE96V2JmVk41eWs2TlRkcjRXaW1nb3Vfa08yeUlFSE15NlFpeTExekZRLXY3WHdGZDdOMHY2ZkpuWjA5cEhsZkUzNUVwTDNySS1hQW8yeWtSejk5TzJTbm84SVVtazFnM0ZaUk5sekE0SUhQTFFkUU5oczQ1QXR5TXYzdGpNYmRuVFRPeDJuMA?oc=5",
-     "published": "2026-10-09T22:27:35+00:00"
+     "title": "Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVzQyclJRckNHd2JzSkhSY2FPSmR4anpVRzljNUkxVFRlN3JNSnRvTWNqRDJ5dS1HTXJ4R3RlLWNZNW1rRkdZLTVjU0UyM2YzcmRnTHVETXpMYlktam5KR21GLWc5RXBxN2dWWVFjdmxROC0xTFpraEdLQ2dDWER2NW8tV3owVjdBdXJidFpLbUFKR1NKQmFVbXVEVjYwWWRpTnZDX0xyVl9HUC1oVmRiZmp0Z0hSdmZzQWhMOTZubjI?oc=5",
+     "published": "2026-10-10T21:55:35+00:00"
     },
     {
      "n": 2,
-     "outlet": "Financial Times",
-     "title": "Trump agrees deal with Putin for Russia to release diesel",
-     "url": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-     "published": "2026-10-09T22:06:22+00:00"
+     "outlet": "Al Jazeera",
+     "title": "Trump says Ukraine needs a new president who will agree to end the war",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGhVUFFuc21VY0Yxd29Rb1plWTVoWWo0WVpfOTEyTzJVanJRd1JCSTVRV0phdjM2UkRtMUZMaUJuckVLZC1vLTV1X3pDU2JCOWZFb1B6OEpfcGptOU1ZNWlKRnhWSnZ5UEhZd2NIVjNkMUNjbmNhMTFKT3VUUVZjZUVGSi15cUVlNHVxbGhvVWduX1gzRFppc3BBNThtSkQwc1pkMTlKSlh5c1YtTXFnVDZ30gG3AUFVX3lxTFBYNHcyeFdIRkpzd21TZGZDcVZJblgzNXV6NWZfckNyMDQzLUxlYzJzcFhmYlhrengzZ3V5WElmUU9SNlA5VFR5Yk5LMU1xNWo1eWptVjNzQ1QySUpTNE1fSlo5Z3lJX3FvUTRJT2Fpekp3eDlQd0YtYU8zWS1jdGhQNmU2WjBiWlFvN0E2RVd4N1NNMFF2czl1enpFTzNfUWJZa1RXNEV2U3BHRGxNSWQ1SEtCc0w5SQ?oc=5",
+     "published": "2026-10-10T19:36:42+00:00"
     },
     {
      "n": 3,
-     "outlet": "AP",
-     "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5",
-     "published": "2026-10-09T21:57:00+00:00"
+     "outlet": "New York Times",
+     "title": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemRINWVHeU1PM2lHVjQ0RXNIamU0eDYwcDBkYW9PTnNxa2tNVjVhTHpLdFUzbVpOWnhXNmFvZVdmdEUtZ2pGT3VES2Z3c3R2bFBLdUVhOVBLRDA1VS1Fem9HWElCeWQ1ZjRpUjl2U0JvOUdMal9VNC1TRXBidDU4bW9ITGQ2aUFWM2UxclR2aw?oc=5",
+     "published": "2026-10-10T19:28:54+00:00"
     },
     {
      "n": 4,
-     "outlet": "BBC",
-     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-     "published": "2026-10-09T21:54:28+00:00"
+     "outlet": "NBC News",
+     "title": "Trump calls for Ukraine to 'get a new president'",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTERxeUc0TEdjS3RfdlB1S012LXZkUnBCNHZrb2dyVmZ5bXRGSnA5N25rTVA5bVRYYzFDZWh5dzZyR0tFS0FxczgySnlFNWRHS1VTNldsN1NUWEl0eERxTmhGNFdJVEk4ckVyUVNYVTc3dDM5alF5QU9LTTB5TEhaMmg5Y0lQeC1QLTF1RzZzZ25IbUQzSk9TRk5TbWk?oc=5",
+     "published": "2026-10-10T19:02:47+00:00"
     },
     {
      "n": 5,
-     "outlet": "Al Jazeera",
-     "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEM3STdpY1dOZzNkaUtmX3M1RGtmOU5SR0FiakRFeFhGUU1HMjNMVFV2ZTFRR25PRlBmS2hZZEJvOGQ2cTBWU21QUm41WGVGMGZUX1FKREh5SC01UUhhN1JOcnF4VmRRc2hidGstN0lmbmFWelhROEViWEtfM01wRjZva0ZMamZsdTItb3QtZml6clhjYkkxYlg3NmhCaERHMUpNTkFnLXZJTTTSAbABQVVfeXFMTnRxUW9wSHhqSlMtVW1DSUZxMUwtU2hXc21mNF9XNVdGcXhWRDZ5cWpwbnRUSGIxZ2FQQ0dwb0RGSThiZ01MUGZlelRkbXFsNUtLaGp5dFlXd2FVREoxTzE5UHIxMWFkTzc4WDJVam13UXJWbVRWNm1vS21fVm1LRzYxX3NxOWJXSEFQMDhzSFdwaW4xODl5NmEwVHhlOE5hWmRlRTBnV29aU2tnajZHREw?oc=5",
-     "published": "2026-10-09T21:15:47+00:00"
+     "outlet": "AP",
+     "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ?oc=5",
+     "published": "2026-10-10T18:55:00+00:00"
     },
     {
      "n": 6,
-     "outlet": "Axios",
-     "title": "Trump announces major diesel deal with Putin, infuriating Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45R1VMR0FnSGE4WGFsYTRYOGpkSlRhXzByUjdPUklvbHUzeFBwcHFGLWhGb1lPWTBYZXpLZEpocXlfc0xTUU5qbVhoX1lhWEwwRmp3N3lkd2QwOFVhQWRxc2ZTTm11dmdNN01qVUVyc2xoU2ljOGlBUXF0cE9EUQ?oc=5",
-     "published": "2026-10-09T21:01:58+00:00"
+     "outlet": "Politico",
+     "title": "Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTVXT0VxQ0RQbUVXbjN2SEg5bnBITl94U0plVEtzZTdYMnM1RE1YUE94aUd2SmlhU2UxMGhvMkNTNGxYS19RSFpMMGNtZjdFNmE2U09WVWxwRC00RVc5TUhmMnpjN0p3YVFlX2JzWUEwcm1HYUFwWnZkRTVnVktNRjQzS2VPME0?oc=5",
+     "published": "2026-10-10T18:41:00+00:00"
     }
    ],
    "factcheck": null,
    "score": 108,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "“내가 남북한 전쟁도 막고 있는데”…트럼프, 노벨평화상 불발에 ‘발끈’",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 7,
+   "outlets": [
+    "YTN",
+    "서울경제",
+    "세계일보",
+    "연합뉴스",
+    "전자신문"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울경제",
+     "title": "“내가 남북한 전쟁도 막고 있는데”…트럼프, 노벨평화상 불발에 ‘발끈’",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95ZzdpYXNvQ1E2bEtkSGozWU9oSlZPVUc1eXROaVo2bGxuM0FFVmNETUNnUnh0eGN4a1RLZFY2ZUtsM3NSNXNuamdSMXB2SkRJWUHSAVNBVV95cUxOb1ROM0lwQk5FNkhJQ0szT3lyM1ZQYlNnR0M2MEhYR01iTzRIbWFia0hsTUstaVptUms3bGMzbzM1MWFRMmRwUjJpQ250Q2llR1NQOA?oc=5",
+     "published": "2026-10-10T20:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "\"남북한 전쟁도 막고 있는데\"...트럼프, 노벨평화상 수상 불발에 격앙",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmVWJCQXZGOEJUU09qaV95MFNhcGU3X2dlbWp2VTlFa3AtS1paYllzaWdtTnJCQTR2UDVqakk1cEViMWQ0a0xYbTlUZUYtNHl4eG1pRDNpeXRUS2VGd3c?oc=5",
+     "published": "2026-10-10T13:04:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "전자신문",
+     "title": "트럼프 “내가 남북한 전쟁도 막았는데”…노벨상 불발에 분노 “최소 8개 받았어야”",
+     "url": "https://www.etnews.com/20261010000022",
+     "published": "2026-10-10T09:02:28+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "세계일보",
+     "title": "[속보] “남북한 전쟁도 막았는데”…트럼프, 노벨상 불발에 “지울 수 없는 오점”",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hNHFCWC1faDlFT2hxNF95NFBONGtKb0llWTlNaWhUSmVEZ2xoQ19SaTZGdTBRRW1oOVJLZDBDUWVITEVRTF9uckdPQkRaa0JYWVZ1dtIBVEFVX3lxTE9hNHFCWC1faDlFT2hxNF95NFBONGtKb0llWTlNaWhUSmVEZ2xoQ19SaTZGdTBRRW1oOVJLZDBDUWVITEVRTF9uckdPQkRaa0JYWVZ1dg?oc=5",
+     "published": "2026-10-10T06:50:42+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "트럼프, 노벨상 불발 비판하며 \"내가 남북한 전쟁도 막고있어\"",
+     "url": "https://www.yna.co.kr/view/AKR20261010023200071",
+     "published": "2026-10-10T02:27:59+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "YTN",
+     "title": "\"노르웨이 기억하겠다\"...트럼프, 노벨평화상 수상 불발에 격앙",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfUXNGMk03YkVtT0N4d2tOa2NYOFE3TXQ1bkdfNlIxa1JvMk1WaEtIb3ROX2NmMHh0dXZwQ3NaOTZFWjNtZnUzRlhFTUFlZTFOdU1mM1dCbklvQ1kyNXc?oc=5",
+     "published": "2026-10-10T02:18:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
    "rank": 2,
    "slug": "02"
   },
   {
-   "headline": "[속보] 최태원 회장 \"호남권 반도체 규모는 용인의 3분의 2 수준\"",
+   "headline": "앤트로픽 AI, 美 경찰에 미제 살인 허위 제보…두 달 뒤 당국 통보",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 8,
+   "importance": 6,
    "outlets": [
-    "SBS",
-    "뉴스1",
-    "뉴시스",
-    "문화일보",
-    "서울신문",
-    "헤럴드경제"
+    "AI타임스",
+    "세계일보",
+    "연합뉴스",
+    "조선일보"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "[속보] 최태원 “호남권 반도체 규모는 용인 3분의 2 수준”",
-     "url": "https://biz.heraldcorp.com/article/10897841",
-     "published": "2026-10-09T15:32:24+00:00"
+     "outlet": "AI타임스",
+     "title": "앤트로픽 AI, 경찰 미제사건 제보 사이트에 '허위 제보' 소동",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216117",
+     "published": "2026-10-10T14:52:29+00:00"
     },
     {
      "n": 2,
-     "outlet": "문화일보",
-     "title": "[속보]최태원 “호남 반도체 클러스터, 최단 속도로 추진… 규모는 용인의 3분의 2”",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aUk5kbG1OU1VVaEVBYlFnQlJJT1ZpWE1MZVFsUEdWZDFlaUc1S1drNTdQVFRSREZKSmFoTTh0ZV9welRBUEJmQ2xtWFJWd04t?oc=5",
-     "published": "2026-10-09T07:15:44+00:00"
+     "outlet": "세계일보",
+     "title": "앤트로픽 AI, 美 경찰에 미제 살인 허위 제보…두 달 뒤 당국 통보",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNNWVncVRaenVNX051OUlWWWZoSXhYLTZmSkk1dV9TQ1RGbV9DbTFrT3BtYnhuZWhfQktySTY3ZnFrOC1UQTAyeHVYd2dDUmo5WmJ4LdIBVEFVX3lxTFBNNWVncVRaenVNX051OUlWWWZoSXhYLTZmSkk1dV9TQ1RGbV9DbTFrT3BtYnhuZWhfQktySTY3ZnFrOC1UQTAyeHVYd2dDUmo5WmJ4LQ?oc=5",
+     "published": "2026-10-10T10:19:00+00:00"
     },
     {
      "n": 3,
-     "outlet": "SBS",
-     "title": "최태원 \"호남 반도체 가장 빠른 속도로…규모는 용인의 3분의 2 이상\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790532",
-     "published": "2026-10-09T06:49:00+00:00"
+     "outlet": "조선일보",
+     "title": "이젠 AI가 경찰에 미제 살인사건 허위 제보…앤트로픽, 두 달 뒤에야 인지",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/10/TX6MM2HQ6NDSVHU2KMCCFWIV2U/",
+     "published": "2026-10-10T00:45:57+00:00"
     },
     {
      "n": 4,
-     "outlet": "서울신문",
-     "title": "최태원 회장, “호남 반도체 팹, 용인 3분의 2규모…최대한 빨리 착공”",
-     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261009500127",
-     "published": "2026-10-09T06:48:03+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "뉴시스",
-     "title": "[속보]최태원 회장 \"광주 팹, 용인 3분의2 규모…땅·수요 있으면 커질 것\"",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tNTlOTXd4WFZlTXFwd04xZ21rcFdBbUZOb001dnZJMzN2ZFFwM010X1QxcldWcGRtYXBNdkxfaWF4cDIwNGdhWmQ2X3NGMWxyalBuT3p5aldObjF3bnBRcNIBeEFVX3lxTE92R1UzQTAtLVduS1kxaXlVRlN6TGZlcXF5Rjc5S2REVFZCM1BvVjZZaEVWNmhhZ0REeDJKb3BxckZaaFhpRW1DdlZhNTd1WUM2RkZCRGJZNUVkeUl4MlNRMHhxRTdwVmhOQXg0Mm9RMHpUMFYtd25vYQ?oc=5",
-     "published": "2026-10-09T05:51:33+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "뉴스1",
-     "title": "[속보] 최태원 회장 \"호남권 반도체 규모는 용인의 3분의 2 수준\"",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsc3dJeXBkd1JtYjRFdlpsdDlQSGdfajdqUkhTeVhiRXZyNWQ5eTJnQWlJcTRrV2ROVERwV21ic1VVMXRuZzM5MXRCNjUyb1RiNXE0bldhci1aa2ZERFpB?oc=5",
-     "published": "2026-10-09T05:49:32+00:00"
+     "outlet": "연합뉴스",
+     "title": "AI가 경찰에 미제사건 가짜 제보까지…앤트로픽, 뒤늦게 확인",
+     "url": "https://www.yna.co.kr/view/AKR20261010016200075",
+     "published": "2026-10-09T23:30:35+00:00"
     }
    ],
    "factcheck": null,
-   "score": 102,
+   "score": 76,
    "rank": 3,
    "slug": "03"
   },
   {
-   "headline": "Trump establishes committee to investigate Fed governor Lisa Cook",
+   "headline": "트럼프, '경유딜' 비판 젤렌스키에 \"우크라, 새 대통령 필요\"(종합)",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -226,289 +203,155 @@
    "section": "people",
    "importance": 5,
    "outlets": [
-    "AP",
-    "CNBC",
-    "CNN",
-    "NBC News",
-    "New York Times",
-    "Politico",
-    "The Guardian",
-    "Washington Post"
+    "뉴시스",
+    "연합뉴스",
+    "조선일보"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "Washington Post",
-     "title": "Trump escalates effort to fire Federal Reserve governor Lisa Cook",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjlOZTQ4TndWWU5vZlFJRXZmTWpHemhxVnlsWi1RVE1aalh6MEhhRTNzU1Vvc2lpb050STlEWFJ5OVE1a0tjWnZGZkxtbnpUVWZocHBOSTR3MnREUXBmbTJpN2pRb0s1LXByRkRjekxYdXVxaVFGdlNib0JQUnptYndHUkplMURQUG5mcnFkbzY2QV9mRE44Z2dnUTZVUGVTbFBsQXJieHR5NG9lR2NFZk43enU?oc=5",
-     "published": "2026-10-09T23:03:39+00:00"
+     "outlet": "뉴시스",
+     "title": "트럼프 \"젤렌스키 전쟁 끝낼 수 있지만 안 해…우크라 새 대통령 필요\"",
+     "url": "https://www.newsis.com/view/NISX20261011_0003820742",
+     "published": "2026-10-10T21:16:21+00:00"
     },
     {
      "n": 2,
-     "outlet": "The Guardian",
-     "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
-     "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
-     "published": "2026-10-09T18:05:12+00:00"
+     "outlet": "조선일보",
+     "title": "트럼프, ‘경유딜’ 비판한 젤렌스키에 “우크라이나 새 대통령 필요”",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzlJWWczbnY4dnI2UFpkTE81V3U3TFg2akk5amV2cEpuVGszQTJOUGo5djU3azB0dWtjZUlHLTZCRU11ZHhOeG9wYnBzQUpRdXM4ZkZzUVVqMmdtMDRmY0Z6UWFIa3BYVzdLeEduM0NUMUxjdlBGd0NpT0tvSTdtQVR3Mm8?oc=5",
+     "published": "2026-10-10T17:59:00+00:00"
     },
     {
      "n": 3,
-     "outlet": "AP",
-     "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWhUWUhLVjBvQUV1WWxNZ1lHZUxWbWpoQW9jckFpa284cmRTMkloVmdYaE1nR19sc2F0NFdWenEzWWlfRTd2elQzdTczcnFYTTJMTW9hQTY3eUxyR0xqcjB6cE9CSlloUGtFcXVzVzZTUl82RFZneGFvWDcwWHRNMEtETXYySTEtVlhYUDVrbw?oc=5",
-     "published": "2026-10-09T16:44:00+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "Politico",
-     "title": "Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5?oc=5",
-     "published": "2026-10-09T15:07:00+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "NBC News",
-     "title": "Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1p0ZVQwNWZjSmliSmtvcHVQSlcwUWl2VmstZC1JVkJJb25vZkRZOXNZbTlLTDVIM1c2a2JqNGRDaWdOYjFCZDZEcEd4d083Wm1pLUc2MEZVb2R5X0hCbnBzLVp3QzJXdXhtT0lpX1lZZWtxOXNxeUNMNHozcVFELV9nbjRELXk2?oc=5",
-     "published": "2026-10-09T15:00:53+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "New York Times",
-     "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00c05fZUF5M2NfeElKZDZPSWkxcHJpM21Qd29XV0xyZU1JNDItU1F6WjJ4czJ5ay11ZW5nY1dZTUU3SE5CS210bWNtSnR5VXVSdXdZMW95TTk3dTRrV29WN0ZwMkpMVXV5VTlCdVFwS0FhZFR2dHBz?oc=5",
-     "published": "2026-10-09T14:34:04+00:00"
+     "outlet": "연합뉴스",
+     "title": "트럼프, '경유딜' 비판 젤렌스키에 \"우크라, 새 대통령 필요\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261011002251071",
+     "published": "2026-10-10T17:56:23+00:00"
     }
    ],
    "factcheck": null,
-   "score": 78,
+   "score": 63,
    "rank": 4,
    "slug": "04"
   },
   {
-   "headline": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
+   "headline": "\"금융권 해킹에 악용\"...AI 도구 '아르텍스' 공개 중단",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
+   "section": "ai",
    "importance": 5,
    "outlets": [
-    "Al Jazeera",
-    "BBC",
-    "CBS News",
-    "CNN",
-    "New York Times",
-    "Politico",
-    "The Guardian",
-    "Wall Street Journal",
-    "Washington Post"
+    "YTN",
+    "연합뉴스",
+    "조선일보"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "Washington Post",
-     "title": "Trump taps conservative commentator as next White House press secretary",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1dvdWV4SDhCY29fQjVjNFhlRS1Rek9MekVXcWxJbmRSX3JQcU9PZWdLcGx3N0V6eWRyQTdGRnFQcVVFM0JDNnhjbG9ReWhxUWVxZERRX2VheDRDdlhSaGtLUGg2VHhkazBSRldLX0ozaUNXd2JBTkNUTWp0a2ZtS3k0TzF6dDhyVXZLY2tIaEZfaTBSQWtVUm9YYXBMN1JFb044aFVKb2Y1YjhuT2hzdGhLblluMmNIZkJPMw?oc=5",
-     "published": "2026-10-09T22:18:42+00:00"
+     "outlet": "YTN",
+     "title": "\"금융권 해킹에 악용\"...AI 도구 '아르텍스' 공개 중단",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90aXMycUx4N0V2TmFzanlLNGgxSEJXakdXY2wtRmhrWTg5cUlCelNBaktfZGV5dWZlbHF5eV9WbzBtcEZiZ2dSRUU1OWNhVm83RU1sWEI0c0poV0lFY1pSTW93aFZ4OHdJM3J1RldvRQ?oc=5",
+     "published": "2026-10-10T13:28:00+00:00"
     },
     {
      "n": 2,
-     "outlet": "Al Jazeera",
-     "title": "Katie Zacharia selected to be next White House press secretary",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanJ0aWhwZ0dIT1Bvc3hGVkZ6N005TU5qUHZJTVdOMnJRZ1F0dFk3Mm45VE1NTXJpeHFrYlNrdzQybUtFYTlQVkUxOVdmd0pjT1FmbktEcDFMQXcxMjdnRHJGeDFHallOZnNwc2U0bUJiZzZoRjhzYnpOZVk5S0pBdmFraVBCdldpbERKZTFHdTBBbEYwUVR2MENLMnlNcWFoTWR3LXRB0gGrAUFVX3lxTFBKNWhBcGl2QVB6VUYtUzJ6Z2FWa2c5QkJQclNCY2VfTjB0RGlfaFg0ZjdXdzBsbXdTdlFrRHNuVVRSbmx0UktRMlB0dXZ6LTJTc2NzbF9xV2syQUFIY2F1eVpTMm1VZGlxS0x1ZVpOdVNCODRtZi1iQVFfczFYSFcxS0Z2ekxtV3pPR0ZaOVlza0VvT3pfZ2p6Zy10TkFLeW9ISWhjWnlQTzhPaw?oc=5",
-     "published": "2026-10-09T22:07:30+00:00"
+     "outlet": "조선일보",
+     "title": "“금융권 해킹에 악용”... 中 AI 도구 ‘아텍스’ 공개 개발 중단",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/10/N3TZZWK7CFH3HOPQYJ63MYGXNY/",
+     "published": "2026-10-10T05:55:46+00:00"
     },
     {
      "n": 3,
-     "outlet": "Wall Street Journal",
-     "title": "Exclusive | Kalshi Probes Bets on Trump’s Pick for New White House Press Secretary",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXMtVlkxUEU1UUNqVWtDdWluMFNzZEc1WE51dzU3SnhrU2xEc093d2puLTM5bjNjMHhfQ2tKMXljM0lVd2tMYnVJTWsxNTlXU05weXNkSm9OdTUtbmxoWGdGZ0lqQ2dGdnppMFM1SDJTNG81T3AzZlFhMFEyQzBBZzVUXzgybVZjck5LNlFSR3hWNDVscjdINVdqSzRndm1Xb1RfWnlxb3RFNVZ6d2pid2VWOXVQNVpB?oc=5",
-     "published": "2026-10-09T21:47:00+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "New York Times",
-     "title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3drMkRmc2YyUGl4RkMzcXozV0xxbDk1RUlLV29TRHVKcG9rUnNoNnllQkV4V0ZQMVpzTXpLbkd3aWNuNkx2a0ZGbG9JRmwwTElXYWkyY294Rl9VT1VCOGhUd1RvYUcyYkxxNHYxZnVLQ2FKX3FrSDIwR3BhUDk4VV9VZlZpVEd1QmRNZW1yNE9TQ1RNV2VzMjBISUtqeVJBRUE?oc=5",
-     "published": "2026-10-09T21:37:17+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "BBC",
-     "title": "Commentator Katie Zacharia picked as new White House press secretary",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HOVFnWktHTTdBZHB1YzB3N3BvaDhvZTVnRnduQWlXTWFxOWxQNk9ySUd2OUZuNHhPX2FXc0hONGZiRG96d1VmV3FuRWx1WHIwQk8zcS1KamZiMEU?oc=5",
-     "published": "2026-10-09T21:08:04+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "CBS News",
-     "title": "Trump picks \"loyal\" Katie Zacharia as next White House press secretary",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGludEpQUVNJTEdVOFduS21UcXF3NVNfNnpKSEtSb1R5VUNiakt6QlQyMGtBOVRxN1BiZ3l3R2NtOFlJa3RDVXM5QUVwVFBWQW41Y2xKZmRPdjEtVnkzcTI5N2ctb0ZycGZXNE9IY0ItR0ZmUVd3LVdFNDFra0NRc0ZQMUE?oc=5",
-     "published": "2026-10-09T18:33:00+00:00"
+     "outlet": "연합뉴스",
+     "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+     "url": "https://www.yna.co.kr/view/AKR20261010022500017",
+     "published": "2026-10-10T01:59:07+00:00"
     }
    ],
    "factcheck": null,
-   "score": 76,
+   "score": 63,
    "rank": 5,
    "slug": "05"
   },
   {
-   "headline": "[속보] 트럼프 \"푸틴, 러시아 경유 공급 합의\"",
+   "headline": "삼전닉스 주춤했지만…소부장 선전에 한달간 수익률 1위는 반도체",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
-   "importance": 6,
-   "outlets": [
-    "YTN",
-    "뉴시스",
-    "연합뉴스",
-    "이데일리"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261010006751072",
-     "published": "2026-10-09T21:21:16+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "뉴욕증시, 기술주 반등·중동 긴장 완화 기대에 상승",
-     "url": "https://www.yna.co.kr/view/AKR20261010006700072",
-     "published": "2026-10-09T20:28:13+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "YTN",
-     "title": "[속보] 트럼프 \"푸틴, 러시아 경유 공급 합의\"",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Hd2xwSUY0SXpIaFJvZFZ5TF83YVo1dDlIekpQSk4xZGFMU2pXQ3g1cUs4R3IzMDVIWXMtQUtlUUV3MXZnc19hdnFxNHJRcWNLQ3gyemxQTjhQWHNIb0hELXIzOUZELXNqRlhRLXliYw?oc=5",
-     "published": "2026-10-09T19:29:00+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "뉴시스",
-     "title": "트럼프 \"푸틴과 러시아 경유 미국·세계 시장 공급 합의\"",
-     "url": "https://www.newsis.com/view/NISX20261010_0003820396",
-     "published": "2026-10-09T19:28:35+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "이데일리",
-     "title": "[속보]트럼프 \"푸틴과 경유 공급 합의…러시아산 30만t 이상 즉시 공급\"",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMF9NcHFXVzBnTTBFYm9xWDJnZVpUV21UNlVmMUUwWWhnd0lEdnJmaFh2TFpDRjE0c0VmXzdLckN4cWFBNzkzczVyazd4NGc1bXRJeUxSVGU0SzBLQWt6TVVxaTNhSnZ1ZUZvMXYtV1I1ZDZaRmd2TG01dkhCQjlEbA?oc=5",
-     "published": "2026-10-09T19:03:30+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 6,
-   "slug": "06"
-  },
-  {
-   "headline": "백악관 새 대변인에 보수 평론가 자카리아…트럼프 미디어 고문",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 5,
-   "outlets": [
-    "뉴시스",
-    "연합뉴스",
-    "파이낸셜뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "백악관 새 대변인에 보수 평론가 자카리아…트럼프 미디어 고문",
-     "url": "https://www.fnnews.com/news/202610100716395247",
-     "published": "2026-10-09T22:20:12+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "뉴시스",
-     "title": "트럼프, 백악관 대변인에 자카리아 임명 발표",
-     "url": "https://www.newsis.com/view/NISX20261010_0003820406",
-     "published": "2026-10-09T21:20:45+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "트럼프, 새 대변인에 보수평론가 자카리아…\"충성스런 지지자\"",
-     "url": "https://www.yna.co.kr/view/AKR20261010007500071",
-     "published": "2026-10-09T21:08:55+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "뉴시스",
-     "title": "트럼프, 백악관 새 대변인에 케이티 재커리아 임명",
-     "url": "https://www.newsis.com/view/NISX20261010_0003820401",
-     "published": "2026-10-09T20:35:57+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 7,
-   "slug": "07"
-  },
-  {
-   "headline": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나눠야\" 농담",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 5,
+   "section": "ai",
+   "importance": 4,
    "outlets": [
     "매일경제",
-    "연합뉴스",
-    "파이낸셜뉴스"
+    "연합뉴스"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "노벨평화상 나비 필레이 \"박수 더 치면 트럼프와 상 나눌지도\" 뼈 있는 농담",
-     "url": "https://www.fnnews.com/news/202610092324204783",
-     "published": "2026-10-09T14:28:15+00:00"
+     "outlet": "연합뉴스",
+     "title": "삼전닉스 주춤했지만…소부장 선전에 한달간 수익률 1위는 반도체",
+     "url": "https://www.yna.co.kr/view/AKR20261009021100008",
+     "published": "2026-10-10T21:15:01+00:00"
     },
     {
      "n": 2,
      "outlet": "매일경제",
-     "title": "“박수 더 치면 트럼프와 상 나눌 수도”…노벨평화상 받은 필라이 뼈있는 농담",
-     "url": "https://www.mk.co.kr/news/world/12172547",
-     "published": "2026-10-09T13:31:42+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나눠야\" 농담",
-     "url": "https://www.yna.co.kr/view/AKR20261009057400108",
-     "published": "2026-10-09T10:34:10+00:00"
+     "title": "삼전닉스 주춤했지만…소부장 선전에 한달간 수익률 1위는 반도체",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLQXAycUhRdS1TZk9meHJsMmt3Q05yMEpteHhGZ0QyY1dwckU5ckhIY0NsZkpjdm5HSERIOVFLSi0zZjBydVIxNFBPU0hfR1p2LXc?oc=5",
+     "published": "2026-10-10T21:15:01+00:00"
     }
    ],
    "factcheck": null,
-   "score": 63,
-   "rank": 8,
-   "slug": "08"
+   "score": 50,
+   "rank": 6,
+   "slug": "06"
   },
   {
-   "headline": "트럼프 \"푸틴과 방금 협의…러 경유 30만t 즉각 시장에 풀기로\"",
+   "headline": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
+     "url": "https://www.yna.co.kr/view/AKR20261010027300002",
+     "published": "2026-10-10T20:45:03+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ESlZ5S1BJdHhqX2FyaWxuMEVWb1lyaHMyNm9zZWh6RlRhdGdhTG15V3JtcXFrMDM5ZnZoRGVrMlRPSW00cXlraGM0bVFaT2t0Z0E?oc=5",
+     "published": "2026-10-10T20:45:03+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "크렘린궁 \"트럼프, 푸틴에 우크라전 긴장 완화 방안 제시\"",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -516,25 +359,60 @@
    "section": "people",
    "importance": 4,
    "outlets": [
-    "연합뉴스",
-    "한국경제"
+    "뉴시스",
+    "연합뉴스"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "한국경제",
-     "title": "트럼프 \"러시아 경유 30만t 시장에 풀기로\"…러 \"수출제한 해제\"",
-     "url": "https://www.hankyung.com/article/2026101032017",
-     "published": "2026-10-09T22:13:17+00:00"
+     "outlet": "뉴시스",
+     "title": "크렘린궁 \"트럼프, 푸틴에 우크라전 긴장 완화 방안 제시\"",
+     "url": "https://www.newsis.com/view/NISX20261010_0003820698",
+     "published": "2026-10-10T13:34:44+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "트럼프 \"푸틴과 방금 협의…러 경유 30만t 즉각 시장에 풀기로\"",
-     "url": "https://www.yna.co.kr/view/AKR20261010004500071",
-     "published": "2026-10-09T19:05:19+00:00"
+     "title": "\"푸틴, 트럼프의 우크라전 긴장 완화 제안에 '이해' 표명\"",
+     "url": "https://www.yna.co.kr/view/AKR20261010045600099",
+     "published": "2026-10-10T12:44:21+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "세계일보",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "세계일보",
+     "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZHVJb0l3ekZ4dTlPSDFTY1JIUHBJWGhncGczQ2dBSjJIczNOU3I3VUlLTzdWRFJXblJoZUFnM3kwZ09Na3pTYmZER1lPNzB3d0RSMtIBVEFVX3lxTE9TZHVJb0l3ekZ4dTlPSDFTY1JIUHBJWGhncGczQ2dBSjJIczNOU3I3VUlLTzdWRFJXblJoZUFnM3kwZ09Na3pTYmZER1lPNzB3d0RSMg?oc=5",
+     "published": "2026-10-10T08:36:17+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
+     "url": "https://www.yna.co.kr/view/AKR20261010037600001",
+     "published": "2026-10-10T08:17:27+00:00"
     }
    ],
    "factcheck": null,
@@ -543,12 +421,82 @@
    "slug": "09"
   },
   {
-   "headline": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
+   "headline": "젤렌스키, 트럼프·푸틴 '경유딜' 맹비난…\"푸틴 생일선물\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "중앙일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "중앙일보",
+     "title": "[속보]\"더 큰 테러와 만행으로 보답할 것\"…젤렌스키, 트럼프-푸틴 경유 거래 '맹비난'",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOVzk5ejBLOFBZZ2k4blhRNEdaU0l4YVN2V1Jfc2NRZTZaeFdUMWI0d2EtcGd1YzBuYkdUdjBCeVB6VEVKOHpPZm54eURxMXlVX2ZqUFVWV04xcXJURVphN3JR?oc=5",
+     "published": "2026-10-10T06:49:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "젤렌스키, 트럼프·푸틴 '경유딜' 맹비난…\"푸틴 생일선물\"",
+     "url": "https://www.yna.co.kr/view/AKR20261010019100009",
+     "published": "2026-10-10T00:14:10+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "美, AI 사고 신고 의무화…\"중대 국가안보 의무\"",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "美, AI 사고 신고 의무화…\"중대 국가안보 의무\"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITnh5dTJiVGlzQVpMUFRKaWVReElWTVFpMjlNVlFzbTlrZURoZjVNU05iRF95NEpYY2VvdS1WYzFrYTFpaWRISlk2LXhjeG5DeFJveDYwOExMRXJqQmVHSUxZcTk2bEUtenoyMnZBZVJ5Sms3UzAwctIBeEFVX3lxTFBITnh5dTJiVGlzQVpMUFRKaWVReElWTVFpMjlNVlFzbTlrZURoZjVNU05iRF95NEpYY2VvdS1WYzFrYTFpaWRISlk2LXhjeG5DeFJveDYwOExMRXJqQmVHSUxZcTk2bEUtenoyMnZBZVJ5Sms3UzAwcg?oc=5",
+     "published": "2026-10-10T05:30:52+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "미국 정부, AI 사고 신고·시정 의무화…\"국가안보 의무\"",
+     "url": "https://www.yna.co.kr/view/AKR20261010020100009",
+     "published": "2026-10-10T00:49:42+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "코스피 지지부진 속 코스닥 선전…'천스닥' 탈환은 글쎄",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
    "importance": 4,
    "outlets": [
     "매일경제",
@@ -560,93 +508,16 @@
     {
      "n": 1,
      "outlet": "연합뉴스",
-     "title": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
-     "url": "https://www.yna.co.kr/view/AKR20261002022300017",
-     "published": "2026-10-09T21:33:01+00:00"
+     "title": "코스피 지지부진 속 코스닥 선전…'천스닥' 탈환은 글쎄",
+     "url": "https://www.yna.co.kr/view/AKR20261008209500008",
+     "published": "2026-10-10T00:05:00+00:00"
     },
     {
      "n": 2,
      "outlet": "매일경제",
-     "title": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40dmpDeVhMSXExTnJvcjRKZkt1dWd3ei1yLUhqbS11c1ItTGZxbVRqTzBYY2hSNk44aW96ZHNmTS1SMmNpc2NKZjRDLXE4YkVCYlE?oc=5",
-     "published": "2026-10-09T21:33:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 10,
-   "slug": "10"
-  },
-  {
-   "headline": "국제유가, 美 멕시코만 원유 생산 차질 속 상승…WTI 0.39%↑",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "money",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "이투데이"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "이투데이",
-     "title": "[속보] 국제유가, 상승⋯WTI 0.39%↑",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tSmdnbGRNUUhDaWpkbzRNZk1ZdzlBSDV1aXFicmVfSjliRzRmN1JPM3BIc2w5WXNrZ0FQX3RJOW4zbmFZWXphNG1ldDlwRjBaWHZjczE0M3Nlem5YVFJpVkp6a2RrTk5Bak15aTRR?oc=5",
-     "published": "2026-10-09T21:13:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "국제유가, 美 멕시코만 원유 생산 차질 속 상승…WTI 0.39%↑",
-     "url": "https://www.yna.co.kr/view/AKR20261010005100072",
-     "published": "2026-10-09T19:49:09+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 11,
-   "slug": "11"
-  },
-  {
-   "headline": "뉴욕증시, 오픈AI 매출 우려 완화에 상승 마감…나스닥 0.64%↑",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "뉴시스",
-    "조선일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "뉴시스",
-     "title": "뉴욕증시, 오픈AI 매출 우려 완화에 상승 마감…나스닥 0.64%↑",
-     "url": "https://www.newsis.com/view/NISX20261010_0003820399",
-     "published": "2026-10-09T20:38:09+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "뉴시스",
-     "title": "[속보]뉴욕증시, 이란 확전 우려 완화에 상승 마감…나스닥 0.64%↑",
-     "url": "https://www.newsis.com/view/NISX20261010_0003820397",
-     "published": "2026-10-09T20:00:41+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "조선일보",
-     "title": "뉴욕증시, 오픈AI 매출 우려에 기술주 약세…나스닥 1.25% 하락",
-     "url": "https://www.chosun.com/economy/int_economy/2026/10/09/VSVMUC7KJFDMVNHKNO7OCAZOOI/",
-     "published": "2026-10-08T21:20:18+00:00"
+     "title": "코스피 지지부진 속 코스닥 선전…'천스닥' 탈환은 글쎄",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TZWQwekhMLWdwa2JHaGdSMU1xUXNCQTh0andoOFBPb3l6bzlOVW5BS2ZVWEhpLVBKYnJHTDZxWWJvRFlFV1doeDRyTmRvSHdjenc?oc=5",
+     "published": "2026-10-10T00:05:00+00:00"
     }
    ],
    "factcheck": null,
@@ -655,288 +526,351 @@
    "slug": "12"
   },
   {
-   "headline": "유럽, 트럼프 ICC 제재에 우려…\"대화로 풀자\"",
+   "headline": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "people",
-   "importance": 4,
+   "importance": 3,
    "outlets": [
-    "연합뉴스",
-    "파이낸셜뉴스"
+    "Axios",
+    "New York Times",
+    "Reuters",
+    "The Hill",
+    "Washington Post"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "트럼프, 노벨평화상 수상자 발표 뒤 ICC 제재…유럽 \"대화로 풀자\"",
-     "url": "https://www.fnnews.com/news/202610100258343497",
-     "published": "2026-10-09T18:30:06+00:00"
+     "outlet": "New York Times",
+     "title": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGg5cUFTeG5wT2g5bzdaWGowSDFILV85S0RhMnhUQmRpMG1lMkc5TDI3V1cwNUlvMnBRQ2ZyQUZOYVNnRnRNWmdqVFZFUUhBZThMSElNR0RVZDRRS1gwY1VVeldSWlE2cktqazFzQVFGWUJrZnlYVGppd1dxYlpyV2p1NU5xa3ZGYTVWXzlBNUdtVDhFdEJkaW5n?oc=5",
+     "published": "2026-10-10T20:11:09+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "유럽, 트럼프 ICC 제재에 우려…\"대화로 풀자\"",
-     "url": "https://www.yna.co.kr/view/AKR20261010002000082",
-     "published": "2026-10-09T16:53:23+00:00"
+     "outlet": "Washington Post",
+     "title": "Trump fumes at ‘stain’ on Norway after missing out on Nobel Peace Prize",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkZJbkNrSTEyWktRSldTXzliZDNtQmdzakNiazZnbmJEejdEQ2dwckZsUVFsUEFybkhqbXdCdlVld24xQXJnRmw0ci0yd0E5ZG1vU19GQjdjUXJvZzdodkk3UTc5REVuR3hlb0FUS1JkMmxZeVN5NmtYeDM3dUhFY1JaM1k2NnpNaWZIa2tJRnBvR0xCZXhyQ1JtWjlFRjN1MWdQVTZDZDRwNnBpdVFodFJSWnk2N1lGSGc?oc=5",
+     "published": "2026-10-10T19:45:50+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "The Hill",
+     "title": "Trump: I ‘should have won’ Nobel Peace Prize, award is ‘forever discredited’",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWpzWnBwRTd1LTFFVXJvWmM4TFNnSWRWc0EySzAxb1lhY1BOelcwT1pWeWR1WnBDNnMyTlVPbVd3TjN0bkVuOVhCNFk4UlF0dXpJejdQbGM4Y2szQl9VUHNiZHN1OG01ZWdxZXYxTjM1eThUa3Fpc1hhOUYzYTFnNktlS1lyS01sM1dVNkptRdIBlAFBVV95cUxQQU1pNWliS3R6UENoSzhGZk1JRkVUakhxWjhpX0ctdnh1NFY4aWNEYVRpckpCdC1RYXc5VWVkc0NZNGpQaDIxcmlOdzBUNmJPODJKMDBFRi1ySl9Ga2JvQkVHakVvU1B2R1pfRkREeWZlMGZqOUNHN2RBZnphbzd5OG1mbTgyUGN2azVyWmpDN1FER1cw?oc=5",
+     "published": "2026-10-10T11:55:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Axios",
+     "title": "Trump rages over Nobel Peace Prize loss",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByM2M2QWd3NXh1TzdOZDg2cFpjMmRlSHdFRDRmNXM4V3ZoYTZnc2pjVVdoUEpNMkJzdlYyTTRDM0JRN24xUktnUFBGdXo5My1xd3VNcjc1dW5MMmlZLVZOd2Zyc2xwYnlMMVZHQ01iZUJqZ0E?oc=5",
+     "published": "2026-10-10T10:55:19+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Reuters",
+     "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5",
+     "published": "2026-10-10T01:32:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
+   "score": 49,
    "rank": 13,
    "slug": "13"
   },
   {
-   "headline": "트럼프, 노벨평화상 결정 비난글 SNS 공유…불만 표출한 듯",
+   "headline": "Trump agrees deal with Putin for Russia to release diesel",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "people",
-   "importance": 4,
+   "importance": 2,
    "outlets": [
-    "뉴시스",
-    "연합뉴스"
+    "AP",
+    "Axios",
+    "Financial Times",
+    "The Economist"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "뉴시스",
-     "title": "트럼프, 노벨평화상 결정 비난글 SNS 공유…불만 표출한 듯",
-     "url": "https://www.newsis.com/view/NISX20261010_0003820390",
-     "published": "2026-10-09T18:18:13+00:00"
+     "outlet": "The Economist",
+     "title": "World in Brief: Trump agrees diesel deal with Putin; targets Fed governor",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkJib0wzb3ZLbG45d1VhbmtKMVZjT1VRamxaUjE5MHNQQ2tDWndOdkhLeGJ2c2JuN3dDYWl3NDNjc2lkTUpCRG1sSkVaYjNwVzI2Z2VyaDRfelRjaE04WnhNYXBMTUpuVkhMTEY1SDdBWDR6Sk56UVpIRk1XMGJQRjdXUHZjVjZWWWx2YnlTdVc0bWUtOUlz?oc=5",
+     "published": "2026-10-10T20:03:59+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "트럼프, \"노벨상 위상 훼손\" 위원회·수상자 비난글 SNS 공유",
-     "url": "https://www.yna.co.kr/view/AKR20261010002400071",
-     "published": "2026-10-09T17:26:12+00:00"
+     "outlet": "Axios",
+     "title": "Trump announces major diesel deal with Putin, infuriating Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45R1VMR0FnSGE4WGFsYTRYOGpkSlRhXzByUjdPUklvbHUzeFBwcHFGLWhGb1lPWTBYZXpLZEpocXlfc0xTUU5qbVhoX1lhWEwwRmp3N3lkd2QwOFVhQWRxc2ZTTm11dmdNN01qVUVyc2xoU2ljOGlBUXF0cE9EUQ?oc=5",
+     "published": "2026-10-10T15:37:35+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "AP",
+     "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5",
+     "published": "2026-10-09T23:47:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Financial Times",
+     "title": "Trump agrees deal with Putin for Russia to release diesel",
+     "url": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+     "published": "2026-10-09T22:06:22+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
+   "score": 36,
    "rank": 14,
    "slug": "14"
   },
   {
-   "headline": "\"프랑스 국채위기 알아서 해결하라\"…ECB 개입 차단",
+   "headline": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police (2)",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
-   "importance": 4,
+   "section": "ai",
+   "importance": 2,
    "outlets": [
-    "연합뉴스",
-    "한국경제"
+    "Al Jazeera",
+    "BBC",
+    "Bloomberg"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "한국경제",
-     "title": "[속보] 3.2%→5% 급등 어쩌나…＂재정위기 알아서 해결하라＂ ECB, 프랑스 개입 차단",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6S3pYVE9udWM0X09iYnd2eDI0SXY1ai12amtBeEVrNU5UOW1OWUg1dDg5MGp0dFp3UkJBZUZpT05EU1FKX2VSc3VKQ0FiVy01SjhLMG45NTY4dTFPTjRHM3gzbW5qVDJDNzR6X3h1MU9GaTIwLUg0?oc=5",
-     "published": "2026-10-09T10:17:00+00:00"
+     "outlet": "BBC",
+     "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+     "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-10-10T10:06:23+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "\"프랑스 국채위기 알아서 해결하라\"…ECB 개입 차단",
-     "url": "https://www.yna.co.kr/view/AKR20261009054600082",
-     "published": "2026-10-09T09:58:59+00:00"
+     "outlet": "Bloomberg",
+     "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police (2)",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNem5rMGl0bXM4amlRMGVMY0s1amhFSUUwbVpLM0VrNFY2eDcxOUI3TzJQTTFBMDctbTB5SENZZGUweTdiZGhxNFR3QXIyUWpQMEV6WnpuR1oxVHQxbFNhRWMxNWkzQTRVOWJEYk41UnZudVptSEtLc2Y2bjlQQV95TFh6aDhTTEVkWFRhalNJTERWd1JhOHRhZWtpZmVaS3hBUlhncTRtWXBrYXZuTnJaS0NzY1U?oc=5",
+     "published": "2026-10-10T08:08:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Al Jazeera",
+     "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFFtTFhJbEVVTTU2NzJva0NKM0VYd2lNdDFkN29fWFJKSTQtcF9POVRWTUY4WHRqSVNHZHVOdkt5UHJxSFZVcW5kX28tVDIzUnFsekVTNmwzbjBpOHdKeHhzODlZbFRqeWpycnpzTGJlYy1waDE1dnRXUVVaUkRuWjdHYUNobDA3ZldjNG9RSC1LOVA3d1RuQXcyVmEwaGp5M3dibkZfdldtTkxLS25z0gG0AUFVX3lxTE56dENBbVZWZkdYclE5Rk9LS0Vsd1JHOHVBYW9vZDZiU0lJSTFwT2EyMTIyaWljcXYtYllCWG1IaDA4MEZQUC1ZWmNYcW1RSFRwSWpucEFGYXAxM2sxYkYwU3ZyQ0IzSVJ6QktPUHExcGRyeGd4bEJpTEU3LUNMMmZpZXYxd1VLQ09jNFpSXzlVaVEwMzJ0bnFrak9vOWwtcVJpZWdvd0l1Mk1HZWZMQjhpcW56Wg?oc=5",
+     "published": "2026-10-10T05:04:38+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
+   "score": 33,
    "rank": 15,
    "slug": "15"
   },
   {
-   "headline": "반도체 주춤한 사이 2차전지 '급속충전'…관련 ETF 수익률 상위권",
+   "headline": "Trump says he will ‘make a decision’ on Hegseth plan to live-stream execution",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
-   "importance": 4,
+   "section": "people",
+   "importance": 2,
    "outlets": [
-    "서울신문",
-    "연합뉴스"
+    "ABC News",
+    "NBC News",
+    "Washington Post"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "서울신문",
-     "title": "반도체 주춤한 사이…ETF ‘수익률 상위권’ 휩쓴 테마는?",
-     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261009500126",
-     "published": "2026-10-09T06:44:40+00:00"
+     "outlet": "Washington Post",
+     "title": "Trump says he will ‘make a decision’ on Hegseth plan to live-stream execution",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2lENjR5UTZ0eVhvaGtzWU9UM19veGZLelYySC03c0hEcUppaVFEVzlNVU9HMVlCVmxFTGs5RVZ4Z3BtZHNmdGpiYU1iQml3MTR4YzROeUhDdlBBOGZEUGJUYkJ0WUVrd3RRczVJbUxROVZ3bU1PV0FmRjN6UWhGQVpEQVI1cWE2S29OZW9NckRCQ0hxYjhwc01zZUQ0SjhyWS1jREdERzFBLU41UHBnY1JFRVRDUQ?oc=5",
+     "published": "2026-10-10T21:00:28+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "반도체 주춤한 사이 2차전지 '급속충전'…관련 ETF 수익률 상위권",
-     "url": "https://www.yna.co.kr/view/AKR20261008167300008",
-     "published": "2026-10-08T22:05:01+00:00"
+     "outlet": "NBC News",
+     "title": "Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFsNzU2elJOenJjb0dLYjVqLWg2aWdqMnh6WDFxOVlLbm5ORmRwREhsRkZMWEZXTmo2WV9hSnR1cjdUZlF5TWlqdnkwSTdtajNiOFByLWRXMVVNSnRZTEc0NXB4Zzh1bTkybUJnVVJYaHZPR1NJajVSaHA1cmFyVmdPTy1ZRGNnSlNpbkN5dmQ2RWtSMGRRcA?oc=5",
+     "published": "2026-10-10T18:15:17+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "ABC News",
+     "title": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkVXSVdMWjlXRUlidzI2bVhDaE5JUHcxcHZWV3NPWkRLZkozSGl1c083OUw4eGNya2IzOWJ0SkQxQmpJSm9UdUdhdS1qNG5OTlRtUjJKc1M2U183TlRULTRVT2dXS2JRXzE2SktaRk4xcUlObkFFR2taeVhmQm9zak40OTN4eEF6MUZJeVB3elc5QdIBlwFBVV95cUxOaGI1aXdhOTBKeXBMbUVkR015RDVITy1vcXgwZkpkMmdRS3lpWUxYUU1XZWk0dGYxZGtyRlVhTUkzVVp1d2dhU09hOWlhdHEzc1ZoNm1nVWRpMmJEemNONWwwbXhUZnUzNmRpd0kwS0k4aFBCZHNvOFhzanpnMFJOXy0yX1NiWGFTUFJaUlhCSi14dzRycnNV?oc=5",
+     "published": "2026-10-10T07:31:37+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Washington Post",
+     "title": "Trump, asked if he approved live-streaming execution, says ‘absolutely’",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTVZMQXQ1WFFtUHdLaC1Qc1RPY0JfVDZtRTZkVkU5S0FVSUZYTzZXbVNFTi1pUjBGcjhYNy1CYnJpZlFodW9ZT2hmVUhtbVRfZ3M1Mlpzck9KQWNCelZYYXNidkxLc2h5ZmJxQ2tLNDBQX2VWcUhkYy1rN1FwYWFRX2NaVF9DM3M3dWVER1k0aFhWOXJxb3dUdjc4VUxRM3hpNHRvdkJxTUhDX013UUFjbGJMZGh6ZzdmNXVKQnFtRWFaMkVI?oc=5",
+     "published": "2026-10-10T06:30:03+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
+   "score": 31,
    "rank": 16,
    "slug": "16"
   },
   {
-   "headline": "\"애플, 아이폰18 프로 주문 감축\"…주가 하락",
+   "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "kr",
-   "importance": 4,
+   "section": "ai",
+   "importance": 1,
    "outlets": [
-    "이데일리",
-    "파이낸셜뉴스"
+    "CNBC",
+    "TechCrunch"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "\"애플, 아이폰18 프로 주문 감축\"…주가 하락",
-     "url": "https://www.fnnews.com/news/202610100406421823",
-     "published": "2026-10-09T19:52:23+00:00"
+     "outlet": "TechCrunch",
+     "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+     "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+     "published": "2026-10-10T21:47:51+00:00"
     },
     {
      "n": 2,
-     "outlet": "이데일리",
-     "title": "[美특징주]애플, 아이폰18 프로 부품 주문 20% 감축 보도에 개장전↓",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03958966645611280",
-     "published": "2026-10-09T10:35:34+00:00"
+     "outlet": "CNBC",
+     "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
+     "published": "2026-10-10T20:59:28+00:00"
     }
    ],
    "factcheck": null,
-   "score": 48,
+   "score": 18,
    "rank": 17,
    "slug": "17"
   },
   {
-   "headline": "애플, 27일 첫 터치스크린 맥북 공개 예정",
+   "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
-   "importance": 4,
+   "section": "people",
+   "importance": 1,
    "outlets": [
-    "AI타임스",
-    "조선일보"
+    "Fortune",
+    "NPR"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "AI타임스",
-     "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216094",
-     "published": "2026-10-09T17:49:39+00:00"
+     "outlet": "NPR",
+     "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHppNFllbVBxRmdxSUhRdWhDeGNyTkNEMnpYY1hxU2RSb2JRd3J2Q0poWk1xWlZ0M2xkdzhqNkFxa2tSMk9CTzFMTXk3OVNzVHphb0NBUGhhZXdTbloyQ3lacGdwbE5ZU0lxdDFmYXZ1RXg0WGxOVkltNVpLdmRNOFVoSF9sd2NBZ29odHdaRnY?oc=5",
+     "published": "2026-10-10T21:32:53+00:00"
     },
     {
      "n": 2,
-     "outlet": "조선일보",
-     "title": "애플, 27일 첫 터치스크린 맥북 공개 예정",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/09/YTE63UB6YBGHXCPYIM66DB7GHM/",
-     "published": "2026-10-09T05:42:45+00:00"
+     "outlet": "Fortune",
+     "title": "Trump weighs whether US should join Saudi Arabia's fight against Iran-backed Houthi rebels in Yemen",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY200OGlGbnZMOXpxUkQ0VTlqV3ZRQV9tSl9KQVl5a1RQZVJSTm00aGpUcnd0SVZnR3cyNzNmV2MtWERCZkJqSTI5WTNBTGZzTEVqNEkyS1dLUWhoTy1yY3VUQTRjdnlQZGxRS2htQU03bFVnR1d1Ri1jbVo5MTJKN3U0VGk1T3o3TlRZOHpNWWlXcGM?oc=5",
+     "published": "2026-10-10T17:53:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 48,
+   "score": 18,
    "rank": 18,
    "slug": "18"
   },
   {
-   "headline": "오픈AI서 해고된 연구원 \"AI 추론 과정 감시해야\"",
+   "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 4,
+   "importance": 1,
    "outlets": [
-    "AI타임스",
-    "한국경제"
+    "Forbes",
+    "TechCrunch"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "AI타임스",
-     "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
-     "published": "2026-10-09T12:45:25+00:00"
+     "outlet": "TechCrunch",
+     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+     "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+     "published": "2026-10-10T15:00:00+00:00"
     },
     {
      "n": 2,
-     "outlet": "한국경제",
-     "title": "오픈AI서 해고된 연구원 \"AI 추론 과정 감시해야\"",
-     "url": "https://www.hankyung.com/article/2026100928691",
-     "published": "2026-10-09T08:34:27+00:00"
+     "outlet": "Forbes",
+     "title": "5 AI Stocks To Buy Now Before The End Of 2026",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWktRXRxQ19aWjJoa2hKRFNBVGhiTWFnX2N0alpCbVhZNEI0cnh5NFRuN29HVWhOY0ZqM05CcHhPaU1ULUpvWWhnZ1JZNk04YzFnZ0JmZDdiWDIxMUttbTh0b1padHV6X05nWXZ2VXZ0S0RPTXBCWTl6eFQ5eVE2VzZMM2pHcjZxRzVyZ1VFamYxZlAxWHA0?oc=5",
+     "published": "2026-10-10T10:30:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 48,
+   "score": 18,
    "rank": 19,
    "slug": "19"
   },
   {
-   "headline": "삼성전자 영업익 107조 이어…SK하이닉스, 이익률 80% 넘보나",
+   "headline": "Anthropic is cutting off its internal evaluations from the internet",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 4,
+   "importance": 1,
    "outlets": [
-    "서울경제",
-    "서울신문"
+    "TechCrunch",
+    "The Verge"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "서울경제",
-     "title": "[영상] 삼성전자 영업익 107조인데 코스피 2.62% 하락…왜?",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YW1xV0Y0SEtvcEstcXFNVWJFOW9UX05zOUk2Z1hVQVdCQU9JYVJ3c1c4cDNNQ0tXOHB4ZjlubkN2QUlwZmtJekF0LWxVVEpyTWc?oc=5",
-     "published": "2026-10-09T02:37:26+00:00"
+     "outlet": "The Verge",
+     "title": "Anthropic is cutting off its internal evaluations from the internet",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+     "published": "2026-10-10T14:41:16+00:00"
     },
     {
      "n": 2,
-     "outlet": "서울신문",
-     "title": "삼성전자 영업익 107조 이어…SK하이닉스, 이익률 80% 넘보나",
-     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261009500055",
-     "published": "2026-10-09T01:56:31+00:00"
+     "outlet": "TechCrunch",
+     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+     "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+     "published": "2026-10-10T00:18:32+00:00"
     }
    ],
    "factcheck": null,
-   "score": 48,
+   "score": 18,
    "rank": 20,
    "slug": "20"
   }
  ],
  "market": {
-  "fetched_at": "2026-10-10T08:04:45.452503+09:00",
+  "fetched_at": "2026-10-11T07:16:00.816781+09:00",
   "groups": {
    "지수": [
     {
@@ -990,28 +924,28 @@
     {
      "ticker": "^N225",
      "name": "닛케이 225",
-     "value": 69042.109375,
-     "change": -993.6015625,
-     "pct": -1.4187070413073877,
-     "date": "2026-10-08"
+     "value": 69030.921875,
+     "change": -11.1875,
+     "pct": -0.016203879199627735,
+     "date": "2026-10-09"
     },
     {
      "ticker": "000001.SS",
      "name": "상하이종합",
-     "value": 3811.904052734375,
-     "change": -30.291015625,
-     "pct": -0.7883778695789712,
-     "date": "2026-10-08"
+     "value": 3813.791015625,
+     "change": 1.886962890625,
+     "pct": 0.04950184644001432,
+     "date": "2026-10-09"
     }
    ],
    "환율·금리": [
     {
      "ticker": "KRW=X",
      "name": "원/달러",
-     "value": 1340.02001953125,
-     "change": 0.9400634765625,
-     "pct": 0.07020219161013586,
-     "date": "2026-10-09"
+     "value": 1340.9000244140625,
+     "change": -2.0899658203125,
+     "pct": -0.1556203572260273,
+     "date": "2026-10-10"
     },
     {
      "ticker": "JPYKRW=X",
@@ -1032,9 +966,9 @@
     {
      "ticker": "DX-Y.NYB",
      "name": "달러인덱스",
-     "value": 102.23100280761719,
-     "change": 0.09100341796875,
-     "pct": 0.08909674810315682,
+     "value": 102.20999908447266,
+     "change": 0.06999969482421875,
+     "pct": 0.06853308717693629,
      "date": "2026-10-09"
     },
     {
@@ -1058,41 +992,41 @@
     {
      "ticker": "CL=F",
      "name": "WTI 원유",
-     "value": 91.66000366210938,
-     "change": 0.17000579833984375,
-     "pct": 0.18581899913583388,
+     "value": 91.8499984741211,
+     "change": 0.3600006103515625,
+     "pct": 0.39348630315589883,
      "date": "2026-10-09"
     },
     {
      "ticker": "BZ=F",
      "name": "브렌트유",
-     "value": 104.43000030517578,
-     "change": 0.15000152587890625,
-     "pct": 0.14384496320947182,
+     "value": 104.72000122070312,
+     "change": 0.44000244140625,
+     "pct": 0.42194327441209545,
      "date": "2026-10-09"
     },
     {
      "ticker": "GC=F",
      "name": "금",
-     "value": 4220.2998046875,
-     "change": 63.2998046875,
-     "pct": 1.5227280415564204,
+     "value": 4216.2998046875,
+     "change": 59.2998046875,
+     "pct": 1.4265048036444572,
      "date": "2026-10-09"
     },
     {
      "ticker": "SI=F",
      "name": "은",
-     "value": 61.11000061035156,
-     "change": 2.046001434326172,
-     "pct": 3.4640414852854517,
+     "value": 60.66999816894531,
+     "change": 1.6059989929199219,
+     "pct": 2.7190827159089714,
      "date": "2026-10-09"
     },
     {
      "ticker": "HG=F",
      "name": "구리",
-     "value": 6.710999965667725,
-     "change": 0.1919999122619629,
-     "pct": 2.945235629529641,
+     "value": 6.642499923706055,
+     "change": 0.12349987030029297,
+     "pct": 1.8944603357653245,
      "date": "2026-10-09"
     }
    ]
@@ -1101,40 +1035,40 @@
    {
     "name": "비트코인",
     "id": "bitcoin",
-    "usd": 82565,
-    "krw": 110672917,
-    "pct": 0.8906494640924536
+    "usd": 82975,
+    "krw": 111222938,
+    "pct": 0.6929320941171548
    },
    {
     "name": "이더리움",
     "id": "ethereum",
-    "usd": 2486.5,
-    "krw": 3333000,
-    "pct": 0.4534984543364833
+    "usd": 2506.74,
+    "krw": 3360135,
+    "pct": 1.0952809708121463
    },
    {
     "name": "솔라나",
     "id": "solana",
-    "usd": 109.04,
-    "krw": 146161,
-    "pct": -1.1549683929013372
+    "usd": 110.26,
+    "krw": 147798,
+    "pct": 1.500884061008072
    },
    {
     "name": "리플",
     "id": "ripple",
-    "usd": 1.39,
-    "krw": 1868.14,
-    "pct": 0.7888819348240657
+    "usd": 1.4,
+    "krw": 1883.15,
+    "pct": 1.0706612410399396
    }
   ],
-  "kimchi_premium": 2.2426564129500504,
+  "kimchi_premium": 1.6886576991647084,
   "flows": null
  },
  "stats": {
-  "collected": 1180,
+  "collected": 853,
   "outlets": 64,
-  "verified_stories": 51,
+  "verified_stories": 21,
   "dropped_by_factcheck": 0,
-  "seconds": 9
+  "seconds": 6
  }
 }
