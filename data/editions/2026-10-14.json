@@ -1,0 +1,1193 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T08:12:30.457622+09:00",
+ "mode": "draft",
+ "articles": [
+  {
+   "headline": "[1보] 홍라희 관장, 이재용 회장에 삼성전자 지분 2.6조 규모 증여",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 10,
+   "outlets": [
+    "경향신문",
+    "뉴스1",
+    "매일경제",
+    "머니투데이",
+    "문화일보",
+    "아시아경제",
+    "연합뉴스",
+    "전자신문",
+    "조선일보",
+    "지디넷코리아",
+    "한겨레",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "홍라희, 이재용에 삼성전자 주식 2조6천억 증여…이건희 유산 모두 넘겨",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1282231.html",
+     "published": "2026-10-13T23:12:08.162563+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "문화일보",
+     "title": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRllSNUNuOTVwTGl2OXM5a1RKazk3NnRwR2I2Z1ZqOTdveWpNZHYtLUZpVlZTOFlWS2FMNnNYLWpZbkFjTkM3RGNhY0I1UHgy?oc=5",
+     "published": "2026-10-13T12:57:10+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "홍라희, 이재용에 삼성전자 주식 1115만주 증여",
+     "url": "https://www.mk.co.kr/news/business/12174871",
+     "published": "2026-10-13T10:49:30+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "홍라희 관장, 이재용 회장에 2.6조 규모 삼성전자 지분 증여",
+     "url": "https://www.hankyung.com/article/2026101396626",
+     "published": "2026-10-13T08:53:09+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "지디넷코리아",
+     "title": "[속보] 홍라희 관장, 이재용 회장에 2.6조 규모 삼성전자 주식 증여",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DUmduMFFuUWZ5OFFFQ25OMEwyVFZ4LWRyU3pZRThvX3RVclU1MVlMdVNhUldDTXp6M3ZyT0hPRUtGODQ4M2ItZ3ByWDFSZ3JSZDlNbDBB?oc=5",
+     "published": "2026-10-13T08:30:17+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "조선일보",
+     "title": "홍라희 관장, 이재용 회장에 삼성전자 지분 2.6조 증여",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/13/CPKTZLD2UJHSPDBVESBRPO6OHU/",
+     "published": "2026-10-13T08:25:56+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "코스피, 5.5% 급락한 6,035 마감",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 9,
+   "outlets": [
+    "JTBC",
+    "SBS",
+    "YTN",
+    "매일경제",
+    "서울신문",
+    "연합뉴스",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "코스피 5.46% 급락한 6035 마감…반도체주 폭락에 매도 사이드카",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1282158.html",
+     "published": "2026-10-13T23:12:08.162763+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "[속보] 코스피, 5.5% 급락한 6,035 마감…간신히 '6천피' 사수",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795494",
+     "published": "2026-10-13T07:42:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "서울신문",
+     "title": "[마감시황]코스피 6,035.35 마감…외국인 대거 매도에 5.46% 급락",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261013500225",
+     "published": "2026-10-13T06:59:09+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "코스피, 5.5% 급락한 6,035 마감",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yOGw2Zi1fQ3pjcE96dDl5a3JMUDJ3czFuaGk2SFJZX0x3Rk1oZm5pTjhmRllrcmM3OU9xTy1Tblh0WmtEZnV6N2FpY3oxbEtMT18yaWd6ejEtVXdTNWtrN9IBYEFVX3lxTE4yOGw2Zi1fQ3pjcE96dDl5a3JMUDJ3czFuaGk2SFJZX0x3Rk1oZm5pTjhmRllrcmM3OU9xTy1Tblh0WmtEZnV6N2FpY3oxbEtMT18yaWd6ejEtVXdTNWtrNw?oc=5",
+     "published": "2026-10-13T06:55:11+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "YTN",
+     "title": "[속보] 코스피, 5.46% 하락해 6,035 마감...삼전닉스 급락",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tNVRCSGhkNjNDWXJqWUFReUoxUGE3b2dnZU02OEViSWNBUm9wVjY2NlZNUUFtMUFoV3laT3kxQTU2UncxRmhJTTN2XzFhZWo2MVNmdkJHSGRpdWR2TlJLTzE0aHRuR0N1aE5MUElsSQ?oc=5",
+     "published": "2026-10-13T06:39:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "코스피, 5.5% 급락한 6,035 마감…간신히 '6천피' 사수",
+     "url": "https://www.yna.co.kr/view/AKR20261013138800008",
+     "published": "2026-10-13T06:38:58+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "[속보] 코스피, 6%대 급락에 6,000선 아래로",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 7,
+   "outlets": [
+    "YTN",
+    "경향신문",
+    "연합뉴스",
+    "조선일보",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "코스피 6000선 무너져…‘폭락의 달’ 7월 수준 복귀",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1282081.html",
+     "published": "2026-10-13T23:12:08.163019+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "경향신문",
+     "title": "외국인 매도세에 무너진 코스피, 6000선 겨우 턱걸이",
+     "url": "https://www.khan.co.kr/article/202610131721001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-13T08:21:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "코스피, 6000선 위에서 턱걸이 마감...외국인 ‘팔자’ 언제까지 이어지나",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0lJcGpzazlIWk5ad2dzdFV3QUFEUW04Tm9PY2RhaVZZM0JuNlFka0xHX2J5ZEc0clJ4dDBfUEVoMXZPclFyaGVLNUVQdFRPaEpsT2o1TmZQUDdQcElXckpSXzg1U0l0c2kyWklzeXVfU2k2NUpIQVVHTDVvVkFlTQ?oc=5",
+     "published": "2026-10-13T07:41:49+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "[증시-마감] 하루 만에 5.46% 빠진 코스피…6,000선 턱걸이 |",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVFh5czk3R01QcFQ0cUREOEFPbWJLVUZqZ1I2TV9wTHRWZGxvaFE1Z2JDUjRoNDN3cFlUZTJPZkMydWg5XzhpTnFBajg0QWhXbTlLNDVfN1pKR0JYMHFuN1VraTRhUWNKLXotQWYtRkFMcGs3?oc=5",
+     "published": "2026-10-13T07:21:11+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "코스피 6,000선마저 무너져…매도 사이드카 발동",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RTdWRm1YNU9UUUR1aHV3dDVXN3RIc1hvS0hETDFxeVZ0SXJlcldFNzNoMk5RVFByYUJhYWJTNGNWcTVSVnNQQUQxaUZGeXVLSG9VZEdSTlpRRnF0XzV5Y3lIM2FjRWc?oc=5",
+     "published": "2026-10-13T02:43:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "YTN",
+     "title": "[속보] 코스피, 6%대 급락에 6,000선 붕괴",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IR0I1M1dmbzFKZlZpNTAwZEt4bFRSMElEdmZXa0Juei1SdDlaMEtQV2hJcjVGbU5yb2RSLUdkejJWS2xMbFdxVDV0OTFxa2kzZkRSUHNRUS00QUpFQ3E0QVljRDdQS3B5d2dXSGIzYw?oc=5",
+     "published": "2026-10-13T01:29:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "뉴욕증시, 美은행 실적 혼조·반도체 약세에 일제히 하락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 7,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "아시아경제",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "반도체 약세·은행 실적 혼조에 3대 지수 일제 하락 [뉴욕증시 브리핑]",
+     "url": "https://www.hankyung.com/article/2026101400786",
+     "published": "2026-10-13T22:16:26+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 美은행 실적 혼조·반도체 약세에 일제히 하락",
+     "url": "https://www.yna.co.kr/view/AKR20261014006800072",
+     "published": "2026-10-13T20:28:53+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "아시아경제",
+     "title": "[속보]뉴욕증시 일제히 하락 마감…반도체주 약세",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vTlN3VTBrTGo2VWREY2FaWjVIUTVlTkwtbEFSV3lfSk1rZjFPVXlaMmQ0Ni1yQXQ3MzhJbFZWSDRLTUV3RldKeHFRUXZFVkNRZEVHUUswVERITVd6VzZvTg?oc=5",
+     "published": "2026-10-13T20:13:08+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴스1",
+     "title": "[속보] 뉴욕증시, 반도체주 약세·은행 실적 혼조에 3대 지수 하락",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04UElRUGNxM0VmTXdwV2c4dU1ybHRDdU0zaXlocjJaaFRiYXpQQXNTUVhJSXdBSjFGR3JmYkJwamt5M09jSnQ2RTJ5eGhFdnE0RUxCcndVdnVEVzBzVHMwSlR5TGNVQ1E?oc=5",
+     "published": "2026-10-13T20:00:17+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "뉴시스",
+     "title": "뉴욕증시, 은행 실적·반도체 약세 속 혼조 출발…다우 0.7%↑",
+     "url": "https://www.newsis.com/view/NISX20261013_0003824712",
+     "published": "2026-10-13T14:10:03+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "Trump says US still sharing intel with Ukraine, defends Russian diesel deal",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "ABC News",
+    "AP",
+    "Al Jazeera",
+    "Axios",
+    "CNBC",
+    "NBC News",
+    "NPR",
+    "Reuters",
+    "The Hill"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Reuters",
+     "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
+     "published": "2026-10-13T23:07:11+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "ABC News",
+     "title": "Trump again attacks Rep. Ilhan Omar, a US citizen, over immigration allegations",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnExcG1ORXF3aFlYV2RrLVhuU3ZVT2YzdXVwMWlkbGNDQmRLblAyYkY4LXg0aDctUVNyMTJNdjNDdVJkd1ZVNlllcXg5NnAwT2hGU1oyWkExOXBiQ2VvU3NtNTVzVzF0TGFRa2cxQ0duQjhtNmRraHl4a3NaUUZXYXdwalQ5WHBoeXhuQ3VuUjhZQjlFSjlwM09HONIBoAFBVV95cUxQS2hlellzd2p5b1BoeFAxWHZCNGhXREMtY0I5bDlma0ZzLVNmWm52NzJLUjZ6dnBtaFdUckVoaENscDhicUdKN3FRVUlGc1A4U3l3TW5qSHRZUDV2NTQtV2tyU3RDSWw1elZzRnBTbGpGX3lHVlpsOXpSOG92VDd6eDBQYWdhaVd6TGlkQTZxLXVoWmdDblE3NzhqZ0s2VktH?oc=5",
+     "published": "2026-10-13T18:53:52+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Reuters",
+     "title": "Trump says US still sharing intel with Ukraine, defends Russian diesel deal",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTlmdEhoaGFoNXZnVWROaTNiZWVyR2lfelhoYVVaZlRjbFJuaGY5YWRneFZtbnpjQWhtNWkzMTlJQm5JNXpWSTJibE5VVWdZMk5aNDdBNmVlRkc0SWM2djVqTWozaTVrOFk1bWFSQXRtWUE1emdNc3VIckNZUzNGR01IQWhsd3VHcTdqU25jVTl3MlVLTUtkMjI3R3lrZGZuN3BCVlZpTWNZNUN1ZUhRZ1JWRG5pNFRPMUhBa2tVMVg?oc=5",
+     "published": "2026-10-13T18:11:08+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "NBC News",
+     "title": "Diesel futures jump, signaling higher prices to come despite Trump’s Russia deal",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2hCTGU2bGR3MDg5N2dBbDczRFREdmhmQlNlZHhfSElQTm5aS3Z2dGJsT1B5OGN6aDEtVFRmM2NldzN3NFUwSzhMUDRoZUw3YnlzUDlYYkhBazRNWmRTakU1dzFRU1NGN1JfQmwyTk1RY3JMc2l3aF82X3RpdFZsbU9EelY2cjE5LWpnMGhNVFdKeTRjbVE?oc=5",
+     "published": "2026-10-13T17:49:19+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "AP",
+     "title": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXNrdTM3X09NeWw5SVljZnMtdUo2T09QQTJfZi0yVjliVUgxanhkeUJ4UGtrUWE4MzZYS2puRXJjU3JKNXdyX2pJbW9rRXRpUG9XQnVlYkxEQUJUZmpGbkQ2RW1QS19OOS1nc0lGalpqMFlic0g5SE0ySUt2YUxmaFdkS1FHOXBRczMzbnc1ay0tZTJqandXbUNsZXFDU2xob2UwZlFR?oc=5",
+     "published": "2026-10-13T17:13:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "The Hill",
+     "title": "GOP senators condemn Trump’s Russia diesel deal as ‘betrayal of our allies’",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdndmLWZjbnZGMkZDTzI1R1RSOGpaS3FPd0Z2T0x0akFwekN4RFp4QzdaSUZTMWkxejNZdmpyQ1AxX0pMZ1phMEgxNXpJdmxuZHREV3Q3M0VreWpNUG1OOWNnMHVTYXRaNTFVVl9hcjRFRnNTak0zMldGWTlubjFpdGx6NVJLaFNIa3hqVVBDVDNmbkXSAZgBQVVfeXFMTzl5MW5VckJ0VEZORDgwakZyRTI2aGZYdkowekFOU3BIWTZqWHNxbmRnd3NMdUhwSEE2ZWswaHZ1YWIyWURLRmVWWXJBS3l0OGl5WldiSndFc1dqdEh1V19kUTlqelRORm90VUlwNjVjaDJRT2NYaVFxa21CYUxCUmVfZnV0ODJqV2pJQkl5S2s4QU5pVnlKUms?oc=5",
+     "published": "2026-10-13T16:56:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 78,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "이형일-베선트 화상면담…\"한미 경제·금융협력 중요성 재확인\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 6,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "조선일보",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "이형일-베선트 한미 재무장관 화상면담…“경제·금융협력 중요성 재확인”",
+     "url": "https://biz.heraldcorp.com/article/10901570",
+     "published": "2026-10-13T23:12:33+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "이형일, 美베선트와 상견례…\"한미 경제·금융 협력 중요\"(종합)",
+     "url": "https://www.newsis.com/view/NISX20261013_0003824725",
+     "published": "2026-10-13T14:57:38+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "이형일, 베선트와 화상면담…\"힌미 경제·금융 협력 중요성 재확인\"",
+     "url": "https://www.newsis.com/view/NISX20261013_0003824721",
+     "published": "2026-10-13T14:25:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "조선일보",
+     "title": "이형일 부총리, 베선트 美 재무장관과 첫 면담…“한미 경제·금융 협력 강화”",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/13/GA3WEMDCGEZDGZBTGZSGCZJXGQ/",
+     "published": "2026-10-13T14:23:15+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "이형일-베선트 화상면담…\"한미 경제·금융협력 중요성 재확인\"",
+     "url": "https://www.yna.co.kr/view/AKR20261013193900002",
+     "published": "2026-10-13T14:16:18+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "LG전자, 애플과 AI홈 시장 공략…도어락 등 7종 연내 출시",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "LG전자, 애플과 손잡고 AI홈 시장 공략… 공동 개발 제품 7종 공개",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/14/MMZDSNJWMYZWIMTGGU2TCMDGME/",
+     "published": "2026-10-13T22:23:24+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "LG전자, 애플과 AI홈 시장 공략…도어락 등 7종 연내 출시",
+     "url": "https://www.yna.co.kr/view/AKR20261013152100003",
+     "published": "2026-10-13T22:00:08+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "LG전자, 애플과 AI홈 시장 공략…도어락 등 7종 연내 출시",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yamJsc3lDczlUb3M4OUZaV2gyb0ZjMGhHWkVIcjY1MmJraERSNDFUWnZQTlJoa3lJak5sWjRJTmFWQWlFZTNPMkdTLVgxQzI0LXc?oc=5",
+     "published": "2026-10-13T22:00:08+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "LG전자, 애플과 손잡고 AI홈 생태계 확장…IoT 신제품 쏟아낸다",
+     "url": "https://www.fnnews.com/news/202610131725416352",
+     "published": "2026-10-13T22:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "IMF, 올해 韓성장률 3.3% 전망·0.7%p↑…\"반도체가 전쟁 상쇄\"(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "SBS",
+    "서울신문",
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울신문",
+     "title": "IMF, 올 한국 성장률 3.3%로 0.7%P 올렸다… “반도체가 전쟁 충격 압도”",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261014029003",
+     "published": "2026-10-13T15:11:10+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "헤럴드경제",
+     "title": "IMF, 올해 韓 성장률 3.3%로 상향…“반도체 수요가 중동 충격 압도”",
+     "url": "https://biz.heraldcorp.com/article/10900509",
+     "published": "2026-10-13T11:00:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "SBS",
+     "title": "IMF, 올해 한국 성장률 3.3% 전망·0.7%p↑…\"반도체가 전쟁 상쇄\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795484",
+     "published": "2026-10-13T06:43:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "IMF, 올해 韓성장률 3.3% 전망·0.7%p↑…\"반도체가 전쟁 상쇄\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261013066051002",
+     "published": "2026-10-13T06:19:40+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "모디 총리 만난 정의선 \"향후 7년간 인도에 155억달러 투자\"(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "모디 8번 만난 정의선 회장…\"인도에 중장기 155억 달러 투자\"",
+     "url": "https://www.hankyung.com/article/202610140072g",
+     "published": "2026-10-13T22:30:46+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "모디 총리 만난 정의선 \"향후 7년간 인도에 155억달러 투자\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261014000551104",
+     "published": "2026-10-13T22:00:01+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "정의선, 모디 총리 만나 “인도에 7년간 20조원 투자”",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/14/SLASP2Z2URCTRL6DNAHHKVXXPI/",
+     "published": "2026-10-13T22:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "임광현 \"가상자산 과세 고시 다음 달로 준비\"(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "crypto",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "임광현 “가상자산 과세 고시, 11월쯤 할 준비…2028년 5월 신고분부터 검증”",
+     "url": "https://biz.heraldcorp.com/article/10901397",
+     "published": "2026-10-13T17:12:53+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "임광현 \"가상자산 과세 고시 다음 달로 준비\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795737",
+     "published": "2026-10-13T08:07:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "임광현 \"가상자산 과세 고시 다음 달로 준비\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261013151400002",
+     "published": "2026-10-13T07:49:17+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "임광현 \"가상자산 과세 차질 없도록 준비\"",
+     "url": "https://www.yna.co.kr/view/AKR20261013088200002",
+     "published": "2026-10-13T02:55:09+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "'검은 화요일' 코스피, 5%대 폭락...장중 6천선 붕괴",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "YTN",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "YTN",
+     "title": "'검은 화요일' 코스피, 5%대 폭락...장중 6천선 붕괴",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaERXV1hPOGZQS2tVV1NDNnQ5Rmx4SEJWb29FcE5IaS1WTXRIUW9jXzNsZ3NqUHlSdmRmelg5dDEtSVVNV1VHX1EyVEt6Vm1xVF9TRmFDeHZJSEhlR1hfSjBNNnNTX0NEZ09EX0JDOA?oc=5",
+     "published": "2026-10-13T13:08:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "'검은 화요일' 코스피 5.5% 급락…장중 6천 선 붕괴",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795477",
+     "published": "2026-10-13T08:13:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "YTN",
+     "title": "코스피 5%대 하락 마감...장중 '6천피' 붕괴",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZNE9ZTllVMGdMa0xHWGZWWC1vYkFTakhxLXh5dzJVN2VRdk9BNlFub3kyc3ZIZWRsNHU3V3RhY2YxY3dYN1AyYUFkX3dORWJnVzRYS3gtamk2bkpfWXd4bGM5aV9iTklDS0FiRHJEZw?oc=5",
+     "published": "2026-10-13T07:38:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "[경제읽기] 코스피 급락에 ’매도 사이드카’…장중 6천선 붕괴",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVWtvRlN6VUgzcGFBd3hZRTEyR0JFTkpXYktIVm5LTk85ZjItY014Z1piaDIwbEs5NzN1NVdwQkFkWnJVMENITktTdlRlYVI3TmJpZVlmbTB3b09tTzdXcTd4cU1ZVkE?oc=5",
+     "published": "2026-10-13T04:09:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "산업부, 반도체혁신성장지원단 신설…메가프로젝트 전담",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "뉴시스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "반도체 메가프로젝트 전담 정부조직 신설",
+     "url": "https://biz.heraldcorp.com/article/10900815",
+     "published": "2026-10-13T13:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "산업부, 반도체혁신성장지원단 신설…메가프로젝트 전담",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795162",
+     "published": "2026-10-13T04:39:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "산업부 '반도체혁신성장지원단' 출범…반도체 메가프로젝트·특별법 전담",
+     "url": "https://www.newsis.com/view/NISX20261013_0003823122",
+     "published": "2026-10-13T03:41:20+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "‘HBM 아버지’ 김정호 KAIST 교수, 대전 과학기술혁신대상 수상",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "경향신문",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "김정호 대전 과학기술혁신대상",
+     "url": "https://www.chosun.com/economy/science/2026/10/14/CKAOPYNZZNCIHBWWFVWBQF4O5A/",
+     "published": "2026-10-13T15:38:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "경향신문",
+     "title": "대전 과학기술혁신대상에 ‘HBM 아버지’ 김정호 교수",
+     "url": "https://www.khan.co.kr/article/202610132034025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-13T11:34:02+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "'HBM의 아버지' 김정호 KAIST 교수, 대전 과학기술혁신대상 수상",
+     "url": "https://www.hankyung.com/article/202610139047i",
+     "published": "2026-10-13T06:18:05+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "경향신문",
+     "title": "‘HBM 아버지’ 김정호 KAIST 교수, 대전 과학기술혁신대상 수상",
+     "url": "https://www.khan.co.kr/article/202610131302001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-13T04:02:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 61,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "SK증권, 에이피알 목표가↓…\"3분기 실적 기대치 밑돌 듯\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "global",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "“OCI홀딩스, 3분기 실적 기대 밑돌 듯”…DB증권, 목표가 30만원으로 하향",
+     "url": "https://www.mk.co.kr/news/stock/12175125",
+     "published": "2026-10-13T23:08:39+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "SK증권, 에이피알 목표가↓…\"3분기 실적 기대치 밑돌 듯\"",
+     "url": "https://www.yna.co.kr/view/AKR20261013029400008",
+     "published": "2026-10-12T23:46:20+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "미국민 10명 중 6명 \"트럼프, 불법·비윤리적으로 사익 취해\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "“대통령이 불법·비윤리적으로 사익 취했다”…국민 10명 중 6명 동의한 미국",
+     "url": "https://www.mk.co.kr/news/world/12175119",
+     "published": "2026-10-13T22:37:46+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "미국민 10명 중 6명 \"트럼프, 불법·비윤리적으로 사익 취해\"",
+     "url": "https://www.yna.co.kr/view/AKR20261014001100071",
+     "published": "2026-10-13T15:38:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "상장사, 자사주 62조 소각해 1년 새 156%↑…삼전닉스가 절반",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "상장사들 올해 자사주 62조 소각했다…전년 대비 156% 증가",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/10/14/GFRTQOLDGZQTMNBRHEYDCNZSHE/",
+     "published": "2026-10-13T22:31:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "상장사, 자사주 62조 소각해 1년 새 156%↑…삼전닉스가 절반",
+     "url": "https://www.yna.co.kr/view/AKR20261013176000003",
+     "published": "2026-10-13T21:05:02+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "미러 경유 거래 주시…국제유가, 혼조 마감",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "미러 경유 거래 주시…국제유가, 혼조 마감",
+     "url": "https://www.newsis.com/view/NISX20261014_0003824761",
+     "published": "2026-10-13T21:45:22+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "국제유가, 미러 경유 거래·중동 긴장 주시하며 혼조 마감",
+     "url": "https://www.yna.co.kr/view/AKR20261014007400072",
+     "published": "2026-10-13T20:41:20+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "백악관, '각종 비위 의혹' 그리스 대사에 \"사퇴 요구했다\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "트럼프도 등 돌린 '장남 전 연인'…백악관, 길포일 그리스 대사에 사퇴 요구",
+     "url": "https://www.fnnews.com/news/202610140014112318",
+     "published": "2026-10-13T15:17:50+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "백악관, '각종 비위 의혹' 그리스 대사에 \"사퇴 요구했다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261013194300071",
+     "published": "2026-10-13T14:32:19+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "하이닉스, 10% 폭락해 '140만 닉스' 마감…삼전도 7.4%↓(종합2보)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 4,
+   "outlets": [
+    "SBS",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "하이닉스, 10% 폭락해 '140만 닉스' 마감…삼전도 7.4%↓",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795598",
+     "published": "2026-10-13T07:06:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "하이닉스, 10% 폭락해 '140만 닉스' 마감…삼전도 7.4%↓(종합2보)",
+     "url": "https://www.yna.co.kr/view/AKR20261013042152008",
+     "published": "2026-10-13T06:59:38+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "[특징주] 하이닉스, 10%대 폭락 '140만닉스'…삼전 8%대↓(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261013042151008",
+     "published": "2026-10-13T04:57:32+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "'원화국제화' 계획에 따라 외환규제 완화…개정안 행정예고",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "SBS",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "'원화 국제화' 계획에 따라 외환규제 완화…개정안 행정예고",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795476",
+     "published": "2026-10-13T06:32:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "'원화국제화' 계획에 따라 외환규제 완화…개정안 행정예고",
+     "url": "https://www.yna.co.kr/view/AKR20261013123700002",
+     "published": "2026-10-13T06:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 20,
+   "slug": "20"
+  }
+ ],
+ "market": {
+  "fetched_at": "2026-10-14T08:12:33.158544+09:00",
+  "groups": {
+   "지수": [
+    {
+     "ticker": "^KS11",
+     "name": "코스피",
+     "value": 6384.240234375,
+     "change": -241.68994140625,
+     "pct": -3.6476379164039785,
+     "date": "2026-10-12"
+    },
+    {
+     "ticker": "^KQ11",
+     "name": "코스닥",
+     "value": 849.1900024414062,
+     "change": -43.08001708984375,
+     "pct": -4.828136791200899,
+     "date": "2026-10-12"
+    },
+    {
+     "ticker": "^GSPC",
+     "name": "S&P 500",
+     "value": 7807.240234375,
+     "change": -4.2998046875,
+     "pct": -0.05504426356388592,
+     "date": "2026-10-12"
+    },
+    {
+     "ticker": "^IXIC",
+     "name": "나스닥",
+     "value": 27204.380859375,
+     "change": -41.51953125,
+     "pct": -0.15238817823868267,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "^DJI",
+     "name": "다우",
+     "value": 51850.55078125,
+     "change": 195.6015625,
+     "pct": 0.3786695475619606,
+     "date": "2026-10-12"
+    },
+    {
+     "ticker": "^SOX",
+     "name": "필라델피아 반도체",
+     "value": 12208.794921875,
+     "change": -27.9951171875,
+     "pct": -0.22877827516966098,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "^N225",
+     "name": "닛케이 225",
+     "value": 69030.921875,
+     "change": -11.1875,
+     "pct": -0.016203879199627735,
+     "date": "2026-10-09"
+    },
+    {
+     "ticker": "000001.SS",
+     "name": "상하이종합",
+     "value": 3797.241943359375,
+     "change": -16.549072265625,
+     "pct": -0.43392708719024453,
+     "date": "2026-10-12"
+    }
+   ],
+   "환율·금리": [
+    {
+     "ticker": "KRW=X",
+     "name": "원/달러",
+     "value": 1340.6800537109375,
+     "change": 6.550048828125,
+     "pct": 0.4909603115252903,
+     "date": "2026-10-14"
+    },
+    {
+     "ticker": "JPYKRW=X",
+     "name": "원/100엔",
+     "value": 844.9999809265137,
+     "change": 3.5856246948242188,
+     "pct": 0.4261425620169623,
+     "date": "2026-10-14"
+    },
+    {
+     "ticker": "EURKRW=X",
+     "name": "원/유로",
+     "value": 1501.4000244140625,
+     "change": 13.2900390625,
+     "pct": 0.8930817744200681,
+     "date": "2026-10-14"
+    },
+    {
+     "ticker": "DX-Y.NYB",
+     "name": "달러인덱스",
+     "value": 102.58000183105469,
+     "change": 0.37000274658203125,
+     "pct": 0.36200249476201485,
+     "date": "2026-10-12"
+    },
+    {
+     "ticker": "^TNX",
+     "name": "미 국채 10년(%)",
+     "value": 5.2170000076293945,
+     "change": -0.02299976348876953,
+     "pct": -0.43892680330903655,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "^VIX",
+     "name": "VIX 변동성",
+     "value": 15.210000038146973,
+     "change": 0.36999988555908203,
+     "pct": 2.4932606587241724,
+     "date": "2026-10-12"
+    }
+   ],
+   "원자재": [
+    {
+     "ticker": "CL=F",
+     "name": "WTI 원유",
+     "value": 94.5999984741211,
+     "change": 0.8600006103515625,
+     "pct": 0.9174318646789192,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "BZ=F",
+     "name": "브렌트유",
+     "value": 106.16000366210938,
+     "change": -0.48999786376953125,
+     "pct": -0.4594447789582401,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "GC=F",
+     "name": "금",
+     "value": 4183.5,
+     "change": -7.10009765625,
+     "pct": -0.1694291388057101,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "SI=F",
+     "name": "은",
+     "value": 59.33000183105469,
+     "change": -0.8109970092773438,
+     "pct": -1.3484927502292687,
+     "date": "2026-10-13"
+    },
+    {
+     "ticker": "HG=F",
+     "name": "구리",
+     "value": 6.729000091552734,
+     "change": 0.030499935150146484,
+     "pct": 0.45532484045691657,
+     "date": "2026-10-13"
+    }
+   ]
+  },
+  "crypto": [
+   {
+    "name": "비트코인",
+    "id": "bitcoin",
+    "usd": 83209,
+    "krw": 111719886,
+    "pct": 1.5927030636513555
+   },
+   {
+    "name": "이더리움",
+    "id": "ethereum",
+    "usd": 2498.65,
+    "krw": 3354780,
+    "pct": 1.7311144403657144
+   },
+   {
+    "name": "솔라나",
+    "id": "solana",
+    "usd": 106.6,
+    "krw": 143130,
+    "pct": 0.5926650006170441
+   },
+   {
+    "name": "리플",
+    "id": "ripple",
+    "usd": 1.37,
+    "krw": 1833.52,
+    "pct": 1.6893465118250561
+   }
+  ],
+  "kimchi_premium": 1.0786927068519025,
+  "flows": null
+ },
+ "stats": {
+  "collected": 1891,
+  "outlets": 64,
+  "verified_stories": 62,
+  "dropped_by_factcheck": 0,
+  "seconds": 28
+ }
+}

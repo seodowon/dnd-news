@@ -1,5 +1,75 @@
 [
  {
+  "id": "d541e09842",
+  "time": "2026-10-13T23:10:09+00:00",
+  "title": "뉴욕 연은 총재 \"연내 추가 금리 인상 가능…내년엔 불필요\"",
+  "ko": "뉴욕 연은 총재 \"연내 추가 금리 인상 가능…내년엔 불필요\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003824795",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8993360bd5",
+  "time": "2026-10-13T23:08:39+00:00",
+  "title": "“OCI홀딩스, 3분기 실적 기대 밑돌 듯”…DB증권, 목표가 30만원으로 하향",
+  "ko": "“OCI홀딩스, 3분기 실적 기대 밑돌 듯”…DB증권, 목표가 30만원으로 하향",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12175125",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3e61cf899f",
+  "time": "2026-10-13T23:07:36+00:00",
+  "title": "삼성證 \"中 CXMT 리스크, 더 반영할 이유 없어…반도체 소부장 주목\"",
+  "ko": "삼성證 \"中 CXMT 리스크, 더 반영할 이유 없어…반도체 소부장 주목\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003824831",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "789be9d6b5",
+  "time": "2026-10-13T23:04:41+00:00",
+  "title": "[마켓뷰] 6천피 깨지나 반등하나…'급락' 코스피 향배는",
+  "ko": "[마켓뷰] 6천피 깨지나 반등하나…'급락' 코스피 향배는",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261014020200008",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3ba6460763",
+  "time": "2026-10-13T23:04:39+00:00",
+  "title": "Is it OK for jobseekers or employers to use AI?",
+  "ko": "Is it OK for jobseekers or employers to use AI?",
+  "lang": "en",
+  "outlet": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "97b5c22077",
   "time": "2026-10-13T23:01:11+00:00",
   "title": "美 금리 급등 충격 월가로 번지나…대형은행 실적 '희비 교차'",
@@ -37,6 +107,22 @@
   "url": "https://www.fnnews.com/news/202610140738379301",
   "section": "kr",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "35564e88f8",
+  "time": "2026-10-13T22:43:22+00:00",
+  "title": "How Elon Musk’s Money Is Shaping Republicans’ Midterms Strategy",
+  "ko": "How Elon Musk’s Money Is Shaping Republicans’ Midterms Strategy",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0dsdl9jYXVFUlBGS0Nod1B4RlNCcmZ4Nkdtemhvbk5CaU9IVkFQbWRTUDM5aW5vcl9EM0xhbEZhV1RSaGpVLW5QTmdUSW9pb0plMXRpYmoza3VmN0QteVJqSGtWbkNNMHZZSVYzREVOMmh6blZoSlZUMDg2WmlmNG45UDR3SU9yY3c?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -456,6 +542,22 @@
   "also": []
  },
  {
+  "id": "916c887b30",
+  "time": "2026-10-13T21:31:13+00:00",
+  "title": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
+  "ko": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSndPUFQ0bUtiVkdLSEFGRnlNLW52UTVCUVB1TWpPMUhGOW5ocG4waEhLeTc0V212cVBLMFJaalZvd2Jxc0JIbmhTNUpfVlctMjByTGhwYTgxSnRGbFY0NmhuYmZGSEZmYm9UakZMTm5MdXRWM0ExLWU4eXMwQk9vQ0hDUGJkbmk4dFNkYzJ1T3hQQmFpR2t5cnBnWHRGdWN2SWtoc0FiTU93WnpwcDJmaVhR?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "51938c5121",
   "time": "2026-10-13T21:31:12+00:00",
   "title": "정체불명 수병을 찾아라…트럼프 '항모사출기 귀띔' 미스터리",
@@ -541,6 +643,22 @@
   "lang": "en",
   "outlet": "NBC News",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHNwdi1Uc3B5X0wwUlhGNHViVXdtYk90c3dwaHJobFNETEl1TmZ1ak9QWnpkUm1xRHRfLXBrRXM3TDhCMFREdTRBRXZVZDA5UWI4US11UDRXQkRxdE1LLU9BTE1ZYjNrSU4xZWxCLUJGNl9xOW41cVQwNWJDWThCYWJoRURjOHVZT3U3OHpYV0lSMEx6c3U3MERiTHBocktiMDFwMmJ5N0JfOC1mX1daSWtJaUZJRVN0UHc?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0641e6da65",
+  "time": "2026-10-13T21:17:00+00:00",
+  "title": "New Trump rule speeds process for revoking refugee status",
+  "ko": "New Trump rule speeds process for revoking refugee status",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnRsUlJ5TjlpMFM1dzdqaVZSSHFzdHJrS1pOQ2d4ajBXakhCb2x0UXQ3elY1ODBWNVFzalVQemNvSEU1bWNKcFdMcUNjOG4xMTFZMFI5Nkw5V1BKT19wWVJqUHlyMUF3RkQwVHUxVDF4V3RYOGs2M0RaZVgxQm1VYVFZTlA4ZG1pbWJldnEwQ1U?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -845,6 +963,22 @@
   "lang": "en",
   "outlet": "The Guardian",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5bm5iUlVGQUVrZWRTcG1wQXZRMEJNUmxfeW04MmdRUEJ6RlBLd0U2UFZ6bmJnSWhGaEVwek53amVCSF9FTEVsdnBZMkNmbkZWckgwQmFBT05Ja0c2UlN5eUc3U1RkQ1luWEktLUNSeENIeEJtcVo4b1ZSdXpIR1U?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b8c3c7fb6a",
+  "time": "2026-10-13T20:48:00+00:00",
+  "title": "Trump is heading all the way to Alaska in a sign of just how close its Senate race may be",
+  "ko": "Trump is heading all the way to Alaska in a sign of just how close its Senate race may be",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -5868,141 +6002,6 @@
   "people": [
    "트럼프"
   ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "228cf5336c",
-  "time": "2026-10-12T23:02:30+00:00",
-  "title": "\"현대로템, 내년 실적 추정치 하향…목표가↓\"-한국",
-  "ko": "\"현대로템, 내년 실적 추정치 하향…목표가↓\"-한국",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101376106",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "127bffb6e1",
-  "time": "2026-10-12T23:02:24+00:00",
-  "title": "Heating oil customers face tough winter despite shake-up promise",
-  "ko": "Heating oil customers face tough winter despite shake-up promise",
-  "lang": "en",
-  "outlet": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9c871746e7",
-  "time": "2026-10-12T23:01:03+00:00",
-  "title": "부산 금융단지에 블록체인·AI 디지털금융 혁신 연구센터 개소",
-  "ko": "부산 금융단지에 블록체인·AI 디지털금융 혁신 연구센터 개소",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261013019700051",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "54aa650395",
-  "time": "2026-10-12T22:59:00+00:00",
-  "title": "'칩플레이션'에 저가 TV 수익성 비상…삼성·LG '프리미엄 승부' 세진다",
-  "ko": "'칩플레이션'에 저가 TV 수익성 비상…삼성·LG '프리미엄 승부' 세진다",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610040852028009",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7010964830",
-  "time": "2026-10-12T22:57:00+00:00",
-  "title": "[오늘의 증시]美 반도체 약세에…코스피 하락세 이어지나",
-  "ko": "[오늘의 증시]美 반도체 약세에…코스피 하락세 이어지나",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003823031",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "273afa3609",
-  "time": "2026-10-12T22:57:00+00:00",
-  "title": "A $300 Million Windfall for Trust Collecting Funds for Trump Projects",
-  "ko": "A $300 Million Windfall for Trust Collecting Funds for Trump Projects",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3A5bmdOVFRoY0JnaXR0d3FkamlzRlQwNDFzTXFzaFdnSXhjYnlacU0ySXpuWWJFUkR0emxIRGFuSXZ2SEIyM2RWTTI0VExrVUZsNzV1SElXd2ZMeGF3bng5c0dLMVVxYzBPVTFEaTBxWlVRQ0JiODJ0ZW1sVy1ZbUthbElmMTkzWEtLME94UTJwSEVXVVF3RGdSbVNwWTJxWVRfYmpxWFY0UQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6f80313391",
-  "time": "2026-10-12T22:55:31+00:00",
-  "title": "현대모비스, 그룹 피지컬 AI 신사업 A/S 부품 사업권 확보 필요",
-  "ko": "현대모비스, 그룹 피지컬 AI 신사업 A/S 부품 사업권 확보 필요",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610130659354163",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "23ddcebfa2",
-  "time": "2026-10-12T22:51:45+00:00",
-  "title": "삼성전자, 새 메모리 전략 공개…속도·확장성·영속성 초점",
-  "ko": "삼성전자, 새 메모리 전략 공개…속도·확장성·영속성 초점",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261013015800091",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "10c1f2e45c",
-  "time": "2026-10-12T22:50:59+00:00",
-  "title": "MS, 자체 AI칩 '마이아 300' 공개…\"내년 100만개 이상 배치\"",
-  "ko": "MS, 자체 AI칩 '마이아 300' 공개…\"내년 100만개 이상 배치\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610130747494144",
-  "section": "ai",
-  "people": [],
   "flash": false,
   "official": false,
   "also": [
