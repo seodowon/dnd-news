@@ -1,5 +1,491 @@
 [
  {
+  "id": "0f31ac0e52",
+  "time": "2026-10-14T12:16:24+00:00",
+  "title": "Ukraine Says Musk's SpaceX Is Restricting Its Starlink Military Use—Drone Missions Affected",
+  "ko": "Ukraine Says Musk's SpaceX Is Restricting Its Starlink Military Use—Drone Missions Affected",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLXhiejhnNnBqOEFpcGJsYXcxRy1seks5czNVZF9IWjhtZWtaczEzdUxaNl9xVjdvZ00xSlV1RGFZVGFVbXVQWEdFRV9STDJudkFUSkc4SmFRWDVpSVFvRHJYdTJtaklSNzVfQTBfWXBJLU03ZURFd0RjRkVTajNPWEZUYXQxd1REWHN0Zno3STc4aXNIRVVOQzFta0Z5RG5mdmkybWFRWnZtRGNMUUtXRkh5cng3Tm1DY1hhZ2Q5bTZ1S2hyOWwyOFJVLVFURWNyV1AzdzNYZlZWRk9U?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1192cbd2ad",
+  "time": "2026-10-14T12:10:58+00:00",
+  "title": "中 최대 무역박람회 개막…시진핑 \"다자무역체제 수호\"",
+  "ko": "中 최대 무역박람회 개막…시진핑 \"다자무역체제 수호\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261014183100083",
+  "section": "people",
+  "people": [
+   "시진핑"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "584d75c0e3",
+  "time": "2026-10-14T12:08:08+00:00",
+  "title": "[올댓차이나] 대만 증시, 주력 AI 관련주 매수로 닷새 만에 반등…0.59%↑",
+  "ko": "[올댓차이나] 대만 증시, 주력 AI 관련주 매수로 닷새 만에 반등…0.59%↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003826390",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b4b6fdb296",
+  "time": "2026-10-14T12:03:00+00:00",
+  "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+  "ko": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "bbc5fe16d1",
+  "time": "2026-10-14T11:36:00+00:00",
+  "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
+  "ko": "What analysts are watching with key semiconductor maker TSMC set to report results",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "95ca1c7fbe",
+  "time": "2026-10-14T11:18:00+00:00",
+  "title": "Here’s how much the AI boom is really contributing to inflation, according to Goldman Sachs calculations",
+  "ko": "Here’s how much the AI boom is really contributing to inflation, according to Goldman Sachs calculations",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2ca77b6bc9",
+  "time": "2026-10-14T11:15:00+00:00",
+  "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+  "ko": "Here's how analysts see U.S. inflation influencing bitcoin",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7699cce1a5",
+  "time": "2026-10-14T11:11:00+00:00",
+  "title": "Family of man killed by tiger criticise online content after Trump reposts video",
+  "ko": "Family of man killed by tiger criticise online content after Trump reposts video",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnhvdG1pT2FLLWl0X0VVSHBuZmx4R0RnQlFPN1dfYUVjR3F3V3R4UVQ2QW1wQlV6eFdveURvRmVzcExMQVNHMW82TEdianQxZGk0SXd2R2xLMzIteEpoLU5YdkRyQ3Fkd0pVeUUwWFNNaVpyUnF2RHpkTmpPSWRfQkxBQnZ1eGZPeVlFcnM2aWlEVjBSSFFlMk5XdUpnUG5Ibkc0YjhFZ3FId3J5UWNjcC1YbGUyLVd6aUE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ae903657a8",
+  "time": "2026-10-14T11:02:00+00:00",
+  "title": "Immigration, climate, guns: key Trump policies to be tested at supreme court",
+  "ko": "Immigration, climate, guns: key Trump policies to be tested at supreme court",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0VJSTdMbWYtX3JkclozUHUxT3Q3Z19PbC1UdkpMWGhVbmpQV2tLdDRrYTNXZS04WjN0WWJYYXM2SXBiVVFBZ3V2dnhMcW1Ja1ZYVnRiQk90ZlZIYWUyQ2lrejBTckRRQWF0MUwySEctdjAzMkh2RVhIWW5iOGhhRFNwVQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7bb1b8e5fc",
+  "time": "2026-10-14T11:00:01+00:00",
+  "title": "신현송 한은 총재, 중·일 중앙은행 총재와 경제동향 논의",
+  "ko": "신현송 한은 총재, 중·일 중앙은행 총재와 경제동향 논의",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261014176200002",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "6ae9404e13",
+  "time": "2026-10-14T11:00:00+00:00",
+  "title": "신현송 한은 총재, 중·일 중앙은행 총재와 경제 동향 논의",
+  "ko": "신현송 한은 총재, 중·일 중앙은행 총재와 경제 동향 논의",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003826325",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "94d1d9ad0b",
+  "time": "2026-10-14T10:55:32+00:00",
+  "title": "정의선 \"자동차 넘어 AI와 에너지 투자 확대\"… 인도에 '21兆 투자' 승부수",
+  "ko": "정의선 \"자동차 넘어 AI와 에너지 투자 확대\"… 인도에 '21兆 투자' 승부수",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610141942202119",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c62d60fa9f",
+  "time": "2026-10-14T10:51:39+00:00",
+  "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+  "ko": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b381332f08",
+  "time": "2026-10-14T10:51:01+00:00",
+  "title": "유한양행 렉라자 병용요법, 3분기 매출 3억달러 돌파",
+  "ko": "유한양행 렉라자 병용요법, 3분기 매출 3억달러 돌파",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610141949108050",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "d148ea3460",
+  "time": "2026-10-14T10:44:30+00:00",
+  "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+  "ko": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+  "lang": "en",
+  "outlet": "NPR",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2J5RktSeEFwZ3VOemNFdWNOQ2lyLVBDcEJ3el9vNzVIZU1hVjRwWHo2Uzg1RENkWjRWeTlqTy1vM21XOFdaa2x5eHBnZ3J4WkFpOUJzYjBBUk5YMTJwVXNoQl9oZ2pDd08zdzlDaUFxWDloOHl4UUctT1ZsN3ZvRmhaTEdKNmFHZjU2VEE3bE14bzRTTEVNcVhGQ2Nma1FEQmlXMUxOdEN0UHRMSW5fbDFuRU91ZlU?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c8f63acabb",
+  "time": "2026-10-14T10:38:47+00:00",
+  "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+  "ko": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "46db4b245c",
+  "time": "2026-10-14T10:30:01+00:00",
+  "title": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
+  "ko": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObllseWdwR2FMbi0zbF9QYWVuREpVSHFhR3RMakxOOHQ1blF2Z2ktaDV6c0V1RkFwNXFINm54OUpTSGFGMG5KRFpCTXpwQnFtdWliTTRTUHpfcFZTZnVhdmNVcGJVRkpnbHR2WnB4OGNNYzFreVh6c2JqMmJNOEFEU3ZyQ1lPTm9YY0k5clpKVlfSAZYBQVVfeXFMTzdJTnJZa1h1eUFMcVVrY2Jhdld4cWlEb3JHRGNHRm9HcEZBZDF0Snd2Yk1xYnVxaDJnUUpzRkpHTE80YldRVXF0LVFYOWMyM3prR1A5ZWRQaTk2VU9CdlBBbzJMZmgzdlVjWVljZmJfT2o0RFlLS1ZJNllWRWZxSUQ0VEJBV1U2RElrOEtsSTdDcFcyamxB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "19cd3c7257",
+  "time": "2026-10-14T10:19:41+00:00",
+  "title": "유한양행 '렉라자' 병용 요법 매출 첫 3억달러 돌파",
+  "ko": "유한양행 '렉라자' 병용 요법 매출 첫 3억달러 돌파",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261014175000017",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "3738e3d688",
+  "time": "2026-10-14T10:08:09+00:00",
+  "title": "Ohio's working-class voters rethink support for Trump and the Republican Party",
+  "ko": "Ohio's working-class voters rethink support for Trump and the Republican Party",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWno4ZFd2QmdMeXRMUWg2dk1IVGg1VmJ5U19nZVVaZFBueWhMT05PWFZLNnYxZktyVXB4cTlJeGxXdDBROURCazNsN2ZtcnNVcU5MbElLWUhrUklEVjJJcE4zaGFiRXhnVEV6N1ZhRUZlVGpld2pRWm8zNVlJdTJ5UmFYbkl5VXlyeGpOR1RDYXk2SnhiS05RYzJHbUlnaWxxVmU0SDdiR0NaMTFRaTZz?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "00e32abccc",
+  "time": "2026-10-14T10:04:44+00:00",
+  "title": "How Kimberly Guilfoyle Lost Trump’s Confidence and Her Job in Greece",
+  "ko": "How Kimberly Guilfoyle Lost Trump’s Confidence and Her Job in Greece",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTlXV1lYNGNvNHBxLVptTkNIelZON1J3emlOSWluRmM1aTBRYWZkU0p2NjBVUlB1aGJIYzBLQXlrMm9YMEI3RjA3WHFwcVREMGtRamdsTmRsOEIwX2NtZnFHd3I5ZUo1U3ZjbC05M25RSFMyZWxySUV6N2s3TG1Ebm83OVBnVWc0YzVxS0U3T25PbUJmQ19QNUt6dXlYcGE2MzRuMA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "17f5556fae",
+  "time": "2026-10-14T10:02:31+00:00",
+  "title": "이재명 대통령, '국민주권정부 인구전략 비전선포식' [뉴시스Pic]",
+  "ko": "이재명 대통령, '국민주권정부 인구전략 비전선포식' [뉴시스Pic]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003826318",
+  "section": "people",
+  "people": [
+   "이재명"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9d59dbf0bd",
+  "time": "2026-10-14T10:00:02+00:00",
+  "title": "General Atlantic plans IPO at up to $10bn valuation",
+  "ko": "General Atlantic plans IPO at up to $10bn valuation",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "947fff5673",
+  "time": "2026-10-14T10:00:00+00:00",
+  "title": "Trump rejects international election monitors, breaking 2-decade tradition",
+  "ko": "Trump rejects international election monitors, breaking 2-decade tradition",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDM5MFM1YnB3aW5peUNzUVo3czRmSDdyM0FSeGk1UHNDQ1IyVXp5ZS1LOVM2bVVBV3Z3TVFuMXRMcEhlYmJiSWdvVzE1ZHFwQ1hSVFhZdjhnN2ZELTFqTFljX3l3ZmJXMF9QV1c1QXBxeEV5Ty1NWjJqcUVLWkJFZDhFTXNTcG5jTEhKNno3N2J2TkNN0gGaAUFVX3lxTE9ucW9PbWRHVlRTN1ZVVmVrejZHcjhMTnpLNjNDOGRWalh1Umo5MEJyTmVBOGc4bDZXaDdxYUp5dXhPdXhCRFBoRFJUUEFYU3Y4d0NQbERzYlBHUlBnR1BBN2gwNG1KRVN6dDdZa0dWcUI2cnBQbVJCOG5CZVJGRlVrSFhFRk1WUVA1dnZ5WFhrWDU5ejR6aFJIOHc?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "45baea0185",
+  "time": "2026-10-14T10:00:00+00:00",
+  "title": "Musk steps back into politics with redefined DC role",
+  "ko": "Musk steps back into politics with redefined DC role",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWxORHhFMXNweE1aeDJQN2Rqd2hTRnlpSlpEOHU1cUpNQnpmZ2U4blhCZUw0UEpyamtiMEQ4Ry0tRDBCVlNsTVRWYTJ2NlplRmdMLWJNT280dlVfalFhU0tTeDBfc0dyTDYtMzNpUm1HVzhwbHZLSTU4N1ZKM0psXzloejB1OEkyTU5id0ZPdm96TGM?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1a8865decd",
+  "time": "2026-10-14T09:56:40+00:00",
+  "title": "체육공단, 스포츠산업 투자 매칭 상담회 개최…\"AI 유망기업 발굴\"",
+  "ko": "체육공단, 스포츠산업 투자 매칭 상담회 개최…\"AI 유망기업 발굴\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003826303",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "22ace939ab",
+  "time": "2026-10-14T09:48:07+00:00",
+  "title": "Trump-endorsed Rep. Mike Collins wins Georgia GOP runoff to take on Democratic Sen. Jon Ossoff: AP projects",
+  "ko": "Trump-endorsed Rep. Mike Collins wins Georgia GOP runoff to take on Democratic Sen. Jon Ossoff: AP projects",
+  "lang": "en",
+  "outlet": "ABC News",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWW9TNGl2ei1tS1JmazJ5eEFhV0RhQjlNb2RaNnZXYl9zMGQzbndoZWdwOXRHNGFnM2t2LUJueC1keXhTYy1xazVQLVI2SllWUDVNYTdtdUVOWVBJalVPaDBLNW9EcHlveVlvbDZ2ZE5oa19yQ3B2N1pHWjFuUTFvWmlFRndqRW0yZ3Q0dWVNemlfSVEtN3JYcU9fdktoWV9FZDFSNmowT29HZmNlTlHSAbMBQVVfeXFMTWdtN1R6ZW1qemxnck1famJyT0F4eXQtRW1xVUtTakt6ckNzRVhabkRxWHlrU0ZoS05oVEQyT3BEck1Ic1ZqNTd3bmUyemVkY3ktZHlka1lBYkNBdEY0OFBCYTlxZjV6dXJteHc0YXhQejhNYzhLTGtlZU5ZcnZUM2dmRnRsNFNKbVczbHBCcl81NUJUY1hLNkpHNTV6R0RkdHM5dWZ2ZjBtWGN2cTFTLXV0Ujg?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8879cd8ccd",
+  "time": "2026-10-14T09:46:46+00:00",
+  "title": "인도 9월 도매물가 지수 11.39%↑…\"에너지발 인플레 확대\"",
+  "ko": "인도 9월 도매물가 지수 11.39%↑…\"에너지발 인플레 확대\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261014_0003826306",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d500000d9d",
+  "time": "2026-10-14T09:45:53+00:00",
+  "title": "Live updates: Bitcoin treading water near $83,000 ahead of U.S. inflation data",
+  "ko": "Live updates: Bitcoin treading water near $83,000 ahead of U.S. inflation data",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "86a9bd46fc",
+  "time": "2026-10-14T09:44:42+00:00",
+  "title": "Why Trump is going to Republican-leaning states for midterm election rallies",
+  "ko": "Why Trump is going to Republican-leaning states for midterm election rallies",
+  "lang": "en",
+  "outlet": "ABC News",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZm5UNi16TTFDeU82a3M3OXhkNlJZbjhMTUIyRG54dkNZUVBhZXZYdUdqZ3Bua05QcnJDOUFKX0lxRnhCV01wallrZXZpVTlzVmVrUFVJMVBWNHF5WVVsQnlyQVFXcmxNWnV5U3lRUUV5TjVaVG96N2hxZ010dUlDLWs4ZDF6ZG1zOWNrRHN4Skh0bzJCZ3AyTnpTZEhualoyZTNqNkFHc9IBrAFBVV95cUxPcHRlSHN4LXhnay05VFY0MURMMFdoRy1MOHQ1NkUteE1sV2dwN3pvTGVvWWo5TnFGa3lOREQxNGQ1ZkVvcUM3eDFoeExja0R5SV91NTk0anFseWNuaF9zRFdDZ2JDbnhxcE9KcHhLZXdCQjQ1WHNFZHp4d0VXMUlsQ2RrY2g5ZGxxVmZVaGNBdXFMMWhIUEVFeUpzZ21HZ3FQQUtmRjY5Vk5CLThB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "85343e9294",
+  "time": "2026-10-14T09:37:31+00:00",
+  "title": "부산 제조업 경기전망 '개선'에도… 목표실적은 '먹구름'",
+  "ko": "부산 제조업 경기전망 '개선'에도… 목표실적은 '먹구름'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610141837280472",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8953f41ba5",
+  "time": "2026-10-14T09:36:49+00:00",
+  "title": "Poland's Sikorski asks 'big man' Musk if he is playing politics with Starlink in Ukraine",
+  "ko": "Poland's Sikorski asks 'big man' Musk if he is playing politics with Starlink in Ukraine",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkplYy1WbldnaVhQUHM3enhiYTNydWFFNnB3T2RfaXZqS01Za3ZOWmRfRjBZdl9ITUhHMEVLWGZCNVFGNWVBRm0zdGZIRy0yR3lJN2ctdUdKbDB3VnJIYm1nNmZNcHN1UlZFN2FOSnRMYTliY1o1LWxqSlVyaUtveE5XX3BIcm50OU1sZWRxTzV2X3R3MDR2TjIyV3RLampGS19nWVdkeHZUVVM0b1FUXzdGU2dTYWt4Rk5wLWRVaFU0M0hZb19PMDkzWHk2dw?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7917cb1e48",
+  "time": "2026-10-14T09:33:47+00:00",
+  "title": "LG CNS, 앤트로픽 클로드 '프리퍼드' 파트너...국내사 처음",
+  "ko": "LG CNS, 앤트로픽 클로드 '프리퍼드' 파트너...국내사 처음",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610141824417018",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "e28ba1d6dc",
   "time": "2026-10-14T06:47:42+00:00",
   "title": "美 법원 \"CNN 등 백악관 출입 허용\"…트럼프 언론 통제 제동",
@@ -744,7 +1230,9 @@
   "people": [],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "뉴시스"
+  ]
  },
  {
   "id": "5875f98919",
@@ -5452,470 +5940,6 @@
   "people": [
    "트럼프"
   ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3eeda923bc",
-  "time": "2026-10-13T09:17:50+00:00",
-  "title": "임광현 \"가상자산 과세 고시 내달 발표 준비\"… '하명 세무조사'엔 반박 [李정부 2년차 국정감사]",
-  "ko": "임광현 \"가상자산 과세 고시 내달 발표 준비\"… '하명 세무조사'엔 반박 [李정부 2년차 국정감사]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131817005424",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "53fdb0a162",
-  "time": "2026-10-13T09:16:46+00:00",
-  "title": "인도 9월 소비자물가 5.54%·0.71%P↑…\"식품값 급등에 추가 금리인상 전망\"",
-  "ko": "인도 9월 소비자물가 5.54%·0.71%P↑…\"식품값 급등에 추가 금리인상 전망\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003824568",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4c51b8f4d7",
-  "time": "2026-10-13T09:15:43+00:00",
-  "title": "진코스텍·멜콘, 코스닥 신규상장…오는 15일 거래 개시",
-  "ko": "진코스텍·멜콘, 코스닥 신규상장…오는 15일 거래 개시",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261013178400008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9cc8817438",
-  "time": "2026-10-13T09:15:00+00:00",
-  "title": "AI godfather Geoffrey Hinton: ‘We’re creating alien beings. I’m willing to be selfish and choose humans’",
-  "ko": "AI godfather Geoffrey Hinton: ‘We’re creating alien beings. I’m willing to be selfish and choose humans’",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWJFMG9YRXR3ZzI0dy16OURHM2VLaGRlQ29fcnZCeFlneDdaS3Q1dEJKMXBCcl9ycndsRjFFSDlzb2ZRcFlkVzdkVVpMdkhIbGxEVkVXZjVuZFBWN2dZUzJCZTczV0pOR0lwVUVqOERHRmZJa0JHUmxZN1d4TURodFJsMA?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fcb7fcfb0c",
-  "time": "2026-10-13T09:12:42+00:00",
-  "title": "내달 아시아 순방하는 트럼프 \"김정은과 만날 수도\"",
-  "ko": "내달 아시아 순방하는 트럼프 \"김정은과 만날 수도\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131811558997",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "52d8534ddd",
-  "time": "2026-10-13T09:12:38+00:00",
-  "title": "노벨상이 조명한 '기대관리'… 금리예고 줄인 연준 '시험대'",
-  "ko": "노벨상이 조명한 '기대관리'… 금리예고 줄인 연준 '시험대'",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131811526440",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "469b36b060",
-  "time": "2026-10-13T09:03:47+00:00",
-  "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-  "ko": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTllVMGx6VXJVdm1WZGxRR0k1S09UUEhIYW9TbU1FTjZzak5FUkV4eHlTUVZpM213N3ZIRU54QjJnU1N2bndXeENRTXU1YWlYUWRlUVBEcldTTTRYSHJNZTBHRXFlUFdoMC1odVk5bGdMeE1KY2dhSlZDbTMzQXZwTzlBQlc4WTByRG5vemV1bw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b7b45d0c65",
-  "time": "2026-10-13T09:03:43+00:00",
-  "title": "국민연금, AI로 통화정책 분석 ‘8시간→10분’ 단축",
-  "ko": "국민연금, AI로 통화정책 분석 ‘8시간→10분’ 단축",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131802582410",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2f8f2f43a1",
-  "time": "2026-10-13T09:02:58+00:00",
-  "title": "삼성전자, 반도체 협력사에 커피차 쐈다",
-  "ko": "삼성전자, 반도체 협력사에 커피차 쐈다",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131802115301",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b526bdeba8",
-  "time": "2026-10-13T09:02:51+00:00",
-  "title": "조지태 LG이노텍 전무, AI 생산혁신 공로 '은탑산업훈장'",
-  "ko": "조지태 LG이노텍 전무, AI 생산혁신 공로 '은탑산업훈장'",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131802041714",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a61935fbfb",
-  "time": "2026-10-13T09:02:07+00:00",
-  "title": "임광현 \"가상자산 과세 차질 없이 준비…정치적 중립에 최선\"(종합2보)",
-  "ko": "임광현 \"가상자산 과세 차질 없이 준비…정치적 중립에 최선\"(종합2보)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003824513",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "459ccde5b1",
-  "time": "2026-10-13T09:00:11+00:00",
-  "title": "메모리 주춤한 사이…美증시 달구는 非반도체주",
-  "ko": "메모리 주춤한 사이…美증시 달구는 非반도체주",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101394621",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7e771d4b96",
-  "time": "2026-10-13T08:59:44+00:00",
-  "title": "\"반도체 연계 교통망 확충을\" 용인시, 국토부·금융위에 건의",
-  "ko": "\"반도체 연계 교통망 확충을\" 용인시, 국토부·금융위에 건의",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003824532",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e553c8533d",
-  "time": "2026-10-13T08:58:49+00:00",
-  "title": "블랙록, 6년 만에 美국채 '비중확대'",
-  "ko": "블랙록, 6년 만에 美국채 '비중확대'",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101394521",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8662db418c",
-  "time": "2026-10-13T08:57:14+00:00",
-  "title": "AI에 밀린 게티이미지, 파산보호 신청",
-  "ko": "AI에 밀린 게티이미지, 파산보호 신청",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101394581",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "af40f76f87",
-  "time": "2026-10-13T08:56:47+00:00",
-  "title": "보안기업 13억弗 인수에 아이온큐 주가 '와르르'",
-  "ko": "보안기업 13억弗 인수에 아이온큐 주가 '와르르'",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101394631",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9f04514f90",
-  "time": "2026-10-13T08:56:41+00:00",
-  "title": "수자원공사 'AI 정수장' 기술, ISO 국제표준안 투표 통과",
-  "ko": "수자원공사 'AI 정수장' 기술, ISO 국제표준안 투표 통과",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261013174900063",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "ede76db4fa",
-  "time": "2026-10-13T08:53:09+00:00",
-  "title": "홍라희 관장, 이재용 회장에 2.6조 규모 삼성전자 지분 증여",
-  "ko": "홍라희 관장, 이재용 회장에 2.6조 규모 삼성전자 지분 증여",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101396626",
-  "section": "ai",
-  "people": [
-   "이재용"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e7a3bd23d1",
-  "time": "2026-10-13T08:53:04+00:00",
-  "title": "티빙 대표 \"AI 기반 해킹 추정\"…개인정보위 \"연내 처분 마무리\"",
-  "ko": "티빙 대표 \"AI 기반 해킹 추정\"…개인정보위 \"연내 처분 마무리\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261013173300530",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "826d67a8d0",
-  "time": "2026-10-13T08:51:59+00:00",
-  "title": "[뉴스&분석] 中 반도체 공습에 … 6천피 턱걸이",
-  "ko": "[뉴스&분석] 中 반도체 공습에 … 6천피 턱걸이",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12174799",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5edaa86be7",
-  "time": "2026-10-13T08:51:53+00:00",
-  "title": "Trump administration begins mailing out $500 ACA refund checks. Here's what to know",
-  "ko": "Trump administration begins mailing out $500 ACA refund checks. Here's what to know",
-  "lang": "en",
-  "outlet": "ABC News",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0IwMm5kT1pySXR5LWRKSGRHRGhxenNyX0NKR0ROeURQQ20zQmhYckxQN2ZjcjVfVURGdGRnZWJtMFIwdmVmTE5FUlJFLThsQnFfTUFoZkw0N2g0OUFKZUFCYmt2RFlPNkxrT3V3aC0yMXZSV1M4aUhmbUFhSDlGS1VUdVNGNzJNTElQSTE1SDIxV0RwSm4wcjdMRnpQR29hbkVzUWN30gGrAUFVX3lxTFBSX2xEUXptOTBuZ3dKNTJicHpuS2FVNVVCMWdkZ3E2ckVGVlFwbi1rcWxQWktKdmN3c3EwTU9MdXZsSHRrMmlDdXZKcmJHRmV0RXQ4NjRFT0N1cFFEWTZIbk0wZVltZU1ZV3ZGZ1NCbkYzaU9GMjlVSmxZQXRFbjdBMG9lamw0R0hBbEpBUlVSMG5pZDQwSkUyR0dpcGMzZU5RR1RScHdVWVRnbw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7d99f20fa5",
-  "time": "2026-10-13T08:51:48+00:00",
-  "title": "FIFA, 트럼프타워 사무실 7년 넘게 빌려…400만달러 계약·대부분 비어(종합)",
-  "ko": "FIFA, 트럼프타워 사무실 7년 넘게 빌려…400만달러 계약·대부분 비어(종합)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003824527",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2afacaa162",
-  "time": "2026-10-13T04:01:53+00:00",
-  "title": "\"앤트로픽-NTT, 오사카에 日 최대 데이터센터 건립 조율\"",
-  "ko": "\"앤트로픽-NTT, 오사카에 日 최대 데이터센터 건립 조율\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261013100500073",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "45c9ccd17c",
-  "time": "2026-10-13T04:00:50+00:00",
-  "title": "AI투자금 회수 우려에 日증시 급락..닛케이지수 2.52%↓",
-  "ko": "AI투자금 회수 우려에 日증시 급락..닛케이지수 2.52%↓",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131247214069",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b5ceea838b",
-  "time": "2026-10-13T03:59:02+00:00",
-  "title": "산업부, '반도체혁신성장지원단' 신설…인도통상협력과도 설치",
-  "ko": "산업부, '반도체혁신성장지원단' 신설…인도통상협력과도 설치",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131014583100",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "80d3fd1dd1",
-  "time": "2026-10-13T03:53:00+00:00",
-  "title": "Trump says he does not believe China and Russia are helping Iran 'at all'",
-  "ko": "Trump says he does not believe China and Russia are helping Iran 'at all'",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c5c95af7e0",
-  "time": "2026-10-13T03:49:09+00:00",
-  "title": "경기도, 판교 국방 AI 거점 지원…민간 기술과 군 수요 잇는다",
-  "ko": "경기도, 판교 국방 AI 거점 지원…민간 기술과 군 수요 잇는다",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131241042375",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bae296a92a",
-  "time": "2026-10-13T03:41:20+00:00",
-  "title": "산업부 '반도체혁신성장지원단' 출범…반도체 메가프로젝트·특별법 전담",
-  "ko": "산업부 '반도체혁신성장지원단' 출범…반도체 메가프로젝트·특별법 전담",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003823122",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7b32fdf42d",
-  "time": "2026-10-13T03:40:21+00:00",
-  "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
-  "ko": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "af3f935caf",
-  "time": "2026-10-13T03:39:47+00:00",
-  "title": "크래프톤, AI 인재 100명 이상 뽑는다…역대 최대 신입 공채",
-  "ko": "크래프톤, AI 인재 100명 이상 뽑는다…역대 최대 신입 공채",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261013_0003823798",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0ece81192e",
-  "time": "2026-10-13T03:34:53+00:00",
-  "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-  "ko": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-  "lang": "en",
-  "outlet": "Al Jazeera",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMU5hQ2Z1WXdJZF93U24zN1FqbVlYNFN4bWFRNmVRS2d4eTVyQU1xTXRFNVJRdWN4TnhGRUVfcDdidEJ3dUFyaXhFY01ZbHJHZFJSSTFWb2dJOFJzcXoyZHNVRm5KQzI4TXRUb2NfSzBkazVlVE9tLUtjY0ZPa0ExMUNVZ3BKdldiN0FoSE9feDZBWndDODBiYUJYcE1UTEx5RXpjd2d2ekxrNjJYbFVyWmN2Qjg3anBibG82U9IBwgFBVV95cUxNdzQ0NGxoUW5xZU1HRHJESXhwZ1ZXMmFhbG1WVzVMczRpR3h1V3dfdTRNQVNRLWNNQUs0VzIzLVZReHpOSzA5STFwbjNUeVZaTTBYOGt6ZVEzblBZYjV3cGsyMmhUSlFHZlVGMTBHRnVEbU12Y0tUUnV6STlOblhVZjM5aE1iQ0tRSktxd1lSSzA2dlJxTFN2ZENuWmQzMnBhQzlEVnoxTjNEQTI5REExR2NOTkJNNjM0RE5rX1BFaWlUdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ba0334129f",
-  "time": "2026-10-13T03:28:22+00:00",
-  "title": "인천시, 내년 하반기 시민 탑승 가능한 AI 기반 자율주행 버스 운행…청라·영종·송도서",
-  "ko": "인천시, 내년 하반기 시민 탑승 가능한 AI 기반 자율주행 버스 운행…청라·영종·송도서",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610131203291281",
-  "section": "ai",
-  "people": [],
   "flash": false,
   "official": false,
   "also": []
