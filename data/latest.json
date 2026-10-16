@@ -1,10 +1,10 @@
 {
- "date": "2026-10-16",
- "generated_at": "2026-10-16T06:59:19.758868+09:00",
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T06:56:58.182583+09:00",
  "mode": "draft",
  "articles": [
   {
-   "headline": "'검은 목요일'…코스피·코스닥, 7%대 급락 마감",
+   "headline": "[속보] 코스닥 장중 4.9% 급등에 '매수 사이드카' 발동",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -12,13 +12,14 @@
    "section": "kr",
    "importance": 10,
    "outlets": [
-    "KBS",
     "MBC",
     "SBS",
     "YTN",
+    "뉴시스",
     "매일경제",
-    "서울신문",
+    "아시아경제",
     "연합뉴스",
+    "전자신문",
     "중앙일보",
     "한겨레",
     "한국경제"
@@ -29,44 +30,44 @@
     {
      "n": 1,
      "outlet": "한겨레",
-     "title": "‘검은 목요일’ 맞은 증시...코스피·코스닥, 7%대 동반 폭락",
-     "url": "https://www.hani.co.kr/arti/economy/economy_general/1282560.html",
-     "published": "2026-10-15T21:58:57.418910+00:00"
+     "title": "‘널뛰기’ 코스닥 5% 급등…어제는 매도, 오늘은 매수 사이드카",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1282736.html",
+     "published": "2026-10-16T21:56:55.057142+00:00"
     },
     {
      "n": 2,
-     "outlet": "MBC",
-     "title": "코스피·코스닥 7%대 동반 폭락‥AI 수익성 우려",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUGczZHpvZ2NSVThTbWtuTzh5bmtsY25oWmIybzRqcVBYTXpnYW1YcVpUT1RyUkJWeFl4MjJMdU9qSXIzUnBvbHlkQ3hKcUZYVHdaT2FEeDAxQVpjRXNWU1YzM3liLTdBZ2Nia2hZY0ZMX1RwZ0R5T0R30gF6QVVfeXFMTWdKS3ZyQ21DdE5KUXVFMWNsbFdPQzJGV29jRTlWS3VqdTF0YkZLMmc0WEVraC1yOUJsS3hTSlgzQmE0QXJzVmx6R08tNU1TRzJ6R0g4Nk5wWksya1YxcTR1SGhtUXc5bVdUMHlSYS0xN1NramxldXFBa0E?oc=5",
-     "published": "2026-10-15T21:09:31+00:00"
+     "outlet": "전자신문",
+     "title": "어제는 서킷브레이커, 오늘은 폭등장…코스닥 매수 사이드카 발동",
+     "url": "https://www.etnews.com/20261016000234",
+     "published": "2026-10-16T05:46:32+00:00"
     },
     {
      "n": 3,
-     "outlet": "MBC",
-     "title": "검은 목요일‥코스피·코스닥 7%대 동반 폭락",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uM2lrMnZMMHZxbGZUZktFd25qeDhvY0Y1Z0VFdVVvazl4cDk3Q29oM1pZS2htOEU5WmcyVkJ3azI2eWJoZklidU9rRmtidGt4TkpYbjZ4d2VBUEJFNXNmYkxVR0VVckdLa19OUk9BYnRoWW5FWVAyMdIBeEFVX3lxTE1uM2lrMnZMMHZxbGZUZktFd25qeDhvY0Y1Z0VFdVVvazl4cDk3Q29oM1pZS2htOEU5WmcyVkJ3azI2eWJoZklidU9rRmtidGt4TkpYbjZ4d2VBUEJFNXNmYkxVR0VVckdLa19OUk9BYnRoWW5FWVAyMQ?oc=5",
-     "published": "2026-10-15T15:02:08+00:00"
+     "outlet": "SBS",
+     "title": "코스닥, 장중 5% 급등세에 '매수 사이드카'",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800981",
+     "published": "2026-10-16T04:52:00+00:00"
     },
     {
      "n": 4,
      "outlet": "연합뉴스",
-     "title": "’검은 목요일’ 코스피·코스닥 7%대 동반 폭락…’AI 수익성’ 의문",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SjJ6dm1rLXBhRmJsSEEwN1ZHbEtTM19xR1lWaTdsYjZQbmlWOGY2cFhaX0toMlRiVXdQT041blJ5N0FZOVRZYTdGOFdNaVlRZVBYMm5BOGZQZHFOS2VUdTZVSlc3TGM?oc=5",
-     "published": "2026-10-15T11:47:00+00:00"
+     "title": "코스닥, 장중 5%대 급반등…워시 발언에 매수 사이드카·800선 탈환",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TR0dNcmJCd0x1dzYwQmtpNFFvYnRaQm9NeDNkYXlRRV84Wm1qQTN1a0hjMHk0ZG9QWHozS2w5NDJ5X1N4OVpVQUVnV1lYcmZvc2tNcWJkandpckNLUlZYY1k2cWF5YTY2OWxtX1dreWQ?oc=5",
+     "published": "2026-10-16T04:50:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "YTN",
-     "title": "'검은 목요일'...코스피·코스닥, 동반 서킷브레이커",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SSzl0a2pSR2FubDE5b0dEdzZxZVRBOGZSZkU3ZGV1QlRMNVh3Ni1jSWhmeHhJWmZadFhsczB3d1RjdXZ6Xy1wQmM2RVo3WUZsOTlhQWZUWm43LWtueHc?oc=5",
-     "published": "2026-10-15T10:52:00+00:00"
+     "outlet": "매일경제",
+     "title": "[속보] 코스닥 급등에 ‘매수 사이드카’ 발동",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHNDJRTzkyb3JicmpBQUczUXgycjR6NUNIYnBfZGwtQTBPZDllWk92QU9rOG1pRUR4alFqZF80RFFfaEVXQWpIM1R6aWk5VS1aYmljRQ?oc=5",
+     "published": "2026-10-16T04:15:11+00:00"
     },
     {
      "n": 6,
-     "outlet": "MBC",
-     "title": "'검은 목요일'‥고금리발 AI 수익성 우려에 코스피·코스닥 7%대 폭락",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01TjNtV3FfV2puYWFoNnp3Y095ZGFXRWI1a0RRYWtyQjRJaGd3azh2emN4RlRTU2RaaEhFM2U0eS1UNzlBc1VfRGwxcGhIbmJpMHMySWFyRU1XWEJRb0h2bVdkOUU0eTc5TUoxaXdJTWV6QXJOVHNKedIBeEFVX3lxTFBwb3JjQjVtOXZ4ZFVGVldvbnlSdlQ1djlJTG84RkFTVHdEdlpwWFNYaUY3ejVBbU40cVZzc2FyVVZuNDJCZXZXM1ZzY0VidDhnMHBNQzBUb1dyWGxiZVp5ZlBlaDB5RUhha0pTTVc5bmJQNVpzT25UMA?oc=5",
-     "published": "2026-10-15T10:46:04+00:00"
+     "outlet": "연합뉴스",
+     "title": "코스닥, 장중 5% 급등세에 '매수 사이드카'",
+     "url": "https://www.yna.co.kr/view/AKR20261016086100008",
+     "published": "2026-10-16T04:10:37+00:00"
     }
    ],
    "factcheck": null,
@@ -75,24 +76,22 @@
    "slug": "01"
   },
   {
-   "headline": "한일 재무장관, 100억달러 규모 통화스와프 3년 연장 합의",
+   "headline": "코스피, 2.05% 오른 5,668.05 마감…코스닥도 4%대 상승",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
+   "section": "kr",
    "importance": 10,
    "outlets": [
     "SBS",
-    "경향신문",
-    "뉴시스",
-    "매일경제",
+    "뉴스1",
+    "뉴스핌",
     "서울경제",
     "연합뉴스",
     "조선일보",
     "한겨레",
-    "한국경제",
-    "헤럴드경제"
+    "한국경제"
    ],
    "official": false,
    "draft": true,
@@ -100,44 +99,44 @@
     {
      "n": 1,
      "outlet": "한겨레",
-     "title": "한-일, 100억달러 통화 스와프 3년 연장 합의…“공조 상징”",
-     "url": "https://www.hani.co.kr/arti/economy/economy_general/1282585.html",
-     "published": "2026-10-15T21:58:57.418783+00:00"
+     "title": "2.05% 반등한 코스피, 5660선 마감…7거래일 연속 하락 ‘브레이크’",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1282768.html",
+     "published": "2026-10-16T21:56:55.057054+00:00"
     },
     {
      "n": 2,
-     "outlet": "헤럴드경제",
-     "title": "한·일, ‘달러베이스’ 100억달러 통화스와프 3년 연장 합의",
-     "url": "https://biz.heraldcorp.com/article/10904111",
-     "published": "2026-10-15T17:00:00+00:00"
+     "outlet": "뉴스핌",
+     "title": "[마감시황] 코스피, 8거래일 만에 반등해 5660선 회복…코스닥 4%대 ↑",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CTWJqV0xpM3V4Ym5fTEJIdXB3emFVb3N0ZDFWQk1sUGJMeVZuR2FJVmxoRkk0d1JtbC1MUjRMUHZ5YVhxbnJLVFBQTjVLU1hpTXZ1dzZFeEE1VkhY?oc=5",
+     "published": "2026-10-16T07:24:00+00:00"
     },
     {
      "n": 3,
      "outlet": "한국경제",
-     "title": "한·일 100억달러 규모…통화스와프 3년 연장",
-     "url": "https://www.hankyung.com/article/2026101547901",
-     "published": "2026-10-15T08:59:35+00:00"
+     "title": "외국인 8거래일 만에 '사자'…코스피, 2% 상승해 5600선 마감",
+     "url": "https://www.hankyung.com/article/2026101668146",
+     "published": "2026-10-16T07:14:25+00:00"
     },
     {
      "n": 4,
      "outlet": "SBS",
-     "title": "한일 재무장관, 100억 달러 규모 통화스와프 3년 연장 합의",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799842",
-     "published": "2026-10-15T08:49:00+00:00"
+     "title": "코스피, 2% 상승 5천600선 회복…8거래일 만 반등",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801315",
+     "published": "2026-10-16T06:54:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "경향신문",
-     "title": "한·일 양국, 100억달러 규모 통화스와프 ‘3년 연장’ 합의",
-     "url": "https://www.khan.co.kr/article/202610151746001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-     "published": "2026-10-15T08:46:00+00:00"
+     "outlet": "서울경제",
+     "title": "코스피, 2.05% 오른 5668.05 마감",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbXBZdnNFWFR1YUdSUlItNHB5NXBQYms2MU11WFZtbEZUNmI3TDJEMExQckVyNUNwWTYza1BjTXg2N2hicjlsQURWOGFTMmZEVzdfclpWUkppdUFzdkxJVEpoY1E?oc=5",
+     "published": "2026-10-16T06:43:06+00:00"
     },
     {
      "n": 6,
-     "outlet": "조선일보",
-     "title": "한일 재무장관, 100억달러 규모 통화스와프 3년 연장...“한일 금융협력”",
-     "url": "https://www.chosun.com/economy/economy_general/2026/10/15/B72RAO4N4FE77K7TKOIDQCJCQI/",
-     "published": "2026-10-15T08:11:01+00:00"
+     "outlet": "연합뉴스",
+     "title": "코스피, 2.05% 오른 5,668.05 마감…코스닥도 4%대 상승",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tUlc2aWs5V1ZUOVlzVENiUnFVYnBRd1Y1cVF4eXJrNDNzdEsySE9NM0xURlB5TlN6aHU0RlZKN1JwdU1BUkdlTW45MXo0N0NOZ0Z5dnhQd29QTmh3ZEhjNFFkYUR4aVk?oc=5",
+     "published": "2026-10-16T06:37:00+00:00"
     }
    ],
    "factcheck": null,
@@ -146,7 +145,7 @@
    "slug": "02"
   },
   {
-   "headline": "Trump Cancels Plans to Livestream Execution of Fort Hood Shooter",
+   "headline": "Katie Zacharia out as White House press secretary",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -156,14 +155,14 @@
    "outlets": [
     "ABC News",
     "AP",
-    "Al Jazeera",
     "Axios",
-    "BBC",
     "CBS News",
     "CNBC",
+    "CNN",
+    "Financial Times",
     "NBC News",
+    "NPR",
     "New York Times",
-    "Politico",
     "Reuters",
     "The Guardian",
     "The Hill",
@@ -175,45 +174,45 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "Washington Post",
-     "title": "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0ZORHZZWGZOckxJMEEycklIZk1vaUgxNmNsUGZ5dVlIMXV3R1RGU3dWVnk3U3RIR0FDMU9OdmE3VWUwbGs5Ny0yZE5CWENHNUdHQlNXeGV3V2tPbDl2Q2E3Qi1hVE9yWjhMT0ZpdUc4dFY4anBDeDZqdVZMSzdFSjhVX0lIN1JLRE5GY1RWQjhfYnNxajNVbnVNVnhsV282M0dyZ19NYmpDT0d2OTllS0ZZNWlzWTc2Y2MzQTVUbjBLQUdYaC1rbQ?oc=5",
-     "published": "2026-10-15T21:36:00+00:00"
+     "outlet": "Reuters",
+     "title": "White House press secretary Zacharia fired in less than a week after facing criticism",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5",
+     "published": "2026-10-16T21:29:30+00:00"
     },
     {
      "n": 2,
-     "outlet": "New York Times",
-     "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVZfSTFISmNGd1BOekRNVml2TEtPZFhLYXRnM25nbnV6Z3VDN00xUXVpWmpILXA2ajQweE1sYlJjMVFkRllJZGR6T2RQajJwc3F2U3oyMFduUVpTc2tqaE5QLTZhYlRxZlFqT2NQRmVfSVpuVmFtV0RLdWRCM1c5NEswNGlnYmFCMXcxLWRn?oc=5",
-     "published": "2026-10-15T20:38:39+00:00"
+     "outlet": "Washington Post",
+     "title": "Katie Zacharia out as White House press secretary",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3RMay1TVUY1VkpZVkRVNDVkb0VXSzJ1Uld6MmVJNlREYTBSZ25pdXpFUDVibkVQa2U4b1Q4bjBFMC04WUlaLTdSRll5ejNMQ1RuWk56cmROLUFrTnU0SFRjWWhwWE4xcHBoTGdydVRGa0k0WmxvbzJsbGpBLU84SDd5UmZtMlV4M1A4UGFYSmVXOXhrNWFTNV9hR01DaWVxZ1J4UVBjLVAwTGo0NlJmcmdfZE1zU19scWNwWQ?oc=5",
+     "published": "2026-10-16T20:49:48+00:00"
     },
     {
      "n": 3,
-     "outlet": "Axios",
-     "title": "Trump says Fort Hood shooter's execution will not be livestreamed",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlJ5Qmd1QjhDREJTMjNfaGRMdjRWRlZUMXkwS0xldkJFeXB5YWZ4ZklnRVlxSTdtRWVuZE9kaWpDaUliTlY2cmdndFZMYTNJQkZfZ2pnNnF6RjUzZnFhVGRMRUVvSHg3M1BZaE9ZNml3SWczWUFUdVhVQmhNckhkUnRuNA?oc=5",
-     "published": "2026-10-15T20:24:47+00:00"
+     "outlet": "The Guardian",
+     "title": "Who could replace Katie Zacharia as White House press secretary?",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0p4cUVITUZJVkR1VFRXTkpybVpkRWlRTFNUWG5OY1V3WlJpSmpWaG1ZcG0xem1hdk93LUdSaGM5b3dtNEhMX1NVRHQ3TnYxOGxuVDRveElkalVjWUR5dEtidkRNTTRYU1RVTDVPVVYxOU9PSmFIMmpZOUhJR1BSVlB4SmE0d0NKSy1kZG1CLV9xdl9iMkFIUTFncWZUcktBVXVfbw?oc=5",
+     "published": "2026-10-16T20:41:00+00:00"
     },
     {
      "n": 4,
-     "outlet": "AP",
-     "title": "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzNuVjFfdUxtUEJVU1J2MVVFNmRGTDBCM0E5a2ZwWk03bVNSMndsSHFySWtKUkdDdWtNdlRKQ1lWYW1sVlNQTzBwd043dDVlTEJUQ3dHT3pUVVVFVC1Mc0wwLWFjeHM1U24wXzZzYWR0WEY3ZThpOWRvOU1ENElFakNMZ2lmRy1obVpLYkN3?oc=5",
-     "published": "2026-10-15T20:11:00+00:00"
+     "outlet": "ABC News",
+     "title": "Katie Zacharia 'transitioning out' of press secretary role, sources tell ABC News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2JSVWxjc1lFWmlrVGZlTHFySWxBd091ZUZPUHZFYjZyVkJLdnJIMTFvZGljbTdKY0M1X0ZhdFRITFhJdzNQMEdDM1Rsd2ZicTNPV0tvbkU0U0cyY0czdk9TYWNMSURqM0hDWWl3WXg5ZDdCQVAzTTlxM1FJZkFMNEgwRzR1QXY4MEVkWVgtWDlFY1FLNEt2ZjVTZ1FNLXJWU19lTWRRM1JWbHlWTzIw0gG0AUFVX3lxTE1KeURjdHNCYlFFaGQyNzZudk5IV1AzZ0dHLXVHNUJvWnZfQVhhMExNeVRIQ0xfaHNSTF9ySVNvLTV0T3BHbFBTU21ydEM1RXJkdnNEOXlZWGZ1N29aM1ltWEJpSEFFeXhaT1B3eTh2Tnd1dnZyMjQ4WVF1ZlQwMy1FX3lnbHNJajZFbGxEVnV6VGEtV0tXd3lDNS1fT3R2bjZtUmd2VmJYaWZqdHJqVnY2SjNFQw?oc=5",
+     "published": "2026-10-16T20:40:29+00:00"
     },
     {
      "n": 5,
-     "outlet": "The Hill",
-     "title": "Pentagon spokesperson: Hegseth ‘completely aligned’ with Trump nixing execution livestream",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzFZQ05uNVNseEZ0ZE9WQm5VNzViZ004QWstd0dMZHY0UjdoZ2Y5MDlvNDVSc19jdWRJYWhXVnNHME9JWWNmcWttSjgtcTNkajNKbUNYazNXaTFiaWM1aUdaVlR0TnBEcVRuS3c4ZmVCZDJHSEY2UjNZckVIMWphR2J4S1RGR0Q2cVBUMXdVcTdoWW1naGRQNkotbC1VUdIBowFBVV95cUxQVUFlODJTZTlzMHNnUmNsRHk4QjI4amtQbFFGLXNlMk5pLUM0cjFpSzJaZ2FwandmYTFaSW14OEhzQWRWbHZzLUpUS19uNThocHlGNVNMY0VndUJVeWc4OGJWTWFkencwZEM3blg0ZDN2T3RmSFQ0NEZQTWNyVVgwM3A0WFVxQ1J5QjBfbXdJeVpUYXNQRmczRU1NSlI5NVpCNzVZ?oc=5",
-     "published": "2026-10-15T19:04:00+00:00"
+     "outlet": "NBC News",
+     "title": "Katie Zacharia is out as White House press secretary after just 5 days on the job",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmxXWGtEcC0zbTRZcm9MeHBnV0JSbjVLSnFNelgyYTRjUWY1QmR6eFlsQmNWOHJqeUZwQkxrV3U2bl9OQklKOUVtRUl3b2NWS2lOWUlldl9udmNMcDlGZXJaSVc0OVRvVk44NUhLdWQ0VWdmelp3dFdJaXNxQW4xR2taQXRIb2RzcjVuUUJQVEdJNmdLTXdOTGtDY3JyUzBDSnZFbW1tbkRPZXE3MW9xREk1OTlFdw?oc=5",
+     "published": "2026-10-16T20:33:30+00:00"
     },
     {
      "n": 6,
-     "outlet": "Reuters",
-     "title": "Trump shuts down Hegseth plan to livestream military execution",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXdiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5",
-     "published": "2026-10-15T17:58:44+00:00"
+     "outlet": "Wall Street Journal",
+     "title": "White House Press Secretary Is Out One Week After Her Appointment",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaml6RjczQkpKczJjX1M5N293NzM2UHViUFkzazdIWElSYnE0c09wSVJEaXJxc0xQZmFjVFZ4U3RKanlqdnBYM0xKcTFrMjJXY0JsNlRtR1RzcFVhYjR2THpPTzdrbzlzMTNLdi1CZlNRcGF6ZTFwT0pjY09qZk52R05MMHJZeTB2RG1vbGpUUlp5bHVtdTFQT051ZGwyS1JEYWR5WlhB?oc=5",
+     "published": "2026-10-16T19:51:00+00:00"
     }
    ],
    "factcheck": null,
@@ -222,64 +221,64 @@
    "slug": "03"
   },
   {
-   "headline": "[속보] 뉴욕증시 3대 지수 일제히 상승 마감…다우 지수 1.08%↑",
+   "headline": "李대통령, 산업차관에 박동일·금융위 부위원장에 신진창 임명",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "global",
+   "section": "people",
    "importance": 7,
    "outlets": [
-    "국민일보",
+    "뉴스핌",
     "뉴시스",
+    "머니투데이",
     "연합뉴스",
-    "조선일보",
-    "파이낸셜뉴스"
+    "중앙일보"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "조선일보",
-     "title": "뉴욕증시, 국채금리 하락에 3대 지수 반등…다우 1.08% 상승",
-     "url": "https://www.chosun.com/economy/int_economy/2026/10/16/JKSEXEPAKNETZBSWNIE64QIPDQ/",
-     "published": "2026-10-15T21:09:10+00:00"
+     "outlet": "연합뉴스",
+     "title": "李대통령, 산업차관에 박동일·금융위 부위원장에 신진창 임명",
+     "url": "https://www.yna.co.kr/view/AKR20261016095100001",
+     "published": "2026-10-16T04:58:13+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "뉴욕증시, AI 투자 우려에도 국채금리 하락에 반등(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261016004951072",
-     "published": "2026-10-15T21:03:09+00:00"
+     "title": "[속보] 이 대통령, 박동일 산업통상부 차관·신진창 금융위원회 부위원장 임명",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QNFdJb3BkYVE4R0dLd2pvLXhjczRqMDd5Z21sTTIwS2lNY3lvd2NycUhReWVTOGVkcXB6OU02SENLeDMzLTVHRktQWjU0NVNUeVFqWWR0UWtxN1EyYWw4bE03V0NlZw?oc=5",
+     "published": "2026-10-16T04:55:00+00:00"
     },
     {
      "n": 3,
-     "outlet": "뉴시스",
-     "title": "美 뉴욕증시, AI 우려에도 3대 지수 모두 상승 마감…다우 1.08%↑",
-     "url": "https://www.newsis.com/view/NISX20261016_0003828225",
-     "published": "2026-10-15T20:32:54+00:00"
+     "outlet": "머니투데이",
+     "title": "[속보]이재명 대통령, 산업통상부 차관에 박동일 산업정책실장 임명",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PcGM2RmZndnJQZFl5Tm9Rczd4Y29RaDktLWwtdEs4eVRTTjJZalM4TXdWNTc3OG9hRnhoWTJheW5Jay1VRWVIX2lsMm1VdXlXbUF3ZEM0dllGOHlUdkI5T08yeGY3OVRuX2U5SdIBckFVX3lxTFB3R0dna1VYQnNKN2NqV0t1elRueDRkbDlnNlYzZElzRXoyeEY1VGhpNzJadXFHNjUzOTB2UWdFVXNHakJrWWhzeTBVeUU1TG9nSDEtNWpfaU9NdlRQNkxxZFg4c0M4aVQ4Z2dRVHk0MVE5dw?oc=5",
+     "published": "2026-10-16T04:54:27+00:00"
     },
     {
      "n": 4,
-     "outlet": "국민일보",
-     "title": "[속보] 뉴욕증시 3대 지수 일제히 상승 마감…다우 지수 1.08%↑",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91cnh2QU1Ca2ptQ0R6RWVPR0NralpUT0xsOENJVjBMQXhMOUxDemJUZURQR2ZzbFI2ajl1MmRvcGV0NzZHeUhMTFNXT3JyMjNkVEFmNWpHMDRmbC13X0NVTm1xOW9JT03SAWxBVV95cUxORVRvTnY5dVhuU2RoczZuZFlsVnduV3hGT2VjX1BYUmtqc25jOG5xbUJjT2JkcTJWX2FJWTZ6akpSOGlaRDVRM3dVVVNKX3ZVY2c5eVZfN182WFR3X3pBSGpLTHJockwzejRyOW8?oc=5",
-     "published": "2026-10-15T20:11:00+00:00"
+     "outlet": "중앙일보",
+     "title": "[속보] 李대통령, 산업통상부 차관에 박동일…금융위 부위원장엔 신진창",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxa1VoSEpKSnlqdWdHakZ6RmVrbnN6aG5IckY2Sk9aRC1BT18xSXo2ZXRUZTlrWkpKZlhyN0daa09RWTQxNUxvTlhSb01aejlqU2pZbUZB?oc=5",
+     "published": "2026-10-16T04:52:24+00:00"
     },
     {
      "n": 5,
-     "outlet": "파이낸셜뉴스",
-     "title": "[속보] 뉴욕증시 3대 지수 일제히 상승 마감…다우 지수 1.08%↑",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSYnhRbC1qbi1EdkVzcGtmX3NnTlg5T3hKQmM2YkJjc2pIVlVmbi11dTBQY3Bxem5zc09OckVuSHdpczNuT1FON1MyLUFpNV9ONDh4ejRlbTVQUQ?oc=5",
-     "published": "2026-10-15T20:07:04+00:00"
+     "outlet": "뉴스핌",
+     "title": "[속보] 李대통령, 금융위원회 부위원장에 신진창 현 금융위 사무처장",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52RnJLYktzQjIwdURnSHc4aGFPazlPWWJDMXZTcnpjaXVrdlctV0Y1RTN5ODQ1WXo5X1lNd0tuYy1VLVo1ekd3V2N5eXA1V1Nhc0xVSWpjblh1MW1o?oc=5",
+     "published": "2026-10-16T04:40:00+00:00"
     },
     {
      "n": 6,
      "outlet": "뉴시스",
-     "title": "[속보] 뉴욕증시 3대 지수 일제히 상승 마감…다우 지수 1.08%↑",
-     "url": "https://www.newsis.com/view/NISX20261016_0003828223",
-     "published": "2026-10-15T20:06:36+00:00"
+     "title": "[속보]이 대통령, 금융위 부위원장에 신진창 사무처장 임명",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhY1lSMEJHVWdZczNDb3l4ZndtS29SeXB2bk9oQS1heXpXOUZ2SFEtWXlCbkFnWGNfVzBrbUNOcnhUZk80SU5ZQkFpZUFlRTBjT0Q0LVB2czE4c2Z4WE5NRdIBeEFVX3lxTE1seEEzQWFxbjJKMEtzaVB2NEloMjVxc3lzMGlzUFRpaFlteUlRNzBxUEtrSWotdUpZRDRWUEhiSUh4Y25IaUNQaDM3dEZLa3F1aTNYYmlCUmwzU0loaGVObHRXMkV2UHZ0ZjhXVmxFRl9ueVcxQm1OWA?oc=5",
+     "published": "2026-10-16T04:39:11+00:00"
     }
    ],
    "factcheck": null,
@@ -288,16 +287,16 @@
    "slug": "04"
   },
   {
-   "headline": "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 발동",
+   "headline": "환율 내렸지만 유가 올라서…9월 수입물가 넉 달만에 상승",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "kr",
+   "section": "money",
    "importance": 6,
    "outlets": [
-    "YTN",
-    "매일경제",
+    "SBS",
+    "경향신문",
     "연합뉴스",
     "한겨레"
    ],
@@ -307,44 +306,37 @@
     {
      "n": 1,
      "outlet": "한겨레",
-     "title": "코스피 5% 급락 출발…이틀 만에 매도 사이드카 발동",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1282474.html",
-     "published": "2026-10-15T21:58:57.419462+00:00"
+     "title": "환율 하락에도 9월 수입물가 상승 반전...국제유가 상승 탓",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1282681.html",
+     "published": "2026-10-16T21:56:55.057228+00:00"
     },
     {
      "n": 2,
-     "outlet": "YTN",
-     "title": "코스피·코스닥, 급락 출발...장 초반 매도 사이드카",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91NW9QWXpWc0JqTnpWX0t6NW54cTNrcEpjLURyOWZQZzVncUcwNU5OeG9kU0R2WC1wZHhUbGZCbmo1V0hJU0hpOHp1R1lERGFNOHFZUzV3T1RxX1N2YVQ1Tks2cmVYNFJLVFRsOUR6NA?oc=5",
-     "published": "2026-10-15T01:15:00+00:00"
+     "outlet": "SBS",
+     "title": "환율 내렸지만 국제유가↑…9월 수입물가 넉 달 만에 상승",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800573",
+     "published": "2026-10-16T01:24:00+00:00"
     },
     {
      "n": 3,
-     "outlet": "연합뉴스",
-     "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
-     "url": "https://www.yna.co.kr/view/AKR20261015035951008",
-     "published": "2026-10-15T00:23:40+00:00"
+     "outlet": "SBS",
+     "title": "환율 하락에도 유가 큰 폭 올라…9월 수입물가 넉 달 만에 상승",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800421",
+     "published": "2026-10-16T00:02:00+00:00"
     },
     {
      "n": 4,
-     "outlet": "매일경제",
-     "title": "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 발동",
-     "url": "https://www.mk.co.kr/news/stock/12176436",
-     "published": "2026-10-15T00:22:13+00:00"
+     "outlet": "경향신문",
+     "title": "환율 내렸지만 유가 올라…수입물가 넉 달만에 상승",
+     "url": "https://www.khan.co.kr/article/202610160737001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-15T22:37:00+00:00"
     },
     {
      "n": 5,
      "outlet": "연합뉴스",
-     "title": "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 발동",
-     "url": "https://www.yna.co.kr/view/AKR20261015038000008",
-     "published": "2026-10-15T00:15:24+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "연합뉴스",
-     "title": "[속보] 코스피 이어 코스닥도 매도사이드카 발동…올해 15번째",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GMVVaQXdZZ3lJQ0NHM3hfbHozYXp6SlRrd3BNc2FmbzVGVDhxRDhyR2dNalBXM0JmQUhpTGtLX243YTg1MW1JMzlNQ1NqNmJSb3JEalh5WjZJcWUwS1FfbTF0YzBhV2M?oc=5",
-     "published": "2026-10-15T00:15:00+00:00"
+     "title": "환율 내렸지만 유가 올라서…9월 수입물가 넉 달만에 상승",
+     "url": "https://www.yna.co.kr/view/AKR20261015160300002",
+     "published": "2026-10-15T21:00:01+00:00"
     }
    ],
    "factcheck": null,
@@ -353,56 +345,49 @@
    "slug": "05"
   },
   {
-   "headline": "[속보] 트럼프 \"미군기지 난사범 총살형 생중계되지 않을 것\"",
+   "headline": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
+   "section": "money",
    "importance": 6,
    "outlets": [
+    "SBS",
     "경향신문",
     "연합뉴스",
-    "조선일보",
-    "한국경제"
+    "헤럴드경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "경향신문",
-     "title": "[속보]트럼프 “총기 난사범 총살형 생중계 되지 않을 것”",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NTFM3Nk42RkM1V2hhX3o1Z29LWVlldmJOakhsTEVTV09KQVd6SnVQMHR6YjlVMUN6MDZSeG9NMUZsWi1zRGNaV2ZGRkI2T1RUYVpMRG5tQTRZZ9IBX0FVX3lxTFBfNkk0Z1k1a2dFaWdxN3M0UXN0MmR6QV9MWnh0SUVNd0pXeUlQcl9hNHB4NmpFS3Btc3JhdWJRWUJFTXVWNnRWVnJ1X3R0NDYxSjBtMzBCVWpGT0dmNkNn?oc=5",
-     "published": "2026-10-15T14:41:00+00:00"
+     "outlet": "헤럴드경제",
+     "title": "석유 최고가격, 4주 더 유지…100달러대 고유가에도 서민 물가 고려",
+     "url": "https://biz.heraldcorp.com/article/10905492",
+     "published": "2026-10-16T18:18:39+00:00"
     },
     {
      "n": 2,
-     "outlet": "조선일보",
-     "title": "트럼프 \"미군기지 난사범 총살형 생중계되지 않을 것\"",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW5uWU9TSnFHMHl1emZBWXp0aFdHcjhyTjVBWHVuaXp2bjI5dzVDUEc1YWxPSGVwc0xON3ZFS2xOT0R0Y2k3U2RDeGRpYldzUFZVSkwtb3ptNmhMM0xrUFBtWVduMjVNLTJhRmkxeGlET2JFSmFhWUlfYzFHdzRsalk2cVQ?oc=5",
-     "published": "2026-10-15T14:32:00+00:00"
+     "outlet": "SBS",
+     "title": "석유 최고가격 4주 더 동결…100달러대 고유가에도 물가 고려",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801576",
+     "published": "2026-10-16T09:09:00+00:00"
     },
     {
      "n": 3,
-     "outlet": "한국경제",
-     "title": "[속보] 트럼프 \"미군기지 난사범 총살형 생중계되지 않을 것\"",
-     "url": "https://www.hankyung.com/article/2026101551177",
-     "published": "2026-10-15T14:28:21+00:00"
+     "outlet": "경향신문",
+     "title": "국제유가 100달러대 고공행진에도…정부, 석유 최고가격 동결",
+     "url": "https://www.khan.co.kr/article/202610161801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-16T09:01:00+00:00"
     },
     {
      "n": 4,
      "outlet": "연합뉴스",
-     "title": "[속보] 트럼프 \"미군기지 난사범 총살형 생중계되지 않을 것\"",
-     "url": "https://www.yna.co.kr/view/AKR20261015181900071",
-     "published": "2026-10-15T14:11:26+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "연합뉴스",
-     "title": "\"미국인 10명 중 8명, 미군기지 난사범 총살형 생중계 반대\"",
-     "url": "https://www.yna.co.kr/view/AKR20261015181300071",
-     "published": "2026-10-15T14:00:18+00:00"
+     "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
+     "url": "https://www.yna.co.kr/view/AKR20261016147400003",
+     "published": "2026-10-16T09:00:02+00:00"
     }
    ],
    "factcheck": null,
@@ -411,313 +396,16 @@
    "slug": "06"
   },
   {
-   "headline": "주담대 변동금리 또 오른다…코픽스 3년 10개월만 최대폭 상승(종합)",
+   "headline": "CJ그룹, 다우키움그룹과 중앙일보 인수전 참여 가능성",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
-   "importance": 5,
-   "outlets": [
-    "SBS",
-    "연합뉴스",
-    "한겨레"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한겨레",
-     "title": "주담대 변동금리 또 오른다…신규는 최고 연 6%대로 상승",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1282561.html",
-     "published": "2026-10-15T21:58:57.418880+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "SBS",
-     "title": "주담대 변동금리 또 오른다…코픽스 3년 10개월 만 최대폭 상승",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799672",
-     "published": "2026-10-15T07:25:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "주담대 변동금리 또 오른다…코픽스 3년 10개월만 최대폭 상승(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261015126751002",
-     "published": "2026-10-15T07:12:13+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "연합뉴스",
-     "title": "주담대 변동금리 또 오른다…9월 코픽스 0.25%p↑",
-     "url": "https://www.yna.co.kr/view/AKR20261015126700002",
-     "published": "2026-10-15T06:23:04+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 7,
-   "slug": "07"
-  },
-  {
-   "headline": "대한항공 3분기 매출 5조448억원 역대 최대…영업익 12% 증가",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "money",
-   "importance": 5,
-   "outlets": [
-    "블로터",
-    "연합뉴스",
-    "한겨레"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한겨레",
-     "title": "대한항공, 3분기 매출 ‘역대 최대’ 5조…고유가에도 환승 수요 몰려",
-     "url": "https://www.hani.co.kr/arti/economy/marketing/1282576.html",
-     "published": "2026-10-15T21:58:57.418816+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "블로터",
-     "title": "대한항공, 3분기 매출 5조 역대 최대…환율 안정에 순익도 껑충",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=675802",
-     "published": "2026-10-15T16:47:04+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "대한항공 3분기 매출 5조448억원 역대 최대…영업익 12% 증가",
-     "url": "https://www.yna.co.kr/view/AKR20261015143600003",
-     "published": "2026-10-15T07:18:22+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 8,
-   "slug": "08"
-  },
-  {
-   "headline": "광주 군공항 간 국토장관 \"반도체 산단 유례없는 속도로 조성\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "SBS",
-    "연합뉴스",
-    "조선일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "SBS",
-     "title": "광주 군공항 간 국토장관 \"반도체 산단 유례없는 속도로 조성\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799830",
-     "published": "2026-10-15T08:47:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "홍지선 국토장관 “호남권 반도체 산단 부지, 유례없는 속도로 조성”",
-     "url": "https://www.chosun.com/economy/real_estate/2026/10/15/MRSDAYRZMJQTQMJYGQZGKNJRG4/",
-     "published": "2026-10-15T08:43:45+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "광주 군공항 간 국토장관 \"반도체 산단 유례없는 속도로 조성\"",
-     "url": "https://www.yna.co.kr/view/AKR20261015156100003",
-     "published": "2026-10-15T08:14:50+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 9,
-   "slug": "09"
-  },
-  {
-   "headline": "트럼프 \"일본, 뉴욕주 반도체 공장에 210억弗 투자\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
+   "section": "global",
+   "importance": 6,
    "outlets": [
     "경향신문",
     "매일경제",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "매일경제",
-     "title": "트럼프 \"일본, 뉴욕주 반도체 공장에 210억弗 투자\"",
-     "url": "https://www.mk.co.kr/news/world/12177067",
-     "published": "2026-10-15T08:41:43+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "한국경제",
-     "title": "日, 美에 210억弗 반도체 투자…트럼프 '동맹' 앞세워 표심 잡기",
-     "url": "https://www.hankyung.com/article/2026101547571",
-     "published": "2026-10-15T08:30:32+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "경향신문",
-     "title": "일, 미 반도체 공장 건설에 210억달러 투자…한국 대미 투자 압박 커지나",
-     "url": "https://www.khan.co.kr/article/202610151619001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-     "published": "2026-10-15T07:19:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 61,
-   "rank": 10,
-   "slug": "10"
-  },
-  {
-   "headline": "코스피 5,500선 추락‥코스닥도 7%대 폭락",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "kr",
-   "importance": 5,
-   "outlets": [
-    "MBC",
-    "전자신문",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "MBC",
-     "title": "코스피 5,500선 추락‥코스닥도 7%대 폭락",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VMjFEdjdyVmhxQUlwUFRDcGdwbnNGV3IzbF9IcUlibUs2czZmbGZieWpTZFUzOTVjbkNfRVRtQ0lyaDg2SFN0dTVKYXhJUjlmT0FxZkUxWnhXVmdjTkZKVGV3MS1QdW9xOEpGa2Vsd3UwYTU3Ni1rV9IBeEFVX3lxTFBUTWpxeTRIaWlBcTdsdy1ncWJWQ1g0dVR1VWVxNG1Fc1FpT3BGZ2hESTBwMUF5R1BwcjBQSkhqRThPOTdFVjBRTGhSZk5Nd3FXbUhQSm9IeWtyMEUzdjRpQUlMOEk0WFZhWU9BN21CYzZOY19xV2cxdA?oc=5",
-     "published": "2026-10-15T07:57:17+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "전자신문",
-     "title": "美 물가 충격에…코스피 5500선으로 폭락",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TektFOGlKZS1fVkt0a2VvMVRhSVBPNzE5OTN3YjRXbHNXNm9zVWJmRElyUkxER1RvODZoSk54NXVhU2FBaDRVaERNZ2Z6Zw?oc=5",
-     "published": "2026-10-15T07:03:50+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "한국경제",
-     "title": "[속보] 코스피, 7.57% 급락한 5554 마감…코스닥도 7%대 폭락",
-     "url": "https://www.hankyung.com/article/2026101542786",
-     "published": "2026-10-15T06:31:46+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 61,
-   "rank": 11,
-   "slug": "11"
-  },
-  {
-   "headline": "허위 경력 논란 백악관 대변인 \"변호사 시험 불합격 중요한가\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
-    "경향신문",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "허위 경력 논란 백악관 대변인 \"변호사 시험 불합격 중요한가\"",
-     "url": "https://www.yna.co.kr/view/AKR20261016009700071",
-     "published": "2026-10-15T21:35:28+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "경향신문",
-     "title": "백악관 신임 대변인, ‘변호사’ 허위 경력 논란 도마",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OckdveTFud1JMWGtReERKUlZwZlgtOXRySnJKRGZ2c2pvZDVLRTZmOFFrTUVkdzNnTGdrNnktVnpHWllqN2o4c3FBQy13Y1gtTmdZYk5JdjBNSFBtV1FZ0gFfQVVfeXFMTk5yR295MW53UkxYa1F4REpSVnBmWC05dHJKckpEZnZzam9kNUtFNmY4UWtNRWR3M2dMZ2s2eS1WekdaWWo3ajhzcUFDLXdjWC1OZ1liTkl2ME1IUG1XUVk?oc=5",
-     "published": "2026-10-15T06:43:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "트럼프 새 대변인, 美변호사시험 불합격 확인…경력 논란 확산",
-     "url": "https://www.yna.co.kr/view/AKR20261015117600009",
-     "published": "2026-10-15T05:45:03+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 12,
-   "slug": "12"
-  },
-  {
-   "headline": "뉴욕시 감사원장, 앤트로픽에 \"AI 위험 해소 전 IPO 중단해야\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "뉴욕시 감사원장, 앤트로픽에 \"AI 위험 해소 전 IPO 중단해야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261016009200009",
-     "published": "2026-10-15T21:30:51+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "매일경제",
-     "title": "뉴욕시 감사원장, 앤트로픽에 \"AI 위험 해소 전 IPO 중단해야\"",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rcEdvcHA0QU0wMUt5MmJHOVRWWXh5dmMyeDhWR0NFYnU3LVpnZWZWNXVoSnVnR3BJSzQ0bXFDdWRZM1RUaDF3Y1BrWi00dTR1eVE?oc=5",
-     "published": "2026-10-15T21:30:51+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 13,
-   "slug": "13"
-  },
-  {
-   "headline": "젤렌스키 \"러 정유시설 공격 재개\"…트럼프 압박 정면돌파 시사",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
     "연합뉴스",
     "파이낸셜뉴스"
    ],
@@ -727,104 +415,108 @@
     {
      "n": 1,
      "outlet": "파이낸셜뉴스",
-     "title": "젤렌스키 \"美 요구 거부\"… 러시아 정유시설 공격 재개 선언",
-     "url": "https://www.fnnews.com/news/202610160618206488",
-     "published": "2026-10-15T21:24:30+00:00"
+     "title": "CJ그룹, 중앙일보 인수전 '깜짝 다크호스'…다우키움과 연합전선 [fn마켓워치]",
+     "url": "https://www.fnnews.com/news/202610162158270982",
+     "published": "2026-10-16T13:05:36+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "젤렌스키 \"러 정유시설 공격 재개\"…트럼프 압박 정면돌파 시사",
-     "url": "https://www.yna.co.kr/view/AKR20261015138100009",
-     "published": "2026-10-15T07:01:55+00:00"
+     "title": "CJ그룹, 다우키움그룹과 중앙일보 인수전 참여 가능성",
+     "url": "https://www.yna.co.kr/view/AKR20261016170000030",
+     "published": "2026-10-16T11:03:31+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "경향신문",
+     "title": "CJ, 중앙일보 인수전 ‘전격 등판’···다우키움과 컨소시엄",
+     "url": "https://www.khan.co.kr/article/202610161830001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-16T09:30:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "매일경제",
+     "title": "CJ, 다우키움과 손잡고 중앙일보 인수전 참여",
+     "url": "https://www.mk.co.kr/news/stock/12178091",
+     "published": "2026-10-16T08:41:57+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "매일경제",
+     "title": "[단독] CJ, 중앙일보 인수전 뛰어든다…다우키움그룹과 컨소 구성 추진",
+     "url": "https://www.mk.co.kr/news/stock/12177661",
+     "published": "2026-10-16T02:21:44+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
-   "rank": 14,
-   "slug": "14"
+   "score": 76,
+   "rank": 7,
+   "slug": "07"
   },
   {
-   "headline": "환율 내렸지만 유가 올라서…9월 수입물가 넉 달만에 상승",
+   "headline": "현대엘리베이터, 무벡스 지분 1160억 매각 “주주가치 제고”",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
-   "importance": 4,
+   "section": "kr",
+   "importance": 6,
    "outlets": [
     "연합뉴스",
-    "조선일보"
+    "조선일보",
+    "파이낸셜뉴스",
+    "한국경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "연합뉴스",
-     "title": "환율 내렸지만 유가 올라서…9월 수입물가 넉 달만에 상승",
-     "url": "https://www.yna.co.kr/view/AKR20261015160300002",
-     "published": "2026-10-15T21:00:01+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "현대엘리베이터, 무벡스 지분 1160억 매각",
+     "url": "https://www.fnnews.com/news/202610161756301331",
+     "published": "2026-10-16T10:46:44+00:00"
     },
     {
      "n": 2,
      "outlet": "조선일보",
-     "title": "환율 내렸지만 유가 올라…수입 물가 상승률, 전월보다 높은 17.6%",
-     "url": "https://www.chosun.com/economy/economy_general/2026/10/16/NKVORN53H5DZRPXWGCIIKINZUI/",
-     "published": "2026-10-15T21:00:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 15,
-   "slug": "15"
-  },
-  {
-   "headline": "수능서 'AI 안경' 착용만 해도 시험 무효·내년 응시자격 정지",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "동아일보",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "동아일보",
-     "title": "‘AI 안경’ 소지만 해도 수능 시험 무효 처리",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SG5RdGdPb2NETU1xRnNNSTRmc1J3ZGxMYlNjTEpxVmpJZm5WZ3FQNXRkQWQ1Q21BQ2lPUGJNRkxicWRwTjN6Ujh2WDFVZEdHSjU5NWxHWU5OZlp3MmQtcDZGX2s3bFlERFlwemdOTWNNMWhpNmfSAWZBVV95cUxOdEhldHkyNExZa3dUY2NWRTFtSGttM2Rrem94X1EwMlZ2aHVMVlZQVVRFOFRFZVZhaXJsd2lQYVNUQTR3WHd4ZDdyTUo2U1VOSWphQzVtdl9CSFQtQ3FPR1o3OVloT3c?oc=5",
-     "published": "2026-10-15T19:30:00+00:00"
+     "title": "현대엘리베이터, 무벡스 지분 1160억 매각 “주주가치 제고”",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/16/ME3DQNRZMZSTSOLEGYZGGOJXHE/",
+     "published": "2026-10-16T08:53:40+00:00"
     },
     {
-     "n": 2,
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "현대엘리베이터, 무벡스 지분 1160억 매각·자사주 1700억 소각…\"주주가치 제고\"",
+     "url": "https://www.hankyung.com/article/202610166808i",
+     "published": "2026-10-16T08:36:39+00:00"
+    },
+    {
+     "n": 4,
      "outlet": "연합뉴스",
-     "title": "수능서 'AI 안경' 착용만 해도 시험 무효·내년 응시자격 정지",
-     "url": "https://www.yna.co.kr/view/AKR20261015109400530",
-     "published": "2026-10-15T05:17:46+00:00"
+     "title": "현대엘리베이터, 현대무벡스 지분 1천160억 매각…\"자산 효율화\"",
+     "url": "https://www.yna.co.kr/view/AKR20261016144800003",
+     "published": "2026-10-16T07:55:10+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
-   "rank": 16,
-   "slug": "16"
+   "score": 76,
+   "rank": 8,
+   "slug": "08"
   },
   {
-   "headline": "베슬AI, 2030년까지 GPU 20만장 확보 추진…AI 인프라 승부수",
+   "headline": "효성重, 창원에 초고압차단기 공장 준공",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 4,
+   "importance": 6,
    "outlets": [
+    "매일경제",
     "블로터",
-    "연합뉴스"
+    "조선일보",
+    "한국경제"
    ],
    "official": false,
    "draft": true,
@@ -832,117 +524,259 @@
     {
      "n": 1,
      "outlet": "블로터",
-     "title": "베슬AI \"GPU 20만장 확보 추진...AI팩토리 구축 목표\"",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=675781",
-     "published": "2026-10-15T15:54:08+00:00"
+     "title": "\"AI 전력 대란 해결\"…효성重, 창원에 수출용 초고압차단기 공장 준공",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=675825",
+     "published": "2026-10-16T09:27:50+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "베슬AI, 2030년까지 GPU 20만장 확보 추진…AI 인프라 승부수",
-     "url": "https://www.yna.co.kr/view/AKR20261015110000017",
-     "published": "2026-10-15T05:21:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 17,
-   "slug": "17"
-  },
-  {
-   "headline": "TSMC, 3분기 순이익 68.7% 늘어…6분기 연속 신기록",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "조선일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "TSMC, 6분기 연속 순이익 신기록…美텍사스 투자 검토(종합2보)",
-     "url": "https://www.yna.co.kr/view/AKR20261015124352089",
-     "published": "2026-10-15T13:16:52+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "TSMC, 3분기 순이익 68.7%↑…AI붐에 6분기 연속 신기록(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261015124351089",
-     "published": "2026-10-15T09:12:30+00:00"
+     "outlet": "매일경제",
+     "title": "효성重, 창원에 초고압차단기 공장 준공",
+     "url": "https://www.mk.co.kr/news/business/12178122",
+     "published": "2026-10-16T09:03:35+00:00"
     },
     {
      "n": 3,
-     "outlet": "조선일보",
-     "title": "TSMC, 3분기 순이익 31조…6분기 연속 사상 최대",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/15/Z36JGHQ74ZE3DLTEIWO7CTNTPI/",
-     "published": "2026-10-15T07:30:29+00:00"
+     "outlet": "한국경제",
+     "title": "효성중공업, 창원에 초고압차단기 공장 준공",
+     "url": "https://www.hankyung.com/article/2026101670431",
+     "published": "2026-10-16T08:32:32+00:00"
     },
     {
      "n": 4,
-     "outlet": "연합뉴스",
-     "title": "TSMC, 3분기 순이익 68.7% 늘어…6분기 연속 신기록",
-     "url": "https://www.yna.co.kr/view/AKR20261015124300089",
-     "published": "2026-10-15T06:05:02+00:00"
+     "outlet": "조선일보",
+     "title": "효성重, 창원에 수출 전용 초고압 차단기 신공장 1년여 만에 준공",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/16/7OOA5SIPFJBQJM6DVC3MTRM5RE/",
+     "published": "2026-10-16T01:55:41+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "매일경제",
+     "title": "효성重, 수출 전용 ‘초고압차단기 신공장’ 준공…조현준 회장, 글로벌 공급망 ‘드라이브’",
+     "url": "https://www.mk.co.kr/news/business/12177444",
+     "published": "2026-10-15T23:58:32+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
-   "rank": 18,
-   "slug": "18"
+   "score": 74,
+   "rank": 9,
+   "slug": "09"
   },
   {
-   "headline": "\"애플도 우리 기밀 100건 빼돌려\"…오픈AI, 영업비밀 소송 역공",
+   "headline": "Trump says neither he nor Musk responsible for Ukraine loss of Starlink access",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
+   "section": "people",
    "importance": 4,
    "outlets": [
-    "AI타임스",
-    "뉴시스"
+    "BBC",
+    "CNBC",
+    "NBC News",
+    "New York Times",
+    "Reuters",
+    "The Hill",
+    "Washington Post"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "AI타임스",
-     "title": "\"애플도 우리 기밀 빼돌렸다\"...오픈AI, 맞소송 예고",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216276",
-     "published": "2026-10-15T11:56:03+00:00"
+     "outlet": "The Hill",
+     "title": "Trump claims neither he nor Musk caused Ukraine Starlink outage",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2lqYzZGckN2UWgtZ2lVcG8wWF91cHItMlM5RmNSRWdYVEppbGU5cnp5cTRpN0l1WC10akhVNlYzcXQ2WFZVX2lzMWVubzllUlE5bmdVUHhja2E1RjZMS2xmekNYQ3pwb0VMNHlqRjVXYXlsYzJvWDQ2ZjMzZHlKU1pZYjJLVXJCMkNqcmVST3HSAZYBQVVfeXFMTm5NVFcyZnZIcmhzMlpHYnZyd25xLVRBTGRlbGZDanc1d2t1SnFYRkRaVW5JY2pfWnc2N1JuU2VOeVVjOWJSZTVFckl4SWJidmZYS3V2ak1uVVRjeHlaaVNCcDhKejFEMWV2WFhEVmVrYVk5dno0ajQ4emVENnJsRzdDQzJIMkxUbW9LaEpVVFIyajJ1dGV3?oc=5",
+     "published": "2026-10-16T19:39:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "CNBC",
+     "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXNMWGpvNzZOTG9mZVVmRVc5X3ZLT1FTaUZwZkdNN2kzeTRMVmdYcGZGVW4tSlVPS3oydU10US1fRndjdWI0bGZPN2FaaDlvQjVCRktDUXBzRDMwZTdCZGY2QUxXcW1fNlFYUi04UUZxMmFtTERmRkFaTGNXYjNTVVpFY3FORFhHZ1kwVTEwR3hFT3N5dVhRZGx6SEpwZzgyb2dmZjI4b9IBrAFBVV95cUxNMVZTOXVXR1dsZ2N4VGVKZnNZS0hnS3Z5MUVfUjRKcldqSUI2MXlhd1NZRm1sbUoyQnpEaEdaZWVGV1ZqX0Z3SzlOZV9RZ2FhS01XWmxfakcyNUN0QXZJMmxVQlBEN3ZJaUVFV1BMcm1MUWJZTFBhWW44WGpUQ1c1bExKMXFKWkpueVF4RnU5T1AxMkJ0THh3ZlVyb2dGOTA1eC1wX2QtTFJIcGdK?oc=5",
+     "published": "2026-10-16T18:27:02+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Reuters",
+     "title": "Trump says neither he nor Musk responsible for Ukraine loss of Starlink access",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZNUmdIdkZCY09EdEY2WWhKWGhCQmlWOGhFQ3FxRDExUVNORW94dUZkNmR5V1lycjlOejZVYWIxbExDSGoxYkJldWRfU1ZYejZfa3NvQ2lZSlBCcGRMTkwtLWgtaThXUE9jTUJmUFVmdlAxR3NjeC1UWFlVYW95Uk9pbExFeW5lV2w3RzllME5YTE9JcjFBUmFtMVdUQUJuTndIcWdNcElUcUdxSWV4SUF2V3BUQQ?oc=5",
+     "published": "2026-10-16T17:55:33+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "New York Times",
+     "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnpqdTJtbWd1dE9kNnViSDNkSi1TYUYzMXFRZEc5RGMzZHdjcjJLVFZ2dkJUajhoUHNlTE5yTGhrQ19HaXdmdnFVRERlR1V2d21ldmZFZHY2Ui01bjVOenVMM3VZek1GODQ0Vl9rcGdVLURSNU5DVmMxWWdmSUpzTDFhN0ZxZlh6M016aFJ5OGV1TXlEZXIxTk1meGNnT1ZQWFRzbDVyTQ?oc=5",
+     "published": "2026-10-16T16:07:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Washington Post",
+     "title": "Power struggle erupts in Trump’s White House as midterm losses loom",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVVVTURrb1VQcVNwWEFMX2xYUnlQSV95TFV6MVJ4ZTBKSENmcmtHM29HeGVsYkZKMUI0RC1DbHpJdDM2dXNmcDFEanlFUnd6QmtNeEtQNzR0c1FhanlnbW9scU02cXpLdkRmWU9XTTRfZG9YWFd3UDJYbHVuR0dhTHpsV2FmRk9JbElGVDBWRFAycHJuT0E0NDh5ZG1sYnRtUXNOVU5SUUdoVkJhMnc?oc=5",
+     "published": "2026-10-16T16:00:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "BBC",
+     "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdkJoU2J5N0NpM1lCSW1aYldmdXdCQ19XZVg4bGFwNkRmUFl1c2tzbDdZcHJjdVNDRnJ2enExWnptV3Y2S2l5Y0kxZjJqWEZtekFSZnNSTjNPU1U?oc=5",
+     "published": "2026-10-16T15:59:30+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 65,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "정부 “견조한 경기 회복 흐름…물가·고용 등 민생 부담은 지속”",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "조선일보",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "정부 “견조한 경기 회복 흐름…물가·고용 등 민생 부담은 지속”",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1282737.html",
+     "published": "2026-10-16T21:56:55.057128+00:00"
     },
     {
      "n": 2,
      "outlet": "뉴시스",
-     "title": "\"애플도 우리 기밀 100건 빼돌려\"…오픈AI, 영업비밀 소송 역공",
-     "url": "https://www.newsis.com/view/NISX20261015_0003826916",
-     "published": "2026-10-15T02:27:14+00:00"
+     "title": "재경부 \"견조한 경기 회복 흐름…물가·고용 등 민생 부담은 지속\"",
+     "url": "https://www.newsis.com/view/NISX20261016_0003828707",
+     "published": "2026-10-16T01:30:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "정부 “견조한 경기 회복세 흐름...고유가 따른 물가 상승 압력 등 민생부담 지속”",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/16/JKL22A7ANFGTJO473QUIKJOG6I/",
+     "published": "2026-10-16T01:30:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
-   "rank": 19,
-   "slug": "19"
+   "score": 63,
+   "rank": 11,
+   "slug": "11"
   },
   {
-   "headline": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합2보)",
+   "headline": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "이데일리",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261017005151072",
+     "published": "2026-10-16T21:26:05+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "AI 경고등에 유가 급등까지…나스닥 2.2%↓",
+     "url": "https://www.yna.co.kr/view/AKR20261017005100072",
+     "published": "2026-10-16T20:17:12+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "이데일리",
+     "title": "[속보]AI 투자 불안·유가 급등에 美증시 급락…나스닥 2.1%↓",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01334966645613904",
+     "published": "2026-10-16T20:04:24+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "[뉴욕증시] 유가 급등·AI 매도세 속 일제히 하락…나스닥, 2.2% 급락",
+     "url": "https://www.fnnews.com/news/202610170501067277",
+     "published": "2026-10-16T20:01:55+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "\"위성·국방AI 투자\" 한화시스템, 한화오션 지분 1.4조원 유동화",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "파이낸셜뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "\"위성·국방AI 투자\" 한화시스템, 한화오션 지분 1.4조원 유동화",
+     "url": "https://www.fnnews.com/news/202610161952565866",
+     "published": "2026-10-16T10:56:24+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "한화시스템, 오션 지분 1.4조에 전량 유동화",
+     "url": "https://www.hankyung.com/article/2026101672691",
+     "published": "2026-10-16T10:25:18+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "한화시스템, 한화오션 지분 7.2% 유동화…1조4천억원 조달(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261016164500003",
+     "published": "2026-10-16T09:37:55+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "코스피 7% 급락 '검은 목요일', 또 800억 원대 강제청산",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "kr",
-   "importance": 4,
+   "importance": 5,
    "outlets": [
     "SBS",
+    "매일경제",
     "연합뉴스"
    ],
    "official": false,
@@ -951,23 +785,255 @@
     {
      "n": 1,
      "outlet": "SBS",
-     "title": "[이슈빡] '검은 목요일' 증시 폭락…하루새 시총 400조 원 증발",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799957",
-     "published": "2026-10-15T11:26:00+00:00"
+     "title": "코스피 7% 급락 '검은 목요일', 또 800억 원대 강제청산",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801515",
+     "published": "2026-10-16T08:37:00+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합2보)",
-     "url": "https://www.yna.co.kr/view/AKR20261015073252008",
-     "published": "2026-10-15T07:56:27+00:00"
+     "outlet": "매일경제",
+     "title": "‘검은 목요일’, 반대매매 충격도 덮쳤다…이틀 연속 800억원대 강제청산",
+     "url": "https://www.mk.co.kr/news/stock/12177989",
+     "published": "2026-10-16T07:56:06+00:00"
     },
     {
      "n": 3,
      "outlet": "연합뉴스",
-     "title": "증시 '휘청'에 국내 상장사 시가총액 하루새 389조원 '증발'",
-     "url": "https://www.yna.co.kr/view/AKR20261015073200008",
-     "published": "2026-10-15T02:04:40+00:00"
+     "title": "코스피 7% 급락한 '검은 목요일'에 800억원대 또 강제청산",
+     "url": "https://www.yna.co.kr/view/AKR20261016128500008",
+     "published": "2026-10-16T07:28:30+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "증권시장서 외국인 8개월째 매도 우위…주식 자금도 순유출 전환",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "서울신문",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "증권시장서 외국인 8개월째 매도 우위…주식 자금도 순유출 전환",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801162",
+     "published": "2026-10-16T05:57:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "9월 증권시장서 외국인 8개월째 매도 우위…주식도 순유출 전환(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261016063351002",
+     "published": "2026-10-16T05:47:43+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "서울신문",
+     "title": "외국인 투자 증권자금 8개월째 매도 우위",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261016500135",
+     "published": "2026-10-16T04:28:53+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "'변호사 사칭 논란' 백악관 신임 대변인, 일주일도 안돼 퇴임 확정",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "'변호사 사칭 논란' 백악관 신임 대변인, 일주일도 안돼 퇴임 확정",
+     "url": "https://www.newsis.com/view/NISX20261017_0003829825",
+     "published": "2026-10-16T21:12:32+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "트럼프, '변호사 사칭 논란' 백악관 대변인 경질 시사",
+     "url": "https://www.newsis.com/view/NISX20261017_0003829810",
+     "published": "2026-10-16T18:44:39+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한겨레",
+     "title": "[속보] ‘변호사 자격 논란’ 백악관 대변인, 취임 닷새 만에 해임",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yOFFLUERaUkRJTU1TU0Juem5XM1FYUDdiRU1mN0tNcUVEY3NCV01UcGdESEJkaklyRmdrZEJzbFM2ODBGWkVTTkFtM3dIVG5lN09aQ3BuZ25qNmZ2QllaX0d4YXE5NHRXZXRfdEV0OA?oc=5",
+     "published": "2026-10-16T18:19:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "WTI, 100달러 재돌파…브렌트유, 110달러 근접",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "[국제유가] 공급 우려 속에 급등…브렌트유, 장중 110달러",
+     "url": "https://www.fnnews.com/news/202610170604365123",
+     "published": "2026-10-16T21:10:05+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "WTI, 100달러 재돌파…브렌트유, 110달러 근접",
+     "url": "https://www.newsis.com/view/NISX20261017_0003829811",
+     "published": "2026-10-16T19:43:03+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "[속보] WTI, 100달러 돌파…브렌트유 110달러 육박",
+     "url": "https://www.newsis.com/view/NISX20261017_0003829812",
+     "published": "2026-10-16T18:59:36+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
+     "url": "https://www.yna.co.kr/view/AKR20261016169500002",
+     "published": "2026-10-16T20:55:01+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HSG5FbkI2andFMG1EQ3JKTENfSHhlTnNtWGdrY0lwMklBVVFZcEI0T1A5QW1DSk5td2ctb1UtUHg3djdnUmh5dUxCVkV2U3FoNVE?oc=5",
+     "published": "2026-10-16T20:55:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "\"우크라 스타실드 속도 제한은 백악관 지시\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "\"우크라 스타실드 속도 제한은 백악관 지시\"",
+     "url": "https://www.newsis.com/view/NISX20261017_0003829808",
+     "published": "2026-10-16T18:00:47+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "\"우크라軍 스타실드 장애, 의도된 것이었다…백악관이 지시\"",
+     "url": "https://www.yna.co.kr/view/AKR20261016177200071",
+     "published": "2026-10-16T14:10:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "인텔리빅스, 30일 코스닥 상장…13년 연속 흑자",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "AI타임스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "AI타임스",
+     "title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216333",
+     "published": "2026-10-16T16:25:25+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "인텔리빅스, 30일 코스닥 상장…13년 연속 흑자",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aV2xaOGQwZ3o4a2M4ZTRIeTNsVF93aUZNdTU0SzlOQTltUjNCX0owaHRtS0lXcWN5Z0lld25FNDBOaGd6ZWFqU1FYbG8yY2lRVElfanl1UGdLTmpaRURUbk9XcHhrUkU?oc=5",
+     "published": "2026-10-16T06:08:00+00:00"
     }
    ],
    "factcheck": null,
@@ -977,164 +1043,164 @@
   }
  ],
  "market": {
-  "fetched_at": "2026-10-16T06:59:21.284541+09:00",
+  "fetched_at": "2026-10-17T06:56:59.899468+09:00",
   "groups": {
    "지수": [
     {
      "ticker": "^KS11",
      "name": "코스피",
-     "value": 6008.81005859375,
-     "change": -26.5400390625,
-     "pct": -0.43974315711704515,
-     "date": "2026-10-14"
+     "value": 5554.22021484375,
+     "change": -454.58984375,
+     "pct": -7.565388809384133,
+     "date": "2026-10-15"
     },
     {
      "ticker": "^KQ11",
      "name": "코스닥",
-     "value": 823.8800048828125,
-     "change": -13.1500244140625,
-     "pct": -1.571033768658081,
-     "date": "2026-10-14"
+     "value": 760.8200073242188,
+     "change": -63.05999755859375,
+     "pct": -7.654026943834291,
+     "date": "2026-10-15"
     },
     {
      "ticker": "^GSPC",
      "name": "S&P 500",
-     "value": 7744.06005859375,
-     "change": 25.1201171875,
-     "pct": 0.3254348055326872,
-     "date": "2026-10-15"
+     "value": 7659.43994140625,
+     "change": -84.6201171875,
+     "pct": -1.0927099809045937,
+     "date": "2026-10-16"
     },
     {
      "ticker": "^IXIC",
      "name": "나스닥",
-     "value": 26713.025390625,
-     "change": 20.15625,
-     "pct": 0.07551174020976603,
-     "date": "2026-10-15"
+     "value": 26140.033203125,
+     "change": -572.99609375,
+     "pct": -2.1450060469818455,
+     "date": "2026-10-16"
     },
     {
      "ticker": "^DJI",
      "name": "다우",
-     "value": 52177.69140625,
-     "change": 556.2109375,
-     "pct": 1.0774796314428015,
-     "date": "2026-10-15"
+     "value": 52002.41015625,
+     "change": -175.28125,
+     "pct": -0.33593140147822886,
+     "date": "2026-10-16"
     },
     {
      "ticker": "^SOX",
      "name": "필라델피아 반도체",
-     "value": 11581.21484375,
-     "change": -103.1650390625,
-     "pct": -0.8829312303877956,
-     "date": "2026-10-15"
+     "value": 11137.287109375,
+     "change": -443.9228515625,
+     "pct": -3.833130157037279,
+     "date": "2026-10-16"
     },
     {
      "ticker": "^N225",
      "name": "닛케이 225",
-     "value": 67744.2890625,
-     "change": -33.234375,
-     "pct": -0.049034507775491676,
-     "date": "2026-10-14"
+     "value": 64425.94921875,
+     "change": -3318.33984375,
+     "pct": -4.8983314898891965,
+     "date": "2026-10-15"
     },
     {
      "ticker": "000001.SS",
      "name": "상하이종합",
-     "value": 3767.22705078125,
-     "change": -33.637939453125,
-     "pct": -0.8850074796013963,
-     "date": "2026-10-14"
+     "value": 3707.47607421875,
+     "change": -59.7509765625,
+     "pct": -1.586073144970357,
+     "date": "2026-10-15"
     }
    ],
    "환율·금리": [
     {
      "ticker": "KRW=X",
      "name": "원/달러",
-     "value": 1341.18994140625,
-     "change": 0.8798828125,
-     "pct": 0.06564770642869533,
-     "date": "2026-10-15"
+     "value": 1334.199951171875,
+     "change": -6.75,
+     "pct": -0.5033744916505656,
+     "date": "2026-10-17"
     },
     {
      "ticker": "JPYKRW=X",
      "name": "원/100엔",
-     "value": 846.7000007629395,
-     "change": 0.16994476318359375,
-     "pct": 0.0200754553224769,
-     "date": "2026-10-15"
+     "value": 842.3000335693359,
+     "change": -5.749320983886719,
+     "pct": -0.6779465078321611,
+     "date": "2026-10-16"
     },
     {
      "ticker": "EURKRW=X",
      "name": "원/유로",
-     "value": 1503.9000244140625,
-     "change": 3.97998046875,
-     "pct": 0.2653461752722075,
-     "date": "2026-10-15"
+     "value": 1498.9000244140625,
+     "change": -0.25,
+     "pct": -0.016676116194425106,
+     "date": "2026-10-16"
     },
     {
      "ticker": "DX-Y.NYB",
      "name": "달러인덱스",
-     "value": 102.00499725341797,
-     "change": -0.5450057983398438,
-     "pct": -0.5314537124536001,
-     "date": "2026-10-15"
+     "value": 101.77899932861328,
+     "change": -0.22100067138671875,
+     "pct": -0.2166673248889417,
+     "date": "2026-10-16"
     },
     {
      "ticker": "^TNX",
      "name": "미 국채 10년(%)",
-     "value": 5.0889997482299805,
-     "change": -0.10100030899047852,
-     "pct": -1.9460560284573436,
-     "date": "2026-10-15"
+     "value": 5.0980000495910645,
+     "change": 0.008999824523925781,
+     "pct": 0.1768485778325335,
+     "date": "2026-10-16"
     },
     {
      "ticker": "^VIX",
      "name": "VIX 변동성",
-     "value": 16.459999084472656,
-     "change": -0.4100017547607422,
-     "pct": -2.4303600140151094,
-     "date": "2026-10-15"
+     "value": 19.989999771118164,
+     "change": 3.530000686645508,
+     "pct": 21.44593489057658,
+     "date": "2026-10-16"
     }
    ],
    "원자재": [
     {
      "ticker": "CL=F",
      "name": "WTI 원유",
-     "value": 96.12000274658203,
-     "change": 1.0300064086914062,
-     "pct": 1.0831911329888033,
-     "date": "2026-10-15"
+     "value": 99.04000091552734,
+     "change": 1.0699996948242188,
+     "pct": 1.0921707476697629,
+     "date": "2026-10-16"
     },
     {
      "ticker": "BZ=F",
      "name": "브렌트유",
-     "value": 105.7300033569336,
-     "change": -0.32999420166015625,
-     "pct": -0.311139175236963,
-     "date": "2026-10-15"
+     "value": 109.69000244140625,
+     "change": 3.7700042724609375,
+     "pct": 3.559294125409318,
+     "date": "2026-10-16"
     },
     {
      "ticker": "GC=F",
      "name": "금",
-     "value": 4192.5,
-     "change": 84.60009765625,
-     "pct": 2.059448858721735,
-     "date": "2026-10-15"
+     "value": 4186.7001953125,
+     "change": 16.60009765625,
+     "pct": 0.3980743211794868,
+     "date": "2026-10-16"
     },
     {
      "ticker": "SI=F",
      "name": "은",
-     "value": 57.60499954223633,
-     "change": 2.0550003051757812,
-     "pct": 3.699370537173241,
-     "date": "2026-10-15"
+     "value": 57.1349983215332,
+     "change": 0.29799652099609375,
+     "pct": 0.5243002121080975,
+     "date": "2026-10-16"
     },
     {
      "ticker": "HG=F",
      "name": "구리",
-     "value": 6.5625,
-     "change": -0.048999786376953125,
-     "pct": -0.7411296674003864,
-     "date": "2026-10-15"
+     "value": 6.561999797821045,
+     "change": 0.050499916076660156,
+     "pct": 0.7755496735589507,
+     "date": "2026-10-16"
     }
    ]
   },
@@ -1142,40 +1208,40 @@
    {
     "name": "비트코인",
     "id": "bitcoin",
-    "usd": 82346,
-    "krw": 110473190,
-    "pct": 0.7887844323020832
+    "usd": 81607,
+    "krw": 108924377,
+    "pct": -0.8346500361816263
    },
    {
     "name": "이더리움",
     "id": "ethereum",
-    "usd": 2458.29,
-    "krw": 3297973,
-    "pct": 1.6568280282928252
+    "usd": 2414.69,
+    "krw": 3222978,
+    "pct": -1.7365872087440348
    },
    {
     "name": "솔라나",
     "id": "solana",
-    "usd": 105.91,
-    "krw": 142091,
-    "pct": 1.2339730280237766
+    "usd": 104.13,
+    "krw": 138984,
+    "pct": -1.66224574801467
    },
    {
     "name": "리플",
     "id": "ripple",
-    "usd": 1.34,
-    "krw": 1797.57,
-    "pct": 0.47514189583764255
+    "usd": 1.3,
+    "krw": 1741.74,
+    "pct": -2.579583006942029
    }
   ],
-  "kimchi_premium": 0.6015603930500157,
+  "kimchi_premium": 1.3950622810792401,
   "flows": null
  },
  "stats": {
-  "collected": 1835,
-  "outlets": 61,
-  "verified_stories": 60,
+  "collected": 1736,
+  "outlets": 67,
+  "verified_stories": 59,
   "dropped_by_factcheck": 0,
-  "seconds": 26
+  "seconds": 7
  }
 }
