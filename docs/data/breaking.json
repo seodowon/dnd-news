@@ -1,5 +1,19 @@
 [
  {
+  "id": "39fd82097c",
+  "time": "2026-10-18T21:30:00+00:00",
+  "title": "\"빚내서 버텼는데\"…코스피 급락에 하루 800억씩 강제 청산[간추린 주말 뉴스]",
+  "ko": "\"빚내서 버텼는데\"…코스피 급락에 하루 800억씩 강제 청산[간추린 주말 뉴스]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261018_0003830650",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "d86bffaac3",
   "time": "2026-10-18T21:05:01+00:00",
   "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
@@ -226,6 +240,22 @@
   ]
  },
  {
+  "id": "744bcfe9a2",
+  "time": "2026-10-18T20:20:55+00:00",
+  "title": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
+  "ko": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
+  "lang": "en",
+  "outlet": "CNN",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUW9SNFdwd2NrazFkOFQ5UzNZdkhZUTlsZzJZdGV1RXBXNndfSGtpcnBtWGpsOXZOQi1VTXNqWDNrWmdaZzVUeURLYXhEX2NJelpoUnF0NGwyM09UZVo4WGNobEFyWF9mbjh6aTRVaThpYlh3b0FGQnJB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "f1b7c2bb15",
   "time": "2026-10-18T20:20:20+00:00",
   "title": "\"AI 투자붐, 과거와 다르지 않다\"…WSJ '과잉투자' 경고",
@@ -425,6 +455,22 @@
   "lang": "en",
   "outlet": "New York Times",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNLaGNVSDM0SU1CNzVhYno0enNZeDY5cU5XX20yZWhfdjNIMGxTVmFzTEJldGpNRHRwTlVzbExZSFJxRUk3ZFI3ZUx6aENQV0RRLTRIOXVNb0Y1ajVmNU5PWThmV2szQU96dVlqSnduMEJDMC1XNjU2QjdFWkJLSXZOUVFYNW1yNGVvZUxNMExOQjBkejVKTENSaw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6a91f5f3ac",
+  "time": "2026-10-18T19:11:55+00:00",
+  "title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+  "ko": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxremMtZWRIWXJmdkVCanBSS0JxNE44a3BaUjJPdi1BM1dueGJFczhNSjI3Qi1jTXBtTXEwejQyZnZFNHFFTk15Qk85dEVwWFZScGZZM1dzS1o3UTZ6NVZyYjFfeUxtX2VUY01vS2hBMjl6OVY0Um1QOUdsNWQ5NEk0T2FTeTl5NmFtLUJ3NTRLZVd2czc2SA?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -6056,51 +6102,5 @@
    "연합뉴스",
    "파이낸셜뉴스"
   ]
- },
- {
-  "id": "84050612b3",
-  "time": "2026-10-16T22:41:56+00:00",
-  "title": "트럼프 경합지역 조지아주에서 공화당 후보 지원 유세",
-  "ko": "트럼프 경합지역 조지아주에서 공화당 후보 지원 유세",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829838",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "52a68aac29",
-  "time": "2026-10-16T22:38:00+00:00",
-  "title": "5 days of Katie Zacharia: The rapid fall of Trump’s ‘lawyer’ press secretary",
-  "ko": "5 days of Katie Zacharia: The rapid fall of Trump’s ‘lawyer’ press secretary",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVhwZVFxZjBad3VVdmFDZ3VSTHJ1ck5IeDZqVllqeTlXQzNjbEtmMkczNXlYcjdKc0pMUzl6ZXVrQWF0WmtHZnE4LTlnNzlWTU8ydEdaTjRWaUxiQVBicG1QczlVUmZ6aksxYVlBOERFbUdlb01iLWl3OWdMV0syVmlTdE5IZjFIcXV2eGVVTjZ5N3llV284TjNR0gGfAUFVX3lxTFBaQlRaemJZQU1fSjBqZHVCbG5hWUZYY2pNV1BITV9XX2xVQUd5S2x5OTJDbVpMMmNPWGlsc2FXLXFDXzZENlVMMm1xTmlVMzREakM4UFRRTUtkdFlBTjdsY3ZOZVB6RjhXQkp2cy1Ub0hnbDVNaU9VMnZCYWhPcmRhbnZ2a0t1cjZ6TE9MZW1fUEh1Tk1mVUJ4YnNRanEzbw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "99185591f4",
-  "time": "2026-10-16T22:34:15+00:00",
-  "title": "[진주소식]저작권박물관, '웃으면 복이와요' AI 재현 영상 등",
-  "ko": "[진주소식]저작권박물관, '웃으면 복이와요' AI 재현 영상 등",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829839",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
  }
 ]

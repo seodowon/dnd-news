@@ -1,5 +1,19 @@
 [
  {
+  "id": "39fd82097c",
+  "time": "2026-10-18T21:30:00+00:00",
+  "title": "\"빚내서 버텼는데\"…코스피 급락에 하루 800억씩 강제 청산[간추린 주말 뉴스]",
+  "ko": "\"빚내서 버텼는데\"…코스피 급락에 하루 800억씩 강제 청산[간추린 주말 뉴스]",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261018_0003830650",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "d86bffaac3",
   "time": "2026-10-18T21:05:01+00:00",
   "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
@@ -226,6 +240,22 @@
   ]
  },
  {
+  "id": "744bcfe9a2",
+  "time": "2026-10-18T20:20:55+00:00",
+  "title": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
+  "ko": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
+  "lang": "en",
+  "outlet": "CNN",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUW9SNFdwd2NrazFkOFQ5UzNZdkhZUTlsZzJZdGV1RXBXNndfSGtpcnBtWGpsOXZOQi1VTXNqWDNrWmdaZzVUeURLYXhEX2NJelpoUnF0NGwyM09UZVo4WGNobEFyWF9mbjh6aTRVaThpYlh3b0FGQnJB?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "f1b7c2bb15",
   "time": "2026-10-18T20:20:20+00:00",
   "title": "\"AI 투자붐, 과거와 다르지 않다\"…WSJ '과잉투자' 경고",
@@ -425,6 +455,22 @@
   "lang": "en",
   "outlet": "New York Times",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNLaGNVSDM0SU1CNzVhYno0enNZeDY5cU5XX20yZWhfdjNIMGxTVmFzTEJldGpNRHRwTlVzbExZSFJxRUk3ZFI3ZUx6aENQV0RRLTRIOXVNb0Y1ajVmNU5PWThmV2szQU96dVlqSnduMEJDMC1XNjU2QjdFWkJLSXZOUVFYNW1yNGVvZUxNMExOQjBkejVKTENSaw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6a91f5f3ac",
+  "time": "2026-10-18T19:11:55+00:00",
+  "title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+  "ko": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxremMtZWRIWXJmdkVCanBSS0JxNE44a3BaUjJPdi1BM1dueGJFczhNSjI3Qi1jTXBtTXEwejQyZnZFNHFFTk15Qk85dEVwWFZScGZZM1dzS1o3UTZ6NVZyYjFfeUxtX2VUY01vS2hBMjl6OVY0Um1QOUdsNWQ5NEk0T2FTeTl5NmFtLUJ3NTRLZVd2czc2SA?oc=5",
   "section": "people",
   "people": [
    "트럼프"
@@ -6391,64 +6437,6 @@
   "outlet": "연합뉴스",
   "url": "https://www.yna.co.kr/view/AKR20261017007300504",
   "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b63f6eb4a6",
-  "time": "2026-10-16T21:30:00+00:00",
-  "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-  "ko": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d9e1e8f2e7",
-  "time": "2026-10-16T21:26:05+00:00",
-  "title": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
-  "ko": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261017005151072",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "458fcf2d7e",
-  "time": "2026-10-16T21:26:00+00:00",
-  "title": "Trump to campaign in Michigan",
-  "ko": "Trump to campaign in Michigan",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3VwejhncGhndzJGV20yWngzTkdTaUtta3IzYUEtc1YxMTg3US02OXVFOUtQVWVtUkVnU09rek0tVk4yZl92WENZOEhuUTNGRmcyS3dnQTNMaXI0c3VuWVBtc3NoY2tiMHFKZFZGSGx3SEZDOVFPeUY1M1dxcmlTbWJSS3FoaUFxR2NIeC1n0gGTAUFVX3lxTE96THNpMWo2YzlfNWZmMkYwZUY5dmpTM2FEbk9MYm1mSlpiRkJjYWdKdFFVT3k5YWNBM1dWLVNrYUZxSTNtdU5OSVdiY1UtcVNVUTc3SXBjcEt2aWR6Z3hmNkZGajZQR3puaXdIX3V3YjFLSXRkZnRXV0xjOEtLNV8xb0tBdU9Mbjh2dVMtM2pYMFBpRQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a3c70eac60",
-  "time": "2026-10-16T21:21:00+00:00",
-  "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-  "ko": "New SEC rules would fleece everyday investors to enrich Wall Street",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-  "section": "global",
   "people": [],
   "flash": false,
   "official": false,
