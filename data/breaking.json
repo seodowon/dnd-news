@@ -1,5 +1,575 @@
 [
  {
+  "id": "b7f990a94d",
+  "time": "2026-10-18T23:30:44+00:00",
+  "title": "[속보]美반도체 약세 삼전닉스 프리마켓 6%대 급락",
+  "ko": "[속보]美반도체 약세 삼전닉스 프리마켓 6%대 급락",
+  "lang": "ko",
+  "outlet": "문화일보",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0c094UDc1cWcwYWVWcXNESHhyRzlGNEJzRlNsYVhHX3o2RGwydHBOUExRVFBiS2lGVF9BMkxOcThrRFlFNVZZbTZicXdQRDlY?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "5446b885f5",
+  "time": "2026-10-18T23:30:14+00:00",
+  "title": "이노테크, SEDEX 참가…반도체 신뢰성 시험장비 소개",
+  "ko": "이노테크, SEDEX 참가…반도체 신뢰성 시험장비 소개",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830826",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "14daea5c78",
+  "time": "2026-10-18T23:29:00+00:00",
+  "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
+  "ko": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3f32f4a5d0",
+  "time": "2026-10-18T23:25:19+00:00",
+  "title": "셀트리온, 환율 하락에도 4분기 매출 목표 자신...주주 서한 통해 밝혀",
+  "ko": "셀트리온, 환율 하락에도 4분기 매출 목표 자신...주주 서한 통해 밝혀",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190823363640",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5d0e81b00d",
+  "time": "2026-10-18T23:24:59+00:00",
+  "title": "Don't fall for this - how to protect yourself from AI scams",
+  "ko": "Don't fall for this - how to protect yourself from AI scams",
+  "lang": "en",
+  "outlet": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9a2bad5648",
+  "time": "2026-10-18T23:19:33+00:00",
+  "title": "\"미국 데이터센터 47건 차질…AI 인프라 붐 균열",
+  "ko": "\"미국 데이터센터 47건 차질…AI 인프라 붐 균열",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261019014800009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5213af6d17",
+  "time": "2026-10-18T23:18:51+00:00",
+  "title": "\"35억 찍고 2억 남았다\"…삼성전자 투자한 직장인 손실 고백",
+  "ko": "\"35억 찍고 2억 남았다\"…삼성전자 투자한 직장인 손실 고백",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190807483922",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e5c0db447e",
+  "time": "2026-10-18T23:16:19+00:00",
+  "title": "이나인페이, 코스닥 상장예비심사 승인",
+  "ko": "이나인페이, 코스닥 상장예비심사 승인",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830817",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5ecc270f3a",
+  "time": "2026-10-18T23:13:57+00:00",
+  "title": "씨앤엠, 증권신고서 제출…내달 코스닥 상장 목표",
+  "ko": "씨앤엠, 증권신고서 제출…내달 코스닥 상장 목표",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830807",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9bafe9a9de",
+  "time": "2026-10-18T23:11:31+00:00",
+  "title": "뱅크웨어글로벌, 거래소 스마트워크시스템 운영·유지보수 사업 수주",
+  "ko": "뱅크웨어글로벌, 거래소 스마트워크시스템 운영·유지보수 사업 수주",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830802",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e08fcb89db",
+  "time": "2026-10-18T23:11:17+00:00",
+  "title": "Michele Tafoya tries to distance herself from Trump as U.S. Senate race tightens",
+  "ko": "Michele Tafoya tries to distance herself from Trump as U.S. Senate race tightens",
+  "lang": "en",
+  "outlet": "CBS News",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0NZV3lHVXphZDhRNXk4RDByeG9GS3VSc0hteU56RWFleGhNdml5bFRkWVIyY2pZVkZfdEpXRUY2OGdDU0lXbjF6MTFRRmdfclh0eGdlZnE3QXkzQXBlNGNYbmxOY095Zl9DSVJPT1RGVlZKNUJCNG54NzBtZnRiYVE3enZFNjQ3N0tteQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6389e3970d",
+  "time": "2026-10-18T23:11:05+00:00",
+  "title": "심플랫폼, 말레이시아 산업 AI 서밋 개최",
+  "ko": "심플랫폼, 말레이시아 산업 AI 서밋 개최",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830800",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "abe1f753fe",
+  "time": "2026-10-18T23:08:09+00:00",
+  "title": "[속보] 美 'AI쇼크'에 삼성전자·SK하이닉스 프리장 5%대 급락",
+  "ko": "[속보] 美 'AI쇼크'에 삼성전자·SK하이닉스 프리장 5%대 급락",
+  "lang": "ko",
+  "outlet": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2dweEp6Slk5TWc4MlpzN2xlQ0VIZmtSRVJtcGJJUTZzQ3ZBNkFsZlF3VVBaRzQ2aE1CUFVmZ19salRHdnNLOVI1dnUydDhCOEJMRmtib3pybTB1cFNRbEN1MGdxVzFhajEzM1FlTlZsUmxqbmZYdDJVakJxN2ktUw?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "df35e860f9",
+  "time": "2026-10-18T23:08:03+00:00",
+  "title": "美 반도체 약세에 삼전·닉스 프리마켓서 6%대 급락",
+  "ko": "美 반도체 약세에 삼전·닉스 프리마켓서 6%대 급락",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830790",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "문화일보"
+  ]
+ },
+ {
+  "id": "83b1bfa871",
+  "time": "2026-10-18T23:07:40+00:00",
+  "title": "트럼프 측근 공화 의원, 한미 관계 \"재설정하고 있어…부부상담 중\"",
+  "ko": "트럼프 측근 공화 의원, 한미 관계 \"재설정하고 있어…부부상담 중\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830739",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "092277c8ed",
+  "time": "2026-10-18T23:03:45+00:00",
+  "title": "K배터리 3사 실적 희비…LG엔솔 '최대', 삼성SDI '흑자', SK온 '적자'",
+  "ko": "K배터리 3사 실적 희비…LG엔솔 '최대', 삼성SDI '흑자', SK온 '적자'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190759088166",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "05207a3d15",
+  "time": "2026-10-18T23:00:00+00:00",
+  "title": "Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine’s Fate",
+  "ko": "Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine’s Fate",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3JSS1cwX2ZZSWhRMFl2SmpfZjdadXF2U3NhRjRmUDNNQ2ZiRXg0bjI0WmdZYXYxd3NNeHlQNUJYRS03eV90Q1hMMXlQU1ZUMm1IRGhDc2dLajdXdTNVWVBodlNpemNneU9BU2o5MVFJUTVuODRtYzBqRTREUFp4a0hrRHlMSkczQ3R6U3R0V3RMYldsTFRmUUJiMEd4eEtLRjd2eEtaWkM?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "93a37cd70f",
+  "time": "2026-10-18T22:57:46+00:00",
+  "title": "[마켓뷰] 코스피, 반등했지만 다시 시험대로…美 증시 동반 하락",
+  "ko": "[마켓뷰] 코스피, 반등했지만 다시 시험대로…美 증시 동반 하락",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261019014000008",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c81ef84c96",
+  "time": "2026-10-18T22:50:22+00:00",
+  "title": "트럼프 \"내 대러 결정은 간단…종전협상서 러 떠나길 원치 않아\"",
+  "ko": "트럼프 \"내 대러 결정은 간단…종전협상서 러 떠나길 원치 않아\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190746161691",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "a97bfd4050",
+  "time": "2026-10-18T22:47:57+00:00",
+  "title": "앤트로픽, 주식 5% 공익 기금에…\"기업 성장하면 추가 기부\"",
+  "ko": "앤트로픽, 주식 5% 공익 기금에…\"기업 성장하면 추가 기부\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830738",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "31da59e456",
+  "time": "2026-10-18T22:39:04+00:00",
+  "title": "[오늘의 증시]美 AI·반도체 급락 쇼크에…코스피 다시 위기감 고조",
+  "ko": "[오늘의 증시]美 AI·반도체 급락 쇼크에…코스피 다시 위기감 고조",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830732",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "03746e3173",
+  "time": "2026-10-18T22:31:01+00:00",
+  "title": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림'",
+  "ko": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261016152800003",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "30d1e6ab87",
+  "time": "2026-10-18T22:24:51+00:00",
+  "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+  "ko": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4da6386770",
+  "time": "2026-10-18T22:20:24+00:00",
+  "title": "D램값 오르는데 반도체주는 급락…금리·원가 부담에 커진 AI 투자 공포",
+  "ko": "D램값 오르는데 반도체주는 급락…금리·원가 부담에 커진 AI 투자 공포",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190716184038",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "016d38a13c",
+  "time": "2026-10-18T22:19:58+00:00",
+  "title": "트럼프 \"내 대러 결정은 간단…종전협상서 러 떠나길 원치 않아\"",
+  "ko": "트럼프 \"내 대러 결정은 간단…종전협상서 러 떠나길 원치 않아\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261019007500071",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "527845d104",
+  "time": "2026-10-18T22:09:14+00:00",
+  "title": "[주간뉴욕증시] 메타·테슬라·스페이스X 실적 발표…AI 투심은?",
+  "ko": "[주간뉴욕증시] 메타·테슬라·스페이스X 실적 발표…AI 투심은?",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830716",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f2a9c574bd",
+  "time": "2026-10-18T22:06:01+00:00",
+  "title": "WSJ, AI 투자 거품 경고…\"이번에도 과거와 다르지 않다\"",
+  "ko": "WSJ, AI 투자 거품 경고…\"이번에도 과거와 다르지 않다\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261019_0003830719",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ee559f9224",
+  "time": "2026-10-18T22:00:42+00:00",
+  "title": "Trump’s approval rating slips again, and a deadly incident at a youth soccer game: Weekend Rundown",
+  "ko": "Trump’s approval rating slips again, and a deadly incident at a youth soccer game: Weekend Rundown",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVbEQ5NmxHWFA1dE55c3N5dXdwWGg5NWhSdjd6OF9wQ2NERG5fS0FnTGdfejVFZ2J6b2U2cF92bU1MbjdINmljbC1yVTFxaWJFdkdBRG56SXBUNDhrYUt0UENMeGRlQUdUanNBb3ozX1JTNHpnRlg5UTFIVG9IQ2c?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e3e170199e",
+  "time": "2026-10-18T22:00:03+00:00",
+  "title": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환",
+  "ko": "급락장에 ETF 순위 '지각변동'…TIGER, KODEX 제치고 1위 탈환",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261017024200008",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "73e8b71769",
+  "time": "2026-10-18T22:00:00+00:00",
+  "title": "\"종속은 없다\" 아마존, 메타 AI 차단…유통 공룡들의 엇갈린 AI 셈법",
+  "ko": "\"종속은 없다\" 아마존, 메타 AI 차단…유통 공룡들의 엇갈린 AI 셈법",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261013_0003823240",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9f4d6c0e19",
+  "time": "2026-10-18T21:49:41+00:00",
+  "title": "앤스로픽, 지분 5% 공익기금에 추가 출연…\"AI 일자리 충격 대응\"",
+  "ko": "앤스로픽, 지분 5% 공익기금에 추가 출연…\"AI 일자리 충격 대응\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190645415204",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "32aa40d20c",
+  "time": "2026-10-18T21:44:00+00:00",
+  "title": "Trump says DC golf course ‘restoration’ to start despite judge’s order to pause plans",
+  "ko": "Trump says DC golf course ‘restoration’ to start despite judge’s order to pause plans",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1NhS1lmelhfS2hqNDhMejlnVjVfeWNnQjBjZ3phTUJsMHlVcWlBM095aC1EWnU0TnZKdmtRek5mZHZUMnk1OG55Y2lJRDBVTVRldDZWTUNObmJGMTFCbHV6RE1vVjNQRkdoRmdQQnFGTjhZVGgxaEozRERsQlpqM3drR1B6QQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Reuters"
+  ]
+ },
+ {
+  "id": "adf9dcaf08",
+  "time": "2026-10-18T21:43:29+00:00",
+  "title": "치고받는 트럼프와 젤렌스키.... \"미국이 우크라이나에 러시아에 대한 항복 압박\" 반발",
+  "ko": "치고받는 트럼프와 젤렌스키.... \"미국이 우크라이나에 러시아에 대한 항복 압박\" 반발",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190634188065",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3d0ed37850",
+  "time": "2026-10-18T21:39:09+00:00",
+  "title": "Trump waives Russia sanctions. Where does that leave Congress?",
+  "ko": "Trump waives Russia sanctions. Where does that leave Congress?",
+  "lang": "en",
+  "outlet": "NPR",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzZnOXo0MGJHMmxPOXl1RE1NMFB1OXA1RFFrenNzUTQyZkJSb0dwSlEwRmQwdDdJOUQ4M252MzBkUGxkdFpRVjFRNDIwYkV0aV9TVFF1TGNwcjhtZVlraGprUTc0eWpBWWNFbUhiczZzc0VfOEVSMmVPaUtTS18xdHBQUWcxNHVhQjdqNS1IVXF6OV9HVXVkc1hHdEd2WDhvTFhrUDdrZEI?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f1c23cbfec",
+  "time": "2026-10-18T21:34:30+00:00",
+  "title": "거래소 대주주 지분 규제, 기업들 구조 재편 불가피한가[엠블록레터]",
+  "ko": "거래소 대주주 지분 규제, 기업들 구조 재편 불가피한가[엠블록레터]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12179141",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fde2f02c6e",
+  "time": "2026-10-18T21:33:22+00:00",
+  "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
+  "ko": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDTDFtaFZxWmIwTmhQVGZFYk56NG9oZkRzaThDakp2WFVpY0Z3NGNnYl8xZ2E0aUQwamxNUjJMSkQ4WXZsc1RkZ2pxS3JVaGxLeFAweDZfVmk0OXVhLW1RMG45MkNKYUxfVGkyV2ZaeGFHbmI0ZVFpaGxPWFLSAXxBVV95cUxQQ0wxbWhWcVpiME5oUFRmRWJOejRvaGZEc2k4Q2pKdlhVaWNGdzRjZ2JfMWdhNGlEMGpsTVIyTEpEOFl2bHNUZGdqcUtyVWhsS3hQMHg2X1ZpNDl1YS1tUTBuOTJDSmFMX1RpMldmWnhhR25iNGVRaWhsT1hS?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2fcc568bd8",
+  "time": "2026-10-18T21:33:15+00:00",
+  "title": "트럼프 지지율 최저치.... WP·ABC 여론조사서 33% 석달 전보다 4%p 하락",
+  "ko": "트럼프 지지율 최저치.... WP·ABC 여론조사서 33% 석달 전보다 4%p 하락",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610190623291246",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3e15cc8599",
+  "time": "2026-10-18T21:30:03+00:00",
+  "title": "코스피 새파랗게 질린 날…혼자 13% 뛴 종목 있었다 [종목+]",
+  "ko": "코스피 새파랗게 질린 날…혼자 13% 뛴 종목 있었다 [종목+]",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026101658136",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "39fd82097c",
   "time": "2026-10-18T21:30:00+00:00",
   "title": "\"빚내서 버텼는데\"…코스피 급락에 하루 800억씩 강제 청산[간추린 주말 뉴스]",
@@ -9,6 +579,38 @@
   "url": "https://www.newsis.com/view/NISX20261018_0003830650",
   "section": "kr",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "36e85797e9",
+  "time": "2026-10-18T21:28:33+00:00",
+  "title": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
+  "ko": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261019006800009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "b1078cb92e",
+  "time": "2026-10-18T21:25:00+00:00",
+  "title": "Trump’s Overtures to Putin Put Republican Candidates in Hot Seat",
+  "ko": "Trump’s Overtures to Putin Put Republican Candidates in Hot Seat",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJyZFpQelZGNHNDOGVxZzVDV0hrVGl4WnBSeWg0SThoLWZaLWZZd2JSQ1Q1dGdJNVJjZEhhTlZBdDNRZ1Z5ZXUzU1kzWE5VNlMxOGNIUEh4NGlkdUM2dUw3TDEzVWVScHdhTUtwZDA4WjV0Mkw1X2psNy0tQnoxVGVIVnI3Nmx5NDR3MkdweU9SNjRyWWUxOTYxeV9MWmsyNWFvNFJNaTB2SmVL?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -691,7 +1293,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "The Guardian"
+  ]
  },
  {
   "id": "3cde5d3ae4",
@@ -5569,10 +6173,7 @@
   ],
   "flash": false,
   "official": false,
-  "also": [
-   "뉴시스",
-   "연합뉴스"
-  ]
+  "also": []
  },
  {
   "id": "f799ead5c6",
@@ -5763,7 +6364,6 @@
   "flash": true,
   "official": false,
   "also": [
-   "연합뉴스",
    "파이낸셜뉴스"
   ]
  },
@@ -5851,10 +6451,7 @@
   ],
   "flash": false,
   "official": false,
-  "also": [
-   "뉴시스",
-   "연합뉴스"
-  ]
+  "also": []
  },
  {
   "id": "b785f6d5ff",
@@ -5900,544 +6497,6 @@
   "people": [
    "트럼프"
   ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7357b77544",
-  "time": "2026-10-16T23:24:00+00:00",
-  "title": "[속보]\"현대, 美 조지아주에 7486억 투자 발표\"…트럼프, 유세장서 자화자찬",
-  "ko": "[속보]\"현대, 美 조지아주에 7486억 투자 발표\"…트럼프, 유세장서 자화자찬",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OV0x0ZjROOTdrSERuYXhlVXEzTmhVQ0R2OWpOWnJNQmVYN1B5cXBmaVdJZ00wU3I1YW9va0RRMzJmeGlwSGlRMGZzcHJpRHlmR0NwdGtHYW5KbjhQamtxVG5PMUk2S3g3MmxLYQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ef1fffac98",
-  "time": "2026-10-16T23:20:06+00:00",
-  "title": "위기에 처한 산타 랠리…중간선거 끝나면 상승장 어떻게 [월가 백브리핑]",
-  "ko": "위기에 처한 산타 랠리…중간선거 끝나면 상승장 어떻게 [월가 백브리핑]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610177547i",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ce25064491",
-  "time": "2026-10-16T23:11:00+00:00",
-  "title": "Trump administration threatens California officials if noncitizens vote in midterms",
-  "ko": "Trump administration threatens California officials if noncitizens vote in midterms",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWxzRGo3enZ6NE9lcmZ5YW1qejg0OGNmckFld1NCVjZBeEp6c3RUczhZQTZIYjMtY1RWRmNFdkZweG1FVDBOaWtIRGtnZmV2VDVYVXdvMXpHckxpUHdITEtVOU5KS2htd1lUd0F0T0RhZVZWYlNINDJmc1VCWExFS185RlRoOXc0NTJTcWFaX1QxemNXSmI5cVYzTGNfZ1U0VXpuSWt2NG9sMHNqRnNIVlVhczlDaHc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "84e9d69f1e",
-  "time": "2026-10-16T23:06:22+00:00",
-  "title": "\"잘 키운 효자가 악재됐다\"…주가 급락에 개미들 '술렁' [분석+]",
-  "ko": "\"잘 키운 효자가 악재됐다\"…주가 급락에 개미들 '술렁' [분석+]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101775157",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "861e565fc0",
-  "time": "2026-10-16T23:03:18+00:00",
-  "title": "하루만에 끝난 데드캣 바운스, 'AI 피로 증후군' 증폭…전쟁·청산설까지 [김현석의 월스트리트나우]",
-  "ko": "하루만에 끝난 데드캣 바운스, 'AI 피로 증후군' 증폭…전쟁·청산설까지 [김현석의 월스트리트나우]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610177445i",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "73d7116947",
-  "time": "2026-10-16T23:00:15+00:00",
-  "title": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
-  "ko": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261016069000003",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4fe5076925",
-  "time": "2026-10-16T23:00:02+00:00",
-  "title": "'빚투' 부메랑…코스피 급락에 한주간 3천억원 강제청산",
-  "ko": "'빚투' 부메랑…코스피 급락에 한주간 3천억원 강제청산",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261016150700008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "중앙일보"
-  ]
- },
- {
-  "id": "fa6e51310f",
-  "time": "2026-10-16T23:00:00+00:00",
-  "title": "동탄·영통 넘어 분당까지…'북진'하는 반도체 머니",
-  "ko": "동탄·영통 넘어 분당까지…'북진'하는 반도체 머니",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261016_0003829629",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cd03be99c4",
-  "time": "2026-10-16T23:00:00+00:00",
-  "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-  "ko": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQelE3eGRzSWs4ZXZMOFhWcVhOYlg1T1JrcWk5Vks1VjFhVGhmbl9tVlBHbndKRlRDNmFfN25WTFZOOFdid3A1VU1HQlBkWndDVkhubEtFcUFLTEY1MXhlX2Z4UUVsakJ1RV9VM2Fqbm5JUVlzeVJnQWc2a3RoZjJ2VVlhVTU?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "82313858f7",
-  "time": "2026-10-16T22:57:43+00:00",
-  "title": "Oil hits five-month high of $110 on new escalation in Middle East",
-  "ko": "Oil hits five-month high of $110 on new escalation in Middle East",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b7636b611f",
-  "time": "2026-10-16T22:55:04+00:00",
-  "title": "최악의 일주일 나스닥 2.2%…AI 경고등에 유가 급등까지 [뉴욕증시 브리핑]",
-  "ko": "최악의 일주일 나스닥 2.2%…AI 경고등에 유가 급등까지 [뉴욕증시 브리핑]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026101775037",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a7a27c819f",
-  "time": "2026-10-16T22:52:41+00:00",
-  "title": "Sen. Susan Collins struggles to name a time she stopped Trump",
-  "ko": "Sen. Susan Collins struggles to name a time she stopped Trump",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkhJeUU1UktfeTJfVWRNT3V3T3liSWExR2xRdENvN19QVzFyN1dheVRvbFpRS0FBN005VXpSYUwyeWwzMFdTcmh3aGNpVThCUFRCMXRJM25LZzRHZmJnbUhIbmRnUlNHRW9mYmJEWXJuYkhPMlR2T0JFbWZpSlFYQjZGNHljVVd3LWp6UHQ4enUtQ0NmYmtEdXUxVWR2eEpqdzJnYzRnSk1NS2c?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b9664a541d",
-  "time": "2026-10-16T22:42:35+00:00",
-  "title": "트럼프 \"현대, 조지아 공장 확장 위해 7486억원 투자\"",
-  "ko": "트럼프 \"현대, 조지아 공장 확장 위해 7486억원 투자\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829835",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "84050612b3",
-  "time": "2026-10-16T22:41:56+00:00",
-  "title": "트럼프 경합지역 조지아주에서 공화당 후보 지원 유세",
-  "ko": "트럼프 경합지역 조지아주에서 공화당 후보 지원 유세",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829838",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "52a68aac29",
-  "time": "2026-10-16T22:38:00+00:00",
-  "title": "5 days of Katie Zacharia: The rapid fall of Trump’s ‘lawyer’ press secretary",
-  "ko": "5 days of Katie Zacharia: The rapid fall of Trump’s ‘lawyer’ press secretary",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVhwZVFxZjBad3VVdmFDZ3VSTHJ1ck5IeDZqVllqeTlXQzNjbEtmMkczNXlYcjdKc0pMUzl6ZXVrQWF0WmtHZnE4LTlnNzlWTU8ydEdaTjRWaUxiQVBicG1QczlVUmZ6aksxYVlBOERFbUdlb01iLWl3OWdMV0syVmlTdE5IZjFIcXV2eGVVTjZ5N3llV284TjNR0gGfAUFVX3lxTFBaQlRaemJZQU1fSjBqZHVCbG5hWUZYY2pNV1BITV9XX2xVQUd5S2x5OTJDbVpMMmNPWGlsc2FXLXFDXzZENlVMMm1xTmlVMzREakM4UFRRTUtkdFlBTjdsY3ZOZVB6RjhXQkp2cy1Ub0hnbDVNaU9VMnZCYWhPcmRhbnZ2a0t1cjZ6TE9MZW1fUEh1Tk1mVUJ4YnNRanEzbw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "99185591f4",
-  "time": "2026-10-16T22:34:15+00:00",
-  "title": "[진주소식]저작권박물관, '웃으면 복이와요' AI 재현 영상 등",
-  "ko": "[진주소식]저작권박물관, '웃으면 복이와요' AI 재현 영상 등",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829839",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8fa8d3b46c",
-  "time": "2026-10-16T22:30:04+00:00",
-  "title": "배당에 소각까지 다 퍼준다…실적 날개 단 '이 종목'",
-  "ko": "배당에 소각까지 다 퍼준다…실적 날개 단 '이 종목'",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610166333i",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a1a2463065",
-  "time": "2026-10-16T22:20:00+00:00",
-  "title": "Katie Zacharia’s five days as press secretary expose flaws in Trump’s TV-driven hiring",
-  "ko": "Katie Zacharia’s five days as press secretary expose flaws in Trump’s TV-driven hiring",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaldlY3BUXzhneFFEclcxYW5CWUxJeGVPY1VXd01NcGRCa0RGYUJOSU9SbENkR1N1NjlXbnBuZEttdHl5RU5JUWNITW90bzhaWURydjBqU0FKZEw0Nm15b0ttUkdvdE9pZmNYdUU4bmdkVUw5aUN1bncyM2VOeHRGZW5OUi1SQUhzU1c4V0R3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f5994df313",
-  "time": "2026-10-16T22:12:46+00:00",
-  "title": "北, 신형 어뢰무기 시험 발사…\"유도기능에 인공지능 기술 도입\"",
-  "ko": "北, 신형 어뢰무기 시험 발사…\"유도기능에 인공지능 기술 도입\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829837",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "62bad52a9c",
-  "time": "2026-10-16T22:09:05+00:00",
-  "title": "'He pins the wings': Why Elon Musk's ex says she refused his millions",
-  "ko": "'He pins the wings': Why Elon Musk's ex says she refused his millions",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUS1vM0hsal93cHpyMmdwX0s5OXU2WlR4VjNNU1NQSE5tclJkN2o0bjI4VzNIaTFBbmNBa29qMFJDbS00T3V0ZTV2M0pXb09jLWhTbUdQZzNESTlyLW9LZHoxeGoyVE9xU3FQdWtlam1veUk4dHF0MEEwbTRSZ0lja3lQU2Etem8ybk10V1hseXRFUFFLNlFGalRCQXlqZ1JLZVJaSjE0c29ZRVV6TWxJ?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b353e99f97",
-  "time": "2026-10-16T22:04:27+00:00",
-  "title": "Friday Round Table: Trump’s Rescue Mission",
-  "ko": "Friday Round Table: Trump’s Rescue Mission",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXVsdm82VE1lbEdtU3JudUdqY3BvTW9KSFNBX3NXeHp2ZGRLZnpodVRwTi1heFo3V0t1M3Rzd3N0Qlp4V1pBSTVqYXc5S1BmQ21NMnFudlZEV1hodHAwNjN2UnY0b0EwSFA1M1FtT3o0WVdVZFJyZGJHLXFnVUdNanVZbWE?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2a59f5079f",
-  "time": "2026-10-16T22:00:56+00:00",
-  "title": "트럼프 \"우크라 스타실드 제한, 내 지시 아냐\"(종합)",
-  "ko": "트럼프 \"우크라 스타실드 제한, 내 지시 아냐\"(종합)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261017_0003829818",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8f26f5d0e1",
-  "time": "2026-10-16T22:00:00+00:00",
-  "title": "\"반도체 만들 전기부터\"…삼성·SK, 발전 인프라 확보전 [에너지 발전 각자도생②]",
-  "ko": "\"반도체 만들 전기부터\"…삼성·SK, 발전 인프라 확보전 [에너지 발전 각자도생②]",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261016_0003829491",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e8576749a9",
-  "time": "2026-10-16T22:00:00+00:00",
-  "title": "Ashley St. Clair won’t be silenced by Elon Musk",
-  "ko": "Ashley St. Clair won’t be silenced by Elon Musk",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYy1GM0JraVFOaFdXTFRySEJJTU1MVmhtczltT2REaGdCTWp5TTVPcjRmN3VPWVZBbFotcXM1UGVWZlpFZHdoZFNsWnV4bFJod2hlcW5ZUVYxZWJISkRNenoyRy1nWS1fZDhIU1dqMjJ6azFFYS1CNjFEemlILVo1aTNBMzV4aC1ucGM0bENsSUo?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f21f020844",
-  "time": "2026-10-16T21:59:00+00:00",
-  "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-  "ko": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "efe9113383",
-  "time": "2026-10-16T21:58:00+00:00",
-  "title": "Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt",
-  "ko": "Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSThkVlA4a1BiZmExS0k4djM2cmEwaXliX2k5eUFnLU9qM2x6X0llMkU5QjhiNWxZLVI0SzF6Ykc5aEVVTTFydjF4MzgtVHJPRU10V2tFM0prSWRDVWJiU2pUaFNlLWo0eGd3dmtwNjFZYk1HLUVreW1rMzhKUDZ2Wm9FNzFFVnZGVE51REU1aWY?oc=5",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "470ca94cbf",
-  "time": "2026-10-16T21:56:00+00:00",
-  "title": "Appeals court appears skeptical of Trump’s attempt to shield presidential records",
-  "ko": "Appeals court appears skeptical of Trump’s attempt to shield presidential records",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHhEdGVaZjR4cnZmak9haWVLOTlZVXZjVG84ckVQMzJSMGF1YzNuZTZiVnlWWDNuLW10ZFVHVjkzN2NqbkxzaU5LdDMwc1J3bTV2R1dmTC1MVFVwNUpJdzhPalM2OVVQTGszVUdfQ1JxYVAyS2E4b09kTXExa0xZaG5JNFk0YllmeHFBNnBuTjhLQQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d023fa79b5",
-  "time": "2026-10-16T21:50:48+00:00",
-  "title": "트럼프 \"현대, 조지아주에 7천486억 투자 방금 발표\"",
-  "ko": "트럼프 \"현대, 조지아주에 7천486억 투자 방금 발표\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261017009000071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "557fa0c72c",
-  "time": "2026-10-16T21:50:09+00:00",
-  "title": "Trump administration loses bid to disqualify Susman Godfrey from lawyer group's lawsuit",
-  "ko": "Trump administration loses bid to disqualify Susman Godfrey from lawyer group's lawsuit",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0RwSk5ONnAyb2lUTHQyVm9Dd3RQdm8zNnpucUxJSms2WFhfakNmdlZHeG5UQXJXSmVKYV9aci16akk1bkZCdHFaZVFiZ3pOZjhrRjdUSWJjODE5azd0YXB1Y2o3ZmFSbkZUZzNRNFVPbEpzeW5sQ1JFcVJ5UG14NlF1TEVhM0pVM05xdk5oVEhDU0lIZjNEcm5FajdUVzNpUG9hS0JyYmZZLVc5Q2ZwdGhJZ1VMdjhUM0R3YVd0Z2ZmVkpsbUNISVY5cw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "729e51e6e7",
-  "time": "2026-10-16T21:49:13+00:00",
-  "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
-  "ko": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
-  "lang": "en",
-  "outlet": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGFhMFYtYWNmWUl1ZjZuUDdBSkJ2N3ZhRmVQSmhydlA2NU9yQWJyWWQ5YVpXV1dUcFdwMG5mRVR4cEVxczZNT21nSDJKQlBaaVRaVHV4SnRiNXc4cGxtMUlULTlDeS16T1g1MDcza2F3dUF0Z21HU3d0enFCeGZOMtIBhgFBVV95cUxNbUVaV2JESmp0V2lNMEgxTEt0RnhoN1pnUFVQZHoxWlVfQ2hTcEFORWg3cHlZZXN0Z3ZUQV9yejEzSFZER0VILWJFa1kxcHZWVDhQdkxGZ2taMXNVUGNnUUwwOEh3NU5Oclh0VENJVHA5b0xDVHhPVE1LRnQ2YVJuQTVCWS1PUQ?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eafcda1977",
-  "time": "2026-10-16T21:47:45+00:00",
-  "title": "Opinion | Another reason to be excited about Elon Musk’s flying car",
-  "ko": "Opinion | Another reason to be excited about Elon Musk’s flying car",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTl9DWkVDYWRkQ3R0Qmg3el8wV1BteFRDSDE0aXZ2ZndkeHk3ZUZrVEtxQXMxYmYySDhGYUpRX2xKRVFPcm9hMlZPRmFROHpfeHNVT1VKU3pheWxwelZnN200akV0TW9wZVpJZHRhbEtFN05Bby1xTldHeDVfTGVLUHpHNlgyNk1fX1ZfUU9wSUduRkJlLWhZQWZqYm11a1FIbWYteExkOTlHQ3k2ZmF3V05maw?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "40e9348042",
-  "time": "2026-10-16T21:47:04+00:00",
-  "title": "Appeals Court Questions Justice Dept. Claim that Trump Owns White House Records",
-  "ko": "Appeals Court Questions Justice Dept. Claim that Trump Owns White House Records",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2ZrNi1zYklUTXNyMFlEaWdZQ2wwR3A2eU93VnNybXBaRGJyanBGSUNlQk5mNkxzbDdYZkZIeV9KbU9OQ0VKbWRVemdONUhuWWx3azY2ZTZkR0gwY05sMDZYVzB3akpEbW52eUJ2Zkp6SnZpZ0k0aXNHeTA3SDFFX056MVZVN3ZHRE5ZWDEyYThkYVlFclZJ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1cad80ae82",
-  "time": "2026-10-16T21:35:00+00:00",
-  "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-  "ko": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bed2216f40",
-  "time": "2026-10-16T21:33:01+00:00",
-  "title": "[AI돋보기] AI 시대에 귀해진 '인간의 글'…헌책방 뒤지는 빅테크",
-  "ko": "[AI돋보기] AI 시대에 귀해진 '인간의 글'…헌책방 뒤지는 빅테크",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261016020500017",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9460c0e9ff",
-  "time": "2026-10-16T21:32:07+00:00",
-  "title": "北, 신형 초고속 정밀유도 어뢰 발사시험…\"인공지능 도입\"",
-  "ko": "北, 신형 초고속 정밀유도 어뢰 발사시험…\"인공지능 도입\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261017007300504",
-  "section": "ai",
-  "people": [],
   "flash": false,
   "official": false,
   "also": []
