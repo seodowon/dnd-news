@@ -1,23 +1,24 @@
 {
- "date": "2026-10-19",
- "generated_at": "2026-10-19T06:18:37.508895+09:00",
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T07:49:33.628870+09:00",
  "mode": "draft",
  "articles": [
   {
-   "headline": "IMF \"3저 호황 후 40년 만에 韓 잠재성장률 2년 연속 상승\"",
+   "headline": "중앙일보 인수 우선협상대상자에 ‘다우키움·CJ 컨소시엄’",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
+   "section": "global",
    "importance": 10,
    "outlets": [
     "경향신문",
-    "뉴시스",
-    "서울신문",
+    "머니투데이",
+    "블로터",
+    "아이뉴스24",
     "연합뉴스",
     "조선일보",
-    "한겨레",
+    "파이낸셜뉴스",
     "한국경제",
     "헤럴드경제"
    ],
@@ -26,45 +27,45 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "한겨레",
-     "title": "1986년 ‘3저 호황’ 40년 만…IMF, 한국 잠재성장률 2년 연속 상승 전망",
-     "url": "https://www.hani.co.kr/arti/economy/economy_general/1282939.html",
-     "published": "2026-10-18T21:18:16.436093+00:00"
+     "outlet": "블로터",
+     "title": "중앙일보 인수 우선협상대상자에 다우·CJ 컨소",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=676062",
+     "published": "2026-10-19T23:32:15+00:00"
     },
     {
      "n": 2,
      "outlet": "헤럴드경제",
-     "title": "반도체 호황에 한국 잠재성장률, 40년만에 2년 연속 반등 전망",
-     "url": "https://biz.heraldcorp.com/article/10906264",
-     "published": "2026-10-18T16:40:31+00:00"
+     "title": "중앙일보 인수 우선협상대상자에 다우키움·CJ…워크아웃 3개월만",
+     "url": "https://biz.heraldcorp.com/article/10907837",
+     "published": "2026-10-19T22:54:58+00:00"
     },
     {
      "n": 3,
-     "outlet": "서울신문",
-     "title": "韓잠재성장률, 40년 만에 2년 연속 상승 전망… ‘물가 상승’ 우려도",
-     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261019029003",
-     "published": "2026-10-18T15:57:43+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "중앙일보 경영권 매각 우선협상대상에 '다우·CJ 컨소시엄' 낙점 [fn마켓워치]",
+     "url": "https://www.fnnews.com/news/202610200658549692",
+     "published": "2026-10-19T22:03:06+00:00"
     },
     {
      "n": 4,
-     "outlet": "조선일보",
-     "title": "IMF, 韓 잠재성장률 2년 연속 상승 전망",
-     "url": "https://www.chosun.com/economy/economy_general/2026/10/19/DM4PPBVJSVH5RLDEVFKWJEUNII/",
-     "published": "2026-10-18T15:47:00+00:00"
+     "outlet": "경향신문",
+     "title": "중앙일보 인수 우선협상대상자에 ‘다우키움·CJ 컨소시엄’",
+     "url": "https://www.khan.co.kr/article/202610192257001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-19T13:57:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "한국경제",
-     "title": "IMF \"3저 호황 후 40년 만에 韓 잠재성장률 2년 연속 상승\"",
-     "url": "https://www.hankyung.com/article/2026101888761",
-     "published": "2026-10-18T08:27:49+00:00"
+     "outlet": "아이뉴스24",
+     "title": "[속보] 중앙일보 인수 우선협상대상자에 다우키움·CJ 컨소시엄",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tV25XZ21mRUZDY2NiekNSR2k2WS10RUZIVFpmSWlBREJqUGU5NmFZUWEzbzhyc0QyeVRJdjhQV1c0TThKem40ckx6WQ?oc=5",
+     "published": "2026-10-19T13:56:47+00:00"
     },
     {
      "n": 6,
-     "outlet": "조선일보",
-     "title": "IMF “韓 잠재성장률 2년 연속 상승”…3저 호황 이후 40년 만",
-     "url": "https://www.chosun.com/economy/economy_general/2026/10/18/GVQTEYJTGUYTEODFMYZTAOJWGI/",
-     "published": "2026-10-18T03:21:07+00:00"
+     "outlet": "한국경제",
+     "title": "중앙일보 인수 우선협상자에 다우키움·CJ 컨소시엄 선정",
+     "url": "https://www.hankyung.com/article/2026101917961",
+     "published": "2026-10-19T13:55:06+00:00"
     }
    ],
    "factcheck": null,
@@ -73,273 +74,88 @@
    "slug": "01"
   },
   {
-   "headline": "Trump Endorses Israel’s Netanyahu for Re-Election",
+   "headline": "뉴욕증시, AI 기술주 매수 흐름에 혼조 마감…나스닥 1.1% 상승",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
-   "importance": 7,
+   "section": "ai",
+   "importance": 10,
    "outlets": [
-    "AP",
-    "Al Jazeera",
-    "Axios",
-    "CBS News",
-    "CNN",
-    "NBC News",
-    "New York Times",
-    "Politico",
-    "Reuters",
-    "The Hill",
-    "Wall Street Journal"
+    "뉴스1",
+    "뉴시스",
+    "동아일보",
+    "아시아경제",
+    "연합뉴스",
+    "이데일리",
+    "이투데이",
+    "조선일보",
+    "한국경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "Al Jazeera",
-     "title": "Trump endorses Netanyahu in Israeli legislative elections",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFY5ZlJPZWJodFAxR1N5VGxMOFFxY0Z4WFJ2YS1ZRzBxUGRscUxXa3c4WW92RU10c3JtYUhDdXVieDNRS2EwOU9EVjgxTHM5WXFmbndSSGI2TEJ5Q0g5aXFHR3JSdHFCOUUyN19iTTZmbUY4ZF9wSEtSVDlhNF93d1JnTWlVeEhicjVRSEFuQWR6Z21rMmhtVEtGQWluc25H0gGmAUFVX3lxTE1MTF9LNVBvVzk3c1k1TzBxaV9SYzRHNmFNX2JsQTQtenh5NGNZS2s0UGI0ZUN2bl9oX2JJTmV5aVJ6QWNPVlBZaWEzTk1CY25MY3czaG4xU19KVFl4UXl4WDF5Nk55dkpEaTFSUklwci1jckxINVpxOThJcmFXVWFxQUk4TTJfUm9YUFBhRXQtOVB4ZkR1LXpjUFc3TGl1S0JsV1BRcHc?oc=5",
-     "published": "2026-10-18T19:52:30+00:00"
+     "outlet": "한국경제",
+     "title": "저가매수 유입에 반도체·AI주 상승…나스닥 1.11%↑ [뉴욕증시 브리핑]",
+     "url": "https://www.hankyung.com/article/2026102019676",
+     "published": "2026-10-19T22:08:15+00:00"
     },
     {
      "n": 2,
-     "outlet": "Wall Street Journal",
-     "title": "Trump Endorses Israel’s Netanyahu for Re-Election",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVdUdjdmQ1l1c19LeE1wRy10RmNCeTg4THpBYTF5OFEyQ2daOUxvVWZqTENPQmk5RVhjV3A1Y2kyejBMamI1MkZDVFFtM0F3ME05N1Qwd0h4cUI5ZXliY1ViZnREbXpxUk5IcjVqSEhUMi1xTXlZY0tDWTVnWi1PX1FGeDU4UkFRNkNfeUl2ODhMTUJWUlJIVVdsYw?oc=5",
-     "published": "2026-10-18T18:28:00+00:00"
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 반도체·AI주 반등 속 혼조…나스닥 1.11%↑(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261020006051072",
+     "published": "2026-10-19T21:40:31+00:00"
     },
     {
      "n": 3,
-     "outlet": "Politico",
-     "title": "Trump endorses Netanyahu for reelection",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0dCMDJsSy1TcTRPbHJXV1hQbHlQWFRvR0paSXM3SjI0OUUzOE5TQS1wa2V1aFp5MU5xcmVsQVFOWVVHNW94Qm9XanNYX0puY0k0eWhyN1lvNEdEdlFqc2Z0bHRia3ZmaUJwRXZ3bGlqZGg5bGhvdVNENmZSUXBZZWx2MF9LUlAyRWF1RjRSSGNtc3M?oc=5",
-     "published": "2026-10-18T18:16:00+00:00"
+     "outlet": "이투데이",
+     "title": "[속보] 뉴욕증시, 혼조⋯나스닥 1.11%↑",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YVGhITl9Rd1c2aWZZVHNNanZnYWV0TjZEamVSWEpIbTJUY3k1TFpsR1Q0a1ZGUTlwMTF6UTdOMHF0cVBpR0pWU2E1R1JDRmVNOVdtRg?oc=5",
+     "published": "2026-10-19T20:59:00+00:00"
     },
     {
      "n": 4,
-     "outlet": "Axios",
-     "title": "Trump tells Axios why he endorsed Netanyahu's reelection in Israel",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5",
-     "published": "2026-10-18T18:07:12+00:00"
+     "outlet": "동아일보",
+     "title": "뉴욕증시, AI 기술주 매수 흐름에 혼조 마감…나스닥 1.1% 상승",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RUzJ2dE1qRjdiSjhHNkNKbHhaS1c3S0lwTTBPenAzRXBXN3VqMl9NbkV4QkNhbjhLRmZaT3dqZkhTMXZGWC04TVFNTHZxeWFQT3NtaDdBS2U5T0xzQmlZNlRjbXhYeFpiclRJNGxtM3c0M1HSAWZBVV95cUxNZmo5S1Q2M3h4Vko3eDBKVWV1dkNnSzVXQnNNQzd4eXRONFB3SzJhcmh2dEpXNTJYUzN0RmdNSWJwb1lCWEhiYmFoY1hrNlVUUnR4TXJwaFFNMExmMEFFTjZWTi1QYlE?oc=5",
+     "published": "2026-10-19T20:50:52+00:00"
     },
     {
      "n": 5,
-     "outlet": "Reuters",
-     "title": "Trump endorses Netanyahu in close Israeli election",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-     "published": "2026-10-18T17:41:20+00:00"
+     "outlet": "조선일보",
+     "title": "반도체 반등에 나스닥 1.11%↑…AI 부채 우려는 여전",
+     "url": "https://www.chosun.com/economy/int_economy/2026/10/20/3R47EXNP2BDMZI3CXQT54LFP6U/",
+     "published": "2026-10-19T20:47:19+00:00"
     },
     {
      "n": 6,
-     "outlet": "NBC News",
-     "title": "Trump endorses Benjamin Netanyahu ahead of pivotal Israeli election",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckcxaG40aTJzT0ZQYUpPQmIxd01WQ2l4SkJEZWV6eDlNYVBXWU5HR1k3aGNGZHZCVmNCOTZTc19mblhZZ2VuZVA1RnpsTDEtb0tOUkhBVEdtWkl3Y1p0Z3hyckN6eGZIcy1sTzFtU3kzdHF3MHlmTkU0ZW1fSmFmR0ZFSU03a3pubzhSUFF3a1cza1l1UWlTREZMa0dSc1U?oc=5",
-     "published": "2026-10-18T16:14:17+00:00"
+     "outlet": "뉴시스",
+     "title": "뉴욕증시, AI 기술주 매수 흐름에 혼조 마감…나스닥 1.1% 상승",
+     "url": "https://www.newsis.com/view/NISX20261020_0003832464",
+     "published": "2026-10-19T20:44:17+00:00"
     }
    ],
    "factcheck": null,
-   "score": 98,
+   "score": 128,
    "rank": 2,
    "slug": "02"
   },
   {
-   "headline": "코스피 급락에 한 주간 3000억원 강제 청산… ‘빚투’ 비명",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "kr",
-   "importance": 7,
-   "outlets": [
-    "국민일보",
-    "뉴스1",
-    "매일경제",
-    "조선일보",
-    "중앙일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "조선일보",
-     "title": "코스피 급락에 한 주간 3000억원 강제 청산… ‘빚투’ 비명",
-     "url": "https://www.chosun.com/economy/stock-finance/2026/10/19/BYV6RLH5GVDYXMSKWAEPQ5H7AA/",
-     "published": "2026-10-18T15:32:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "코스피 급락에 한 주간 3000억원 강제 청산… ‘빚투’ 비명 - 조선비즈",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1VNTThwek95Tzdsd0ZhQmZkVTh3RlZSQTNDRzhQQ2xnTVZZLXozamxfU1JuWU9pd0NqaFhRRGhoWmd0cHFXeTNpbHQycVZsRGN3WVFsTlVqOFdjd0lEV1AyaTR5c01iTjZTSWVaajQzcnZnQmhwYTNEZm4xcE9icFZpS1FBZ0xPMFBSb2JSaDRLWVl3Q3dUdDhuUkPSAZwBQVVfeXFMT2NVTU04cHpPeU83bHdGYUJmZFU4d0ZWUkEzQ0c4UENsZ01WWS16M2psX1NSbllPaXdDamhYUURoaFpndHBxV3kzaWx0MnFWbERjd1lRbE5VajhXY3dJRFdQMmk0eXNNYk42U0llWmo0M3J2Z0JocGEzRGZuMXBPYnBWaUtRQWdMTzBQUm9iUmg0S1lZd0N3VHQ4blJD?oc=5",
-     "published": "2026-10-18T15:32:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "매일경제",
-     "title": "코스피 급락에 '강제 청산' 경고등",
-     "url": "https://www.mk.co.kr/news/stock/12178990",
-     "published": "2026-10-18T08:19:42+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "중앙일보",
-     "title": "빚투 개미들 '비명'…코스피 급락에 '강제 청산' 7월 폭락장 수준",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00bHZRR180RVNPTTV0UHlKaWEtZzhaTUxYaXk0Z1A3bHotRUI3TDVLMDlILUlfalUwNlYtNHdJa1ctQjk0V1hwODFjT291NFZ0azNsb3lKUE5mTXdEUkp2UWh3?oc=5",
-     "published": "2026-10-18T04:29:00+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "국민일보",
-     "title": "코스피 급락에 한 주간 3000억 강제청산…개미들 비명",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjQ3TWthZEV2dzlxVWg5V0lvZzdEZElLV2pEUGpiYkhCeDlEVzkxRzUwMFE0NEZ0d0JTRzNMVUJyUHdJMXBkWDlDWTlNcC14cUhBckp5LUZHYURZSmt6ZVNYbDk5RWxSVGt5aDFVbk1DSWg1S0lxcklqUzBJTy0ydGJKTzNydXdUV1BCOXV5cHM4ckxwNVHSAWxBVV95cUxPV0dJN2pyTjM1M2dRTDlNZnVuRTlQNDNReERvQTYtY1dqMm5DanNFQ2pYeFFudHhGaGVSbGN6ZlFPWHBKZThqUlk0dEFuUGMxUVJiWWpVLW9MQmJwbmpBV3VxaFNyd1R5d0tGZ08?oc=5",
-     "published": "2026-10-18T04:13:00+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "뉴스1",
-     "title": "빚내서 주식 샀다가 강제청산…코스피 급락에 '7월 폭락장' 수준",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lX3Q0TkdkMjdSc0dYb0M1S3BMcFFpUkM2Rkdya1RfSGQwcXpZWnV5UnRyd2JubDVsR3BSRG5PYTZaNlctREpYNnRPOVFldldRcjRZWXh3ZER5bnFRQnZZ?oc=5",
-     "published": "2026-10-18T03:21:42+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 89,
-   "rank": 3,
-   "slug": "03"
-  },
-  {
-   "headline": "Trump announces plan to close D.C.’s East Potomac Golf Course for 15 months for renovations",
+   "headline": "머스크 \"내년 미국 모든 어린이에 스페이스X 1주씩 줄 것\"",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "people",
-   "importance": 5,
+   "importance": 9,
    "outlets": [
-    "CBS News",
-    "Financial Times",
-    "Forbes",
-    "NBC News",
-    "New York Times",
-    "Reuters",
-    "The Hill",
-    "Washington Post"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Washington Post",
-     "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
-     "published": "2026-10-18T19:49:26+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "Financial Times",
-     "title": "Trump to begin transforming historic golf course despite court order",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzk2R2dENl9mVHFkSjlwRnVJZ3l2WDhoN3RxMDJpeXZVSkZ2TGNGWUYxMEZRcDJ1VGxSbG9rM0RqMGhtRTJETEZUcER2N25WS1NfYXctRnlqN2c1cWJwZXdzbXgxYnRsRWtHaTdpS0RuYkd3Y3BvR0hPTEtwUlIzdlBiZHc?oc=5",
-     "published": "2026-10-18T19:28:39+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "NBC News",
-     "title": "Trump announces plans to renovate D.C. golf course amid legal battle",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFlxdVVXXzQxOW4tTzByYW9Vdkh4Sm45UkRCdDVHaTRodkJyNHRzb2w5TVY0UVd4bDl2eGpIOWdKcUZZM2lzMjZVLXBhb3pEd1dsYWpWMmxRRi1iMFpFbVhaQkN0cVBqN1BXVFJ1bjM1dVI4a3FiVEZ4TC1Nd2xqRmRRdWJaNFFQRUYybkZGanViMjBiZV8yelIzYjFmUWFWMW1Mc0ZKMVlxaVVMT05tVHNvN3BRQmMtV1FLZjJWM0U?oc=5",
-     "published": "2026-10-18T19:00:21+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "New York Times",
-     "title": "Trump announces plan to close D.C.’s East Potomac Golf Course for 15 months for renovations",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWNOSE5NSjk3ckdDeWQyZmd4eVNrOWZhZlBkbkNhWHJyVDkxOTBFNjhsSGhZUllBWjNTcGRNUEJoX3dMeEZsclZBWXlQVFB0d0FUSDR2ZWZpbm1fT3BwVDRLc1RBbGRJY3NCcWNlNzFzd1hOUE1aWXpZSEZaTk80Nm5Oc2pCT0lWQVVRX0REZmp1Z2dhZm1mdDFScE5JaEIwZU5JYmhB?oc=5",
-     "published": "2026-10-18T18:43:53+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "New York Times",
-     "title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxremMtZWRIWXJmdkVCanBSS0JxNE44a3BaUjJPdi1BM1dueGJFczhNSjI3Qi1jTXBtTXEwejQyZnZFNHFFTk15Qk85dEVwWFZScGZZM1dzS1o3UTZ6NVZyYjFfeUxtX2VUY01vS2hBMjl6OVY0Um1QOUdsNWQ5NEk0T2FTeTl5NmFtLUJ3NTRLZVd2czc2SA?oc=5",
-     "published": "2026-10-18T18:06:51+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "The Hill",
-     "title": "Trump announces plan for new East Potomac Links golf course",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3ppbVlHcXM4c3RvZnFDT2RSQjRmTVlwRnRKXzFsVUdKbTExQzExaUd1cGJRblNOdHBKcVg2dmtGWGM5WkxvVmZSU2h5MFZzQ1lPUUdaUHYwVXZQSGtEV3dNSWozYWgzclhHSXBJRDZYUTlweUpXbWtwLVhIOUp3QndaaUZXY3RQM3AxetIBkgFBVV95cUxNcWIzQmlsQ3lYbmczdTJMQWtSellza3NtM0ZPNEZfRkVfMndReGFHQjN3VnA5QmR1ZEw3NDRRVUhOUmNzalN2OTNrd1k3THFtMTBraXpkZzB2UktQNWo3UE81X2szLWRCYWRhaGZWZGZodmZDeDB2cXhLWHdQMU9vdUFBV3YzLWM4QjM0Z3RQNmhOQQ?oc=5",
-     "published": "2026-10-18T17:58:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 78,
-   "rank": 4,
-   "slug": "04"
-  },
-  {
-   "headline": "'지난주 14.5% 폭락' 코스피, 회복까지 얼마나…과거 사례는",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "kr",
-   "importance": 6,
-   "outlets": [
-    "매일경제",
-    "아이뉴스24",
-    "연합뉴스",
-    "조선일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "아이뉴스24",
-     "title": "14.5% 폭락한 코스피, 회복은?⋯과거 평균 14거래일 걸려",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6czdtRUFKUzFTX241a2lyZUdjX0RiMjBFU3hqUW5id2R6R0hMaWF3U1NScWRWMVpyemdtZWh5RjJvQV8zQmdEMlZNZw?oc=5",
-     "published": "2026-10-18T11:58:40+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "코스피, 올해 10% 하락 후 회복까지 평균 14거래일 걸려 - 조선비즈",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEw1Sk1TM1FiS0RxdjJ0c0lQQ2ZsY2gwYTYyZjZ1UGt4dUZDTFNEWG05cnpDV1JSZTI2U0NsZlJYb2cxbDRKRnduSWZKR3R5Q0VGazBOUFZ3aC1oNzlMZVZ5RFUxcXkzSWVmeFRiYmJ4OFlkQnJmT2pYblZ6TXl2WnhSd2tZNi1h0gGcAUFVX3lxTFBZcHFGbWJfN0dJNGYwcjNRTjkxSXk4YmROR0VIaTQ1MmZ5OTdnNTBpd285WkFCTTZuSnlQb01ZNXVFSmEybEUwZlVtSnp3LWVuZ0pfUTlJQ1VTTEhHNVBvX2l2NWFsMmNDczVtMXI0RjNSWEkzZGFjSk5nVU9IVC1IcUU1VEhpVGtTclBoTW9CSHQ5bDRPOFZJLS1obQ?oc=5",
-     "published": "2026-10-18T04:07:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "'지난주 14.5% 폭락' 코스피, 회복까지 얼마나…과거 사례는",
-     "url": "https://www.yna.co.kr/view/AKR20261016179500008",
-     "published": "2026-10-17T21:30:01+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "매일경제",
-     "title": "'지난주 14.5% 폭락' 코스피, 회복까지 얼마나…과거 사례는",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hMUJja1ZkcFphcEhVZXgzQUJLWlRESG40Z2tLMHpQaVlIWGdabjM4TENvejh3SHhDQ3JaZ1V4YVRmaWVjOEVXaF8wellleHBTOGc?oc=5",
-     "published": "2026-10-17T21:30:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 5,
-   "slug": "05"
-  },
-  {
-   "headline": "신한은행, 중저신용자 민간 중금리대출 금리 0.3%p 추가 인하",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "money",
-   "importance": 6,
-   "outlets": [
-    "SBS",
+    "AI타임스",
+    "JTBC",
+    "경향신문",
+    "블로터",
     "연합뉴스",
     "파이낸셜뉴스",
     "한국경제"
@@ -349,40 +165,318 @@
    "sources": [
     {
      "n": 1,
+     "outlet": "AI타임스",
+     "title": "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 규모",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216418",
+     "published": "2026-10-20T06:41:29+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "블로터",
+     "title": "머스크 \"내년 모든 美 어린이에 스페이스X 1주 줄 것\"…14조원 규모",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=676063",
+     "published": "2026-10-20T01:15:57+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "JTBC",
+     "title": "머스크 \"미국 모든 어린이에 스페이스X 주식 1주씩\"…14조 원 수준",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jTzR2NURwbm9EVG43cHZ1YS16UGcybmNMWEg5eVdYbEk1aTM2b2M0SnJGQzBaa2o3MkhKVkROWHZVWE51b1pIdG5MUWp4elMycjZfYw?oc=5",
+     "published": "2026-10-19T12:38:00+00:00"
+    },
+    {
+     "n": 4,
      "outlet": "파이낸셜뉴스",
-     "title": "신한銀, 중저신용자 대출 금리 0.3%p 추가 인하",
-     "url": "https://www.fnnews.com/news/202610181823391302",
-     "published": "2026-10-18T09:23:40+00:00"
+     "title": "머스크 \"내년 美 어린이 모두에 스페이스X 1주씩\"…통 큰 약속",
+     "url": "https://www.fnnews.com/news/202610192114129938",
+     "published": "2026-10-19T12:19:21+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "경향신문",
+     "title": "“내년 미국 모든 어린이에게 스페이스X 주식 1주씩”···‘조만장자’ 머스크의 화끈한 플렉스",
+     "url": "https://www.khan.co.kr/article/202610192117001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-19T12:17:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "머스크 \"내년 미국 모든 어린이에 스페이스X 1주씩 줄 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261019175700009",
+     "published": "2026-10-19T11:50:24+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "트럼프, 내달 中서 김정은과 회담 여부에 \"모르겠다\"(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 7,
+   "outlets": [
+    "SBS",
+    "YTN",
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "트럼프, 내달 中서 김정은과 회담 여부에 \"모르겠다\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261020005351071",
+     "published": "2026-10-19T22:18:06+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "[속보] 트럼프, 다음달 김정은과 회담 여부 나도 모르겠다",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LU1M4WjVPRDYyN3BQMmZ0dm9uVFEyWUZSZnh5R1l5d0Y2cE9pNkJsMzNzSG43c3dvQ0l3emNkQjhNVGFJR0U4aDNwOWxYQlJzUlNENlE2RUtnUC1hclRITUJNeEtDc1nSAVhBVV95cUxPdC1JYmthazFFdUt1RUpDNlIzcVMwZWozM0tTc04tR1dfQWlsT0hiaGRnTWRkbTdycnlDejNHR0p6czFLaGFDb3FqZ3h5N1ZRWElXWGt6eFRC?oc=5",
+     "published": "2026-10-19T22:17:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "YTN",
+     "title": "트럼프, 다음 달 김정은과 회담 여부에 \"모르겠다\"",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zb0dvWC1SaGpKdjNjLWxScmlIMURiY2NVblZITFVpYkMwZXZ2UW9WLVZWQ1VSTFB3ckVCSHpyVmJqcnRINVBwYXFtMmpsSEVkcmhteXZqdDNtaWRTY0E?oc=5",
+     "published": "2026-10-19T22:11:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "조선일보",
+     "title": "트럼프, 김정은과 회담 가능성에 \"잘 모르겠다\"",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVhoMWRpcU9oRWxud1hqV2twdjlfZXRxbXVLSnE0Z2dvOEwweEVFdlZqWTJnbmhiSVVXWWVMcG5aNmdjQ0VjV04wQ0FVVncxODhDR25TVk5pcVNUN1pfeTcwbHpZZ3c4S2F6ZW5VemJXRkUyQ05MRl9NWXlhcTJNSk9GcUo?oc=5",
+     "published": "2026-10-19T21:28:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "[속보] 트럼프, 내달 中서 김정은과 회담 여부에 \"모르겠다\"",
+     "url": "https://www.hankyung.com/article/2026102019147",
+     "published": "2026-10-19T21:07:04+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "YTN",
+     "title": "속보 트럼프, 다음달 김정은과 회담 여부에 \"모르겠다\"",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iZUJTZy1OUmZDd292MGE2Yi1pS3o0dDBDaU40TDlkWmtyaUxPVEZCeUQ4Y0tfNldzRHZVbGl4MXQ3XzlxS25ET3I4TTZVZEFLX3Vsd0pQWlF5ZjNNdGc?oc=5",
+     "published": "2026-10-19T19:57:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "삼성전기, 3605억원 규모 '메모리 반도체용 패키지기판' 장기 공급계약",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 7,
+   "outlets": [
+    "블로터",
+    "연합뉴스",
+    "전자신문",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "삼성전기, 메모리 패키지기판 3605억 수주…장기계약 누적 4.3조",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=676042",
+     "published": "2026-10-19T18:26:23+00:00"
     },
     {
      "n": 2,
      "outlet": "한국경제",
-     "title": "신한은행, 중저신용자 대출금리 0.3%P 인하",
-     "url": "https://www.hankyung.com/article/202610188571i",
-     "published": "2026-10-18T05:18:51+00:00"
+     "title": "삼성전기, 글로벌 기업과 3605억원 규모 패키지기판 LTA 체결",
+     "url": "https://www.hankyung.com/article/202610191488i",
+     "published": "2026-10-19T09:03:50+00:00"
     },
     {
      "n": 3,
-     "outlet": "SBS",
-     "title": "신한은행, 중저신용자 민간 중금리 대출 금리 0.3%p 추가 인하",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802688",
-     "published": "2026-10-18T00:41:00+00:00"
+     "outlet": "전자신문",
+     "title": "삼성전기, 3605억원 규모 '메모리 반도체용 패키지기판' 장기 공급계약",
+     "url": "https://www.etnews.com/20261019000417",
+     "published": "2026-10-19T08:55:36+00:00"
     },
     {
      "n": 4,
      "outlet": "연합뉴스",
-     "title": "신한은행, 중저신용자 민간 중금리대출 금리 0.3%p 추가 인하",
-     "url": "https://www.yna.co.kr/view/AKR20261016159400002",
-     "published": "2026-10-18T00:00:03+00:00"
+     "title": "삼성전기, 글로벌 메모리 기업에 3천605억원 규모 기판 공급",
+     "url": "https://www.yna.co.kr/view/AKR20261019161300003",
+     "published": "2026-10-19T08:55:25+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "조선일보",
+     "title": "삼성전기, 3605억원 규모 메모리 기판 공급 계약...올해 장기 계약만 4조3000억",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/19/T5FFYEM47VFLZFC462OHSM6J64/",
+     "published": "2026-10-19T08:48:10+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "조선일보",
+     "title": "MLCC·인덕터 이어 반도체 기판도… 삼성전기, 3605억원 규모 장기 공급계약 체결",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/19/ME4TEY3BMVQWEYZRMVQTCOJXGM/",
+     "published": "2026-10-19T08:45:54+00:00"
     }
    ],
    "factcheck": null,
-   "score": 76,
+   "score": 89,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "이찬진, 솔리다임 중복상장 가능성 언급…\"유권해석 대기 중\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 7,
+   "outlets": [
+    "SBS",
+    "경향신문",
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "경향신문",
+     "title": "이찬진 “솔리다임 미 상장, 중복상장 규제 저촉 판단”",
+     "url": "https://www.khan.co.kr/article/202610192144015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-19T12:44:01+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "이찬진 \"솔리다임 美 IPO , 중복상장 규제 저촉\"",
+     "url": "https://www.hankyung.com/article/2026101915311",
+     "published": "2026-10-19T08:56:52+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "솔리다임 美상장 질문에 이찬진 \"중복상장 해당\"",
+     "url": "https://www.mk.co.kr/news/stock/12179879",
+     "published": "2026-10-19T08:40:33+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "이찬진 \"솔리다임 중복상장에 해당…금융위·금감원 의견 같아\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261019091151002",
+     "published": "2026-10-19T07:03:48+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "이찬진 \"솔리다임 중복상장 저촉 판단…유권해석 대기 중\"",
+     "url": "https://www.hankyung.com/article/2026101907217",
+     "published": "2026-10-19T05:12:07+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "한국경제",
+     "title": "이찬진 \"솔리다임 IPO, 중복상장 규정 저촉 판단\"",
+     "url": "https://www.hankyung.com/article/202610190600i",
+     "published": "2026-10-19T04:38:54+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
    "rank": 6,
    "slug": "06"
   },
   {
-   "headline": "트럼프, 대러제재 완화 만지작…\"美·세계에 좋은 결정 있을 것\"(종합)",
+   "headline": "코스피, 1.8% 오른 5,768 마감…코스닥도 1.8% 올라",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 7,
+   "outlets": [
+    "KBS",
+    "YTN",
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "KBS",
+     "title": "코스피 5,768.01 코스닥 808.89",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBidVA3R2hSX3VDQzBnNnZQRzRjR0V4RWNMQlFfcU9DWnh4WF9RdG9oX0FmQ3Vodml6bzcwOU1LcWNJbjY1a0ZGbVhibVRZdlk3d3U5U0VOUmVWRlU?oc=5",
+     "published": "2026-10-19T08:25:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "[속보] 코스피, 1% 대 소폭 상승 전환해 5,768.01로 마감",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wdl8zWHVxSVU4S2J5amhhZnRWczVJbDVua0JQbFBtMllaenl0cHZMZFIyalg4U29OOVBuMDZ6b2prN0lRYlZjNk01Mmp5cmEtUE5yVVhUZTRwMTBOcDNmVlBsbU5Tb2gyV2VkWDlGWQ?oc=5",
+     "published": "2026-10-19T06:39:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "YTN",
+     "title": "속보 코스피, 1% 대 소폭 상승 전환해 5,768.01로 마감",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15bWkxR0NhX2R5UVJYbTJQVjlqVWNtMzA1d01PbFN3UngwZkExTkxXTHBOYnRkY1BRTHhVNHYyUUd5QV8wdmpKYlA4MVVjaGtCYnlUMl9hdmpiT3c2Wlo4N3NJRGlDU09BQWU3UmRUNjA3SGdNaHc?oc=5",
+     "published": "2026-10-19T06:39:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "코스피, 1.76% 오른 5,768.01 마감…코스닥도 1%대 상승",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUW94NWN2cWV3NERjZVcwU2lCcXZ1Z1BFZXpBWkNxQmhQb3NWclY5VElWdnAyazEtREdnQ3lHLXlhRHNQcmNESmZtdVpycUpFeHVHTjRaTC1vWktWakhPUER0NFVGR00?oc=5",
+     "published": "2026-10-19T06:38:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "[속보] 코스피, 1.8% 오른 5768 마감…코스닥도 1.8% 올라",
+     "url": "https://www.hankyung.com/article/2026101910326",
+     "published": "2026-10-19T06:37:20+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "코스피, 1.8% 오른 5,768 마감…코스닥도 1.8% 올라",
+     "url": "https://www.yna.co.kr/view/AKR20261019130800008",
+     "published": "2026-10-19T06:36:19+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "Elon Musk says he'll give a SpaceX share to every child in America next year",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -390,9 +484,80 @@
    "section": "people",
    "importance": 6,
    "outlets": [
-    "뉴시스",
+    "ABC News",
+    "Axios",
+    "CBS News",
+    "CNBC",
+    "Forbes",
+    "Fortune",
+    "New York Times",
+    "TechCrunch",
+    "Wall Street Journal",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Washington Post",
+     "title": "Elon Musk says he’ll give a SpaceX share to every American child",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRklGSGE2QUJjNDV5WTllLXpaREpPTXFEU2lmQld4ZlJ4eDJ4N2J4b2F5eUg0VXpSdjkwOTJGU0RUSk9fMkVkZWFGYWxHQnI1QkE0X1VmOTFIVnBiek1STENoYVV3WnFLdmh0WVV0aENHQUFUUE1QOVZHa3Foel9hcC1DNmhocEJiZkwyQXZ3aHVtNDRnRnMxX1JFTTl4Nm9Obko4UFRmZk16QXF5cDJQRUdB?oc=5",
+     "published": "2026-10-19T22:06:06+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Wall Street Journal",
+     "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnEzdmRoVkFpTFdKZnNNTjBrUXVkdXVUOUp5cmVoYzlscUFydDd2SWpKYjhta080R3ZQTFlwY0FHX0wtWVVjTDR1T3dxZUNyaC1JcXlsSm9hOHFJdjlUY0hXNWF3QTBaX3I4SHdLeGlET3NBVjlMSHc3WGVBZEdva25Uc1ZZUmpZWjlhN093?oc=5",
+     "published": "2026-10-19T21:21:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "ABC News",
+     "title": "Elon Musk vows to give a share of SpaceX stock to every US child",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTJlOGlkUHFkanhqYmZjcFZIcUpNcmFhWlVpVGpERlZyZ0JaRDIzQUFtSlpWbEpkZmlRY0xvN3FLYTRxVEcwVkp6ajJ3T1oyOElBTWRqaEo1Vm9QQmlKT0tkUTJXaDVXTGZOUU92OGRlcjVfNHB1OW5MdF85OGRRSEFCRkk1RlczREV6bjFRdExnWmPSAZgBQVVfeXFMTTMyRjkyeEwyYlh4Zk0tQ29hQmxFZFd0dlY2T3ZBeW13QlpzM3IzWVN0cFFSRkZoM3N5Y0x5eXJVb2IzMzlzMVRXV0JQTjVLOGItTmJoWHlFTDdmZzU1Wkxla2RMR3QyTmx1dHo5b0psMmFLLVptVGhoV05aNEUwWFhJaVUyODFlTk02YUFKVUdyWl8tMmZVS3E?oc=5",
+     "published": "2026-10-19T19:01:06+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Forbes",
+     "title": "Universal Basic Capital: Elon Musk Giving Out SpaceX Shares Is Part Of Broader AI Plan",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN2tXTGZVRXBGSUdkY3FpZGV3T21fS0ozQ2xwUHdNSlkyNkNRb0I2YXU5VkVxUTVESEpoNEsxY2VTN0ZOQUdFdjFGaUVJcHNxYkJzM1hneHpZZHFVRVpDWm1jRlc4ZDVfZG44QWRxc1p1Tmp4Sy05bVhXUkhWTllScThvOUhMbFk3V3I2MHhlcDRrMXVoSE1jc2k4bDhMemFNUUJDby1WcVY2TDVUQ01yWTdFbWUxV1RQU3YtYjdUWkJuMkVVMUFwLUxJS3ZWZXpmaW1MZHQxbFA2V19ydUN1Q2xsd01hM3M?oc=5",
+     "published": "2026-10-19T16:45:34+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Fortune",
+     "title": "Billionaire Elon Musk says he’ll give every kid in America shares of SpaceX next year",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnNpczdqQ3BTWl91R2tfZEZuOFJDaHVwM0F3aWxxVG9lUUFaWGNlbGNSR25KMnl2dlhNR1RkcmhORzNhaWxfZmdENzYweF9oUWpmWHdqbHptRmgzTkdkYTZJUlAzaXZxcTZuUmtWWkVvT1JtZ1lBZkRIc3FWQ1pFVFUtLXRRMGRkQW55N183Z2xNWGZDV1picHdvU2F1MFJVS09tVy00dVRnOF93V3VTWW1QaHVFY0N5aTRVR1RZLTN2dXJk?oc=5",
+     "published": "2026-10-19T14:32:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "New York Times",
+     "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWl4SzJZQnZRdDRTNVo1ZFRuLThYUTFUMGc4ZFVfUFMyMEFvWHhTaHhUWlVmLWpjOTRkQWRIblIxNjBPSHNYOU5NVE5IdW9wMGVPdFlURnNYbHY1OEtMR3lteFZtekpiaUZvaTZFN0gxaUtNUFY2aVprQTZNUF9OX3QyYThqX1pBSC0zSE44N28tVjR5?oc=5",
+     "published": "2026-10-19T14:23:08+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 86,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "AI타임스",
     "연합뉴스",
-    "중앙일보",
+    "한겨레",
     "한국경제"
    ],
    "official": false,
@@ -400,62 +565,100 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "뉴시스",
-     "title": "트럼프 \"대러 제재 유예, 미국·세계에 좋은 결정\"…의회 반발(종합)",
-     "url": "https://www.newsis.com/view/NISX20261018_0003830535",
-     "published": "2026-10-18T07:36:07+00:00"
+     "outlet": "한겨레",
+     "title": "앤트로픽, 지분 5% 공익기금에…AI 위협 우려 물타기?",
+     "url": "https://www.hani.co.kr/arti/economy/it/1283009.html",
+     "published": "2026-10-19T22:49:30.489685+00:00"
     },
     {
      "n": 2,
-     "outlet": "한국경제",
-     "title": "트럼프 \"세계에 좋은 결정 있을 것\"…대러 제재 완화 움직임",
-     "url": "https://www.hankyung.com/article/2026101887117",
-     "published": "2026-10-18T07:13:51+00:00"
+     "outlet": "AI타임스",
+     "title": "앤트로픽, 지분 5% 공익기금에 출연...AI 일자리 충격 대응 추진",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216393",
+     "published": "2026-10-19T12:39:09+00:00"
     },
     {
      "n": 3,
-     "outlet": "연합뉴스",
-     "title": "트럼프, 대러제재 완화 만지작…\"美·세계에 좋은 결정 있을 것\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261018038300009",
-     "published": "2026-10-18T06:55:00+00:00"
+     "outlet": "한국경제",
+     "title": "앤스로픽, 지분 5% 공익기금에 출연…AI로 인한 소득감소 대비",
+     "url": "https://www.hankyung.com/article/202610190703i",
+     "published": "2026-10-19T05:47:10+00:00"
     },
     {
      "n": 4,
-     "outlet": "중앙일보",
-     "title": "[속보] 트럼프 대러 제재 완화 시사…\"세계에 매우 좋은 결정 될 것\"",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xZGpOMG11RDV4TkhLRGdYczNZUDV2UnBCTzJUQmJrQjd0MzJOZ0VjdFM4SHhYS3RJRVE1UWVubk0waHduMUYyS05WYVNUQmV5QmRHLWhJM1dnVlJlQ1ZtU3N3?oc=5",
-     "published": "2026-10-18T03:35:00+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "뉴시스",
-     "title": "트럼프 \"대러 제재 유예, 미국에도 세계에도 좋을 것\"",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDQ01GYVVoN29zV0Q4ODZpNXFtdDloR3pIVlMtX0Ffc0RWcDJJWHBqM0MxMUxrR3JETkZQcjhBaHdDWlBGRDFIX09VY1FuTHcyVXl3WWJiUE5HbEpka3FWb3Q1QUZ6Mlg3Ykl6elk0MDFraEMzUVdTSdIBeEFVX3lxTFBDQ01GYVVoN29zV0Q4ODZpNXFtdDloR3pIVlMtX0Ffc0RWcDJJWHBqM0MxMUxrR3JETkZQcjhBaHdDWlBGRDFIX09VY1FuTHcyVXl3WWJiUE5HbEpka3FWb3Q1QUZ6Mlg3Ykl6elk0MDFraEMzUVdTSQ?oc=5",
-     "published": "2026-10-18T03:03:45+00:00"
-    },
-    {
-     "n": 6,
      "outlet": "연합뉴스",
-     "title": "트럼프, 대러제재 관련해 \"미국·세계에 좋은 결정 있을 것\"",
-     "url": "https://www.yna.co.kr/view/AKR20261018019900009",
-     "published": "2026-10-18T02:17:03+00:00"
+     "title": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
+     "url": "https://www.yna.co.kr/view/AKR20261019006800009",
+     "published": "2026-10-18T21:28:33+00:00"
     }
    ],
    "factcheck": null,
    "score": 76,
-   "rank": 7,
-   "slug": "07"
+   "rank": 9,
+   "slug": "09"
   },
   {
-   "headline": "\"AI 투자붐 문제, 과거와 다르지 않다\"…WSJ '과잉투자' 경고",
+   "headline": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 5,
+   "importance": 6,
    "outlets": [
-    "SBS",
+    "서울신문",
+    "연합뉴스",
+    "전자신문",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울신문",
+     "title": "정부·SK하이닉스·4대 은행, 소부장 협력사에 2조원 금융 지원",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261020031003",
+     "published": "2026-10-19T14:59:11+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "SK하이닉스, 정부와 '2조 소부장 보증' 지원",
+     "url": "https://www.hankyung.com/article/2026101915151",
+     "published": "2026-10-19T09:08:06+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
+     "url": "https://www.yna.co.kr/view/AKR20261019072200003",
+     "published": "2026-10-19T06:00:02+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "전자신문",
+     "title": "SK하이닉스, 반도체 소부장 지원에 2조원 투입…상생 생태계 강화",
+     "url": "https://www.etnews.com/20261019000127",
+     "published": "2026-10-19T06:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "李대통령, 野추천 이강덕·장한식 KBS 이사 임명안 재가",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 6,
+   "outlets": [
+    "YTN",
+    "뉴시스",
     "연합뉴스",
     "파이낸셜뉴스"
    ],
@@ -465,317 +668,321 @@
     {
      "n": 1,
      "outlet": "파이낸셜뉴스",
-     "title": "\"AI 투자붐, 과거와 다르지 않다\"…WSJ '과잉투자' 경고",
-     "url": "https://www.fnnews.com/news/202610190510394204",
-     "published": "2026-10-18T20:20:20+00:00"
+     "title": "李대통령, '국민의힘 추천' 이강덕·장한식 KBS 이사 임명안 재가",
+     "url": "https://www.fnnews.com/news/202610192213067814",
+     "published": "2026-10-19T13:14:46+00:00"
     },
     {
      "n": 2,
-     "outlet": "SBS",
-     "title": "WSJ AI 투자붐 문제, 과거와 다르지 않다…'과잉투자' 경고",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rNUZSdjFseHhhcXJ6QnJMMlJvSTh0ZjktZXBjU3laYnRnckc2Q1hieE4zUllyanFITHE4Rks3WDZIRE9FQkxZT2JkLTN2ZzVYV3hKa19Hb1DSAVhBVV95cUxPazVGUnYxbHh4YXFyekJyTDJSb0k4dGY5LWVwY1N5WmJ0Z3JHNkNYYnhOM1JZcmpxSExxOEZLN1g2SERPRUJMWU9iZC0zdmc1WFd4SmtfR29Q?oc=5",
-     "published": "2026-10-18T19:07:00+00:00"
-    },
-    {
-     "n": 3,
      "outlet": "연합뉴스",
-     "title": "\"AI 투자붐 문제, 과거와 다르지 않다\"…WSJ '과잉투자' 경고",
-     "url": "https://www.yna.co.kr/view/AKR20261019001100072",
-     "published": "2026-10-18T16:53:04+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 8,
-   "slug": "08"
-  },
-  {
-   "headline": "앤트로픽 AI로 4년간 美 GDP 50%↑",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "SBS",
-    "국민일보",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "SBS",
-     "title": "앤트로픽 AI로 4년간 美 GDP 50%↑",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sMDl5Y2ktXzBlN2R0clNvOXJ3VkwxMkxqbDlTOHlzU3BDR05CUl9NUl84ZU1ERURhWXdTMHZfVHJIM2JFcTloWjJmZ3B4cVFKQllTOGZLUDLSAVhBVV95cUxPbDA5eWNpLV8wZTdkdHJTbzlyd1ZMMTJMamw5Uzh5c1NwQ0dOQlJfTVJfOGVNREVEYVl3UzB2X1RySDNiRXE5aFoyZmdweHFRSkJZUzhmS1Ay?oc=5",
-     "published": "2026-10-18T19:37:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "국민일보",
-     "title": "앤트로픽 “AI가 4년 내 미국 GDP 50% 끌어올릴 것”",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaGk5eHpQWGxjNUtnZk9DdmJFdWxCQU9tMXJ6MjVzSFZKYllrNEdMeldIUHEyT2lONnNZVWJ4YUVhaVRmaTRXWmc2WF9RMWVfU1I5TjN3SFV6Q0V2TWlEWXM5RlpiOGxTU1NIadIBbEFVX3lxTE9xaGk5eHpQWGxjNUtnZk9DdmJFdWxCQU9tMXJ6MjVzSFZKYllrNEdMeldIUHEyT2lONnNZVWJ4YUVhaVRmaTRXWmc2WF9RMWVfU1I5TjN3SFV6Q0V2TWlEWXM5RlpiOGxTU1NIaQ?oc=5",
-     "published": "2026-10-18T11:21:00+00:00"
+     "title": "李대통령, 野추천 이강덕·장한식 KBS 이사 임명안 재가",
+     "url": "https://www.yna.co.kr/view/AKR20261019178400001",
+     "published": "2026-10-19T12:57:23+00:00"
     },
     {
      "n": 3,
-     "outlet": "연합뉴스",
-     "title": "앤트로픽 공동창업자 \"AI로 4년간 美GDP 50%↑…30조→44조달러\"",
-     "url": "https://www.yna.co.kr/view/AKR20261018002500091",
-     "published": "2026-10-17T20:59:52+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 9,
-   "slug": "09"
-  },
-  {
-   "headline": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "SBS",
-    "연합뉴스",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "“재정여력 늘어나는 건 한국뿐, AI 붐 당장 안 꺾여”…IMF도 주목한 차별화",
-     "url": "https://biz.heraldcorp.com/article/10905931",
-     "published": "2026-10-18T12:00:00+00:00"
+     "outlet": "YTN",
+     "title": "[속보] 이재명 대통령, KBS 이사 이강덕·장한식 임명 재가",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQUJfVktrRTU3ak5NUUZzY1dTTWVhTXNzN3FwcGVBOFJOYV9kNUVlZWhxR1FraHktN3c1bE5tNXF2RlRqX0J6ei1VeWRDX19xb0FDSGUwcnVwV3NoZGxaaWNHV1RrUHBWYXVjWk5GQQ?oc=5",
+     "published": "2026-10-19T12:48:00+00:00"
     },
     {
-     "n": 2,
-     "outlet": "SBS",
-     "title": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802875",
-     "published": "2026-10-18T04:37:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
-     "url": "https://www.yna.co.kr/view/AKR20261016170600002",
-     "published": "2026-10-18T03:00:17+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 10,
-   "slug": "10"
-  },
-  {
-   "headline": "글로벌 3대 신평사 “반도체·AI 호황, 韓 성장둔화 우려 상쇄”…이 부총리 연쇄 면담",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "뉴시스",
-    "조선일보",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "글로벌 3대 신평사 “반도체·AI 호황, 韓 성장둔화 우려 상쇄”…이 부총리 연쇄 면담",
-     "url": "https://biz.heraldcorp.com/article/10905750",
-     "published": "2026-10-18T11:00:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "글로벌 3대 신평사 “반도체·AI 호황이 韓 성장 떠받쳐”",
-     "url": "https://www.chosun.com/economy/economy_general/2026/10/18/GA3WKZBVMY4GCMJXGUZTMOLBHE/",
-     "published": "2026-10-18T02:20:01+00:00"
-    },
-    {
-     "n": 3,
+     "n": 4,
      "outlet": "뉴시스",
-     "title": "3대 신평사 \"반도체 호황이 韓 성장 둔화 우려 상쇄\"…초과세수 활용에 관심",
-     "url": "https://www.newsis.com/view/NISX20261017_0003829998",
-     "published": "2026-10-18T02:00:00+00:00"
+     "title": "[속보]이 대통령, 이강덕·장한식 KBS 이사 임명안 재가",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wVFBFSFBmVy1kXy00aG9GMGlnTmpXUFVTeHVkeXF2VUFUd0tiNjBiYzVlX04xMXNDN0JtWmRNb2VzOE5oMjZhTmRPdG5QV1htVkhjU2ZqTDdQTEU3blpCRdIBeEFVX3lxTE80OGJwTWsyenVlaTRld0xyVWd2V3FvbFBpNG0zLVJxN0tpOHRNRVkwZVNaMVh5Ukw2WTh6WE5wSWtmVjl4Y1pWbFRWSDJLVWhHZk9mMEVaR00yZUU5Vkw4dlhxcXBDYnlpUjR4SWdpUE9SU091YzRuYQ?oc=5",
+     "published": "2026-10-19T12:45:09+00:00"
     }
    ],
    "factcheck": null,
-   "score": 63,
+   "score": 76,
    "rank": 11,
    "slug": "11"
   },
   {
-   "headline": "[속보] 사상 첫 대미 흑자 1000억달러 유력…트럼프 '투자 압박'에 난감한 정부",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 5,
-   "outlets": [
-    "연합뉴스",
-    "중앙일보",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "사상 첫 대미 무역흑자 1000억달러 돌파 확실…정부, 트럼프 투자 압박에 고심",
-     "url": "https://biz.heraldcorp.com/article/10906018",
-     "published": "2026-10-18T10:06:23+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "중앙일보",
-     "title": "[속보] 사상 첫 대미 흑자 1000억달러 유력…트럼프 '투자 압박'에 난감한 정부",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRa05NcHZEUlliRm1vY1lNcmRYUmFrb1VtMFBvQUprMkpScUd4Y2FYTGhLV1I1U0lmd3Vpb3hGQnVpZXVOZks5WDdPdVFqajNkT3JjM2ZHcUFlcDVDd0xzNGpn?oc=5",
-     "published": "2026-10-18T05:04:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "대미 무역흑자 1천억불 눈앞…트럼프 투자 압박에 난감한 정부",
-     "url": "https://www.yna.co.kr/view/AKR20261017041500003",
-     "published": "2026-10-17T21:17:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 12,
-   "slug": "12"
-  },
-  {
-   "headline": "LG전자, AI 가습·공기청정기 ‘퓨리케어 하이드로타워 맥스’ 출시",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "연합뉴스",
-    "조선일보",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한국경제",
-     "title": "LG전자, AI가습·공기청정기 '퓨리케어 하이드로타워 맥스'",
-     "url": "https://www.hankyung.com/article/2026101888421",
-     "published": "2026-10-18T08:24:06+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "LG전자, AI 가습·공기청정기 ‘퓨리케어 하이드로타워 맥스’ 출시",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/18/HEZTQMLEGBRDCZJQGAZWCMZYMU/",
-     "published": "2026-10-18T02:35:53+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "LG전자 가습·공청기 신제품 '퓨리케어 하이드로타워 맥스' 출시",
-     "url": "https://www.yna.co.kr/view/AKR20261018010700003",
-     "published": "2026-10-18T01:00:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 13,
-   "slug": "13"
-  },
-  {
-   "headline": "교사 절반 이상 \"매주 AI 사용\"…\"관련 법 안다\" 응답은 17%뿐",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "교사 절반 이상 \"매주 AI 사용\"…\"관련 법 안다\" 응답은 17%뿐",
-     "url": "https://www.yna.co.kr/view/AKR20261016118400530",
-     "published": "2026-10-18T21:01:01+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "매일경제",
-     "title": "교사 절반 이상 \"매주 AI 사용\"…\"관련 법 안다\" 응답은 17%뿐",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44U2g5d3VoZ0Y2Y2tna2pLbmdMWUo0Tlh5dXJqRndFcXJyM2ZhV1dwRkRuLW1KSmpuMlBtZ1NVMGhJS0ZSWmF6aFkyZ1RIMU1yZFE?oc=5",
-     "published": "2026-10-18T21:01:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 14,
-   "slug": "14"
-  },
-  {
-   "headline": "지난주 14.5% 급락한 코스피…반등 열쇠는 외국인",
+   "headline": "이찬진 \"단일종목 ETF, 상장일정 맞추기 위해 심사 빨리 진행\"(종합2보)",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "kr",
-   "importance": 4,
+   "importance": 6,
    "outlets": [
+    "SBS",
     "연합뉴스",
-    "이투데이"
+    "한국경제",
+    "헤럴드경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "이투데이",
-     "title": "시총 1073조 증발한 코스피…반등 열쇠는 美 금리·외국인",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14VVF3a2J5Z0NLRkt1R2NRbDIyUWxTOTRmamkySDJWTXktU0c1NnpOZm9VMGpfbml1QWRaOVptX08yb1RBVDZSalZfd0dxNGpSdWNMQ2FmYUhkaTJYRVIxS1hsX0hUZjNScjN3SWdJRTZBNl9p?oc=5",
-     "published": "2026-10-18T21:00:00+00:00"
+     "outlet": "헤럴드경제",
+     "title": "“드러누웠어야” 이찬진 “단일종목 ETF, 일정 맞추려 심사 빨리해”",
+     "url": "https://biz.heraldcorp.com/article/10907055",
+     "published": "2026-10-19T11:23:23+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "이찬진 \"단일종목 ETF, 상장 일정 맞추기 위해 심사 빨리 진행\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804970",
+     "published": "2026-10-19T09:41:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "이찬진 \"단일종목 ETF, 상장일정 맞추기 위해 심사 빨리 진행\"(종합2보)",
+     "url": "https://www.yna.co.kr/view/AKR20261019071352002",
+     "published": "2026-10-19T08:52:18+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "이찬진 \"단일종목 ETF, 상장일정 맞추려 심사 빨리 진행\"",
+     "url": "https://www.hankyung.com/article/2026101903136",
+     "published": "2026-10-19T02:16:52+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "NH아문디, '성장주도 코리아 펀드' 1주년…\"소부장 비중 확대\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "전자신문",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "NH아문디운용 성장주도 코리아 펀드 출시 1년…“반도체 소부장 투자 확대”",
+     "url": "https://www.mk.co.kr/news/stock/12179925",
+     "published": "2026-10-19T08:57:12+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "NH아문디 \"성장주도 코리아 펀드, 1년 수익률 84%…소부장 비중 확대\"",
+     "url": "https://www.hankyung.com/article/2026101905856",
+     "published": "2026-10-19T06:26:23+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "전자신문",
+     "title": "코스피보다 17% 더 번 NH아문디운용 '성장주도 코리아 펀드'…“소부장 투자 확대”",
+     "url": "https://www.etnews.com/20261019000244",
+     "published": "2026-10-19T05:05:20+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "NH아문디, '성장주도 코리아 펀드' 1주년…\"소부장 비중 확대\"",
+     "url": "https://www.yna.co.kr/view/AKR20261019059300008",
+     "published": "2026-10-19T01:30:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "코스피, 장중 상승 전환하며 5,700선 근접…전장보다 0.47%↑",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "경향신문",
+    "연합뉴스",
+    "전자신문",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "경향신문",
+     "title": "코스피, 장 막판 1% 올라 5700선 회복했다",
+     "url": "https://www.khan.co.kr/article/202610191741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-19T08:41:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "전자신문",
+     "title": "美 코어위브 충격에…코스피 5700선 마감",
+     "url": "https://www.etnews.com/20261019000349",
+     "published": "2026-10-19T07:09:09+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "코스피, 장중 반등해 5700선 부근… 美 지수 선물 상승 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbll1amxJRXNEczlTTElfYXlBbERrQU9ubHlsdlp0UHAycmtpdVdlYXFVN3pjYl9tV1dmYl91QTBINkpKTFNjLWt6NEtNeFA2cUFoS1pkaV84enFsdC1zZ0gtdjMtR0JRNjhBOW93OUF6b3pSRkY3QndGM0NaR1picDI4ZEVPOWhG0gGcAUFVX3lxTE1jN3BJdU05V0NmMUdtQzZnNnpLT2pfYlg1cG9CLXNNOWNIODVQb0pOa2NCTWhGZHkyRlJ2bWxsUjQ1T0h1LUtjLWszcFhPRlFVRmg4Qnl0VFF0SEJGQVJ1SFJ1Qk5Lb1paaUhSamkydUNiYnMzSkNhdzBNVlZYRVRtTHFLV1FpTzNrbjg5NW9wczlZWDZlN3dGUE1kYg?oc=5",
+     "published": "2026-10-19T04:17:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "코스피, 장중 상승 전환하며 5,700선 근접…전장보다 0.47%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261019064300008",
+     "published": "2026-10-19T01:37:51+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "미국 반도체장비 기업 엑셀리스, 평택에 아태지역 제조거점 증설",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "美 반도체장비 기업 엑셀리스, 평택에 제조거점 증설…“공급망 강화 기대”",
+     "url": "https://biz.heraldcorp.com/article/10907935",
+     "published": "2026-10-20T07:34:34+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "지난주 14.5% 급락한 코스피…반등 열쇠는 외국인",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TUWRpLWZXRFZXN3NyaGdXZTAyTHRUaER5ZkVieE90Wm5qckdDcWZmdEpyRmJPcTdfenJpY29sdl94T3ZIZFBqUG1wS0JabVVsSDVuajJvTXdkMWlxanU2Wk9HdXltN1U?oc=5",
-     "published": "2026-10-18T00:24:00+00:00"
+     "title": "미국 반도체장비 기업 엑셀리스, 평택에 아태지역 제조거점 증설",
+     "url": "https://www.yna.co.kr/view/AKR20261019170800003",
+     "published": "2026-10-19T21:00:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "美 반도체 장비기업 엑셀리스, 평택 생산거점 증설한다",
+     "url": "https://www.newsis.com/view/NISX20261019_0003832324",
+     "published": "2026-10-19T21:00:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 50,
+   "score": 63,
    "rank": 15,
    "slug": "15"
   },
   {
-   "headline": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\"",
+   "headline": "'오픈AI 도청' 사우디 국적 직원에 왕가·군부 지원 정황",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "美 오픈AI 도청 사우디인, 王家·군부 연계 정황 포착",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/20/OCEQQUQGMBFQJG7O5SWXA5XXKY/",
+     "published": "2026-10-19T22:32:06+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "'오픈AI 도청' 사우디 국적 직원에 왕가·군부 지원 정황",
+     "url": "https://www.yna.co.kr/view/AKR20261020003200091",
+     "published": "2026-10-19T18:14:27+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "'오픈AI 도청' 사우디 국적 직원에 왕가·군부 지원 정황",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wYnlMWUFmYWc3Znhfa1NoTFFQQnN3NGhFMkg0VWdsVWVUN0xCLVdwUTBlNW11WWZYSmtQZ3ZESzZvR3R4V0JaOUozX0FRRlROd3c?oc=5",
+     "published": "2026-10-19T18:14:27+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "LG 전 계열사 사업보고회 돌입… 구광모 ‘AI 전략’ 점검",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "경향신문",
+    "서울신문",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울신문",
+     "title": "LG 전 계열사 사업보고회 돌입… 구광모 ‘AI 전략’ 점검",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261020031007",
+     "published": "2026-10-19T15:01:49+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "구광모, 전 계열사 전략 점검…AI 분야 신사업 기회 찾는다",
+     "url": "https://www.hankyung.com/article/2026101915121",
+     "published": "2026-10-19T09:09:26+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "경향신문",
+     "title": "LG, 오늘부터 한 달 간 전 계열사 사업보고회",
+     "url": "https://www.khan.co.kr/article/202610191203001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-19T03:03:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 61,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "AI·반도체주 반등…필리 지수 9거래일만에 반등",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -783,95 +990,25 @@
    "section": "ai",
    "importance": 4,
    "outlets": [
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\"",
-     "url": "https://www.yna.co.kr/view/AKR20261018027100002",
-     "published": "2026-10-18T20:51:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "매일경제",
-     "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\"",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92OHpERXBabTktREppbC04NjloRThDR0VXaUd4YnRiNld6NDBtcTh1ZVgzSUlZOWUwVUdSaVRfSWk3cVdKQUZleTh4NHgzVkxPa2c?oc=5",
-     "published": "2026-10-18T20:51:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 16,
-   "slug": "16"
-  },
-  {
-   "headline": "트럼프, 이스라엘 총선 9일 앞 네타냐후 지지…\"위대한 전사\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
     "연합뉴스",
-    "파이낸셜뉴스"
+    "한국경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "트럼프, 이스라엘 총선 9일 앞 네타냐후 공개 지지…\"위대한 전사\"",
-     "url": "https://www.fnnews.com/news/202610190542064908",
-     "published": "2026-10-18T20:46:54+00:00"
+     "outlet": "한국경제",
+     "title": "필리 지수 9일만에 반등… 일단 잦아드는 AI 신용불안 [오늘 아침, 당신이 알아야 할 7가지]",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NQ3VPZDFOX1JyYzJxSnlfc2pxQ0tqZ3d5S0hab3dnWkh0S3gxUG05N2MteG9qMFFsUkRmTW1VQUIxUjNoNlR3ZnVpZzZLZldkUV9sQm1fSW9aUQ?oc=5",
+     "published": "2026-10-19T22:37:35+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "트럼프, 이스라엘 총선 9일 앞 네타냐후 지지…\"위대한 전사\"",
-     "url": "https://www.yna.co.kr/view/AKR20261019001300071",
-     "published": "2026-10-18T16:20:25+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 17,
-   "slug": "17"
-  },
-  {
-   "headline": "트럼프 '러 에너지 유화책'에 공화 반발기류…美여권 내분 양상(종합)",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "파이낸셜뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "트럼프 '러 에너지 유화책'에 공화 반발…美여권 내분",
-     "url": "https://www.fnnews.com/news/202610190531583942",
-     "published": "2026-10-18T20:40:37+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "트럼프 '러 에너지 유화책'에 공화 반발기류…美여권 내분 양상(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261019000351071",
-     "published": "2026-10-18T19:34:03+00:00"
+     "title": "AI·반도체주 반등…필리 지수 9거래일만에 반등",
+     "url": "https://www.yna.co.kr/view/AKR20261020010800009",
+     "published": "2026-10-19T21:54:15+00:00"
     }
    ],
    "factcheck": null,
@@ -880,33 +1017,33 @@
    "slug": "18"
   },
   {
-   "headline": "트럼프 측근 美의원 \"한미관계 재설정 중…이혼 아닌 부부상담\"",
+   "headline": "\"코스피 7000 다시 간다?\"…전고점 회복 기대 키우는 외국인 매수세",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
+   "section": "kr",
    "importance": 4,
    "outlets": [
-    "연합뉴스",
-    "파이낸셜뉴스"
+    "뉴시스",
+    "서울신문"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "\"한미 관계 재설정 중…이혼 아닌 부부 상담\"...트럼프 측근 美의원",
-     "url": "https://www.fnnews.com/news/202610190524011660",
-     "published": "2026-10-18T20:28:08+00:00"
+     "outlet": "서울신문",
+     "title": "“삼전닉스 폭락은 과도한 공포 반영”…“코스피 7000 다시 간다?” 외국인 움직임에 ‘주목’[이슈픽]",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nTDVyRTlTZGRZZVowVUlOZUxqZTRoTXU2QXI1NGlvc1RKOU9sekFjakhMM193WXRfbkFVUVB1dm0zZlNRZzZ2QTllZDNwVzBvUEs4QWZ3T0tERGtmMzJNNDV0Wm95S3hVLWFrcVpPS3JuNDd4Q3NtOE1R?oc=5",
+     "published": "2026-10-19T21:57:00+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "트럼프 측근 美의원 \"한미관계 재설정 중…이혼 아닌 부부상담\"",
-     "url": "https://www.yna.co.kr/view/AKR20261019003400071",
-     "published": "2026-10-18T20:12:01+00:00"
+     "outlet": "뉴시스",
+     "title": "\"코스피 7000 다시 간다?\"…전고점 회복 기대 키우는 외국인 매수세",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ERXlESWdWcXJaTnAxV2hOeWd1Q3dtR2pXWTdKSUd5TUNXMUkzc0pnWjRJTk5mOHhjUy0zeXQ0MjB4UUZjd0t5R0ZySTVHUnJBNzZwSE1TM2VUSTB3RGhlVVY4WWZrUHpGWmx6aXJtRkFHcklKc1lQR9IBeEFVX3lxTE5ERXlESWdWcXJaTnAxV2hOeWd1Q3dtR2pXWTdKSUd5TUNXMUkzc0pnWjRJTk5mOHhjUy0zeXQ0MjB4UUZjd0t5R0ZySTVHUnJBNzZwSE1TM2VUSTB3RGhlVVY4WWZrUHpGWmx6aXJtRkFHcklKc1lQRw?oc=5",
+     "published": "2026-10-19T15:10:00+00:00"
     }
    ],
    "factcheck": null,
@@ -915,7 +1052,7 @@
    "slug": "19"
   },
   {
-   "headline": "트럼프 정책에 美합법이민 반토막…韓 이민비자 발급도 19% 감소",
+   "headline": "트럼프, '11월 북미회담'에 \"모르겠다\"…1주전 \"아마 될 것\" 뒤집기?",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -923,7 +1060,7 @@
    "section": "people",
    "importance": 4,
    "outlets": [
-    "연합뉴스",
+    "뉴시스",
     "파이낸셜뉴스"
    ],
    "official": false,
@@ -931,17 +1068,17 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "절반으로 준 美합법이민…韓 이민비자 발급도 19% 감소",
-     "url": "https://www.fnnews.com/news/202610190503217975",
-     "published": "2026-10-18T20:09:54+00:00"
+     "outlet": "뉴시스",
+     "title": "트럼프, '11월 북미회담'에 \"모르겠다\"…1주전 \"아마 될 것\" 뒤집기?",
+     "url": "https://www.newsis.com/view/NISX20261020_0003832461",
+     "published": "2026-10-19T21:31:59+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "트럼프 정책에 美합법이민 반토막…韓 이민비자 발급도 19% 감소",
-     "url": "https://www.yna.co.kr/view/AKR20261019002400075",
-     "published": "2026-10-18T18:24:31+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "트럼프, 11월 북미 정상회의 가능성에 \"모르겠다\"",
+     "url": "https://www.fnnews.com/news/202610200548104109",
+     "published": "2026-10-19T21:03:24+00:00"
     }
    ],
    "factcheck": null,
@@ -951,7 +1088,7 @@
   }
  ],
  "market": {
-  "fetched_at": "2026-10-19T06:18:39.654614+09:00",
+  "fetched_at": "2026-10-20T07:49:35.566810+09:00",
   "groups": {
    "지수": [
     {
@@ -973,34 +1110,34 @@
     {
      "ticker": "^GSPC",
      "name": "S&P 500",
-     "value": 7659.43994140625,
-     "change": -84.6201171875,
-     "pct": -1.0927099809045937,
-     "date": "2026-10-16"
+     "value": 7690.72998046875,
+     "change": 31.2900390625,
+     "pct": 0.4085160181666714,
+     "date": "2026-10-19"
     },
     {
      "ticker": "^IXIC",
      "name": "나스닥",
-     "value": 26140.029296875,
-     "change": -573.0,
-     "pct": -2.1450206699957897,
-     "date": "2026-10-16"
+     "value": 26430.88671875,
+     "change": 290.857421875,
+     "pct": 1.1126897317967899,
+     "date": "2026-10-19"
     },
     {
      "ticker": "^DJI",
      "name": "다우",
-     "value": 52002.41015625,
-     "change": -175.28125,
-     "pct": -0.33593140147822886,
-     "date": "2026-10-16"
+     "value": 51966.03125,
+     "change": -36.37890625,
+     "pct": -0.06995619268548303,
+     "date": "2026-10-19"
     },
     {
      "ticker": "^SOX",
      "name": "필라델피아 반도체",
-     "value": 11137.2900390625,
-     "change": -443.919921875,
-     "pct": -3.83310486013384,
-     "date": "2026-10-16"
+     "value": 11316.3427734375,
+     "change": 179.052734375,
+     "pct": 1.6076867330113265,
+     "date": "2026-10-19"
     },
     {
      "ticker": "^N225",
@@ -1023,92 +1160,92 @@
     {
      "ticker": "KRW=X",
      "name": "원/달러",
-     "value": 1335.93994140625,
-     "change": -5.010009765625,
-     "pct": -0.37361646206457433,
-     "date": "2026-10-18"
+     "value": 1330.68994140625,
+     "change": -10.260009765625,
+     "pct": -0.765129955570576,
+     "date": "2026-10-19"
     },
     {
      "ticker": "JPYKRW=X",
      "name": "원/100엔",
-     "value": 842.7000045776367,
-     "change": -5.041408538818359,
-     "pct": -0.5946870662228432,
-     "date": "2026-10-18"
+     "value": 837.1000289916992,
+     "change": -10.64138412475586,
+     "pct": -1.2552629799735926,
+     "date": "2026-10-19"
     },
     {
      "ticker": "EURKRW=X",
      "name": "원/유로",
-     "value": 1492.699951171875,
-     "change": -8.75,
-     "pct": -0.5827700079626852,
-     "date": "2026-10-18"
+     "value": 1491.4000244140625,
+     "change": -10.0499267578125,
+     "pct": -0.6693481024771186,
+     "date": "2026-10-19"
     },
     {
      "ticker": "DX-Y.NYB",
      "name": "달러인덱스",
-     "value": 101.83999633789062,
-     "change": -0.160003662109375,
-     "pct": -0.1568663354013511,
-     "date": "2026-10-16"
+     "value": 101.9729995727539,
+     "change": 0.13300323486328125,
+     "pct": 0.13060019603887696,
+     "date": "2026-10-19"
     },
     {
      "ticker": "^TNX",
      "name": "미 국채 10년(%)",
-     "value": 5.0980000495910645,
-     "change": 0.008999824523925781,
-     "pct": 0.1768485778325335,
-     "date": "2026-10-16"
+     "value": 5.136000156402588,
+     "change": 0.03800010681152344,
+     "pct": 0.7453924370709242,
+     "date": "2026-10-19"
     },
     {
      "ticker": "^VIX",
      "name": "VIX 변동성",
-     "value": 19.989999771118164,
-     "change": 3.530000686645508,
-     "pct": 21.44593489057658,
-     "date": "2026-10-16"
+     "value": 18.440000534057617,
+     "change": -1.5499992370605469,
+     "pct": -7.753873210644091,
+     "date": "2026-10-19"
     }
    ],
    "원자재": [
     {
      "ticker": "CL=F",
      "name": "WTI 원유",
-     "value": 99.0199966430664,
-     "change": 1.0499954223632812,
-     "pct": 1.0717519743598691,
-     "date": "2026-10-16"
+     "value": 98.23999786376953,
+     "change": -3.1700057983398438,
+     "pct": -3.125930069879568,
+     "date": "2026-10-19"
     },
     {
      "ticker": "BZ=F",
      "name": "브렌트유",
-     "value": 109.86000061035156,
-     "change": 3.94000244140625,
-     "pct": 3.7197908888950693,
-     "date": "2026-10-16"
+     "value": 109.19000244140625,
+     "change": -0.6699981689453125,
+     "pct": -0.6098654334816933,
+     "date": "2026-10-19"
     },
     {
      "ticker": "GC=F",
      "name": "금",
-     "value": 4181.10009765625,
-     "change": 11.0,
-     "pct": 0.2637826369247698,
-     "date": "2026-10-16"
+     "value": 4157.0,
+     "change": -24.10009765625,
+     "pct": -0.5764056610306767,
+     "date": "2026-10-19"
     },
     {
      "ticker": "SI=F",
      "name": "은",
-     "value": 57.30500030517578,
-     "change": 0.4679985046386719,
-     "pct": 0.8234046304572029,
-     "date": "2026-10-16"
+     "value": 57.08000183105469,
+     "change": 0.08500289916992188,
+     "pct": 0.14914097861729037,
+     "date": "2026-10-19"
     },
     {
      "ticker": "HG=F",
      "name": "구리",
-     "value": 6.573500156402588,
-     "change": 0.062000274658203125,
-     "pct": 0.9521657956568008,
-     "date": "2026-10-16"
+     "value": 6.577499866485596,
+     "change": 0.04649972915649414,
+     "pct": 0.7119848136385221,
+     "date": "2026-10-19"
     }
    ]
   },
@@ -1116,40 +1253,40 @@
    {
     "name": "비트코인",
     "id": "bitcoin",
-    "usd": 80953,
-    "krw": 108045606,
-    "pct": -0.735009043216935
+    "usd": 82012,
+    "krw": 109135936,
+    "pct": 0.42876357940218124
    },
    {
     "name": "이더리움",
     "id": "ethereum",
-    "usd": 2358.21,
-    "krw": 3147441,
-    "pct": -2.5400027455265617
+    "usd": 2406.01,
+    "krw": 3201763,
+    "pct": 0.5408177391744391
    },
    {
     "name": "솔라나",
     "id": "solana",
-    "usd": 101.48,
-    "krw": 135441,
-    "pct": -2.3346082174552274
+    "usd": 105.03,
+    "krw": 139773,
+    "pct": 1.3406428317670362
    },
    {
     "name": "리플",
     "id": "ripple",
-    "usd": 1.27,
-    "krw": 1692.08,
-    "pct": -2.5692100155536846
+    "usd": 1.3,
+    "krw": 1735.92,
+    "pct": 0.34348793619522316
    }
   ],
-  "kimchi_premium": null,
+  "kimchi_premium": 1.2530236003422512,
   "flows": null
  },
  "stats": {
-  "collected": 1274,
-  "outlets": 58,
-  "verified_stories": 49,
+  "collected": 1853,
+  "outlets": 64,
+  "verified_stories": 67,
   "dropped_by_factcheck": 0,
-  "seconds": 106
+  "seconds": 8
  }
 }
