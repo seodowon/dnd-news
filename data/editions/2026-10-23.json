@@ -1,0 +1,1245 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T07:09:48.331164+09:00",
+ "mode": "draft",
+ "articles": [
+  {
+   "headline": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 10,
+   "outlets": [
+    "KBS",
+    "YTN",
+    "뉴스1",
+    "뉴시스",
+    "문화일보",
+    "연합뉴스",
+    "이데일리",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, AI투자 불안에 나스닥 2.6%↓…반도체지수 6.7% 급락(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261023007651072",
+     "published": "2026-10-22T21:35:47+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "뉴욕증시, AI 투자 우려 재부상에 기술주 급락…나스닥 2.6%↓",
+     "url": "https://www.newsis.com/view/NISX20261023_0003837727",
+     "published": "2026-10-22T20:35:23+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "KBS",
+     "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wXzNYRFdCUW9idnpMQUhBNjVKZy02NjFNWk44X3lsX2sxNGp2d3dvc3lrdldNeTdDSWhqNGpaR0N4SmNBN1daa0dtakZTbmI1V0cwcUJVaWt2LXc?oc=5",
+     "published": "2026-10-22T20:19:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
+     "url": "https://www.yna.co.kr/view/AKR20261023007600072",
+     "published": "2026-10-22T20:15:32+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "이데일리",
+     "title": "[속보]AI 투자 불안에 나스닥 2.6% 급락…반도체주 투매",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWc0bExEMVF5LWZYdUhfaTdGS0N1UlNmNHJCZWcyWnVZamNzZThVNjUzLTlmLUJrVDR1eUQ2cjVoWU05X21wSFozcmdqb2o5Si1aZXVIaWFyVW0tTE44V1RkanhTdFBnc3NxT0NtYWdXOXhMcmgxRHV4dXlqNWEwaA?oc=5",
+     "published": "2026-10-22T20:08:07+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "파이낸셜뉴스",
+     "title": "[속보][뉴욕증시] AI 매도세 속 기술주 급락…나스닥, 2.6%↓",
+     "url": "https://www.fnnews.com/news/202610230505222507",
+     "published": "2026-10-22T20:05:57+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "금융위원장도 “솔리다임, 중복상장 규제 대상”",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 8,
+   "outlets": [
+    "SBS",
+    "경향신문",
+    "전자신문",
+    "조선일보",
+    "한겨레",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "‘솔리다임 중복상장 논란’에 금융위원장도 “하이닉스 이사회 의무 굉장히 커”",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1283665.html",
+     "published": "2026-10-22T22:09:42.731509+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "금융위원장도 “솔리다임, 중복상장 규제 대상”",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/23/NSJTW5MGJFEMFIJYL4ECFD3WIY/",
+     "published": "2026-10-22T15:35:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "이억원 \"솔리다임 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생\"",
+     "url": "https://www.hankyung.com/article/2026102289166",
+     "published": "2026-10-22T06:16:16+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "전자신문",
+     "title": "이억원 금융위원장 “솔리다임 미국상장, 중복상장 규제 대상”",
+     "url": "https://www.etnews.com/20261022000296",
+     "published": "2026-10-22T05:23:21+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "SBS",
+     "title": "이억원 \"솔리다임 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810167",
+     "published": "2026-10-22T05:08:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "경향신문",
+     "title": "솔리다임 상장 제동 걸리나…금융위원장도 “중복상장 규제 대상 맞다”",
+     "url": "https://www.khan.co.kr/article/202610221126001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-22T02:26:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 100,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "코스피, 2% 넘게 내리며 5,600선 공방…삼전 닉스 3%대 하락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 7,
+   "outlets": [
+    "YTN",
+    "뉴스1",
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "‘삼전닉스’ 약세에…코스피, 2%대 하락, 5600선에서 등락 중 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN05TbTdvUzl6NDJzcXdvZmxPM0liOGRGSnp4eGw2LVN5TkZuUEdLclBEbmhMQlF0UDQtTmFibDVoOW84c2o5bk5ubU9scEdPaXlwaDhoQklrTTF2ekg5RnhQbTFSbGJfXzlULU5LNGpHT2dWbHV4c2ZsVnlRU3Zod1gzTGhKYXA20gGcAUFVX3lxTFBSVzRLck1UUWRrTEd4ZkpSRmxJeGpOaEJVbFBodTdfaHI1YWZnMGFXeW1yQzJJYWR4eHh0MmlHWEptX1V6TmxpeFdsakI2STQ2WlRnLUNDYjJzY1Jad21PZnNmckRXQ25Td0w1UzlIZUo5bzIwMUZ4Mnc3T05rbGMtVUx1ckl5cXNKd3NISVoyc1VickFucGF2U2dicg?oc=5",
+     "published": "2026-10-22T12:14:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "코스피·코스닥 2% 하락...5,600선도 위태",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOMjRjVU5fMEJMNnpxYXctaHJKMlBBaGhQd2lReTcwaWRQYl8zWllSako0WG5uTGI5d1J6akZ4dFF0SGtlam9jdjdpcFVHS0U2S0IzSkI0bG1BX0lTdTM2M1RxM2ZRT3laN1dVY0FUUQ?oc=5",
+     "published": "2026-10-22T02:43:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴스1",
+     "title": "외국인 '매수 축소' 코스피 5600선 깨져…삼전닉스 3%대 하락[장중시황]",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJU0Z4VnZfTXgzNUNkZU54aXVKMXR4SWg2MUFMbmxJZjVPWUEtRUxCdmR2VExkOUdvUTYtelRJNUh0ZmNsbEkweVM0ZWpwMkE3T1VkbXdCaDZsOWpOdHBJ?oc=5",
+     "published": "2026-10-22T02:39:43+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "코스피, 2% 넘게 내리며 5,600선 공방…삼전 닉스 3%대 하락",
+     "url": "https://www.yna.co.kr/view/AKR20261022088400008",
+     "published": "2026-10-22T02:25:51+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "코스피, 장중 낙폭 키워 5600선으로 밀려…삼전닉스↓",
+     "url": "https://www.hankyung.com/article/2026102282066",
+     "published": "2026-10-22T02:03:49+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "Trump ordered to sit for deposition in his $10 billion BBC lawsuit",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "AP",
+    "Axios",
+    "BBC",
+    "CBS News",
+    "CNN",
+    "NBC News",
+    "Reuters",
+    "The Guardian",
+    "Wall Street Journal"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "NBC News",
+     "title": "Judge orders Trump to sit for deposition in his $10 billion lawsuit against the BBC",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYThHaHcyd3diS1pHWDdqTl9OQ1lROTdpc25zdG5UUU1LZmpmaDY3WjdLaGYwdU1LVmhXQ1BraDV4V1JXcG9TMXpqMGtCVzNBXzNCZkcwQUQ1cjR4a2ZwLWU4UVNSMTJpcmR3Y0thbHRKMkNzb01pVVJyX0lmTzdKVWNacWs3SW5uaDlsRzBDU25tVEtNMDZsSnFYd0hlY0t3WUNibnJ2b1ZsbXU5b3BJd1VaLUFJbmIz?oc=5",
+     "published": "2026-10-22T20:44:39+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Axios",
+     "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkRvYzIwckdyOGlId2Z0SlBBaVpjVFQ0b1JoRFpuRGhCRTNCXzkweTNWcG9vQVd4a0VqT1k3dTBBWkN0QWhSWEh4Mlc0XzZvUFFhSXVLWGYwTGFSU1llUXpTT1BSQjBRRGNQelB0LTRvQ05jSGNLMUJvNExtUmdNbHdpVzkzdw?oc=5",
+     "published": "2026-10-22T19:45:28+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Reuters",
+     "title": "Trump ordered to sit for deposition in his $10 billion BBC lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeEdESlAybnhYTFk5QmF1cXdLNGxzSHN3MEp6QWpMSjk2bUJXYzVySWtIZ3ljblNPeWpULTlYVV9sWnhKVWdoeHRNSUZzODZ5XzhqUV9TMGxwZzNyc19LZGtpQllIX25VVF9SZmdGZm1SUmJuekk1Qm8yWlllZ1NsaWE3ZDkzcmZBUm1jMzFiVXBJdmxuX1NEanh3SW5KMzJxQmp0aldGWl9SRWdS?oc=5",
+     "published": "2026-10-22T19:31:50+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "AP",
+     "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE5OWjZqUUw1RlBFbXM0Z1N2R1dqNVo0YkF1U3diZFhJeHZxdWZuZHJNTlZNQzBVY0ZHdkVoWW5nUGVxdTJGYmxncUlYbnM0YU9UR0ZtSllZM1otYTNWS2cyM0lDTlA2U3hYYVNpTVU0MmFIendPOVBJaW4tcDRnTElVeEdmdHppaTRPNHZfTQ?oc=5",
+     "published": "2026-10-22T19:09:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Wall Street Journal",
+     "title": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWwyM1NZZ21aY011bTEtVnU0dVYxOWlFTnQ0bmFQRi1GOUo2UGtiVTlSSFRJRTQ3S3ZFWFVpTGNLcnNEZ05tRkNoY2RXeGEycW5hdHVvQk0tVnE5cDlZMHZPelR4Z2k5bm1raGlnS19sQ3c4UnlxMjJySF9oYW50eDh4SUtPbGc5MjBlWTBpN1ZtWmxydmR3NFM3bw?oc=5",
+     "published": "2026-10-22T19:09:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "The Guardian",
+     "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+     "published": "2026-10-22T17:18:12+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 78,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "\"트럼프, 머스크에 전화해 우크라 스타실드 속도 제한 해제 요청\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 6,
+   "outlets": [
+    "뉴시스",
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "\"트럼프, 머스크에 전화해 우크라 스타실드 속도 제한 해제 요청\"",
+     "url": "https://www.newsis.com/view/NISX20261023_0003837730",
+     "published": "2026-10-22T22:05:28+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "트럼프, 머스크에 직접 전화…“우크라 스타링크 속도 제한 풀어라”",
+     "url": "https://www.mk.co.kr/news/world/12183740",
+     "published": "2026-10-22T21:39:15+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "\"트럼프, 머스크에 전화…우크라 스타실드 제한 해제 요청\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261023006751072",
+     "published": "2026-10-22T21:16:06+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "[밤 사이 해외뉴스]머스크, 우크라 드론 무력화시켰다…스타링크 속도 제한 지시",
+     "url": "https://www.hankyung.com/article/202610227495i",
+     "published": "2026-10-21T23:26:42+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "거래소, 코스닥 승강제 '절대평가' 검토…\"확정은 아냐\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "아시아경제",
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "한국거래소, 코스닥 승강제 최상위에 절대평가제 도입 검토",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/10/22/G4YDMZLGMVRDEOBYHA4TOYTCHA/",
+     "published": "2026-10-22T11:39:39+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "아시아경제",
+     "title": "거래소, 코스닥 승강제 '절대평가' 검토…\"확정은 아냐\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aN3lUZnd5ejU2cmdQRWlDZVNBNjZJcl9JLWRFdDhodDhTYTNkLWFhRzZOeXBPclFsYkVFby1Qc0xtZzFPTE05U2FXN2I0dldBMUVOY3VDMGEtQjJoNXJpVA?oc=5",
+     "published": "2026-10-22T11:19:11+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "거래소 \"코스닥 승강제 '절대평가' 방식 검토 중…확정은 아냐\"",
+     "url": "https://www.yna.co.kr/view/AKR20261022191300008",
+     "published": "2026-10-22T11:02:51+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "[단독] 코스닥 승강제 '절대평가' 도입",
+     "url": "https://www.hankyung.com/article/2026102295321",
+     "published": "2026-10-22T08:58:24+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "코스피, 3.52% 하락 5533.77 마감",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "KBS",
+    "서울경제",
+    "연합뉴스",
+    "전자신문"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "KBS",
+     "title": "코스피 5,533.77 코스닥 764.10",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SU29xOFZ0ZEw2ZWQ3RlVPYWVwdVEwZzdjaXNOZncwNHJLTUl6Ym90RmRDNXJRQUZVX2NyWnUyeURNbXJhamlocU15WkFCT1kxekhNc29hZTJUVTg?oc=5",
+     "published": "2026-10-22T08:27:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "전자신문",
+     "title": "코스피, 3.52% 하락 5533.77 마감",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqNHRsXzRIbUdBLWdUZVlNcVNqb3FpSk92UUxIRW5hSjdBbk8yM19FT0hGcU96a19iak5xT0tSeEd1WlFzUGJtSzhUVmVYdw?oc=5",
+     "published": "2026-10-22T07:01:06+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "서울경제",
+     "title": "코스피, 3.52% 내린 5530선 마감",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OUjR2MkI2ZEFLMmRBM0ZSZXNYU1UwZDgyWFpENTQ3MWlyZVBaY29tOVd4NjBWWlhGc2pDYi1BNVltWTRwLVNBU2E4RENlanN0XzBNckdtbGFHWDlmVldnakU1czk?oc=5",
+     "published": "2026-10-22T06:55:51+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "코스피, 3.52% 내린 5,533.77에 장마감…코스닥, 3.62%↓",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9heVVlbmp3S2h4Ty1NSDZXRGY0anNlNXhZbExBdnprZl9mR2tCV1V4c0ZWQTJ4emc0VnNRY0NpaWJ5VlNUUXJVeTNuRTNZR2xLaUdmSmJYb19QWXVLSjdzYU83YnFtSlU?oc=5",
+     "published": "2026-10-22T06:35:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "코스피, 낙폭 확대해 3.52% 하락한 5,533.77에 마감",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMmx5ZXNRZXNpN21YdGZnMG5xMFdJY2FqVC05eDBMN09lNThjdFcwZ1ZveEJiTE5yYkNuSU83R3c4aG5XVFotOHpaOXA3TXVGajRsZXYwVTFON3htbWEwUTVMaUwtdUVGOGR6cXBtazjSAXRBVV95cUxOLUFmWDM2U3lXRUpKSDktVlFBRjJvZXNETlZhMEhIa1k5YTBWTlRndTQ1dWN1RzgzOUE1UzdBQ184R09HVnpKQm5jV2FjY3hBTExmUEJ3QTB5eEdVWGctMFQ3LWt5VmZLRG5LcXNsYldPbFJ5UA?oc=5",
+     "published": "2026-10-22T06:34:23+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "[코스피] 201.89p(3.52%) 내린 5,533.77(장종료)",
+     "url": "https://www.yna.co.kr/view/AKR20261022144000008",
+     "published": "2026-10-22T06:32:58+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "JTBC",
+    "SBS",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810467",
+     "published": "2026-10-22T08:13:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "JTBC",
+     "title": "코스피, 장중 반등 뒤 3.52% 급락 마감…코스닥도 3.62%↓",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LMHl4Zzk2VkVhd0labWZjU0VmdXh0T0JXdEUyazFJU01ZRzdlUzlNR1o1SDlndjdtdGp0ZHdsTEFKYVhqV0Fndm9uazZlMVUwQ2lyNQ?oc=5",
+     "published": "2026-10-22T06:41:40+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓",
+     "url": "https://www.yna.co.kr/view/AKR20261022144800008",
+     "published": "2026-10-22T06:36:46+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "[속보] 코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓",
+     "url": "https://www.hankyung.com/article/2026102289886",
+     "published": "2026-10-22T06:34:55+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "코스피·코스닥 약보합 출발...장 초반 5,700선 아래로",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "YTN",
+    "뉴스1",
+    "매일경제",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "뉴욕증시 훈풍에도 코스피 5700선 아래로…장 초반 낙폭 줄여",
+     "url": "https://www.mk.co.kr/news/stock/12182671",
+     "published": "2026-10-22T02:12:09+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "코스피·코스닥 약보합 출발...장 초반 5,700선 아래로",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84SHZEbkdqaERUME5QRDdrVG1ieXZrY1pWMjRmLUQ4SktjMDV5ZG13Z01aV1Nzc3E4WDJHWElSOGRiZzFPSkhUMjh1bWZWY2IzUUktdFlaRVJWdUl0c3c?oc=5",
+     "published": "2026-10-22T01:17:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴스1",
+     "title": "코스피, 약보합 출발 5700선 등락…외국인 순매수[개장시황]",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSDBVd1ZPZ0RpWTFCS1RxdGRYNmJESHQ1RElmWWo5aWdYbEYyNExfQlYxQU5BQXdNUXVodFNmcFVqZHJxZlFqeDVpNmRmSDZDdVduckVDdVdqU09aSWpR?oc=5",
+     "published": "2026-10-22T00:29:13+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "코스피, 하락 출발해 장 초반 5700선 밑으로…코스닥도 약세",
+     "url": "https://www.hankyung.com/article/2026102275616",
+     "published": "2026-10-22T00:09:05+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "6000대 개미는 매수하라?…“내년 코스피 최대 9300” 전망 나왔다 [투자360]",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "전자신문",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "6000대 개미는 매수하라?…“내년 코스피 최대 9300” 전망 나왔다 [투자360]",
+     "url": "https://biz.heraldcorp.com/article/10911911",
+     "published": "2026-10-22T19:05:31+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "연일 출렁이는데…한화증권 \"내년 코스피 최대 9,300\" 전망",
+     "url": "https://www.yna.co.kr/view/AKR20261022183400008",
+     "published": "2026-10-22T09:54:41+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "전자신문",
+     "title": "6000선 밑이 매수 타이밍?…“내년 코스피, 어게인 9000” 개미 흔드는 파격 전망 나왔다",
+     "url": "https://www.etnews.com/20261022000458",
+     "published": "2026-10-22T08:25:28+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "전 세계 PHP 보안 비상…정부, 사이버위기 경보 '주의' 상향",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "경향신문",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "경향신문",
+     "title": "AI가 ‘PHP’ 치명적 결함 확인…정부 사이버위기 ‘주의’ 경보",
+     "url": "https://www.khan.co.kr/article/202610222213015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-22T13:13:01+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "전 세계 PHP '비상'…정부, 사이버위기경보 '주의' 격상",
+     "url": "https://www.hankyung.com/article/2026102289377",
+     "published": "2026-10-22T06:22:46+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "전 세계 PHP 보안 비상…정부, 사이버위기 경보 '주의' 상향",
+     "url": "https://www.yna.co.kr/view/AKR20261022133900017",
+     "published": "2026-10-22T06:11:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "엠에스바이오, 코스닥 상장 첫날 89% 급등",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "\"장중 따블 찍었다\"…엠에스바이오, 코스닥 상장 첫날 71% 급등",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3eVNsQXktbW94SFlOd1FlLVIzVWNqVFp4SG4tWjczY292cERwRk5FNjVzYXFpczNzOXg2aURjbHQzUHNKNm42eVU0c244ZVBTNDMtakFZNU1Kd1lYWjA3VNIBeEFVX3lxTE9uOXRTTjhhTUFWYk9Jc3ZNRml1Q2JFTmVLeEYxWXdJNFFKLXFuQ2tSX3I3eDRkcGdzWWVOM3o2QnRPVHcweDNWSkRTQk1wNDcwNEhjb295eEs2VEh1d2pGZ2M5ODBrbHVSRUozU00wNDN3QWRkRmZLYQ?oc=5",
+     "published": "2026-10-22T07:53:41+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "[특징주] 엠에스바이오, 코스닥 입성 첫날 개장 직후 '따블'",
+     "url": "https://www.yna.co.kr/view/AKR20261022037900008",
+     "published": "2026-10-22T00:08:21+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "엠에스바이오, 코스닥 상장 첫날 89% 급등",
+     "url": "https://www.hankyung.com/article/2026102276696",
+     "published": "2026-10-22T00:07:16+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "IBK증권, 기업은행 연계 계좌개설 이벤트…선착순 주식 증정",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "“코스피200 주식 선착순 증정”…IBK투자증권, 기업은행 연계 계좌개설 이벤트",
+     "url": "https://www.mk.co.kr/news/stock/12183018",
+     "published": "2026-10-22T07:24:33+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "IBK증권, 기업은행 연계 계좌개설 이벤트…선착순 주식 증정",
+     "url": "https://www.yna.co.kr/view/AKR20261022033500008",
+     "published": "2026-10-21T23:55:20+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "IBK證, 기업은행 연계 계좌개설 이벤트 실시…선착순 주식 증정",
+     "url": "https://www.hankyung.com/article/2026102275996",
+     "published": "2026-10-21T23:52:31+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "LG디스플레이 3분기 영업이익 2천506억원…작년 대비 42%↓",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "전자신문"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "LG디스플레이 3분기, 전기比 흑자전환…영업이익 2506억원",
+     "url": "https://www.mk.co.kr/news/stock/12182920",
+     "published": "2026-10-22T06:44:50+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "LG디스플레이 3분기 영업익 2천506억원 '흑자 전환'(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261022122100003",
+     "published": "2026-10-22T05:19:27+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "LG디스플레이 3분기 영업이익 2천506억원…작년 대비 42%↓",
+     "url": "https://www.yna.co.kr/view/AKR20261022108600527",
+     "published": "2026-10-22T05:00:13+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "전자신문",
+     "title": "LGD, '환율·칩플레이션 여파' 3분기 영업이익 2506억원…전년比 42%↓",
+     "url": "https://www.etnews.com/20261022000270",
+     "published": "2026-10-22T04:56:37+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "삼성E&A 3분기 영업이익 5천6억원…작년 대비 184%↑(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261022026251527",
+     "published": "2026-10-22T00:10:46+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "트럼프 특사 \"푸틴은 인도주의자\" 발언에…공화당서 비판 세례",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "YTN",
+    "문화일보",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "문화일보",
+     "title": "푸틴이 인도주의자? 트럼프 특사 위트코프 발언 논란…공화당도 비판",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5abnFxSEprUkZURVFNSERvUUgtb01hbm9HdjA3UWVPZW1qY2JLT2JDRHZuOG5yUjVLSXJUb0c5Sms0aGQ3Wk5ZQWhHVWtHRVhW?oc=5",
+     "published": "2026-10-22T05:46:37+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "\"인도주의자, 경의 표한다\"...트럼프 특사 발언에 미 공화당도 '발칵' [자막뉴스]",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OcUIzQUI3cUpJUlhBZUc5dEl1dEppaHo2TWs2aGdIcTZRYVV2dHV6d2hyNDJBSlFkYjFTQUlBbU9zR1ZmUFk5ODNGRDNxb2R6QnR2X2xDeGJjSVRvc2c?oc=5",
+     "published": "2026-10-22T05:34:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "트럼프 특사 \"푸틴은 인도주의자\" 발언에…공화당서 비판 세례",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWkZhV1ZHbzBvc3JQMkpqVjFkbl9yeXRKRUhVOC1TSnRmNDJLYTNCdXE0NFFmTzJURlBEMFRCTHpxMlhZc0E5OVhIellzaXozVVRqOVBmVW9qUGs3RndnUHNObzVmODg?oc=5",
+     "published": "2026-10-21T22:20:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "\"美특사들, 젤렌스키 만나 '당신 비판에 트럼프 격노' 질책\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "YTN",
+    "동아일보",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "동아일보",
+     "title": "美특사들, 젤렌스키에 “당신 발언에 트럼프 격노”…비공개 회담서 질책",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aRkc5OGNib0VKSTRSNHloMmVPLTA3aThwVVBBeTMzTW1oVVQ5Rm1mcnA5TjJmb2lTbXdqSU1hQzBkVHRfbHh6YXl0bnhXVXFFM0ZpMlZoUjVZYzdtZzctaGhid3lvZ9IBZkFVX3lxTE9aRkc5OGNib0VKSTRSNHloMmVPLTA3aThwVVBBeTMzTW1oVVQ5Rm1mcnA5TjJmb2lTbXdqSU1hQzBkVHRfbHh6YXl0bnhXVXFFM0ZpMlZoUjVZYzdtZzctaGhid3lvZw?oc=5",
+     "published": "2026-10-22T01:45:19+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "\"당신 비판에 트럼프 격노\"...미 특사단, 젤렌스키 면전서 질책",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnY3dsRnBvQVUxLU9PNlBlQ25lUTRpVmhWZzZMM25ZSF9GdzhXUGZ1alE4XzJGMlZjX3Q2TW5aYlFyVmNoYjNPM0tSNU1lMlNYUUVSdmJ2SzhJbDFNRVZrOC14STBQc252YmJCbFRoX0pUdnhsaUE?oc=5",
+     "published": "2026-10-22T01:39:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "\"美특사들, 젤렌스키 만나 '당신 비판에 트럼프 격노' 질책\"",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SOXN1Z1I3aVk2dUs3d1RBWmZ0YUt5QWZWcFRreXAwZ3N3TFVwQ1R4SDlQdmJpN1VZYnlRRzJQaFk0cHpYOUhLbkFuWENOcUNVcWZkNndVVG9SSlHSAWBBVV95cUxOaFFMcFJka1BzV0tzVHN3bDBUdkFNYTI4WV96TkdSZnJFSzhpTkkzZmxMd1ZYM2t6QjlEVnJJN3dKdE1uUHpQOWk4MzJZZjZVWEVobi1kY2l6Z2ZoNEhzN28?oc=5",
+     "published": "2026-10-22T01:07:15+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "코스피 5500선 추락했는데…與대변인 “내년 1만피 갈것”",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "동아일보",
+    "머니투데이",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "머니투데이",
+     "title": "반도체주 약세에… 코스피 5500선 턱걸이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15RFU2R0FRajZxQ2pTRFlFYzNVamJHSDVNcWV3UXI4UzRZQlJvMlFHZ3R2THdSa2pibjQxUzNkeDJXTzFYSlUzZml3S05Gd2VGNFdqYmp1TVUtUWZWQ2EtdWtwN2U5OTNk0gFuQVVfeXFMTWtVNDlBdHB5NjlHekRpYjNVQUlPVDdOa0RQRklfcFBQcVZWTFdTTlFFWjFLRmxsUnQ3UkJpclAtOEFUTllYZGtvWlN3VHBGNFk1UWlOcHpjNUItUkZIVE1PY0NBbG5jaVBSNmZjMHc?oc=5",
+     "published": "2026-10-22T19:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "동아일보",
+     "title": "코스피 5500선 추락했는데…與대변인 “내년 1만피 갈것”",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weGJ0cUNQb1hpdlB0MHBLRkpKS0g3Mm1xQ1dyZjdjbTVfV1BUdnRXSEt2eFhLUlBRQk1BSW5TTjRNMG5naXpBdHVlaWpOUDBwRmI0S1JycVlQN2Z1X2w5ZDQ0dVAwUVJ4VGU0SWJCU2g5dW1iNjNj0gFmQVVfeXFMTjFCMWR4MmVGYVBVYmJjWUt5emcwUVhuTDBPU1RERnNQV2RtTlZENTJvRW5DSTVwRXhSOTJaVy1YSHhVOHpwRXY2blZiVjhxUktsTmpWVkV6aTBsMmhocldZX245Y2lB?oc=5",
+     "published": "2026-10-22T12:35:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "코스피 5500까지 떨어졌는데... 與대변인 \"내년 1만피 기대\"",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3R4T1VtajVLTXhhTmFxOHE0anU2dG5KRUY1Y25nLVBFSF9seVBJQ0Zva01VYkZlU0VrNS05N0JQNzdYT0tnSXA2c216b2pCTnFMbjQ1R0FkX0RmZFYwRVg1SUtoZEV5a2tQbF9HaURoSXkwcVhyLVZ3QU1DUTN4ekRreTJ2dw?oc=5",
+     "published": "2026-10-22T08:21:50+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "머니투데이",
+     "title": "어제 오른 것보다 더 빠졌다…\"금리 동결\"에 코스피 5500선 '풀썩'",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6c1dkdVc5anNESWtSc2VnenVpWTIxVWV5NnR3X1pJV0lpcTVJREVqNlFDY0VvNGRTYXAzY0ZGbnNXcUpFU05IMnZVbFhkMlNXUnpiQmJIVGxocmtDdVNJSkJXQU1QVEUw0gFuQVVfeXFMT3NJRlhZM1I2SkE5VEZxTmlobS1fTUxqZnltZE1aZVlDeWhQUGlqVEU3RmVVemxVX1AzYTNSTDk0TDZlNnMwRDdtbTduYTVScXdnSXA0N28tV2ZLWDdpYWhXc0VqdnRVTEp5MUQyNnc?oc=5",
+     "published": "2026-10-22T05:16:43+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 61,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "Trump defends Ramaswamy’s attack ad and urges him to keep running it",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "ABC News",
+    "CNBC",
+    "CNN",
+    "Politico",
+    "The Guardian",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Washington Post",
+     "title": "Ramaswamy’s Ohio attack ad shows ‘owning the libs’ may have limits",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1MzSXdpMFBIa1B2RzVmQ3NSanctdFJidkd6V3hDOTVtSDJac3IwOHg1VnV1N2d1OVViNHlacTRpenQtdDNuTUtuZFNuT0wwN3BjdE5faTBZRmhRYTdCdGhmeU5abXA5RmNnRGtYQ1g1dC05bzlYcVVNNVhuSnJIX2pORUNMaWREeU5KU3pqZGlvWVVwcG9HOUxQcXZEcElIcW5rcTlQZ1gydVRHOTNyR3Z2bDVnLWl2QUFsd2FJQmJoQQ?oc=5",
+     "published": "2026-10-22T21:47:10+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "CNN",
+     "title": "Trump defends Ramaswamy’s attack ad and urges him to keep running it",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTGVNYnJxUEh2XzUtek9teWlLUTljNURHT1RvVjdPdm84UTUyWmFfNXRROGR5d0t0SXM2X3dXb2gzNWh2RjVCR3p6RW0tcUN3VkdiTWVpbEVrV0J5aG1XT3lycDRiT01nTHVYSlc4bERJMHZ1aG55akpoRG9BUUVKMU8zRXc2WmVEcl9zdE5IZDlOQ0hRY3FObWFicWRPaUpRYUVhdklpNllrRFU3TFUxRlRBdkJwUU0yX3ZvdTNUYnZTMXc2T3pmcA?oc=5",
+     "published": "2026-10-22T20:30:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "ABC News",
+     "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWdRWUZaNElhU19rRC10RXZVenItNHJBckpHay16TUs4el84LW9oNm9EZ2ZMNUZPMUNERlB3dkhONl9hSjl4MVNHRml1TDlybzkzLU5vU2FzUzBfeFVJN0RJZ05PMDBnaUo3RGZ1WHA2THBFM0NRQm1adVVhRWc1X25yRXYzbGJVNEZsUk9lT2tzNW9rdmM1V1djZjXSAaIBQVVfeXFMT0pUTTl0OUFuWm1yYnNaZWlkM2k4dGlkRkd5NVVTMXF1bkV2cWlMTzNWdUhYVGtGV01TSHF6d0hteU1MVjNvOTVNTzdqZ3ZwRFkzMTJNdFg5MEMtbkVhNGtLRG5lNnpKc3hQenpKeTNHZGMtb1Y4YmY3bFI5YS05QkZwdE9ocV9YTllMRjE5WXo3cXF3emRTNm1Nd0s3NzJKVEtn?oc=5",
+     "published": "2026-10-22T20:25:28+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Politico",
+     "title": "Trump presses Ramaswamy to keep running controversial ad featuring Acton’s estranged mother",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTC1VZVJlajV2T3AwQ0RDMkJvdEdvYXYzam4yS0FXenJPZFVtdmNvRTlEY0dXVnRFWkpzZ0RlbkgtQXpaTEUza3otRm1oZXRIWFN6dkZvQWhOQlNGVXMyeWZjSlUxMlRUaEZ3TUJBY2FDOHNLb2JnNmVLdmp4aEk?oc=5",
+     "published": "2026-10-22T20:19:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "The Guardian",
+     "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTRhOXB6V3NoaFVoc0QxUEl4eWZUQmFNSzlMV2NNeElFRkJ2bGZGc05LSGFFRnNGcVRXOG4tUzVFVHJYWFRNXzRlX3dYcHJnY3cxTDBxVTZXeEYzd280UmJ1aWswb2g2bGIwQ0dhWkNRb2RhajhNVnZFZ0RtREMwUTRlRDEzdw?oc=5",
+     "published": "2026-10-22T19:23:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "CNBC",
+     "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xRi10OUg0WFlvdDZoOEtWVThrSjhCaTBfWnZpVUEtVy1IWkpwRElwbXduR21icDJHZzRMQlR1T0k2YjBPbWxMUlpGWmtVTmFZUUFIdEtfcHlWLWdrT2NmMWJRdjQyNThTSk8tTzhOMGpxc3hyYkM1NWhRONIBgAFBVV95cUxPY0FBM191eGRneVpUTGdodk1Bb3dEWTFURmU1Y1R4MW5sYmdYa1JRcVNFOExXQkhfWURHb1RIN3F4Ul9zbl9DM3VuTW9nekk0THFrZkRJcENER2RYZTVaRGVRNUxQU2lBWElpTVh4YmNHMTlkNWVyZTRVSTFwVXIxMw?oc=5",
+     "published": "2026-10-22T18:51:49+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 60,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "[속보] 한은 총재 \"긴축정책 기조 계속 이어갈 필요 있어\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "한은 총재 “통화긴축 기조 계속 이어가야”[일문일답]",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1283644.html",
+     "published": "2026-10-22T22:09:42.731625+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "[속보] 한은 총재 \"긴축정책 기조 계속 이어갈 필요 있어\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bUdHS1hpamZteUFNOElhSDBjVDIyN1ZVS2VHZmJ2aEZBMkxXV0c1UkQ0M0pyWkNwaWhfbXVSbmY3anprYlJ2cklHdGtsUHE2c0E3NU51YUlqdTFkWTA1bXJRc2lJLTA?oc=5",
+     "published": "2026-10-22T02:26:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "코스피 또 급락…AI 수익성·긴축 우려 겹쳐",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "SBS",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "금리 동결에도 3.5% 급락…AI 수익성·긴축 우려",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811204",
+     "published": "2026-10-22T22:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "코스피 또 급락…AI 수익성·긴축 우려 겹쳐",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pQmstSXRoWFlxRlZpTDAwejdnRWJCbXpxX1I5YmIwVVIxRmJVa2oxZzhVbFd4Ri1NRG55T2k1bU1LMkVfT29kb3ZBMG5DU3pIcVJzQUM3NHkyakNHRXB5STVyMm52SEU?oc=5",
+     "published": "2026-10-22T07:05:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 20,
+   "slug": "20"
+  }
+ ],
+ "market": {
+  "fetched_at": "2026-10-23T07:09:50.573382+09:00",
+  "groups": {
+   "지수": [
+    {
+     "ticker": "^KS11",
+     "name": "코스피",
+     "value": 5735.66015625,
+     "change": 182.919921875,
+     "pct": 3.294227969509711,
+     "date": "2026-10-21"
+    },
+    {
+     "ticker": "^KQ11",
+     "name": "코스닥",
+     "value": 792.760009765625,
+     "change": 10.7900390625,
+     "pct": 1.3798533788705436,
+     "date": "2026-10-21"
+    },
+    {
+     "ticker": "^GSPC",
+     "name": "S&P 500",
+     "value": 7663.43017578125,
+     "change": -93.73974609375,
+     "pct": -1.208427133063139,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "^IXIC",
+     "name": "나스닥",
+     "value": 26008.859375,
+     "change": -694.0,
+     "pct": -2.598972605344818,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "^DJI",
+     "name": "다우",
+     "value": 52867.98046875,
+     "change": 11.890625,
+     "pct": 0.022496225194013064,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "^SOX",
+     "name": "필라델피아 반도체",
+     "value": 10731.9775390625,
+     "change": -773.58203125,
+     "pct": -6.723549832778697,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "^N225",
+     "name": "닛케이 225",
+     "value": 64621.23828125,
+     "change": 545.81640625,
+     "pct": 0.8518342763544906,
+     "date": "2026-10-21"
+    },
+    {
+     "ticker": "000001.SS",
+     "name": "상하이종합",
+     "value": 3713.028076171875,
+     "change": -22.342041015625,
+     "pct": -0.5981212119469226,
+     "date": "2026-10-21"
+    }
+   ],
+   "환율·금리": [
+    {
+     "ticker": "KRW=X",
+     "name": "원/달러",
+     "value": 1325.68994140625,
+     "change": 1.75,
+     "pct": 0.1321812225214103,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "JPYKRW=X",
+     "name": "원/100엔",
+     "value": 843.5000419616699,
+     "change": 7.532787322998047,
+     "pct": 0.901086409928098,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "EURKRW=X",
+     "name": "원/유로",
+     "value": 1486.5,
+     "change": 0.800048828125,
+     "pct": 0.05384995991242203,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "DX-Y.NYB",
+     "name": "달러인덱스",
+     "value": 101.6240005493164,
+     "change": -0.15599822998046875,
+     "pct": -0.15327002539933243,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "^TNX",
+     "name": "미 국채 10년(%)",
+     "value": 4.953000068664551,
+     "change": -0.19299983978271484,
+     "pct": -3.7504827675162167,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "^VIX",
+     "name": "VIX 변동성",
+     "value": 19.030000686645508,
+     "change": 2.3500003814697266,
+     "pct": 14.088731046009183,
+     "date": "2026-10-22"
+    }
+   ],
+   "원자재": [
+    {
+     "ticker": "CL=F",
+     "name": "WTI 원유",
+     "value": 99.0999984741211,
+     "change": 1.9499969482421875,
+     "pct": 2.007202179737222,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "BZ=F",
+     "name": "브렌트유",
+     "value": 112.87000274658203,
+     "change": 4.0500030517578125,
+     "pct": 3.7217451416243996,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "GC=F",
+     "name": "금",
+     "value": 4039.800048828125,
+     "change": -110.199951171875,
+     "pct": -2.6554205101656625,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "SI=F",
+     "name": "은",
+     "value": 54.630001068115234,
+     "change": -2.7919998168945312,
+     "pct": -4.862247525100427,
+     "date": "2026-10-22"
+    },
+    {
+     "ticker": "HG=F",
+     "name": "구리",
+     "value": 6.398499965667725,
+     "change": -0.1445002555847168,
+     "pct": -2.2084708955894983,
+     "date": "2026-10-22"
+    }
+   ]
+  },
+  "crypto": [
+   {
+    "name": "비트코인",
+    "id": "bitcoin",
+    "usd": 81404,
+    "krw": 107796956,
+    "pct": -3.867860216102793
+   },
+   {
+    "name": "이더리움",
+    "id": "ethereum",
+    "usd": 2392.15,
+    "krw": 3167738,
+    "pct": -4.023964332624168
+   },
+   {
+    "name": "솔라나",
+    "id": "solana",
+    "usd": 103.62,
+    "krw": 137217,
+    "pct": -3.908107850425333
+   },
+   {
+    "name": "리플",
+    "id": "ripple",
+    "usd": 1.31,
+    "krw": 1732.01,
+    "pct": -5.104854395634996
+   }
+  ],
+  "kimchi_premium": 1.1893792312188678,
+  "flows": null
+ },
+ "stats": {
+  "collected": 1811,
+  "outlets": 61,
+  "verified_stories": 74,
+  "dropped_by_factcheck": 0,
+  "seconds": 10
+ }
+}
