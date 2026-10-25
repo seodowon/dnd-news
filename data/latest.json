@@ -1,24 +1,91 @@
 {
- "date": "2026-10-25",
- "generated_at": "2026-10-25T06:26:11.469966+09:00",
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T06:30:12.811021+09:00",
  "mode": "draft",
  "articles": [
   {
-   "headline": "[속보] \"김정은, 中단둥서 '서열 4위' 왕후닝과 회담\"",
+   "headline": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
-   "importance": 10,
+   "section": "kr",
+   "importance": 9,
    "outlets": [
-    "SBS",
-    "경향신문",
+    "MBC",
     "뉴시스",
     "매일경제",
-    "아시아경제",
+    "문화일보",
+    "서울경제",
     "연합뉴스",
-    "파이낸셜뉴스",
+    "이데일리"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "문화일보",
+     "title": "골드만삭스, 코스피 목표 9000으로 25% 낮췄다",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tU29zdXBkeVpNX3ZFWkJuSjF5TlVPdktaZ1JSWHU1aW5xMWFjcmNtZFk4R2pKYWFrQjc4TjhGaTFuRHU5dE9yYmtqN3hvVGRy?oc=5",
+     "published": "2026-10-25T14:23:56+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
+     "url": "https://www.newsis.com/view/NISX20261025_0003840248",
+     "published": "2026-10-25T13:43:33+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "MBC",
+     "title": "골드만, 코스피 목표 1만2천→9천‥\"그래도 60% 이상 상승 여력\"",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByMktDY3dSQ2VBUDloYTljNHc0TGFfNGxoUGpmMzNTb01ieFQwNTE2WHN4dGphMWd3LUh5cXVRS1ZrSGxyN2NzeUdlOVNuWHVNeWZ0TWtWUjJuY1VOeWVsdE5lTk90Q0xMSUQ0dnRpcE1ZZ2Ry0gF0QVVfeXFMT1JtaklScEp1NjRycFdKVjdrVHpRaWZuUVVLS2Jkd1R1dTV5SUNJWVZDTFBBcUxoQzlhRlZsN1BFY1E3WnQ2VTEyNDJWZldNV2ZsUW9ubFlOSnA2YUhEMUI3YlVEcUV4X0pqcmFkM2VyOHpGYko?oc=5",
+     "published": "2026-10-25T13:24:16+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "서울경제",
+     "title": "골드만삭스, 코스피 목표 9000으로…4개월 만에 25% 하향",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtSWRwbzM5LUpLTm1od0ZNNk1YekhHcHRhTjN5clJjUndHTzFqX3VVMFAzWGw3VFNXLTZfNzAwRzJ3U016LW92WnhBT0lmS0NRWnfSAVNBVV95cUxPTUI2LUFJWmlvd3pzZk9aUU16R2EzOVJUakw4eWNuelpQcjRTZEV6RF9QSUswcW5NbEpoX0RGOWM5UXFacHNsZkd2Zng4Y29XaUpqdw?oc=5",
+     "published": "2026-10-25T13:03:43+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "매일경제",
+     "title": "“코스피 목표 25% 낮췄는데 상승 여력 60%?”…골드만삭스의 반전 전망",
+     "url": "https://www.mk.co.kr/news/stock/12185306",
+     "published": "2026-10-25T12:09:09+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
+     "url": "https://www.yna.co.kr/view/AKR20261025048500009",
+     "published": "2026-10-25T11:10:21+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "[속보] 코스피 급락에…10대그룹 시총, 한달새 1,100조원 증발",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 9,
+   "outlets": [
+    "뉴시스",
+    "동아일보",
+    "매일경제",
+    "이데일리",
+    "조선일보",
+    "중앙일보",
     "한국경제"
    ],
    "official": false,
@@ -26,106 +93,132 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "연합뉴스",
-     "title": "김정은 '당일치기' 방중…서열 4위 왕후닝과 단둥서 만나(종합3보)",
-     "url": "https://www.yna.co.kr/view/AKR20261024035154504",
-     "published": "2026-10-24T14:32:10+00:00"
+     "outlet": "조선일보",
+     "title": "‘역대급’ 폭락장에…10대 그룹 시총 한 달 새 1100조 증발",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/10/25/GEYGGMJTMMZTCYTDGFSWCYZSGE/",
+     "published": "2026-10-25T04:41:58+00:00"
     },
     {
      "n": 2,
-     "outlet": "매일경제",
-     "title": "中 시진핑과 정상회담 없었다…김정은, ‘서열 4위’ 왕후닝과 단둥회담",
-     "url": "https://www.mk.co.kr/news/politics/12184897",
-     "published": "2026-10-24T14:13:06+00:00"
+     "outlet": "뉴시스",
+     "title": "코스피 한 달 새 18.8% 급락에…10대 그룹 시총 1100조 증발",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSkpmYkRmdjdKUkZHWklET3R2azRyUWIyeVBVT21aU1NGcVdkcF9iY0NLX09ZNm9aTWd4bUdHa19qX0RvelZyc0ZIclBhcENPa2lOSGhhTUhRWFptMjExbtIBeEFVX3lxTE1DUzlWQlExUkVydGU2Q3VuSmtSSU1UcnZZcENhdFdpSHFXd0VteU90Ukp1MEEzSWVjYXhkY0JMVWdiZEVBVU16NDlhU1hrVk9fckdzNU15Q2RoeV8xd3hHOVNqanpLVkp1aXJOVjRrc19NeGJMSTdxcA?oc=5",
+     "published": "2026-10-25T03:34:34+00:00"
     },
     {
      "n": 3,
-     "outlet": "연합뉴스",
-     "title": "김정은, '中서열4위' 왕후닝과 단둥회담…\"항미원조 영웅에 경의\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261024050552083",
-     "published": "2026-10-24T13:21:34+00:00"
+     "outlet": "한국경제",
+     "title": "[속보] 코스피 급락에…10대그룹 시총, 한달새 1,100조원 증발",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tbXhPVk14Zm5zdVBXUmUzaUJWdk01cTdscGVxU2Z4b1VsM0ZKODRaX3c2YmRzdHBkREVYUWJVc1NoVk9JaXc3eUhzOWh1bF9qeWNRcU5ERUpEVlRUdmtRUTh0TzFmaVJDY0FyOW50UWl0eWxRcVRr?oc=5",
+     "published": "2026-10-25T03:00:00+00:00"
     },
     {
      "n": 4,
-     "outlet": "뉴시스",
-     "title": "단둥 찾은 김정은, 中서열 4위 왕후닝 만나…北 복귀한 듯(종합)",
-     "url": "https://www.newsis.com/view/NISX20261024_0003839699",
-     "published": "2026-10-24T12:26:53+00:00"
+     "outlet": "매일경제",
+     "title": "코스피 급락에…10대 그룹, 시총 1,101조원 감소",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmaTNMWWNCZ01wemtTNGlrM3o1eW05UFZOQVp2XzJqckNSUVZ6cnJENTNhY0VQaFd4WGpiQjB3VW1VLU55RF9mSERDdjh3SDRrbTZXTmRuOW9VdU9xYmdicjhSLWJvM1Jx?oc=5",
+     "published": "2026-10-25T02:56:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "매일경제",
-     "title": "[속보] ‘당일치기 방중’ 김정은, 中서열 4위 왕후닝과 만나…북·중 경제협력 논의",
-     "url": "https://www.mk.co.kr/news/world/12184881",
-     "published": "2026-10-24T12:21:14+00:00"
+     "outlet": "중앙일보",
+     "title": "코스피 폭락에 10대 그룹 시총 1100조 증발…SK 한 달 새 30% 급감",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZS1mQ1VvdnNkRnRhRUV5SER2VmotSE5TbllIa3RTVW1ZM3ltS2lqZG9mdXFyZEk5ZmZLSk9KdlJmOFo5Uk53dDZFZnRxcFN6dV9CT21xNXpTajRJdHB3UHlB?oc=5",
+     "published": "2026-10-25T02:36:00+00:00"
     },
     {
      "n": 6,
-     "outlet": "파이낸셜뉴스",
-     "title": "'당일치기' 방중 마친 김정은 귀국길..시진핑 회동 없이 서열 4위 왕후닝 배웅",
-     "url": "https://www.fnnews.com/news/202610242032424778",
-     "published": "2026-10-24T11:54:46+00:00"
+     "outlet": "조선일보",
+     "title": "한 달 새 1101조원 줄어든 10대 그룹 시총…SK는 30% 급감 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXZJWmtBLXltaUk5MGxYOUlFVDhkR2w5Q0hQWEMwMWh0dkpiV1NtOUVvUnRoUlUyakZhdjBWMVBHNXR3dFE2Wkd4WmRUdkVjWlR5QW1vZnp5Y0hqVldxbWZYSVhidWMySHFLTl8tZHZleE1XaHZpZXdUT2t2UDRFbHVjNmxUdUVh0gGcAUFVX3lxTE9WUWJ4anlLdW9EbFZQd1lYMURGQnFlUlJVUlJOTWpGMnJxRWY5bktnWWlYanBCaTRpdnp5dHFFelJHbGhTNUpheUw1d2ljMmVtN2FGdjh6c3pib0phWVlEMDRLc1l1RXJ3TUphdWVBODIyVk5FQ1lsVnJmeU1qWWZYWHljWGs3dkctNGhta1RkLWN0ZUdBYVp5Mi1RSA?oc=5",
+     "published": "2026-10-25T02:01:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 128,
-   "rank": 1,
-   "slug": "01"
+   "score": 115,
+   "rank": 2,
+   "slug": "02"
   },
   {
-   "headline": "트럼프 \"이란 상대 또 한번 작은 '장대한 분노' 작전할수도\"(종합)",
+   "headline": "트럼프 \"미국 온 기업들 우리 이용하면 관세 50%로 올릴 수도\"",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
-   "importance": 5,
+   "section": "money",
+   "importance": 8,
    "outlets": [
+    "MBC",
+    "SBS",
+    "YTN",
+    "매일경제",
     "연합뉴스",
-    "이투데이",
-    "조선일보"
+    "헤럴드경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "이투데이",
-     "title": "트럼프 “ ‘장대한 분노’ 작전할 수도”…이란도 해저 케이블 위협",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zS1djOGk4TW1peXRXUlc4QWNrYmo1UXkwQWRZeVBaMWZZT2t3U0VhemdraDAxMkROT3RVNmlmLWNNaC1WOGZwT1gwOWhhZjM4Ymx0ZA?oc=5",
-     "published": "2026-10-24T04:57:00+00:00"
+     "outlet": "매일경제",
+     "title": "“미국 이용하면 관세 50%까지 인상”…트럼프, 중간선거 앞 경고",
+     "url": "https://www.mk.co.kr/news/world/12185330",
+     "published": "2026-10-25T21:27:07+00:00"
     },
     {
      "n": 2,
-     "outlet": "조선일보",
-     "title": "트럼프 “이란 상대 작은 ‘장대한 분노’ 작전할 수도”",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWVtaHgzX0FpZUFjQ1FnOWFTazQwM0RhY2dUWXFMWXNtMDhqZjQ5NjZjemhkTGxndkYxYmpNQVhGbnl0NlU0YkFkMkdMWVZfSVpsWHVKSkJKMmdscGtGdHg4RWVaczhqWVFfaHNmT0xnbTVtTHBWdUZkWVh5bldUWG1SZjI?oc=5",
-     "published": "2026-10-24T01:38:15+00:00"
+     "outlet": "헤럴드경제",
+     "title": "트럼프 “美 온 기업들, 우리 이용하려 들면 관세 50%까지”[1일1트]",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbnlpczBIXzR6VFhQQWZVN3VybDg5cnIzVXkzT2VMem5mOWlRTEZPZGdMQmdNdUc2Rmt3c3dqd3JfclhFcXZkNjNJRTZERFRmNmtYYllR?oc=5",
+     "published": "2026-10-25T21:07:51+00:00"
     },
     {
      "n": 3,
+     "outlet": "YTN",
+     "title": "트럼프 \"미국 이용하면 관세 50%\"...선거 앞두고 이란 거듭 위협",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03QkthZkZwU1NlMFpiWDhlbjJ1VjJDQ2RFUldMdmNPN1RCZTk2dHhnckRuZkd0MU12VTQ4UEZLV1F0Sm5MX2Jvc1VNMWNadDZ2LWY3N2M2cDhvbk05dVE?oc=5",
+     "published": "2026-10-25T21:01:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "MBC",
+     "title": "트럼프 \"미국 온 기업들 우리 이용하면 관세 50%로 올릴 수도\"",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93QURYeWRpQWFCWGZwQXhlVEJlck5hTmtjajVKa1doUFJVc1JTRHQtX05FUzRIWW9NSDB3S2FsZWFmNTRxc3g3TkFDakh5bHFIZ1ltdXZ3S1lWUW5pSlpyaHlBV2tzNUN1bHBibllMUHM4cWlU0gF0QVVfeXFMTVNFdDZ2Mzd5YTFWYVhkTjBRVTBMZS1TaDI3UGZGbnZGRmdvZF96NFA5TUptdzRDaFFxcTVyMlIyZUZIcXF4WTNJSE4zaXRfUklFZWFKY01ZRlJLUDRzbWpUOUpqNk5hZFJnTHFZbWU4bXFaMFY?oc=5",
+     "published": "2026-10-25T19:56:47+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "SBS",
+     "title": "트럼프 \"미국 온 기업들 우리 이용하면 관세 50%로 올릴 수도\"",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRkhxOFdhNG1LblRKQXo2Wk04MXNuaTk1aTFzVjRkcnNOYlo2YTJ6Z3VrVHE3Q0oxTElkd0tyNlV3UmFMMkdNaFFFUHlneGlNeXJweXlURUZBaUNXdFI3cUtMTFZUSnhyR1E?oc=5",
+     "published": "2026-10-25T19:07:26+00:00"
+    },
+    {
+     "n": 6,
      "outlet": "연합뉴스",
-     "title": "트럼프 \"이란 상대 또 한번 작은 '장대한 분노' 작전할수도\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261024004552071",
-     "published": "2026-10-23T21:15:40+00:00"
+     "title": "트럼프 \"미국 온 기업들 우리 이용하면 관세 50%로 올릴 수도\"",
+     "url": "https://www.yna.co.kr/view/AKR20261026002000071",
+     "published": "2026-10-25T18:29:19+00:00"
     }
    ],
    "factcheck": null,
-   "score": 63,
-   "rank": 2,
-   "slug": "02"
+   "score": 102,
+   "rank": 3,
+   "slug": "03"
   },
   {
-   "headline": "SK하이닉스, 솔리다임 미국 상장 계획 접는다",
+   "headline": "靑, '가상자산 과세 유예' 무게…청년층 여론 등 고려한 듯",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
-   "importance": 5,
+   "section": "crypto",
+   "importance": 7,
    "outlets": [
-    "SBS",
-    "이데일리",
+    "뉴시스",
+    "연합뉴스",
+    "전자신문",
+    "조선일보",
     "한겨레"
    ],
    "official": false,
@@ -134,37 +227,495 @@
     {
      "n": 1,
      "outlet": "한겨레",
-     "title": "SK하이닉스, 솔리다임 미국 상장 계획 접는다",
-     "url": "https://www.hani.co.kr/arti/economy/marketing/1283778.html",
-     "published": "2026-10-24T21:25:59.357138+00:00"
+     "title": "가상자산 과세 또 ‘유예’…청년 여론 의식해 조세원칙 허무나",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1284068.html",
+     "published": "2026-10-25T21:30:09.925192+00:00"
     },
     {
      "n": 2,
-     "outlet": "SBS",
-     "title": "\"솔리다임 미국 상장 중단\"…하이닉스 4%대 상승",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812748",
-     "published": "2026-10-23T22:17:00+00:00"
+     "outlet": "조선일보",
+     "title": "靑, 가상자산 과세 유예 검토… 청년 여론 악화 의식한 듯",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/25/PZOOOGHDBRCWVNM7RQJ3X4ZHME/",
+     "published": "2026-10-25T07:12:35+00:00"
     },
     {
      "n": 3,
-     "outlet": "이데일리",
-     "title": "[美특징주]SK하이닉스, 솔리다임 美 상장 추진 중단…주가 4%↑",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01331686645616200",
-     "published": "2026-10-23T19:30:55+00:00"
+     "outlet": "연합뉴스",
+     "title": "靑, '가상자산 과세 유예' 무게…청년층 여론 등 고려한 듯",
+     "url": "https://www.yna.co.kr/view/AKR20261025028400001",
+     "published": "2026-10-25T05:15:02+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴시스",
+     "title": "靑, 가상자산 과세 재유예 가닥…청년 여론·제도 미비 등 고려",
+     "url": "https://www.newsis.com/view/NISX20261025_0003839973",
+     "published": "2026-10-25T04:54:37+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "전자신문",
+     "title": "靑, 가상자산 과세 '또 유예' 가닥",
+     "url": "https://www.etnews.com/20261025000076",
+     "published": "2026-10-25T04:24:46+00:00"
     }
    ],
    "factcheck": null,
-   "score": 61,
-   "rank": 3,
-   "slug": "03"
+   "score": 89,
+   "rank": 4,
+   "slug": "04"
   },
   {
-   "headline": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+   "headline": "한국 경상흑자, ‘제조업 대국’ 독일·일본 합계보다도 많다",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
+   "importance": 7,
+   "outlets": [
+    "서울신문",
+    "연합뉴스",
+    "전자신문",
+    "중앙일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울신문",
+     "title": "한국 경상흑자, ‘제조업 대국’ 독일·일본 합계보다도 많다",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261026031007",
+     "published": "2026-10-25T15:15:31+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "전자신문",
+     "title": "반도체가 끌어올린 한국 경상흑자…독일·일본 합계 첫 추월",
+     "url": "https://www.etnews.com/20261025000066",
+     "published": "2026-10-25T03:15:32+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "한국 경상흑자, '제조업 강국' 독일·일본 합계 사상 첫 추월",
+     "url": "https://www.hankyung.com/article/2026102529767",
+     "published": "2026-10-25T00:39:52+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "중앙일보",
+     "title": "[속보] 한국, ‘경제 대국’ 독일·일본 합계 넘었다…중국 이어 경상흑자 ‘2위’",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HenBJN0I3eXBwRWhPVjVBUE8yTUZuZlBlRzFLYU50ZG51Q3EwQmZsTXpDNjdsNDllZWFnVzhjWmxlOXE3WUNjajNrR2k3UmtJOXRWZHF0TEI1MGVmNG5aX3NB?oc=5",
+     "published": "2026-10-25T00:23:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
+     "url": "https://www.yna.co.kr/view/AKR20261024050300002",
+     "published": "2026-10-24T20:45:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "2분기 경상수지 흑자, 독일·일본 합친 것보다 많아",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 6,
+   "outlets": [
+    "경향신문",
+    "조선일보",
+    "파이낸셜뉴스",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "한국 2분기 경상흑자, ‘독일+일본’ 넘어섰다…사상 처음",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1283981.html",
+     "published": "2026-10-25T21:30:09.925679+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "2분기 경상수지 흑자, 독일·일본 합친 것보다 많아",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/26/U7SOPGWN75DKHD7O5AJAFXQ57M/",
+     "published": "2026-10-25T15:46:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "경향신문",
+     "title": "2분기 경상흑자, 독일·일본 합쳐도 한국이 더 컸다",
+     "url": "https://www.khan.co.kr/article/202610252058015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-25T11:58:01+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "韓 2분기 경상흑자 1166억달러... 독일·일본 합친 것보다 더 많아",
+     "url": "https://www.fnnews.com/news/202610251844018857",
+     "published": "2026-10-25T09:44:05+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "경향신문",
+     "title": "한국 2분기 경상흑자, 독일·일본 합계보다 많았다···증가폭 세계 1위 전망",
+     "url": "https://www.khan.co.kr/article/202610251129001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-10-25T02:29:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 74,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "AP",
+    "CNBC",
+    "CNN",
+    "NBC News",
+    "New York Times",
+    "The Guardian",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Washington Post",
+     "title": "Elon Musk says SpaceX was behind restrictions to Ukraine’s Starlink access",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWl82WHg4VTJVUThiR0d5ejZaZ0lRaXhBTWZma3dMUXVkQkY5SGstT3BWNnBGY0RCdjVMX2Q4OVFlWFZoLWJZQW9pa3JXdnFZREEzTjdKeTEzLWJtU3U5Z1NuT1llelFqLTFLMkZxYmF2V2VYbFUtLVB2RktGX25nU2lpaHhLNjRTeUZ1Q0lDeDZGUUtBQV9CTndkU1VrS3JSb0xJbTdRZUJ0Smx5R0o1YjF4cDh2NkI2UlJv?oc=5",
+     "published": "2026-10-25T20:36:09+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "CNBC",
+     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zZEVnZGFIdVlkM2pfTFJET2U3V3lmOFRXN056cEtoTlEtMjNuYmlSSXdnNGM0dkJZQWx6c3Q2bFVRS2FFTzFZWHZDd0ZaY3BvVUhnNUNmSVlfZG1LdWxpM3lSR1R6anpqVmVYWmNqYmNoVGFkNjZMb19IeV_SAYIBQVVfeXFMT1NhaEV1bVRTRUp2LWRJTFRrQk9ZR2ViTkFaRnBaNTdLSXVLUnRBbTdmWHFOTm5vQU5obUFITGktQTJUMmxvbXdrVm0zQTlsQ3B3YVU4VXdKZmNkNjI2SC1rNjdWYy02YTZ4eUs3bW5Xdm8xXzktXzJ4cXRrajFNTFhpUQ?oc=5",
+     "published": "2026-10-25T18:18:30+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "AP",
+     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
+     "published": "2026-10-25T17:14:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "NBC News",
+     "title": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXBvdGNZdU9CMWpZMWZsSUhGekE3Wkg2M1JVSDlYRTlQM1BTVjRqNGVfbl9vbThtRnh0TXA1eUxOdWhoRDNicXRmVkJ6aVlRdkRaM2tESVg5R1gyRFFzWlZFMXpmcXNmTjlrdmd0Z0JmVDZDTnk2VEdvN3R4WktndktYdG03SmNReDJaN1R5UzNZdTk2LTRGb2lUaDZTQUtmSmlHRGNQQjdJZXJoR0NBdEpWd0VnQQ?oc=5",
+     "published": "2026-10-25T15:31:51+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "CNN",
+     "title": "Musk accuses Ukraine of violating Starlink’s terms of service following dispute over coverage",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVpMQlNuWnNJS0JyQ0IxbElTUUxaa2NldEVWNDhaYVBiZ28yWURhcEl3aGd5NUpzVElwN1VDaF9KQUFTSTZkNldnSW1YTk5oVTM5X1ZCTUU3dXdEUnJuWUFidWg4WHJqRjlXRlV1M0pZNndUenc2TmJid1FvLTJSVm42RUI?oc=5",
+     "published": "2026-10-25T13:34:23+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "The Guardian",
+     "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1dzVjhxa0VTU2tZZ3MxbjVHM2std2Z3MkVNOGxvRlE5WVdXem02eWs5amhZdHNPXzg0d1EtbVl6WlBXNGFTem9ydWVobkJPMmpMVVNvdy1YQW9nRGZuR0JHaElvS094RERfZVZ5OXJvdVB4b0hCdHVRZnFUOWUyYTN0QVlpTVlWU0Zhd1B3?oc=5",
+     "published": "2026-10-25T12:01:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 65,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "ABC News",
+    "CNBC",
+    "Fortune",
+    "NBC News",
+    "NPR",
+    "Reuters",
+    "The Guardian"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "CNBC",
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3VlUXJFWEs2dFFZRnB4amMtUl9uX1RIamFXVmNoNUljbnBzS3JKdHpUUm9kTkR5UUdheVNZemdTTVdMZVlwejlxbEkyRWhQRWFRWjVPcU9GWFk4dHJVMEppUlFqUl8xSGJncjJ6cGhILWRGbkh6U2tRbklVVUQ5eUZvenNRdTZ6aldzaNIBkgFBVV95cUxNVUwtR0lJSGdGTnFaN0oxQkVxWmpIQVpjRHlMeWVHYllTNDVoTE5XUjRVN3o3TlpoVEdTVVJVRDdzX3V6SVNPWl85dWctNVBqSXd2b2FGak9DV3BzaFp0Y0lvblV4V0RlcEg0LUk2R19HbUZkUkt2TXd5QzRTT1lhUUZWZXRqRHFDRFFDLXloaG9QQQ?oc=5",
+     "published": "2026-10-25T20:28:55+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "ABC News",
+     "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnRnZGNGQW9pMnpXWHQ1RWo0WjlCN2w0NkFvN21MalUtbGxpN0dIUVpHLThJRGFGTmoyQmlRMGlkc3RNdFFXWXVJeDVWaWN2VXVtR202eFFOLTdqMW1QdnVmbEJpQ1Z0VzdncVNIMHlSQzU3VDBwN2pQQnlqYktNVWMwVWNOSTFnakVkcVVEcW9fZE1HcHE3M0lES0p6dG1jQklfQXo1cURuQdIBrwFBVV95cUxNMkh3b1BzQkxoY3NOdWlMRnozdVl2eGhvUEVnYnZLSFFRRDl1N0wyaE9PRzU4eVptX3F2NHZ2VnNSSHE1a0x4dVVBNTJhNFh1eE8zOFlWWWZnY2pXUXR6N2F1X3dudDVHcWtreW1pQXRmQjdYV0MtQ01taFV0dXFIWTgwLXY0WGxydTNONVVEaXc1bW5qRzNPbm5nMWt0M0pCbjdSbGtodHRvT0FYWHNr?oc=5",
+     "published": "2026-10-25T19:23:34+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Fortune",
+     "title": "AG defends Trump's lawsuit to block certification of Alaska Senate race if GOP candidate loses",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXFaX0NtOGlkR3l6c3IxUkxPQTNtbG9jVURpblY2Q2FFYUpLWlpPd25POWJZTzdVT2J4S2NXZ0dFQVg2bDlmYWpPWk9MVDQxWlVkTExtQlV0bUNnU1d4c3laSklUc3c3enBlQl9KV1JySHluZTZrZnpoa2luNjRKT0ZsNy1TRzczQjlTd2JJRTZ5ZTk5VzRrQVNQbktlMHJka2FtbDY5Q3BLYTBGclNUZGlJSWhDU0U?oc=5",
+     "published": "2026-10-25T19:21:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "NPR",
+     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTFtSVNpVEV6RTJSb3VhQ1I1WEsyYXBaaWxXV0hBZkZ0R0RkN2Nrdm9lRnM2WWhVd19xTWVMVzcyLUM2SExta29EWVI5Q2JJaWJKSmxSNmhHYmwtVUtPUngxUGhfWld0eW9BaTlQRFZjWHptbE9ocWdjQVBUdTl2Nm5wYTVDdnN4Q21DY254dGFxZ2lGQXNfY21PVG4wVjJwZi1rLWszQkFuMEpnN1A4NnZ0RVYtcTlvWlpHeFVlSXg?oc=5",
+     "published": "2026-10-25T17:50:35+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Reuters",
+     "title": "Trump has no designs on taking over state elections, US attorney general says",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19Yc2l5X25vdWYzZlFqeGxlOU1sMElDSFBGVmcyNXhjY2VjR0tDWFEwdE5jZGx5LWladUd4Z2FVaENKaTl3bW5jdkppT1o0SWdCcUhWcGJoMHY5eWFvQmhrMng2TzY2Y0ViZW9UMHZDbG9Kems4bTFSLU9LSnkwNVItaWE5Qmp5b3BxUmxud1ptdTZmMHJFRlRBSThfRU9YdUZvdkdKWk1Edm9lTTM4eFFsT2otVzktaHZYcTM1Vjc3LUlz?oc=5",
+     "published": "2026-10-25T17:07:43+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "The Guardian",
+     "title": "Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbG9YWXRFWEV3SUtKUnVmX1laM1MyaTctemEyZWlFQzVnWm5ISkh4ZlBmZEo0NHk1cHBEc1VGWENsTFgzWWtEMmtKeFlLeGdBYURkeUxNRFBzbDdYVGM0c055RGplSkhPWi1JZlo4d0x5M3FGOTVkRGU5T2NmTURtcmUxdy1vNTlhV1BWNmppQTk0Q2lQbTVRcXJQblh5TlVWRG1fVVFR?oc=5",
+     "published": "2026-10-25T16:48:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 65,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "티앤이코리아·크리에이츠·인텔리빅스, 코스닥 신규 입성 [이번주 증시 캘린더]",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "서울경제",
+    "연합뉴스",
+    "이데일리"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울경제",
+     "title": "티앤이코리아·크리에이츠·인텔리빅스, 코스닥 신규 입성 [이번주 증시 캘린더]",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PRjIwTnVpQTA4enZpZDloSEx2R1l3U21uN0t1cDdDVjRwYTRBZVJ6amtKLUE0OUNvVEdUdlVUTnB2ODVHakxTYnJRZmVfYmQxLXc?oc=5",
+     "published": "2026-10-25T21:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "공모주 청약 희비 갈린 티앤이코리아·크리에이츠…이번 주 코스닥 입성",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJV1V3SzE5MENqTmY4cVExeWc2b2dFNkI3RkpRRXFzY0pucnU3bmh4QWpFM1J4V0xwX3luZHVHRmswTk9VS3JOdTZCMUlpb0hRS21KNTNSUWdKZ05OSHFKemtwSTBqM253azhLcUl5Z2g?oc=5",
+     "published": "2026-10-25T04:00:20+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "이데일리",
+     "title": "티앤이코리아·인텔리빅스·크리에이츠 상장 등[증시캘린더]",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01207046645616528",
+     "published": "2026-10-25T00:00:04+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "美 재타격 시사에도 이란 외무 “새 전쟁해도 호르무즈 정책 안 바꿀것”",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "서울경제",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "트럼프 재타격 시사에 이란 외무 “전쟁 다시 벌어져도 호르무즈 정책 안 바꿔” - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSEdGcHh2Vy1Sak9MbGJkN29ydWE1alZ4azQ1VFZzcmctZl9wZnhMaEt4X0pvc1QxcmFCYnpZU1AweDF2SUZHdHBjUldrNUZIa0Ffa0MtNmk4NmVXcGdhOGNpc1B5MERSd3JMQ2RNNHJSR1pkS2JjYWRuV1JuTDlWYUFISHBqODhZTTlLWUFJZ05aX2hQNzlGTUF2a0JVUdIBsgFBVV95cUxQdUJCWmVySFBOOFppdW0zMWN4OGUwOVJKZThBaG5JVmxmVnhhZnp3V2QyeFFxcDdTWTJPQkQ0S25qWGhDckZ5c0lqYmgyalhXUWdnT0E0c2I2OEtCb3I1WHBpbFFHR2tuNmlEcXlTTFc5M0pTX3pwNGNnVHgtZG5XMDdINGs0ZGItcVo4b1FUdk92clRkcFhpU2dpY1dZWlZXbVA5ZmUyZ0FHTFB6S1IxOGVn?oc=5",
+     "published": "2026-10-25T11:36:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "서울경제",
+     "title": "美 재타격 시사에도 이란 외무 “새 전쟁해도 호르무즈 정책 안 바꿀것”",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tb1JxekFxU2tzOHlLcGY2Z0hGSnlfa0QzRVFwZHNXUlNmZ3cwTGU4M1ZCSW9qTnJkWTkwZGlwRHhHcS1hdGFSZXhCQWIwYkVxZUI40gFTQVVfeXFMTVNvUnF6QXFTa3M4eUtwZjZnSEZKeV9rRDNFUXBkc1dSU2ZndzBMZTgzVkJJb2pOcmRZOTBkaXBEeEdxLWF0YVJleEJBYjBiRXFlQjg?oc=5",
+     "published": "2026-10-25T11:17:16+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "이란 외무 \"새 전쟁 일어나도 호르무즈 정책 안 바뀌어\"",
+     "url": "https://www.yna.co.kr/view/AKR20261025044500099",
+     "published": "2026-10-25T10:08:42+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "리비아, 트럼프 자국 비하 발언에 '발끈'…美대사대리 초치",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "KBS",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "KBS",
+     "title": "리비아, 트럼프 자국 비하 발언에 ‘발끈’…美대사대리 초치",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNEhBdV9WRlY1VUhUSF9ZM3lsOWN3c3kxRkxFQ2k2aHZuVGhqYS1MeXlBUGRpMHpfLVgtTXFtcHBfSnNLZXVFTlhxcU0tMjR5YXhMOTlKR19lNGs?oc=5",
+     "published": "2026-10-25T20:47:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "리비아, 트럼프 자국 비하 발언에 '발끈'…美대사대리 초치",
+     "url": "https://www.yna.co.kr/view/AKR20261026003100099",
+     "published": "2026-10-25T20:39:04+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "\"미군, 이란 공격안 국방장관에 보고…트럼프 승인 대기\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "\"美 중부사령부, '이란 공격안' 국방장관에 보고\"…중간선거 후 재공습 가시화",
+     "url": "https://www.fnnews.com/news/202610260038511750",
+     "published": "2026-10-25T15:42:16+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "\"미군, 이란 공격안 국방장관에 보고…트럼프 승인 대기\"",
+     "url": "https://www.yna.co.kr/view/AKR20261025047900009",
+     "published": "2026-10-25T11:01:53+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "삼성 ‘엑시노스 2700’ 내부 평가서 퀄컴 앞서",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/26/F6J32LHDWJALLGU74AI46PM44I/",
+     "published": "2026-10-25T15:34:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
+     "url": "https://www.yna.co.kr/view/AKR20261023080600003",
+     "published": "2026-10-24T22:15:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "오바마 \"유례없는 무능\"·트럼프 \"유세장 텅 비어\"…맞불 유세(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
    "importance": 4,
    "outlets": [
     "매일경제",
@@ -175,34 +726,34 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "연합뉴스",
-     "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
-     "url": "https://www.yna.co.kr/view/AKR20261024035400003",
-     "published": "2026-10-24T20:31:10+00:00"
+     "outlet": "매일경제",
+     "title": "트럼프 \"아우디도 美 투자\" vs 오바마 \"유례없는 무능\"",
+     "url": "https://www.mk.co.kr/news/world/12185250",
+     "published": "2026-10-25T08:35:16+00:00"
     },
     {
      "n": 2,
-     "outlet": "매일경제",
-     "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MMVh1WHNFQldVNGNnb2N2Ml80Zm9jVVNObFRzdWRwY09xZHRIalJGYlZPeERwaXZJbHNXLXRKajF3Ri10aU84cmtqczVQczZ5amc?oc=5",
-     "published": "2026-10-24T20:31:10+00:00"
+     "outlet": "연합뉴스",
+     "title": "오바마 \"유례없는 무능\"·트럼프 \"유세장 텅 비어\"…맞불 유세(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261025002851071",
+     "published": "2026-10-25T02:31:52+00:00"
     }
    ],
    "factcheck": null,
    "score": 50,
-   "rank": 4,
-   "slug": "04"
+   "rank": 14,
+   "slug": "14"
   },
   {
-   "headline": "'美 제재' 러 에너지기업, 알래스카 LNG 사업에 비밀 자금 지원 의혹",
+   "headline": "머스크 우크라군, 공격용 드론에 스타링크 활용…지난주 차단",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
+   "section": "people",
    "importance": 4,
    "outlets": [
-    "뉴시스",
+    "SBS",
     "연합뉴스"
    ],
    "official": false,
@@ -210,31 +761,38 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "뉴시스",
-     "title": "'美 제재' 러 에너지기업, 알래스카 LNG 사업에 비밀 자금 지원 의혹",
-     "url": "https://www.newsis.com/view/NISX20261024_0003839706",
-     "published": "2026-10-24T13:27:35+00:00"
+     "outlet": "연합뉴스",
+     "title": "머스크 \"우크라군, 공격드론에 스타링크 활용…지난주 차단\"",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TSktwUFFYMTFvNTdwLWJzTllUdHFXc0Q5M3VxUlh5dzVLV1pfaks3MzYwUzVydENJRWgxRXdzVm1oeEw5OWxXd3lVZW5MUG9mMHFoTmd2eHdaTE5VTUNOUGxlbXpDRlh1aDhqWG5NZk5TWjZ4?oc=5",
+     "published": "2026-10-25T08:31:52+00:00"
     },
     {
      "n": 2,
+     "outlet": "SBS",
+     "title": "머스크 우크라군, 공격용 드론에 스타링크 활용…지난주 차단",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xbjR6YWRUMUVCa3RhUzRLZXg1YWc3aFU1cTJUY1lPRDVjZXBza2dXS1Job0NwQVJSS0JWUFFGeG9YQk5vem1qd004ODNvRDViTXNn0gFYQVVfeXFMTzB0YzZ1VjRqbzVUeHFyNVpZNE95bVc1eEdJVUZ6bzB1VVI4d2dhMjBIdW8xZjhnS0VGeElFbVlYZU12RjZXT1hWSGFNWXBxSzU4cXJ3MWNVYQ?oc=5",
+     "published": "2026-10-25T00:32:00+00:00"
+    },
+    {
+     "n": 3,
      "outlet": "연합뉴스",
-     "title": "\"알래스카 LNG 개발사업에 러 '제재기업' 몰래 자금 대\"",
-     "url": "https://www.yna.co.kr/view/AKR20261024039200009",
-     "published": "2026-10-24T07:39:16+00:00"
+     "title": "머스크 \"우크라군, 스타링크로 공격용 드론 운용…지난주 차단\"",
+     "url": "https://www.yna.co.kr/view/AKR20261025003300072",
+     "published": "2026-10-24T21:18:09+00:00"
     }
    ],
    "factcheck": null,
    "score": 50,
-   "rank": 5,
-   "slug": "05"
+   "rank": 15,
+   "slug": "15"
   },
   {
-   "headline": "\"인공지능 시대, 내 직무 무사할까\"…구직자 55% 직무 전환 고민",
+   "headline": "\"코스피 떨어지자 개미도 짐 싼다\"…예탁금 4개월 새 51조 증발",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
+   "section": "kr",
    "importance": 4,
    "outlets": [
     "뉴시스",
@@ -246,100 +804,30 @@
     {
      "n": 1,
      "outlet": "동아일보",
-     "title": "“인공지능 시대, 내 직무 무사할까”…구직자 55% 직무 전환 고민",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91WUdjTVMxcHNNSDhCWEZxMWNVbVZlLUxoV1VFS1ZyZ19yQTF6dmZfMnY5NngyMVN4alpZTFFxRG9nRkdMd0ZsSldhRWp6QVppdW9vQmwtUGFRTmFBSVVmamFNNXhVeVFldGdSZWdwRS1oZ0NIUkHSAWZBVV95cUxPTGpuZEdlWHcxRmxNQklSTDdfYWVUb2h1M0JwcmdvbFpDVVcwRDNFZDRrNWI5cjBHR2JMSGpCOHdXa1dCZVprZzR6ckpyX1lxZDJySUYzX3VzSzdPZUpETGJWSTZVa3c?oc=5",
-     "published": "2026-10-24T08:32:47+00:00"
+     "title": "“코스피 떨어지자 개미도 짐 싼다”…예탁금 4개월 새 51조 증발",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhWjVfcVpjSnFESnJhTG03RzN4dlhFa2dvdXFDM3pqX3p5VFA2d0t4V0tteUllSlNoVlJBN0NZazAxTC1VcEFTVFNUcTJOeUYzUS1NQXo4bGhzeVdDZ1JqUW1KRFNPQdIBZkFVX3lxTFBhWjVfcVpjSnFESnJhTG03RzN4dlhFa2dvdXFDM3pqX3p5VFA2d0t4V0tteUllSlNoVlJBN0NZazAxTC1VcEFTVFNUcTJOeUYzUS1NQXo4bGhzeVdDZ1JqUW1KRFNPQQ?oc=5",
+     "published": "2026-10-25T02:21:22+00:00"
     },
     {
      "n": 2,
      "outlet": "뉴시스",
-     "title": "\"인공지능 시대, 내 직무 무사할까\"…구직자 55% 직무 전환 고민",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtMjJ4MG1pTTh5ZVh1Z1AyRFFDNm01YUR2b3pkSmlEblJBQTdyVGI2R3JOSGFmTXVDTkhhV3pYUmJJcTdHaTNZa2lKTnZhTkhmX2lBY2VvMXEzNUJ3dWgxMjgyVnZDZXAyVS1FZTZQdkVtbWhfQW92atIBeEFVX3lxTFBtMjJ4MG1pTTh5ZVh1Z1AyRFFDNm01YUR2b3pkSmlEblJBQTdyVGI2R3JOSGFmTXVDTkhhV3pYUmJJcTdHaTNZa2lKTnZhTkhmX2lBY2VvMXEzNUJ3dWgxMjgyVnZDZXAyVS1FZTZQdkVtbWhfQW92ag?oc=5",
-     "published": "2026-10-24T07:51:57+00:00"
+     "title": "\"코스피 떨어지자 개미도 짐 싼다\"…예탁금 4개월 새 51조 증발",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oeGVKTG1DbXI0M0VxWEs0cUNNZV9tXzBXcTF1anhvOWc0VmlhdDgzLTFuLWJmNVViNGpmSmJaSVhiY2JpMHNxUU9HaXZrTmZKZDQ4Q19qX0VGb2tTaXpnRNIBeEFVX3lxTE9LQklTY19wNEttRlRCR0NyX0FxOWhFSTVLODdDQWRRSHo3ZmNBaWJMd3ZEendIbTdmYk9jLXpHTU1PekJiekFHaEYyWmZvOURZSmJ5ZUtXVTloTmtUcXNUTFRlMkZ3TlJTbEVqXzVUTEplN2FQLTEyWA?oc=5",
+     "published": "2026-10-25T02:00:29+00:00"
     }
    ],
    "factcheck": null,
    "score": 50,
-   "rank": 6,
-   "slug": "06"
+   "rank": 16,
+   "slug": "16"
   },
   {
-   "headline": "'AI로 동화·웹툰 만들어요'…전국 어린이 AI 창작대회",
+   "headline": "부산서 26∼28일 '대한민국 해양 모빌리티·안전 엑스포'",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "'AI로 동화·웹툰 만들어요'…전국 어린이 AI 창작대회",
-     "url": "https://www.yna.co.kr/view/AKR20261023163900017",
-     "published": "2026-10-24T05:00:01+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "매일경제",
-     "title": "'AI로 동화·웹툰 만들어요'…전국 어린이 AI 창작대회",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRc0VWdlhDOVZvVnRPSlROcERUMWYtakN0UTlIVHRDWVZPRmllQmFKbXZjb3Y3R2xrQW5QdFZRdl9HZHBOLWM0NEtNQkVldzVqdWc?oc=5",
-     "published": "2026-10-24T05:00:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 7,
-   "slug": "07"
-  },
-  {
-   "headline": "중동 확전 우려에 브렌트유 116달러대…6개월 만에 최고치(종합)",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "money",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "조선일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "조선일보",
-     "title": "중동 확전 우려에 유가 6개월 만에 최고치...뉴욕 증시, 일제히 하락",
-     "url": "https://www.chosun.com/economy/2026/10/24/ODT2TDXNYNGDDNEO2AYIIZYSEU/",
-     "published": "2026-10-24T00:35:56+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "중동 확전 우려에 브렌트유 116달러대…6개월 만에 최고치(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261024002651072",
-     "published": "2026-10-23T19:51:53+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 8,
-   "slug": "08"
-  },
-  {
-   "headline": "뉴욕증시, 유가 급등 속 하락 마감…다우 1.23%↓",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "global",
    "importance": 4,
    "outlets": [
     "뉴시스",
@@ -350,337 +838,139 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "뉴시스",
-     "title": "뉴욕증시, 유가 급등 속 하락 마감…다우 1.23%↓",
-     "url": "https://www.newsis.com/view/NISX20261024_0003839365",
-     "published": "2026-10-23T21:16:25+00:00"
+     "outlet": "연합뉴스",
+     "title": "부산서 26∼28일 '대한민국 해양 모빌리티·안전 엑스포'",
+     "url": "https://www.yna.co.kr/view/AKR20261023158700051",
+     "published": "2026-10-25T02:00:09+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "뉴욕증시, 중동확전 우려·유가 급등에 하락…다우 1.2%↓(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261024005251072",
-     "published": "2026-10-23T20:55:52+00:00"
-    },
-    {
-     "n": 3,
      "outlet": "뉴시스",
-     "title": "[속보]뉴욕증시, 유가 상승 등에 하락 마감…다우 1.23%↓",
-     "url": "https://www.newsis.com/view/NISX20261024_0003839364",
-     "published": "2026-10-23T20:40:50+00:00"
+     "title": "자율운항·AI 재난대응 한자리에…부산서 해양모빌리티·안전 엑스포",
+     "url": "https://www.newsis.com/view/NISX20261025_0003839790",
+     "published": "2026-10-25T02:00:00+00:00"
     }
    ],
    "factcheck": null,
    "score": 50,
-   "rank": 9,
-   "slug": "09"
-  },
-  {
-   "headline": "Trump says he may move White House press corps to new location",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 2,
-   "outlets": [
-    "AP",
-    "Al Jazeera",
-    "Reuters"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Al Jazeera",
-     "title": "Trump says he may move White House press corps to new location",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm9GMlZ3eWRramJlMU9ITmZxUFhYVVlwOWpjSUJoc3BjM2ptb0lvSkZXZC15ZDNSWWFpWS04X1F3MVhTU1FrdlJieWxVYzBrZDJHMm41REZaa2hmRk9oZE5SSkp4QTg5d0RPM0hNanBaWkw4dE1PdXBoU2plVjhXSkhkMnpIbW8zemVCRzF4amY3ZkRMU19pMXZFTE96S3p1RGRGX3ozQdIBrAFBVV95cUxQM2ZPV2RYamRlNGtqNUU0Tl9IWXR0Q1lTby1VUHZYQmhtT2NrQ0tnQ0czWG40NmlyYWpOdFZBRWozLWFYTDRtYm5UOXBadUhvNURJYV9CS0pOaWNiOTVfenRVNjI4U3lrYnJhay1pMzk5QVhxWXBWNnBwcjgzczlHbnlnTHFtaWJzUkp3aTZOclNWVVZMTVZ5UjMtZTMtT05ZVUNnc3dmNDlib3FZ?oc=5",
-     "published": "2026-10-24T17:07:13+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "Reuters",
-     "title": "Trump says he may move White House press corps",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
-     "published": "2026-10-24T12:59:43+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "AP",
-     "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
-     "published": "2026-10-24T02:44:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 33,
-   "rank": 10,
-   "slug": "10"
-  },
-  {
-   "headline": "Trump rolls back some Canada tariffs as midterm election approaches",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 2,
-   "outlets": [
-    "BBC",
-    "The Guardian",
-    "Washington Post"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Washington Post",
-     "title": "Trump rolls back some Canada tariffs as midterm election approaches",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
-     "published": "2026-10-24T02:35:57+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "BBC",
-     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-     "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-     "published": "2026-10-24T00:36:47+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "The Guardian",
-     "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-     "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-     "published": "2026-10-23T22:03:07+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 33,
-   "rank": 11,
-   "slug": "11"
-  },
-  {
-   "headline": "Trump administration demands county election officials identify noncitizen voters in California, report says",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 1,
-   "outlets": [
-    "New York Times",
-    "Reuters"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Reuters",
-     "title": "Trump administration demands county election officials identify noncitizen voters in California, report says",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
-     "published": "2026-10-24T18:25:43+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "New York Times",
-     "title": "In Second Term, Trump’s Justice Dept. Submits to His Election Demands",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWlCNTFFZkhUUjVyeEFkY0o2b0RMZnphZzdCSG5WWUNZQ18wTGNpNW10RzJBTkhqeGE5cnFydi0xWHpLOTYtNkJWaFJfcFRybHhIRVZxZkFzcktkUzllMWFoUURsYVRMeWp4aGU2Si12aFp3M012dW9OdFpWQ0FUbWhFMjk5eFpoczQ1WlFfZFhzcmpVYllkZGRpcS1jcTRT?oc=5",
-     "published": "2026-10-24T18:11:11+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 20,
-   "rank": 12,
-   "slug": "12"
-  },
-  {
-   "headline": "Five takeaways from Trump's midterm campaign rallies",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 1,
-   "outlets": [
-    "New York Times",
-    "Reuters"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Reuters",
-     "title": "Five takeaways from Trump's midterm campaign rallies",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
-     "published": "2026-10-24T17:41:12+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "New York Times",
-     "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzN6SmdpZXJmeGs1NElNdGtCek5qNWFoSnVXYlpVYl9lZDNGNC1rbHJ0QXRubUtYSEtVLUNwTVo0WUdJR2VHWDNXaVRLXzJZUEgySmhMYk1JWXZLVXVKNDZBbmJyaWltSnBaWFRfMTZiY1BpbVRNRXlCbWdNbVB1ZVJNazRvVGRIZ3RjaGprTmNmRHRF?oc=5",
-     "published": "2026-10-24T12:50:46+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 20,
-   "rank": 13,
-   "slug": "13"
-  },
-  {
-   "headline": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 1,
-   "outlets": [
-    "AP",
-    "BBC"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "AP",
-     "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
-     "published": "2026-10-24T12:31:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "BBC",
-     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
-     "published": "2026-10-24T07:17:44+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "AP",
-     "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-     "published": "2026-10-24T01:17:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 20,
-   "rank": 14,
-   "slug": "14"
-  },
-  {
-   "headline": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 1,
-   "outlets": [
-    "Axios",
-    "Reuters"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Axios",
-     "title": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHZk4ya0d5UE5leHU4ZUJjamhpaWFZYkQyVVZyOFk4QlBPR0stUzZ1bXRONHB4OWZuVmxjSzdEeW5zRkM4bFdmcWhnQ1g2VkJsZWZWa3Y2T1VPNDdkTmVzODctYUFxTFYzaHl4VlNoX0REOWFCQTBpeDRfMA?oc=5",
-     "published": "2026-10-24T10:21:18+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "Reuters",
-     "title": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5",
-     "published": "2026-10-24T00:43:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 20,
-   "rank": 15,
-   "slug": "15"
-  },
-  {
-   "headline": "Block’s new voice model sounds eerily human",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 1,
-   "outlets": [
-    "CoinDesk",
-    "TechCrunch"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "TechCrunch",
-     "title": "Block’s new voice model sounds eerily human",
-     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-     "published": "2026-10-24T16:00:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "CoinDesk",
-     "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-     "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-     "published": "2026-10-24T15:21:06+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 18,
-   "rank": 16,
-   "slug": "16"
-  },
-  {
-   "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 1,
-   "outlets": [
-    "TechCrunch",
-    "The Verge"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "TechCrunch",
-     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-     "published": "2026-10-23T23:05:49+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "The Verge",
-     "title": "OpenAI now trains its frontier AI models with no internet access",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-     "published": "2026-10-23T21:11:07+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 18,
    "rank": 17,
    "slug": "17"
+  },
+  {
+   "headline": "'증시 부진에도 ETF는 산다'…올해 개인 80조, 외인 10조 순매수",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "SBS",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "증시 부진에도…올해 ETF 개인 80조, 외인 10조 순매수",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zMWg2QzFxOTRwZWswby1ob3ZBLWRLZXItVzVwSEtSZVVDaEttandsa1RxRzU1eWNWMl9MbGRwMndqZE9seFZucGYxR2hxXzRqbGFJeXp1ZjZjT3pnTVBiUU5xRjQxem8?oc=5",
+     "published": "2026-10-25T01:09:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "SBS",
+     "title": "증시 부진에도 ETF 쓸어담는다…올해 개인 80조 순매수",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QV2pMVFJsWUFvcWVVNVRPOVd2anZIdEhiSUVKdjdkdWRJQ2k3ZzhCNFdBS25mZ3JpNGVQYnB2a3FpMDBrYTlNeHlkci1lT1VldUhB0gFYQVVfeXFMTjdsUUEyRDdjRmQtUEtLVVhJNHBiT1ZSQy02ZkpWNno2SWJ4UW9VZlQ5SEhXWkFncTRfZDVMb1NSM01yM0Z2MkRLRzZOYzlhSi1kWWQ2Wmhsdw?oc=5",
+     "published": "2026-10-25T00:51:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "'증시 부진에도 ETF는 산다'…올해 개인 80조, 외인 10조 순매수",
+     "url": "https://www.yna.co.kr/view/AKR20261024025000008",
+     "published": "2026-10-24T21:25:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "삼전닉스 급락에도 '단일 레버리지'로 몰려간 개미…7월 말 규제 후 첫 순매수",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "뉴스1",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴스1",
+     "title": "삼전닉스 급락에도 '단일 레버리지'로 몰려간 개미…7월 말 규제 후 첫 순매수",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUmJPRUxKUDYzOExrVG0xOVdvWmVHWmF1UEw4aTMwblZuRW4wVnNZS0xhbWJrUUFGNkJCVE5Fd0V5Q0U0bDNfZjItRlo5M19zR1I2VF91eEdCUVc2Y01R?oc=5",
+     "published": "2026-10-25T01:08:49+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "개미, 이달 단일 레버리지 14종 순매수 전환…7월말 규제후 처음",
+     "url": "https://www.yna.co.kr/view/AKR20261024020500008",
+     "published": "2026-10-24T21:10:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "트럼프, 러 알래스카 LNG 투자 질문에 \"전쟁끝나면 러와도 거래\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "알래스카 LNG 러시아 참여설…트럼프 “전쟁 끝나면 러와도 거래”",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZZVljTzBQcXZ3aWtOYTFuX19IX0RKbDBsM2NQdWNCaUh4TFd1VEhtWWJxZFRmS21BQVVDVnJ1ejVSUHVCUVNIeFNWZkFrb3Uwa3duMzdn?oc=5",
+     "published": "2026-10-24T23:51:59+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "트럼프, 러 알래스카 LNG 투자 질문에 \"전쟁끝나면 러와도 거래\"",
+     "url": "https://www.yna.co.kr/view/AKR20261025007700071",
+     "published": "2026-10-24T23:11:25+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 20,
+   "slug": "20"
   }
  ],
  "market": {
-  "fetched_at": "2026-10-25T06:26:13.327011+09:00",
+  "fetched_at": "2026-10-26T06:30:15.140742+09:00",
   "groups": {
    "지수": [
     {
@@ -752,26 +1042,26 @@
     {
      "ticker": "KRW=X",
      "name": "원/달러",
-     "value": 1325.4000244140625,
-     "change": -0.5899658203125,
-     "pct": -0.04449247917838184,
-     "date": "2026-10-24"
+     "value": 1323.6099853515625,
+     "change": -2.3800048828125,
+     "pct": -0.1794889026569324,
+     "date": "2026-10-25"
     },
     {
      "ticker": "JPYKRW=X",
      "name": "원/100엔",
-     "value": 841.6999816894531,
-     "change": 3.4775733947753906,
-     "pct": 0.4148747826785426,
-     "date": "2026-10-23"
+     "value": 840.6999588012695,
+     "change": -6.613636016845703,
+     "pct": -0.7805417093851075,
+     "date": "2026-10-25"
     },
     {
      "ticker": "EURKRW=X",
      "name": "원/유로",
-     "value": 1482.0999755859375,
-     "change": -7.030029296875,
-     "pct": -0.4720896949107045,
-     "date": "2026-10-23"
+     "value": 1484.699951171875,
+     "change": -0.780029296875,
+     "pct": -0.052510253058335454,
+     "date": "2026-10-25"
     },
     {
      "ticker": "DX-Y.NYB",
@@ -810,9 +1100,9 @@
     {
      "ticker": "BZ=F",
      "name": "브렌트유",
-     "value": 116.72000122070312,
-     "change": 3.5500030517578125,
-     "pct": 3.136876477154482,
+     "value": 111.69999694824219,
+     "change": -1.470001220703125,
+     "pct": -1.2989319117144849,
      "date": "2026-10-23"
     },
     {
@@ -826,17 +1116,17 @@
     {
      "ticker": "SI=F",
      "name": "은",
-     "value": 53.71099853515625,
-     "change": -1.0530014038085938,
-     "pct": -1.922798562892003,
+     "value": 53.94900131225586,
+     "change": -0.8149986267089844,
+     "pct": -1.4882014235945373,
      "date": "2026-10-23"
     },
     {
      "ticker": "HG=F",
      "name": "구리",
-     "value": 6.47599983215332,
-     "change": 0.11349964141845703,
-     "pct": 1.7838842910171682,
+     "value": 6.507500171661377,
+     "change": 0.14499998092651367,
+     "pct": 2.278978020899136,
      "date": "2026-10-23"
     }
    ]
@@ -845,40 +1135,40 @@
    {
     "name": "비트코인",
     "id": "bitcoin",
-    "usd": 80333,
-    "krw": 106322371,
-    "pct": -1.258254606597286
+    "usd": 80400,
+    "krw": 106424253,
+    "pct": 0.014102019172931149
    },
    {
     "name": "이더리움",
     "id": "ethereum",
-    "usd": 2334.82,
-    "krw": 3090199,
-    "pct": -2.7417946080117948
+    "usd": 2340.38,
+    "krw": 3097906,
+    "pct": 0.09356314618663854
    },
    {
     "name": "솔라나",
     "id": "solana",
-    "usd": 101.21,
-    "krw": 133956,
-    "pct": -2.562055949513102
+    "usd": 101.47,
+    "krw": 134311,
+    "pct": 0.13877345429696397
    },
    {
     "name": "리플",
     "id": "ripple",
-    "usd": 1.29,
-    "krw": 1709.16,
-    "pct": -1.196344445552352
+    "usd": 1.3,
+    "krw": 1717.64,
+    "pct": 0.37932123513856103
    }
   ],
-  "kimchi_premium": 1.5239866914011246,
+  "kimchi_premium": 1.2984213430794256,
   "flows": null
  },
  "stats": {
-  "collected": 886,
-  "outlets": 59,
-  "verified_stories": 18,
+  "collected": 1279,
+  "outlets": 60,
+  "verified_stories": 30,
   "dropped_by_factcheck": 0,
-  "seconds": 17
+  "seconds": 8
  }
 }
