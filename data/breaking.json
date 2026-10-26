@@ -1,5 +1,577 @@
 [
  {
+  "id": "850b8b2061",
+  "time": "2026-10-26T12:45:08+00:00",
+  "title": "메타, AI 투자에 950억달러 조달…반도체 3사도 '지원사격'",
+  "ko": "메타, AI 투자에 950억달러 조달…반도체 3사도 '지원사격'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610262142072392",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "df98bea0a5",
+  "time": "2026-10-26T12:39:00+00:00",
+  "title": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower",
+  "ko": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6c99a9d8d7",
+  "time": "2026-10-26T12:38:07+00:00",
+  "title": "Powerful executives cozied up to Trump. Now they fear a reckoning.",
+  "ko": "Powerful executives cozied up to Trump. Now they fear a reckoning.",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFRsRjIzMXI1XzBuaHB0NVVTX3ItU2tETmh6NWdjYUN0cVhFdV9iaTRaX0ZvQ3pMYTE1SDhPRzRVUXdSMHExQTdBcWZDemhTTDlEUENzZE1JZ29kb1pmeDE3OFZ3NnB6UWJ4X0VNSkhfYklNOURBdEh2LU9pWjFYbW5YSTVyaGJnRDIzZ1ZYMU51XzZFMU9wRkEzdXNteXk1RUZVd1ZuXzIzNG1OSWk5UU5lbE9QamZNOVE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4d8b3b48ad",
+  "time": "2026-10-26T12:38:07+00:00",
+  "title": "Trump closed down the border — and ended it as a campaign issue",
+  "ko": "Trump closed down the border — and ended it as a campaign issue",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGdEcWF3cHBGNXRVUHdRVVBWa2FVMzZfNUI5MjZabEVhVFV6S2Z1Yk51RjlqRWVOQzBWLXU4ZzNCMG5PRFJxd0lMdFk0RFFPZUNCYTdVWEdJbzMwdVJpdmswMDlEVkRJQlRSSzBnaUJmQXZSbXZUTDBzOHk0cGM3UTBXdVNkV2JIUzhpOEFxaFB0eU5TZVBxeVREWThnM0pMalE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f4d7a3d795",
+  "time": "2026-10-26T12:36:16+00:00",
+  "title": "메타, AI 투자재원 마련 위해 125조원 자본조달… 주식공모 46조원등",
+  "ko": "메타, AI 투자재원 마련 위해 125조원 자본조달… 주식공모 46조원등",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261026_0003841902",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e8ee72b5d5",
+  "time": "2026-10-26T12:34:48+00:00",
+  "title": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
+  "ko": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaZW1xaGhDaldQV25rME52dFVuWm4zNldMdEU5S2k4RU5hQ0gwZmxWRWlFQS1RZFllUTVKak9sVU9GU29oRUVtaDcwa2ZXaHdRQWstcjg3eW5Qd1h3TENqT3V1NlZ0dm00Q0R5aw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e592ed3d35",
+  "time": "2026-10-26T12:30:23+00:00",
+  "title": "“있는 돈 없는 돈, 이미 다 끌어넣었나”…코스피 거래대금도 하락세",
+  "ko": "“있는 돈 없는 돈, 이미 다 끌어넣었나”…코스피 거래대금도 하락세",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12186320",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8e7926cc97",
+  "time": "2026-10-26T12:30:15+00:00",
+  "title": "Oleshky: the occupied Ukrainian town for which Melania Trump helped broker a ceasefire",
+  "ko": "Oleshky: the occupied Ukrainian town for which Melania Trump helped broker a ceasefire",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmV3Y25paUFiMk1UOGZkcDY4cHJiM3ZGNm9OSHpXMHJRemtuQVd1anhiZGxRM2pITkpQNnRsOFhJSERWS05zSy04bWJyUThJeE1EU2MxenhWZi1FY2FPNFhJaGhoTjlXVjJUSjZreFBOQjRuR19wOGhrU1NpOXdMQ2RaTUVQbW9GR1hZcDNWcVdzc182TFdIb1RiQXZuaDJiNVV4YmI2clotcDZjNGdxM0tTdUxYWjk3?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b85a940a50",
+  "time": "2026-10-26T12:28:15+00:00",
+  "title": "Trump administration faces record vacancies in Senate-confirmed posts",
+  "ko": "Trump administration faces record vacancies in Senate-confirmed posts",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGhwQ2dlOVkxWDVqNTMzVGVvcGJ6TVJWanBEQS1FdlZpRWs4OE5WYVQwbEFua0J2XzBCbl9pX0cxZ3o4NnlRQlNHbl9SNV94cnA5Uy1WalMzdm1fZS1fdVppYUtRbG1VTTU0MVV6ZWdlTWc5VVY0ZEQ0RS1XUnc5SzB6QUZncUZYSWVRc0JVUTIyQkxlaXdHNmsyTmdlS0VrT1dkVnB5LWsxTUl4?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f6c6ea4baf",
+  "time": "2026-10-26T12:11:05+00:00",
+  "title": "Why Musk Is Predicting ‘Guppy-Level Death’ for Scores of A.I. Companies",
+  "ko": "Why Musk Is Predicting ‘Guppy-Level Death’ for Scores of A.I. Companies",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN21WSmdYWUhzd2FDQnpUR0lSMDNpMmxVbG1udmU5cUh3Ujd2WGlMWFJyOEVlWGtxUzd6d1REcXNySEk0V1pFa05pMjFSSFhTQ3ozWm1BbGlMaUhGT3NfQ2o4YlhDZ21wTlE3ZUZVSHV5Qm1CUzVsYUpsME91LXc4WGM1cWFwTEtX?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "98936f1ffd",
+  "time": "2026-10-26T12:09:16+00:00",
+  "title": "\"임대주택 난방비 절감\"...SH, 한국지역난방공사와 'AI 난방 지키미' 도입",
+  "ko": "\"임대주택 난방비 절감\"...SH, 한국지역난방공사와 'AI 난방 지키미' 도입",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610262059074494",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b5fa4296b7",
+  "time": "2026-10-26T12:08:00+00:00",
+  "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+  "ko": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2d777c10e4",
+  "time": "2026-10-26T12:04:00+00:00",
+  "title": "Musk's warning hits neocloud stocks as debt concerns mount",
+  "ko": "Musk's warning hits neocloud stocks as debt concerns mount",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaElYSFRZcUVWRmFiRzg0SWRkSENhb0NvTGNLS1gwZnZrU015R3R6NmdiLTE4WDVCeUNkWi1LejFmRXVsUmRmRzQydEEtby1ESzFNY21ZSnhNV1ZhdU9jQ2NMMHBFZlc0anVGcjBBVEVvQU9vdl9RUVRMUmhGSzdRaFdWRmNISTg5WjlqazEwLUdJbjRtYzY3eHlTU0lZRTF4?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "973f3a889d",
+  "time": "2026-10-26T12:02:00+00:00",
+  "title": "Donald Trump has been a disaster for rural America | Steven Greenhouse",
+  "ko": "Donald Trump has been a disaster for rural America | Steven Greenhouse",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0JGQjFkZWxpZlU4ZVFGNjA4M1lORWlKWDJia3ZGYmFlaUN0dmNPZ3FzSUNYalJ6QzRsTlNmM0pmMWFaWE11UTNxa1JYWlhOTFlMSi1vRmRHQ1VNdDd0cXZjRGU2NGZQV0Vmdk5tVHV0bXpfcmxlcTZJTF8xVkE5d0pMVjI2WHNMdzA3V0l5d3BkSDdMSjZtZDBOREI?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3f822e0261",
+  "time": "2026-10-26T11:54:45+00:00",
+  "title": "메타, AI 인프라 투자 위해 950억 달러 자본 조달…125조원 (1보)",
+  "ko": "메타, AI 인프라 투자 위해 950억 달러 자본 조달…125조원 (1보)",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261026_0003841896",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a684c187ea",
+  "time": "2026-10-26T11:53:07+00:00",
+  "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+  "ko": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6f226cf360",
+  "time": "2026-10-26T11:49:56+00:00",
+  "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
+  "ko": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "868c888840",
+  "time": "2026-10-26T11:49:17+00:00",
+  "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+  "ko": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dGRiMnVpMjM0MjNhZEJmVEE1cGtScXUyMTJrRnRsTUFmU3h2NGx4ZVZmbTJaYkkzT3g0ZnBwcFdrMmhHRFFNaWo1OUNacU15ZC00UVhOQ01HUEVGcDNOb0d3VGw4Z9IBa0FVX3lxTE5DZWdVU196RWJyWVRzVTNvcktBTS1NWlQ5anM3MmM2UjQwZllJMlZ1Y0Zsd1hDb254Z2dwQTB3dWFzam9QQW1yR1c1OEctR0RUYkozYmlGaHlGSnNpZWZKLV9yekRzbWpoSDVF?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6c5dd42193",
+  "time": "2026-10-26T11:24:33+00:00",
+  "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+  "ko": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0cdb28e46f",
+  "time": "2026-10-26T11:24:00+00:00",
+  "title": "SpaceX Borrows $40 Billion as Musk Sounds AI Alarm",
+  "ko": "SpaceX Borrows $40 Billion as Musk Sounds AI Alarm",
+  "lang": "en",
+  "outlet": "Barron's",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LW1KN0VjU0RLUEEyN3ZQVHdSZW1JMW5WNlBEampKUUJobVI2ZXRlLVV5R1loTzFpRGx1ZG9tWjM4anpqRGRtcV9NVndUcDA2RFpyRUFnRlRBWlRSQ2J6YzZMUWlpbkhlQ1lJUnhJNEdELTJMVVE?oc=5",
+  "section": "ai",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e35cea2c7f",
+  "time": "2026-10-26T11:18:16+00:00",
+  "title": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
+  "ko": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEl2aThXZkt5TzdWRWltVDJfam1pSXU3YjlRUjJSdHNIN2J1ZGxzVUo0dllUVjBFaHlLMFU0b0JFZVQ0OTlnU2Vqem1LeS1xLUtIaWdrR2tjdVdZd1dpRy04SFR2Zjh5WkpDbWhWaVZxRVI2akVWLWtxWjBFYUQ5ejNsTXdTLW9RWDB4UjBHZnJSQQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "bf455013d5",
+  "time": "2026-10-26T11:11:04+00:00",
+  "title": "“투자금까지 모았지만 함부로 못 들어가”…K반도체 대어들 IPO 속도조절",
+  "ko": "“투자금까지 모았지만 함부로 못 들어가”…K반도체 대어들 IPO 속도조절",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/business/12186261",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "54c4185262",
+  "time": "2026-10-26T11:11:00+00:00",
+  "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
+  "ko": "Verizon’s stock rises as subscriber surge impresses Wall Street",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b16905578c",
+  "time": "2026-10-26T11:05:31+00:00",
+  "title": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
+  "ko": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cf7f4b95a4",
+  "time": "2026-10-26T11:04:00+00:00",
+  "title": "Obama Campaigned and Failed to Stop Trump in 2024. He’s Trying Again.",
+  "ko": "Obama Campaigned and Failed to Stop Trump in 2024. He’s Trying Again.",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVN5Mzhod0ZZSm9BTWpqMnN3OGJHaS1JWlQ5cjQweVEySktvVXoxZ1hsdS1zSDl2WHliektrSFdYSTdmT2NsZ2tqU3hJdnhVMTRmYXpabXc4cmxfaG02ZHdvazR2R3BZNzkzTmcxRjQ1V3ZNZU5YV3pXQ196ajhnY1lkb1c5Smw1MFMzQVNCMG9LeTVrM3JmTXVBeWtxbnFFZjdjM3BXTzZHbktCc0ZkRg?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8300a73a6e",
+  "time": "2026-10-26T11:01:05+00:00",
+  "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down",
+  "ko": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down",
+  "lang": "en",
+  "outlet": "ABC News",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWdRWUZaNElhU19rRC10RXZVenItNHJBckpHay16TUs4el84LW9oNm9EZ2ZMNUZPMUNERlB3dkhONl9hSjl4MVNHRml1TDlybzkzLU5vU2FzUzBfeFVJN0RJZ05PMDBnaUo3RGZ1WHA2THBFM0NRQm1adVVhRWc1X25yRXYzbGJVNEZsUk9lT2tzNW9rdmM1V1djZjXSAaIBQVVfeXFMT0pUTTl0OUFuWm1yYnNaZWlkM2k4dGlkRkd5NVVTMXF1bkV2cWlMTzNWdUhYVGtGV01TSHF6d0hteU1MVjNvOTVNTzdqZ3ZwRFkzMTJNdFg5MEMtbkVhNGtLRG5lNnpKc3hQenpKeTNHZGMtb1Y4YmY3bFI5YS05QkZwdE9ocV9YTllMRjE5WXo3cXF3emRTNm1Nd0s3NzJKVEtn?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "df09c5daff",
+  "time": "2026-10-26T11:01:00+00:00",
+  "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+  "ko": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEYxSUtmSDhHRXotSzduRlpLSU95R2RRc09HUExlWjJXaExYbUhJVjFfejg0dEVyRTUxUVYxa3h1ZzJ4YnpvQVV5MzN4cUl1WS1RNDhqX2JIQy1ZY3BjRjZla1hNdS1MZU1vN3FFd2wycGlvVVVBd3RmemVSV3lRa2k2UERzMnc?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "eff5c42d62",
+  "time": "2026-10-26T11:01:00+00:00",
+  "title": "Discontent with Trump buoys Democrats in Ohio: ‘People are disgusted by the corruption’",
+  "ko": "Discontent with Trump buoys Democrats in Ohio: ‘People are disgusted by the corruption’",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fMmpNc05JUVNVbk1Xc1M1Y0VETUwwbjVqaHQzTjJDc2FzakhLeDdTT3FGMHNBQXBDLUtoM0xDVmFjaW1fU0tRTWZOaGJMR3o0TXZ2ZTZER19pTG1SaEVjbk5vbHBBTW9XM0Roc0VFNE5WMmpaZVc0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7068ef6ad7",
+  "time": "2026-10-26T10:54:14+00:00",
+  "title": "'AI 시대 진로 탐색, 지속적 배움으로'",
+  "ko": "'AI 시대 진로 탐색, 지속적 배움으로'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610261946044862",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6f8fec7997",
+  "time": "2026-10-26T10:43:00+00:00",
+  "title": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%",
+  "ko": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a729075d43",
+  "time": "2026-10-26T10:41:00+00:00",
+  "title": "Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections",
+  "ko": "Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDB0Q3N4MWxNWWdRNUtaNHBIaVhzeldEWEt1eDM0dDJKT3FvMGh4RG82RlgyUW5CdmxvZkJFUThJQkxvWU16NXE0bUE1RkQ0UUhNMXQ3ZWQ3Y0I2bGNzVzB5WlRvMWpFUGdBWGhTWTl2enl4V3UzM0lHa21RbWI5NWR3dlFhWElfaTlJX2ZETExYN1ZfMDgxZWJyeGdQTnRZ?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3d50a15afd",
+  "time": "2026-10-26T10:33:32+00:00",
+  "title": "President Trump",
+  "ko": "President Trump",
+  "lang": "en",
+  "outlet": "ABC News",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SWW5YZjFQMlFQNnNyb3hydkxyMkNPbkdka1RwLVhKbUp0dUhTQklEd2hYazExQmtmTjg0YzhLWFI5TVY1UUZsS1BCUTlHbzA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6adc7071f1",
+  "time": "2026-10-26T10:33:00+00:00",
+  "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+  "ko": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3a38b17327",
+  "time": "2026-10-26T10:12:39+00:00",
+  "title": "[사설] AI發 청년고용난, 풀어낼 길은 노동개혁뿐",
+  "ko": "[사설] AI發 청년고용난, 풀어낼 길은 노동개혁뿐",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610261911570422",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4860680a37",
+  "time": "2026-10-26T10:12:34+00:00",
+  "title": "[강남視角] 50달러 해킹에 흔들리는 보안",
+  "ko": "[강남視角] 50달러 해킹에 흔들리는 보안",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610261911507894",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "78f21aef50",
+  "time": "2026-10-26T10:12:30+00:00",
+  "title": "[테헤란로] 돌고 돌아 ‘샤이 트럼프’",
+  "ko": "[테헤란로] 돌고 돌아 ‘샤이 트럼프’",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610261911473535",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "81593168e5",
+  "time": "2026-10-26T10:08:56+00:00",
+  "title": "[포럼] 미국과 AI·로봇 대응팀 구축해야",
+  "ko": "[포럼] 미국과 AI·로봇 대응팀 구축해야",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610261908137075",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7c6ad98ac9",
+  "time": "2026-10-26T10:04:02+00:00",
+  "title": "'베트남의 삼성' 빈그룹, 원화 채권 2300억원 발행",
+  "ko": "'베트남의 삼성' 빈그룹, 원화 채권 2300억원 발행",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202610261748410279",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "f1b03efcfe",
   "time": "2026-10-26T06:09:21+00:00",
   "title": "AI도 상처받을까…앤트로픽, 클로드 향한 '지속적 학대' 금지",
@@ -6271,9 +6843,7 @@
   ],
   "flash": false,
   "official": false,
-  "also": [
-   "Reuters"
-  ]
+  "also": []
  },
  {
   "id": "73d19293af",
@@ -6301,284 +6871,6 @@
   "url": "https://www.newsis.com/view/NISX20261024_0003839706",
   "section": "money",
   "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "63e9c68814",
-  "time": "2026-10-24T13:03:22+00:00",
-  "title": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
-  "ko": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026102426856",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4041d9ed80",
-  "time": "2026-10-24T12:59:43+00:00",
-  "title": "Trump says he may move White House press corps",
-  "ko": "Trump says he may move White House press corps",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "The Hill"
-  ]
- },
- {
-  "id": "35aa42c7d9",
-  "time": "2026-10-24T12:00:00+00:00",
-  "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
-  "ko": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "860a0fb82c",
-  "time": "2026-10-24T11:54:46+00:00",
-  "title": "'당일치기' 방중 마친 김정은 귀국길..시진핑 회동 없이 서열 4위 왕후닝 배웅",
-  "ko": "'당일치기' 방중 마친 김정은 귀국길..시진핑 회동 없이 서열 4위 왕후닝 배웅",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610242032424778",
-  "section": "people",
-  "people": [
-   "시진핑"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fa46d74908",
-  "time": "2026-10-24T11:42:06+00:00",
-  "title": "Week in Politics: Ramaswamy’s Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
-  "ko": "Week in Politics: Ramaswamy’s Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmpjZ1BGc0N6cVVtSkg1QzZORHo4X1FnQVdlOVFNdjJxR2FqYkNZYXp0NVVpWXc5OVNDa1hvR2pydWxjMnhLYm95Ul9CY3lZQ0FlTkI4QTJ0MTlLVF8zNUR0MGVpUG51MDB1bXRuOFhoRVlaYUViMGxpRWliUkV4eVNELV9TN0tmNmkyODRLbjFJQlppZ1FuZ052RGZBRm5JSlBQSkR5cnZJYXZqajRYdlZ4QjN0T3R5TlpFSGM3OUxmWEU2SDBV?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1ea74ab0e2",
-  "time": "2026-10-24T11:30:00+00:00",
-  "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-  "ko": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b8370c1ca5",
-  "time": "2026-10-24T11:00:00+00:00",
-  "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
-  "ko": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "97e17e395d",
-  "time": "2026-10-24T11:00:00+00:00",
-  "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
-  "ko": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckJNVUxfSUlKUFUxTjVueXBMM1lwVFB6REVXbHBZbndlamhST3loYkIwUjdibUJkdWdoU212MGxtQjlBeFdGR0xMWTVCU3VTY0pxVmhVcGhKOXBXVXRCdEZFSXZFWkR0MHBWb3NJMFUxekRRR3NOWDg0aTFDV2YtdUgzQU0xTWdqUE1BUGlEbnBEZV94VXU2Zw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "db8e5da9c2",
-  "time": "2026-10-24T10:28:19+00:00",
-  "title": "[일지] 김정은, 집권 후 6번 방중…이번엔 시진핑과 정상회담 없을 듯",
-  "ko": "[일지] 김정은, 집권 후 6번 방중…이번엔 시진핑과 정상회담 없을 듯",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261024048900504",
-  "section": "people",
-  "people": [
-   "시진핑"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6708fa34fe",
-  "time": "2026-10-24T10:21:18+00:00",
-  "title": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
-  "ko": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
-  "lang": "en",
-  "outlet": "Axios",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHZk4ya0d5UE5leHU4ZUJjamhpaWFZYkQyVVZyOFk4QlBPR0stUzZ1bXRONHB4OWZuVmxjSzdEeW5zRkM4bFdmcWhnQ1g2VkJsZWZWa3Y2T1VPNDdkTmVzODctYUFxTFYzaHl4VlNoX0REOWFCQTBpeDRfMA?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "68a72f56ce",
-  "time": "2026-10-24T10:07:44+00:00",
-  "title": "Five takeaways from Trump's midterm campaign rallies",
-  "ko": "Five takeaways from Trump's midterm campaign rallies",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2045faf3a4",
-  "time": "2026-10-24T10:00:01+00:00",
-  "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-  "ko": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-  "lang": "en",
-  "outlet": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHpyd0dWM0xXTi1Yenc5LWRtYlhZXzUydG5yc1BDaWRiWlZjZk0tYU5hVGRqYl9fNjhXNW5PRHN4T3F3azZmdU1EaWIzdG1BaWFwNzI5S0dDYUdyeFN0cWRMeUw3N2F5dkd5YjUzWFN6NWJOSENUQXNXVi1KY1oxNy1FVDJQbDRCdWfSAY8BQVVfeXFMTlIxSHBHSDdaQXpRdnBiQzdveFFyRWdFSXVnUkhGOFVHdGstSFNaSmhjVnNDNi1OcklJYktNSlNXOVRxbkt0VlNvRjRGeUUxbFNpX1V6VUhrLUVpS1lBRUJtNFducmRWbU5yQ3ptMFByX2xiOUd3SW56cDdCRW84VzVZeDE3dnF0QlFhVmc3MnM?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c6797d043c",
-  "time": "2026-10-24T10:00:00+00:00",
-  "title": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
-  "ko": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610241657373440",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cd46054eb1",
-  "time": "2026-10-24T09:15:32+00:00",
-  "title": "통일부 \"김정은 오늘 신압록대교 통해 전격 방중\"…단둥서 시진핑은 안 만날 듯(종합2보)",
-  "ko": "통일부 \"김정은 오늘 신압록대교 통해 전격 방중\"…단둥서 시진핑은 안 만날 듯(종합2보)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261024_0003839649",
-  "section": "people",
-  "people": [
-   "시진핑"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4a84716ab6",
-  "time": "2026-10-24T09:03:20+00:00",
-  "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-  "ko": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zVHoyTW1BVDJmY2hJQlNqLU5xbXdWR3h2eWRZTzNaZ0VENDNnd0lZMm10UDE0X0puMEdyWFFjRUJ6UmlPQ2JOWU03aV9BY2NTS29VUTZtanFPbkM0TFBQWjUwYWdzLV91azRXTDFZN3M5SnpT?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3f223b8e2f",
-  "time": "2026-10-24T06:52:49+00:00",
-  "title": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
-  "ko": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026102309936",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2ff28be1d0",
-  "time": "2026-10-24T06:42:00+00:00",
-  "title": "Election Dispatches: Eyeing Return to Power, Democrats Are Crafting a Plan to Dismantle Trump’s Agenda",
-  "ko": "Election Dispatches: Eyeing Return to Power, Democrats Are Crafting a Plan to Dismantle Trump’s Agenda",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IeTY1c1U5Sy0wanVaTEJvNUZUdFd4N21UV2ZKbDVuZFdrcllWTHRYUGoyWlhySUljZkVSRC1VTUVkRG1IOUxIUUcxMFh0V2FRRTc5UVpucU8zcVdDa25ob2pTWlVrd0g1SG9qS1ZEd1k0M3ZK?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "417b38d0e0",
-  "time": "2026-10-24T06:21:05+00:00",
-  "title": "김정은, 1년 만에 압록강 새 다리로 방중…시진핑 만날 듯",
-  "ko": "김정은, 1년 만에 압록강 새 다리로 방중…시진핑 만날 듯",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610241509353583",
-  "section": "people",
-  "people": [
-   "시진핑"
-  ],
   "flash": false,
   "official": false,
   "also": []
