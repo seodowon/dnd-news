@@ -1,5 +1,93 @@
 [
  {
+  "id": "fdcd3710ee",
+  "time": "2026-10-31T22:01:36+00:00",
+  "title": "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워",
+  "ko": "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261101005900072",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dfae7ff28a",
+  "time": "2026-10-31T22:01:00+00:00",
+  "title": "차트부터 영상분석까지…'동물병원용AI' 쏟아진다",
+  "ko": "차트부터 영상분석까지…'동물병원용AI' 쏟아진다",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261030_0003848659",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "915537cc7e",
+  "time": "2026-10-31T22:00:10+00:00",
+  "title": "경기도, '글로벌 AI허브' 유치 총력…지페어서 전략 논의",
+  "ko": "경기도, '글로벌 AI허브' 유치 총력…지페어서 전략 논의",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261030171200061",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0965d4fe92",
+  "time": "2026-10-31T22:00:02+00:00",
+  "title": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+  "ko": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261101006700009",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fcc69cfced",
+  "time": "2026-10-31T21:58:28+00:00",
+  "title": "[속보]FBI, 바이낸스 해킹 배후 북한 지목…\"60억달러 이상 탈취\"",
+  "ko": "[속보]FBI, 바이낸스 해킹 배후 북한 지목…\"60억달러 이상 탈취\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261101_0003849486",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b728978dfb",
+  "time": "2026-10-31T21:53:43+00:00",
+  "title": "[속보] 미 FBI \"북한, 바이낸스 60억 달러 가상화폐 탈취 배후\"",
+  "ko": "[속보] 미 FBI \"북한, 바이낸스 60억 달러 가상화폐 탈취 배후\"",
+  "lang": "ko",
+  "outlet": "MBC",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUnlhUnVhYkhlN2N0VXc2UU1IbzFkRWhhaC1xRmhXSXlkSmt0M0NyMjFxMXd2cmJhQjlDRjZIeGpGZ2Q4anZnVFBoWEVyb1BEdWJsZkdaNzRXbmVNOFZ5ZUhObUxoMEQyOUNHN0E0bzE3ZWpR0gF0QVVfeXFMTmk1ZzNqR1NiWWRRVlNYVTBFRjJ5OTZHOHhudjQtMEgxbmxITFktRnpPUlNDejNMX0FDUzY1MS1XLTFIT1FZSjRkS3dJc2JpWGVBYWdEV2QxZWxDem55VDRwMU1VZzJQTmFtQzlIdGxxTnRsczQ?oc=5",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "서울신문",
+   "연합뉴스",
+   "파이낸셜뉴스"
+  ]
+ },
+ {
   "id": "ae5c6a5a23",
   "time": "2026-10-31T21:53:06+00:00",
   "title": "[속보] 美FBI “북한, 바이낸스 60억 달러 가상화폐 탈취 배후”",
@@ -12,6 +100,7 @@
   "flash": true,
   "official": false,
   "also": [
+   "MBC",
    "연합뉴스",
    "파이낸셜뉴스"
   ]
@@ -29,6 +118,7 @@
   "flash": true,
   "official": false,
   "also": [
+   "MBC",
    "서울신문",
    "연합뉴스"
   ]
@@ -46,6 +136,7 @@
   "flash": true,
   "official": false,
   "also": [
+   "MBC",
    "서울신문",
    "파이낸셜뉴스"
   ]
@@ -655,6 +746,22 @@
   "also": [
    "CBS News"
   ]
+ },
+ {
+  "id": "539cc68a35",
+  "time": "2026-10-31T19:46:44+00:00",
+  "title": "In unusual email, Social Security Administration touts Trump days before elections",
+  "ko": "In unusual email, Social Security Administration touts Trump days before elections",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0YwNmhxRUFTTUpndkFoTUd6VEFsSDlBYjdackdBOWVPQ1JLWFZ2ams4YTUtT3UyZDE2TG1UZVM3MU4yNFYya1pNdllDTmFJVkEzalpvOGMzZ1ctUXFBbDVVd3dqLW5aTUlrT3A2M0VJMmNKSjN3c2NzRjVHdjRRam5mVDhsanF4ckktM08wbzhKWXo5WThCWHNCX0JQanV2bUFVMnF3X3gxc2VGSHFhWW9QRDBndWNLSUdkY0dhbXRLcVNWdGNfZXF3?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
  },
  {
   "id": "cd3bf5f928",
@@ -7313,108 +7420,6 @@
   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
   "section": "ai",
   "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dc09981a56",
-  "time": "2026-10-29T22:13:51+00:00",
-  "title": "Israel deadlocked / Trump, Iran and the midterms : Sources & Methods",
-  "ko": "Israel deadlocked / Trump, Iran and the midterms : Sources & Methods",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDhFRTk0X2UwdXRNR19OSjBESnIxNFY2RE53LWNVZGVpMmFPYlA1ak1aTk1vaU05WjR2Snd0aHg4c0NFeHFFQ3JlcGluVmdWSWFhaUF2QkotMWo3OVVCYnUyLWtUV1BneGcyYmkzQXhxNGREdTRSci1NTWZBRkhSZ2xHcmFZUXRsNHpsd1pBZThGbHB3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6327ebef59",
-  "time": "2026-10-29T22:10:23+00:00",
-  "title": "아마존, 실망스런 실적에 시간외 주가 7%↓…AI투자에 현금흐름 악화",
-  "ko": "아마존, 실망스런 실적에 시간외 주가 7%↓…AI투자에 현금흐름 악화",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261030_0003847498",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9224ed23cc",
-  "time": "2026-10-29T22:10:01+00:00",
-  "title": "알파벳 12% 폭락에 AI株 흔들…나스닥 1.38%↓ [뉴욕증시 브리핑]",
-  "ko": "알파벳 12% 폭락에 AI株 흔들…나스닥 1.38%↓ [뉴욕증시 브리핑]",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026103048766",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3df479f8d6",
-  "time": "2026-10-29T22:00:00+00:00",
-  "title": "AI 해킹에 다들 뚫렸는데…피해 없는 우리은행 비결은",
-  "ko": "AI 해킹에 다들 뚫렸는데…피해 없는 우리은행 비결은",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261029_0003846630",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f2540d73aa",
-  "time": "2026-10-29T22:00:00+00:00",
-  "title": "3분기 100조 '잭팟'에도 웃지 못한 삼성전자 주주들…주가 향방은",
-  "ko": "3분기 100조 '잭팟'에도 웃지 못한 삼성전자 주주들…주가 향방은",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261029_0003847240",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4c1ce6db17",
-  "time": "2026-10-29T22:00:00+00:00",
-  "title": "점심 투어부터 AI 도슨트까지…아르코미술관, 무료 프로그램 5종 운영",
-  "ko": "점심 투어부터 AI 도슨트까지…아르코미술관, 무료 프로그램 5종 운영",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610300457081760",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "db03e8a4e0",
-  "time": "2026-10-29T22:00:00+00:00",
-  "title": "Trump administration opens criminal investigation over alleged noncitizen voting in California",
-  "ko": "Trump administration opens criminal investigation over alleged noncitizen voting in California",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWC1wMFBaQVBySWhKNlB4NzZaNzFRZm5WQnVmZWgyTk1nbzNVXzdPVkV0T2x4QWw0X0ZhaWxoNW1YUnNtYmd2UnNBS0FSWW5XQ0dwb1NycVNjanpZcDdzZE5vckpaS3VZU0Jwd2ppdHhRLWo1MTBsMEE3NFdXa19hRTRpRy05dmZhN2I1TkdqV1dPM1VmLTBaZHljcUNpN1dnRE0tVmZKZkNtM3FWbGtKTQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
   "flash": false,
   "official": false,
   "also": []

@@ -1,5 +1,93 @@
 [
  {
+  "id": "fdcd3710ee",
+  "time": "2026-10-31T22:01:36+00:00",
+  "title": "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워",
+  "ko": "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261101005900072",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dfae7ff28a",
+  "time": "2026-10-31T22:01:00+00:00",
+  "title": "차트부터 영상분석까지…'동물병원용AI' 쏟아진다",
+  "ko": "차트부터 영상분석까지…'동물병원용AI' 쏟아진다",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261030_0003848659",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "915537cc7e",
+  "time": "2026-10-31T22:00:10+00:00",
+  "title": "경기도, '글로벌 AI허브' 유치 총력…지페어서 전략 논의",
+  "ko": "경기도, '글로벌 AI허브' 유치 총력…지페어서 전략 논의",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261030171200061",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0965d4fe92",
+  "time": "2026-10-31T22:00:02+00:00",
+  "title": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+  "ko": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261101006700009",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fcc69cfced",
+  "time": "2026-10-31T21:58:28+00:00",
+  "title": "[속보]FBI, 바이낸스 해킹 배후 북한 지목…\"60억달러 이상 탈취\"",
+  "ko": "[속보]FBI, 바이낸스 해킹 배후 북한 지목…\"60억달러 이상 탈취\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261101_0003849486",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b728978dfb",
+  "time": "2026-10-31T21:53:43+00:00",
+  "title": "[속보] 미 FBI \"북한, 바이낸스 60억 달러 가상화폐 탈취 배후\"",
+  "ko": "[속보] 미 FBI \"북한, 바이낸스 60억 달러 가상화폐 탈취 배후\"",
+  "lang": "ko",
+  "outlet": "MBC",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUnlhUnVhYkhlN2N0VXc2UU1IbzFkRWhhaC1xRmhXSXlkSmt0M0NyMjFxMXd2cmJhQjlDRjZIeGpGZ2Q4anZnVFBoWEVyb1BEdWJsZkdaNzRXbmVNOFZ5ZUhObUxoMEQyOUNHN0E0bzE3ZWpR0gF0QVVfeXFMTmk1ZzNqR1NiWWRRVlNYVTBFRjJ5OTZHOHhudjQtMEgxbmxITFktRnpPUlNDejNMX0FDUzY1MS1XLTFIT1FZSjRkS3dJc2JpWGVBYWdEV2QxZWxDem55VDRwMU1VZzJQTmFtQzlIdGxxTnRsczQ?oc=5",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "서울신문",
+   "연합뉴스",
+   "파이낸셜뉴스"
+  ]
+ },
+ {
   "id": "ae5c6a5a23",
   "time": "2026-10-31T21:53:06+00:00",
   "title": "[속보] 美FBI “북한, 바이낸스 60억 달러 가상화폐 탈취 배후”",
@@ -12,6 +100,7 @@
   "flash": true,
   "official": false,
   "also": [
+   "MBC",
    "연합뉴스",
    "파이낸셜뉴스"
   ]
@@ -29,6 +118,7 @@
   "flash": true,
   "official": false,
   "also": [
+   "MBC",
    "서울신문",
    "연합뉴스"
   ]
@@ -46,6 +136,7 @@
   "flash": true,
   "official": false,
   "also": [
+   "MBC",
    "서울신문",
    "파이낸셜뉴스"
   ]
@@ -655,6 +746,22 @@
   "also": [
    "CBS News"
   ]
+ },
+ {
+  "id": "539cc68a35",
+  "time": "2026-10-31T19:46:44+00:00",
+  "title": "In unusual email, Social Security Administration touts Trump days before elections",
+  "ko": "In unusual email, Social Security Administration touts Trump days before elections",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0YwNmhxRUFTTUpndkFoTUd6VEFsSDlBYjdackdBOWVPQ1JLWFZ2ams4YTUtT3UyZDE2TG1UZVM3MU4yNFYya1pNdllDTmFJVkEzalpvOGMzZ1ctUXFBbDVVd3dqLW5aTUlrT3A2M0VJMmNKSjN3c2NzRjVHdjRRam5mVDhsanF4ckktM08wbzhKWXo5WThCWHNCX0JQanV2bUFVMnF3X3gxc2VGSHFhWW9QRDBndWNLSUdkY0dhbXRLcVNWdGNfZXF3?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
  },
  {
   "id": "cd3bf5f928",
@@ -5969,104 +6076,6 @@
   "outlet": "연합뉴스",
   "url": "https://www.yna.co.kr/view/AKR20261030048400003",
   "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2572f16d05",
-  "time": "2026-10-30T00:40:09+00:00",
-  "title": "[MK시그널] 한화비전, 어닝 서프라이즈 달성에 주가 상승세... MK시그널 추천 후 상승률 30.99% 기록",
-  "ko": "[MK시그널] 한화비전, 어닝 서프라이즈 달성에 주가 상승세... MK시그널 추천 후 상승률 30.99% 기록",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12191223",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eec168ad36",
-  "time": "2026-10-30T00:39:37+00:00",
-  "title": "[속보]SK하이닉스, 미주총괄 신설해 안현 개발총괄 배치…곽노정 단독대표 유지",
-  "ko": "[속보]SK하이닉스, 미주총괄 신설해 안현 개발총괄 배치…곽노정 단독대표 유지",
-  "lang": "ko",
-  "outlet": "이데일리",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd29HWHlKS3FHakVCZmdweTZUZ1NsdzZWMWhwbTlYdHZhTnRSSXBBZkpkalk4dVlyY2lTRGFTWEt3UmRPV0ZOTkxYMExfZHpMZ0UzR1l5dnh6a3VhMEI5Wm1GQmtWWE51dHM5UGtYMGhaZW02Y0JudzB1Nk9GSURVag?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4407a08ef9",
-  "time": "2026-10-30T00:38:47+00:00",
-  "title": "[AI프리즘] 글쓰기 넘어 디자인까지…한국인 챗GPT 활용 달라졌다",
-  "ko": "[AI프리즘] 글쓰기 넘어 디자인까지…한국인 챗GPT 활용 달라졌다",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261030041600017",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "250372e346",
-  "time": "2026-10-30T00:37:40+00:00",
-  "title": "[특징주] '6년만의 분기매출 감소' 현대차, 장초반 약세",
-  "ko": "[특징주] '6년만의 분기매출 감소' 현대차, 장초반 약세",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261030046400008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "86f25d8393",
-  "time": "2026-10-30T00:37:25+00:00",
-  "title": "\"전방 흰색 건물 앞에서 우회전\"…티맵·LG전자, AI 길안내 개발",
-  "ko": "\"전방 흰색 건물 앞에서 우회전\"…티맵·LG전자, AI 길안내 개발",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261030039700017",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8b1f61792d",
-  "time": "2026-10-30T00:36:53+00:00",
-  "title": "'90억 달러 동맹' 완성한 네이버... AI 팩토리로 '빅점프' 성공할까",
-  "ko": "'90억 달러 동맹' 완성한 네이버... AI 팩토리로 '빅점프' 성공할까",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202610305262i",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5079daae5d",
-  "time": "2026-10-30T00:36:16+00:00",
-  "title": "유시민 \"李 '코스피 5000' 믿고 첫 주식…재산? 100억원의 반도 안 돼\"",
-  "ko": "유시민 \"李 '코스피 5000' 믿고 첫 주식…재산? 100억원의 반도 안 돼\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202610300914350780",
-  "section": "kr",
   "people": [],
   "flash": false,
   "official": false,
