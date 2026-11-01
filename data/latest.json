@@ -1,22 +1,24 @@
 {
- "date": "2026-11-01",
- "generated_at": "2026-11-01T07:15:51.197435+09:00",
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T07:37:23.333588+09:00",
  "mode": "draft",
  "articles": [
   {
-   "headline": "[속보] 美FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
+   "headline": "[속보] 10월 수출 1153억달러…2개월 연속 1100억달러대",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "money",
-   "importance": 8,
+   "importance": 10,
    "outlets": [
-    "MBC",
+    "KBS",
+    "경향신문",
     "뉴시스",
+    "머니투데이",
+    "아시아경제",
     "연합뉴스",
-    "전자신문",
-    "파이낸셜뉴스",
+    "한겨레",
     "한국경제"
    ],
    "official": false,
@@ -24,62 +26,259 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "뉴시스",
-     "title": "[속보]FBI, 바이낸스 해킹 배후 북한 지목…\"60억달러 이상 탈취\"",
-     "url": "https://www.newsis.com/view/NISX20261101_0003849486",
-     "published": "2026-10-31T21:58:28+00:00"
+     "outlet": "한겨레",
+     "title": "한국 연수출 1조달러 시대 눈앞…두 달 연속 1100억달러 넘었다",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1285157.html",
+     "published": "2026-11-01T22:37:02.320259+00:00"
     },
     {
      "n": 2,
-     "outlet": "MBC",
-     "title": "[속보] 미 FBI \"북한, 바이낸스 60억 달러 가상화폐 탈취 배후\"",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUnlhUnVhYkhlN2N0VXc2UU1IbzFkRWhhaC1xRmhXSXlkSmt0M0NyMjFxMXd2cmJhQjlDRjZIeGpGZ2Q4anZnVFBoWEVyb1BEdWJsZkdaNzRXbmVNOFZ5ZUhObUxoMEQyOUNHN0E0bzE3ZWpR0gF0QVVfeXFMTmk1ZzNqR1NiWWRRVlNYVTBFRjJ5OTZHOHhudjQtMEgxbmxITFktRnpPUlNDejNMX0FDUzY1MS1XLTFIT1FZSjRkS3dJc2JpWGVBYWdEV2QxZWxDem55VDRwMU1VZzJQTmFtQzlIdGxxTnRsczQ?oc=5",
-     "published": "2026-10-31T21:53:43+00:00"
+     "outlet": "한국경제",
+     "title": "두 달 연속 1100억달러 넘은 수출…반도체가 절반, 車도 반등",
+     "url": "https://www.hankyung.com/article/2026110185721",
+     "published": "2026-11-01T08:40:28+00:00"
     },
     {
      "n": 3,
-     "outlet": "한국경제",
-     "title": "[속보] 美 FBI \"북한, 바이낸스 60억불 가상화폐 탈취 배후\"",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSW16TTRzalhsa1Q2QUx0c3F3LTA5dlBtR0djNjg5LW9fRmd0NjVjWFRoYmVaVmJCVUJnQVI5cGFaSGJ2Vi1nbXRDWGJVbXNVenc5R1hDblJEdw?oc=5",
-     "published": "2026-10-31T21:52:43+00:00"
+     "outlet": "경향신문",
+     "title": "[속보] 10월 수출 1153억달러…2개월 연속 1100억달러대",
+     "url": "https://www.khan.co.kr/article/202611010943001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-01T00:43:00+00:00"
     },
     {
      "n": 4,
-     "outlet": "파이낸셜뉴스",
-     "title": "[속보] 美FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51Ui0ybFYwbm5UUDNYQTVlYjV3VUl4YlNyLXROR0IzWHJpRUxsRGFkcWxFd3RZNkEySWYwUmpxalk0WGRrMUFFamdZMHhnZWZ1ZkNkYTg0Z25pUQ?oc=5",
-     "published": "2026-10-31T21:48:50+00:00"
+     "outlet": "연합뉴스",
+     "title": "[속보] 10월 수출 1,153억달러…전년대비 93.7% ↑",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pa015N3JhVnUwOWItTUZlYk1UQUZkUDRzMGJWQkFTMk5PRkU2QWlOeUVmVUpGYk1ubkFPMm1ORWxNTlFzeEJPX0wyTGZwQURSaUJiN1djYTB0THVHNFdma2Zzd2I2eEE?oc=5",
+     "published": "2026-11-01T00:23:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "연합뉴스",
-     "title": "[속보] 美FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
-     "url": "https://www.yna.co.kr/view/AKR20261101006400071",
-     "published": "2026-10-31T21:48:10+00:00"
+     "outlet": "뉴시스",
+     "title": "[속보]10월 수출 1152억弗 전년比 93.7%↑…2개월 연속 1100억弗 상회",
+     "url": "https://www.newsis.com/view/NISX20261101_0003849506",
+     "published": "2026-11-01T00:05:01+00:00"
     },
     {
      "n": 6,
-     "outlet": "전자신문",
-     "title": "FBI, 바이낸스 63억달러 해킹 수사…북한 연계 조직 배후 지목",
-     "url": "https://www.etnews.com/20261031000024",
-     "published": "2026-10-31T04:29:23+00:00"
+     "outlet": "KBS",
+     "title": "[속보] 10월 수출 1,153억 달러로 역대 두 번째…반도체 수출 2개월 연속 500억 달러대",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VQ293dEtiVDdiaHNFT293c2FnYUpxdzdaTlRzQ3B5NkNpZmxjelF3V0l3YkR3b29KRjVRWVhQR3FjTnFqX244Y1VkOVlILXNlSnlDeFR2RDhzLUhncFY4Y1BQTnFydw?oc=5",
+     "published": "2026-11-01T00:05:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 102,
+   "score": 128,
    "rank": 1,
    "slug": "01"
   },
   {
-   "headline": "삼성 사장단, 샘 올트먼 만났다…AI 미래전략 논의(종합)",
+   "headline": "’저PBR’ 기업 첫 공개…현대제철 등 시총 1조 이상 포함 151곳",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "ai",
+   "section": "kr",
+   "importance": 10,
+   "outlets": [
+    "SBS",
+    "경향신문",
+    "매일경제",
+    "머니투데이",
+    "서울경제",
+    "아시아경제",
+    "연합뉴스",
+    "이데일리",
+    "한겨레",
+    "한국경제",
+    "한국일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "낮은 주가 방치 ‘저PBR’ 기업 151곳…이마트·태광산업·현대제철 포함",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1285171.html",
+     "published": "2026-11-01T22:37:02.320210+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "서울경제",
+     "title": "현대제철·코오롱 등 151곳, 저PBR 꼬리표",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5X1VQYjhua19xTTVwOUFNVWp2R0ViM2FsWnhBUXRvV1Q3aTBUNklIS1NvOFlaRUE4TEhzWDk4RmRKbkVzNmhSM0M2ZElnX2F4Y2fSAVNBVV95cUxOcXNuOGFlNW84VUdMckxZeERxNzh3OVM0TndnTUFVSkFLZWZJdENLcmo1Qk03ZUl4RkFhQ2VRQWFFclh6WUJEVFRBY0piR2NBbktYbw?oc=5",
+     "published": "2026-11-01T11:19:04+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "151개 기업에 ‘저PBR’ 꼬리표 붙는다 … 이마트·현대제철 등 시총 1조 넘는 5곳 포함",
+     "url": "https://www.mk.co.kr/news/stock/12192947",
+     "published": "2026-11-01T08:38:05+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "경향신문",
+     "title": "내일부터 주식 종목에 ‘저PBR’ 꼬리표 붙는다…저PBR 기업 151개 첫 공개",
+     "url": "https://www.khan.co.kr/article/202611011602001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-01T07:02:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국일보",
+     "title": "거래소, 저PBR 기업 151곳 공개… 이마트·롯데쇼핑 등 자산보다 주가 낮다",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PRGQzTjhob1RPWWNnRkRBZDVMZ0JsLXR5NHh2X1Rlb1FkbkRFcTE0TFQ3YzZ4TEM3VmotT04zWGVoS1FIbXVIZ2w0dElob285WnRVRkJIRkUzV2Uxb2E4N25tQ3J6Mm9kM0NMMHRR0gFzQVVfeXFMT2UxbldDM2k5RjBDZ2tCVFNERE1uNjA2NHctNkYzMHR0ZlUwa3Uyb002U2MxcHN0c0l2TmYxdjFVUUNTWmUzaWpMRDk4bEQwX3dtZUxpeXZTd0FIS2dVM2IwbWNPYU5VR0FyMDhuNDV0TFA1RQ?oc=5",
+     "published": "2026-11-01T05:16:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "SBS",
+     "title": "저PBR 151개사 명단 첫공개…현대제철 등 시총 1조 이상도 포함",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825010",
+     "published": "2026-11-01T05:13:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 8,
+   "outlets": [
+    "SBS",
+    "뉴시스",
+    "아시아경제",
+    "연합뉴스",
+    "조선일보",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "10월까지 수출 9000억달러 넘어… 이달 중 1조달러 돌파할 듯",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/02/B3ELSJLDCZFBPJJ4HVAFD6V2PM/",
+     "published": "2026-11-01T15:31:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "헤럴드경제",
+     "title": "한국 수출 첫 9000억달러 돌파…연간 1조 달러 목전",
+     "url": "https://biz.heraldcorp.com/article/10921527",
+     "published": "2026-11-01T09:22:57+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "SBS",
+     "title": "한국 수출 첫 9천억 달러 돌파…연내 '1조 달러' 가시권",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824960",
+     "published": "2026-11-01T03:28:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴시스",
+     "title": "누적 수출 사상 첫 9000억弗 돌파…이달 1조弗 달성 확실시(종합)",
+     "url": "https://www.newsis.com/view/NISX20261101_0003849625",
+     "published": "2026-11-01T01:57:06+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "SBS",
+     "title": "한국 수출 첫 9천억 달러 돌파…10월 1천153억 달러",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824839",
+     "published": "2026-11-01T01:24:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
+     "url": "https://www.yna.co.kr/view/AKR20261101015300003",
+     "published": "2026-11-01T00:16:28+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 102,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "트럼프 \"바이낸스 해킹, 北 소행 확인되면 대화할 것\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
    "importance": 7,
    "outlets": [
-    "문화일보",
+    "JTBC",
+    "연합뉴스",
+    "이데일리",
+    "한국경제",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "이데일리",
+     "title": "트럼프 “바이낸스 해킹, 북한 소행이면 대화”",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44NXRTSnZPYUR4R2htWFJ6aHBid1pYclY3X0hhNF9VT0NKWWxkenlQNkVWcWtTdGpoYmxfV1JMR0o2OEVULXhyT2RRWUFfb2FCallvc1RtR1g1UmR5MThWMDROQVM5OGhyVGF5QlBxb29PemQ0VkVXZkNNRQ?oc=5",
+     "published": "2026-11-01T11:45:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "JTBC",
+     "title": "트럼프 \"바이낸스 해킹 배후 북한이면 직접 논의할 것\"",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwQU1jT3c1VHlUTUVTWEg5Z1paSXdTVWpHZF9GeWZndFVXQ0VmZ1FJbjhreWkyQ0VpSnFvRFBJSjhzZThYeHJwTkFXcDB4dThwQWYwWQ?oc=5",
+     "published": "2026-11-01T05:45:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "트럼프 \"바이낸스 해킹, 北 소행 확인되면 대화할 것\"",
+     "url": "https://www.hankyung.com/article/2026110182587",
+     "published": "2026-11-01T04:42:27+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "헤럴드경제",
+     "title": "트럼프 “바이낸스 해킹 北 소행이면 北과 직접 논의”…이란엔 “10분이면 타격”",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nSG40ZVBLdUcyakZkUWViZDFwOVFlQ0liZFNBQjJUekRhZm45a0t0elFuUEg2U2tnQjBhaTJUckkzNlRLYkhGbFpjVVdzc0FsMVVnWFBR?oc=5",
+     "published": "2026-11-01T04:34:34+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "트럼프 \"바이낸스 해킹, 北 소행 확인되면 북한과 대화할 것\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261101021151009",
+     "published": "2026-11-01T04:16:09+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "삼성 이재용, 일본 반도체 패키징 연구거점 찾아…“현지 협력 확대”",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 6,
+   "outlets": [
     "서울신문",
     "연합뉴스",
     "조선일보",
@@ -91,239 +290,30 @@
     {
      "n": 1,
      "outlet": "한겨레",
-     "title": "삼성 사장단, 오픈AI 샘 올트먼과 간담회…‘AI가 바꿀 다음 10년’ 논의",
-     "url": "https://www.hani.co.kr/arti/economy/economy_general/1285131.html",
-     "published": "2026-10-31T22:15:49.454145+00:00"
+     "title": "삼성 이재용, 일본 반도체 패키징 연구거점 찾아…“현지 협력 확대”",
+     "url": "https://www.hani.co.kr/arti/economy/marketing/1285195.html",
+     "published": "2026-11-01T22:37:02.320111+00:00"
     },
     {
      "n": 2,
-     "outlet": "문화일보",
-     "title": "[속보]샘 올트먼 만난 삼성 사장단 50명… ‘AI가 바꿀 10년’ 논의했다",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzMmpKRXJkc01KblFYR0RXUkRLZmpKWHl6WWFJT0p1U3ZDZkQ2d3Y4WTlObzZiVVM2TDk0a3U0S24xRXBtTzFDV3lXSjQ4emg2?oc=5",
-     "published": "2026-10-31T06:27:44+00:00"
+     "outlet": "조선일보",
+     "title": "이재용, 창립기념일에 日 반도체 패키징 연구 거점 찾아",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/01/ZM563YPANRDEFHJJ4EZIRBERPI/",
+     "published": "2026-11-01T07:31:33+00:00"
     },
     {
      "n": 3,
-     "outlet": "조선일보",
-     "title": "삼성 사장단 50명, 샘 올트먼 만났다 … ‘AI 혁신’ 논의",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/31/GQZTOMJSMM4DCNBVG5TGMMZYGY/",
-     "published": "2026-10-31T05:39:04+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "연합뉴스",
-     "title": "삼성 사장단, 샘 올트먼 만났다…AI 미래전략 논의(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261031030751003",
-     "published": "2026-10-31T05:36:46+00:00"
-    },
-    {
-     "n": 5,
      "outlet": "서울신문",
-     "title": "삼성 사장단, 샘 올트먼 초청해 AI 경영 전략 논의…사업 기회 발굴하며 AX 속도전",
-     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261031500022",
-     "published": "2026-10-31T05:32:19+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "조선일보",
-     "title": "올트먼과 만난 삼성 사장단... ‘AI가 바꿀 10년’ 과외 받았다",
-     "url": "https://www.chosun.com/economy/industry-company/2026/10/31/UTFOAXEEMFCXZCRTD6AFEOK7IE/",
-     "published": "2026-10-31T05:29:59+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 89,
-   "rank": 2,
-   "slug": "02"
-  },
-  {
-   "headline": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 7,
-   "outlets": [
-    "매일경제",
-    "연합뉴스",
-    "전자신문",
-    "조선일보",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "최태원, 샘 올트먼과 오찬…HBM·AI 데이터센터 협력 논의",
-     "url": "https://biz.heraldcorp.com/article/10921339",
-     "published": "2026-10-31T16:21:36+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "전자신문",
-     "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
-     "url": "https://www.etnews.com/20261031000037",
-     "published": "2026-10-31T08:57:59+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "조선일보",
-     "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동",
-     "url": "https://www.chosun.com/economy/industry-company/2026/10/31/5YSITEOBVRGTTEXFU5DWVNHSQ4/",
-     "published": "2026-10-31T07:41:40+00:00"
+     "title": "이재용, 日서 AI 반도체 패키징 점검…현지 소부장 협력 확대",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261101500065",
+     "published": "2026-11-01T07:01:43+00:00"
     },
     {
      "n": 4,
-     "outlet": "조선일보",
-     "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
-     "url": "https://www.chosun.com/economy/industry-company/2026/10/31/GA4DMZLDGQ4WGNRXMY4DIZBQMQ/",
-     "published": "2026-10-31T06:48:24+00:00"
-    },
-    {
-     "n": 5,
      "outlet": "연합뉴스",
-     "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 주목",
-     "url": "https://www.yna.co.kr/view/AKR20261031034400003",
-     "published": "2026-10-31T06:28:00+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "매일경제",
-     "title": "최태원 SK그룹 회장 샘 올트먼 오픈AI CEO와 오찬",
-     "url": "https://www.mk.co.kr/news/business/12192433",
-     "published": "2026-10-31T06:08:58+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 89,
-   "rank": 3,
-   "slug": "03"
-  },
-  {
-   "headline": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 6,
-   "outlets": [
-    "Axios",
-    "CBS News",
-    "CNBC",
-    "CNN",
-    "NBC News",
-    "New York Times",
-    "Politico",
-    "Reuters",
-    "The Guardian",
-    "Wall Street Journal"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Politico",
-     "title": "Judge tosses Trump’s revised lawsuit over Wall Street Journal Epstein report",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWFOdzlOb0IwbnVOeVAyOGhKUUlfdTY3ekJEbzVKZTE2S1RWZkZxZXlSb2VzWkRkUFIyamxuMDUxNkZvaXQzczdldVU1VnhBSi1EUVcxYVRKYmxmY0VJckk3Q0M4OEQ5WFhOZEpLamJ2b1lkcGstVV85TE5RQ0d6a2dCZGdTay0yWmg0?oc=5",
-     "published": "2026-10-31T21:14:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "NBC News",
-     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMUkxektEQ2ZqMGwwVGJpb1dEa1AzSnZCWDJXVGJ6dzJyNlAtQWJmb043N0JBbVpDdFBISHRaNnBjd0ZGQWZJcExncDY2ZkdnQTRqbjZfV3VPb0JiRmxjV3VWcjZIQmZweHZvYXBYdUVOLTYzbWUwUl9LV2xBUWRaMmRXcUt4RnhXWHFwOXNsdEdNU0YzOFZvYjBuUk9JRmRmcUdtaURUVk1Uc29pM2JtUThDSW8zaEh6dDdUbmhGbDk1ZE0?oc=5",
-     "published": "2026-10-31T21:09:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "Wall Street Journal",
-     "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
-     "published": "2026-10-31T21:07:00+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "CBS News",
-     "title": "Trump lawsuit against Wall Street Journal over Epstein birthday letter dismissed with prejudice",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3lidDJCYjZway11R29wa3NvYzlJeXNfenVXMldoTHVfOGgwV05uV0tBbHBNWjZiUGdfZkRHbUREb2ExTXdRVGhhVldGb1NVSE1WS09DV2xpZTVGZG5mbHI5eEgzRUNEOGN1TDJGWnpMT25wTTRxZjJGTHNrbUlJeHJVd0NmSml6M25oZ1NuWktxTExYUFB6U0EyeExOZw?oc=5",
-     "published": "2026-10-31T20:59:41+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "Reuters",
-     "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
-     "published": "2026-10-31T20:45:43+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "The Guardian",
-     "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlhLZHQtcHA0RXNBZ0FLUERJQUFBUVBETGJsaFpDSWtId2RXTEtRc2tkbGNpZ1R3NllqOU1MRm43N3pmWlVKM1JmZjBJYjgzMlVvRUpDUmxJM2lRVDNpWWhCZE55Ynk3U2pvNTRyQ0dDRkJuUC1Icm5HQmpCdXFXbmkwTEo0Qlp1VHc2NzBacUFyc1BKbHA3dXBreUM3REZiVFlJR2ZybWY?oc=5",
-     "published": "2026-10-31T20:31:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 88,
-   "rank": 4,
-   "slug": "04"
-  },
-  {
-   "headline": "AI 투자 불안에 오픈AI, 자금 조달 목표 100억달러 축소",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 6,
-   "outlets": [
-    "연합뉴스",
-    "조선일보",
-    "파이낸셜뉴스",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "오픈AI, 자금 조달 목표 100억달러 삭감",
-     "url": "https://www.fnnews.com/news/202611010501397304",
-     "published": "2026-10-31T21:10:15+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "헤럴드경제",
-     "title": "오픈AI 자금조달 목표 100억달러 낮췄다…기업가치도 하향",
-     "url": "https://biz.heraldcorp.com/article/10921248",
-     "published": "2026-10-31T11:52:53+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "\"오픈AI, 외부자금 투자 유치 목표 100억달러 축소\" |",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOVHlNS1hFdzUwY05xYW5jdzlnX1hNM1NFeE9KYTRTSXBIcDZBWnNOMkF6cUZ2NWRkUElaamRFMzdhNFJ5Z3l4Zk1KVV83OG4zam56NURrRmRxMC02VjNQbjh0ODF6LTRlRV80dVlEbnRDT190?oc=5",
-     "published": "2026-10-31T07:53:22+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "조선일보",
-     "title": "AI 투자 불안에 오픈AI, 자금 조달 목표 100억달러 축소",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/31/G5QTSZLCG43TSNZUMFRDAOLCMI/",
-     "published": "2026-10-31T05:13:42+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "연합뉴스",
-     "title": "오픈AI, 투자자 불안 속 자금조달 목표액 100억달러 감축",
-     "url": "https://www.yna.co.kr/view/AKR20261031025300009",
-     "published": "2026-10-31T02:15:56+00:00"
+     "title": "이재용, 일본서 첨단 패키징 점검…소부장 협력 모색",
+     "url": "https://www.yna.co.kr/view/AKR20261101032200003",
+     "published": "2026-11-01T07:00:00+00:00"
     }
    ],
    "factcheck": null,
@@ -332,7 +322,58 @@
    "slug": "05"
   },
   {
-   "headline": "D.C. and Virginia sue to block Trump’s proposed triumphal arch",
+   "headline": "[속보] 美FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 6,
+   "outlets": [
+    "MBC",
+    "YTN",
+    "문화일보",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "문화일보",
+     "title": "[속보]“北, 바이낸스 60억 달러 가상화폐 탈취 배후” FBI 분석",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aMzVwZ3BaUjhOUVZlOXR0SHJiajk0RmZubTJ0RDFfb0lhSmdmSkZQZW9uWFRJOGVFMno5TXVuTmFZLXV4c1prWjhWak9QNXNt?oc=5",
+     "published": "2026-10-31T22:33:50+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "[속보] 미 FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBc3B2R25OWUdHUjcwWDF3eVBTMjZLcDlGYlFZbXgwOFp2VGR0NkNCZFBzdjhRd1lGbkZzRGdzbkRaWFRsSm9XcVNnamdNT0RBblZEYWI0YXZmdXUzTm1seU8tT1NhUlR5WWRKeEd2MA?oc=5",
+     "published": "2026-10-31T21:54:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "MBC",
+     "title": "[속보] 미 FBI \"북한, 바이낸스 60억 달러 가상화폐 탈취 배후\"",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pNWczakdTYllkUVZTWFUwRUYyeTk2Rzh4bnY0LTBIMW5sSExZLUZ6T1JTQ3ozTF9BQ1M2NTEtVy0xSE9RWUo0ZEt3SXNiaVhlQWFnRFdkMWVsQ3pueVQ0cDFNVWcyUE5hbUM5SHRscU50bHM00gF0QVVfeXFMTmk1ZzNqR1NiWWRRVlNYVTBFRjJ5OTZHOHhudjQtMEgxbmxITFktRnpPUlNDejNMX0FDUzY1MS1XLTFIT1FZSjRkS3dJc2JpWGVBYWdEV2QxZWxDem55VDRwMU1VZzJQTmFtQzlIdGxxTnRsczQ?oc=5",
+     "published": "2026-10-31T21:53:43+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "[속보] 美FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
+     "url": "https://www.yna.co.kr/view/AKR20261101006400071",
+     "published": "2026-10-31T21:48:10+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "네타냐후, 美 중간선거 이후 이란 공격 압박…트럼프는 신중",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -340,12 +381,139 @@
    "section": "people",
    "importance": 5,
    "outlets": [
-    "Al Jazeera",
-    "Axios",
-    "CBS News",
+    "뉴시스",
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "美 중간선거 끝나자마자 이란 때리자는 네타냐후…트럼프는 ‘신중’",
+     "url": "https://www.mk.co.kr/news/world/12193055",
+     "published": "2026-11-01T21:49:16+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "네타냐후, 美 중간선거 이후 이란 공격 압박…트럼프는 신중",
+     "url": "https://www.newsis.com/view/NISX20261102_0003850046",
+     "published": "2026-11-01T21:36:43+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "네타냐후, '美 중간선거 직후 이란 타격' 압박…트럼프 '유보적'(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261102002951079",
+     "published": "2026-11-01T21:02:14+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "영광·래블업·이에스티…코스닥 기업 3곳 증시 데뷔",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "머니투데이",
+    "연합뉴스",
+    "이데일리"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "이번주 영광·래블업·이에스티 코스닥 데뷔…엠비디 등 4곳 수요예측",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5icFRVX0V6Sy1WQzExeC1xc0VGMnozcFZ4ZDBIbHctT1ViX1JjS1FmVnhzUkxBUnViSk9kSVBfc09PS2VJRVhrNDMySXp6X3h1UjlPWkQ5OW9mOUV1TmN2R2Z6TXZGYkFzTVhuRFNBTm0?oc=5",
+     "published": "2026-11-01T04:00:17+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "머니투데이",
+     "title": "영광·래블업·이에스티…코스닥 기업 3곳 증시 데뷔",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdEJiZENXU2ppcndHazFVWFNLbmFMbzRQbFdVbXhPLTdKZV9FRjNLN2t3T0pCR2xsRzRLcktfU25OMmxVZWxrME52NkNxT3hDeTFXQ3IxWGhJREVmS2xMSHNyaExCTjM30gFuQVVfeXFMTmVvUkJQeHF4a0U1d24weURCLTdvWV9Xem0zb0c0dHRVU2dMZElqYmFSVHFxNFpYeFV3ZlhaWWxGSEpIakRKVUhpSXp2bHl5WkhPS2RKT2lYOWc3Nm5yTDRKbW9aUlNiTVJSYk1YZnc?oc=5",
+     "published": "2026-11-01T03:57:57+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "이데일리",
+     "title": "영광·래블업·이에스티 등 상장[증시캘린더]",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01174246645641456",
+     "published": "2026-11-01T00:00:04+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "코스피, 지난달 하락률 역대 일곱번째",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXhOYUdWY2ZDS3ZlbWVpcXZ2dzlneUl0SS1GV1ZtYnVVdEhZTmN4bmRPWG9Ec2lpYWlQcFdieUJGcWo1Vk1Md3NERWZEaUlra3BYR1ZZZHAtRml2ZkI2X0pyVUdaY3NrM1ZVeldhVWd6SkxpRGVEeXE0RUsxb3ktczYxd2U0ckhYaUZz?oc=5",
+     "published": "2026-11-01T01:58:59+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYjlmbjZUSnFzQ3RDNDFXTWpvem0zbGk4d01tWFZXRDFGTVJNbmlsV012bmFlWGVKM2ZjaFczYzJmYm52QTlPUnJRLTI0bXpMN2NaMklJWXJMZw?oc=5",
+     "published": "2026-10-31T23:16:33+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+     "url": "https://www.yna.co.kr/view/AKR20261031026200008",
+     "published": "2026-10-31T21:25:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
     "NBC News",
-    "New York Times",
+    "NPR",
     "Politico",
+    "Reuters",
     "The Guardian",
     "Washington Post"
    ],
@@ -355,64 +523,129 @@
     {
      "n": 1,
      "outlet": "Washington Post",
-     "title": "D.C. and Virginia sue to block Trump’s proposed triumphal arch",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTExNUU1ORVBtRDZ2N0R3R2J6OHpDS2tMbmNfOExQM2UwT3lBcUY5czZ4ZHFBZ2JnalNXb1B4MDlpUWM5eGR1ZlVVR1RGWWM2QXFmZUZrU0FIbmNrWUs4d1VSODQzeU80Q2lsUmE1cG5Cak1xTm5tdUZzSjRKNEVJdmFaN09GYmpBa0Mya0dwWXhRSm1ROVZ2T2hoMkZyM1FtUGFpcldXUQ?oc=5",
-     "published": "2026-10-31T21:06:03+00:00"
+     "title": "Alaska asks judge to deny Trump administration’s demand to set aside Senate ballots",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGZMQmRpSXloWnVLUzFxRFVMcnJNNFozNGczaUNvYmdJUzFFMl9xMkVtUmFPWHBnMHZ0bXBCdUVwS05ZRnk3SWlaSndfaURSb3pUdUZMNWdEcGpsN01lV3RJYmczbUlYcjRDZ25MTWJHTEs3SUI2MW1vX3NxX3RxZXhYM3U1WGN0R0VYalRlb2g3Wi1HSXB0WmpwVi1ISmdXQVpKSk9qZVRxOWtkNEpfcHdsWnFBUHBJR3hUSXU0VG9HX3NjamFv?oc=5",
+     "published": "2026-11-01T21:22:57+00:00"
     },
     {
      "n": 2,
-     "outlet": "Al Jazeera",
-     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTc3MDhqd0xOMEx1YmFSNFZRd2lpY3hOcm1LQUtka0pzd0pzVVdFeXBEV3RydC01d0xlSjJiYjVVbnJuY000NE1ubHdHdWFkZWhhZG9YT085cFV6S3I5WUQ4YmRTZTdLVGtHcnV5LTJ0YjBXTkxsUjJ4OVNxZURzY3BzOXFxZzZienNQQTVvX01WYjFHSG4xU3hza3lDaVpOSjRoZzgyQ1ZPYU52NUliVG5JMHhzRVHSAbwBQVVfeXFMTXRWMDctRXlHYzJTdXlEclVSX3FmU2VITFJnNlo0MmVhWmtzWlpOakhPejlnSEhwVHplTUdtREFoV2FsVWd5dU02ZVZCUEJ6N0l0Z19fb3lYRnRkOGF4YzN1OGNiLWhUMzVFZXY3OHdoWW9CZjF2RWEwSi1zcHRLR2g5Q2JselRSdzYwbm81dDBDWjNKSnN6NUhpZ2RvamJvMGpsTVQ5aXFxb21YTmt1LUdqN3ZvZkk2NGNUb1M?oc=5",
-     "published": "2026-10-31T20:33:20+00:00"
+     "outlet": "Reuters",
+     "title": "US judge dismisses Trump election lawsuit in Alaska",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+     "published": "2026-11-01T21:22:38+00:00"
     },
     {
      "n": 3,
-     "outlet": "Axios",
-     "title": "D.C., Virginia sue to block Trump's 250-foot arch",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16YVpuTWNiWEYwWGlYNURlVk5ZYVlIMFZkMkUtaUI3eUJKM1ROWU1OanVvcnFmOEJFeUZ4T3Z3VXZESVhZYWQxUVRacWtHT2NZaXV6ejZhRXVQdEc5OHREeEdINFFBZw?oc=5",
-     "published": "2026-10-31T19:56:08+00:00"
+     "outlet": "NBC News",
+     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5",
+     "published": "2026-11-01T20:24:58+00:00"
     },
     {
      "n": 4,
-     "outlet": "The Guardian",
-     "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXlycjh2aFBuSDZnemZzR1JDN0NnZE1uTjVuemVwTkFzMl9nN3Z5U2RuUEJFVUp3cnRlc25wbEtlYnBWN1Vvam5NeXFZaWlZSU81MjZzSWNHaXRiREc2REdrV1l2RWVvMUZzajJVNVQ2RG5fRy00d3VCa0tXSGdlaWRmYTg2UQ?oc=5",
-     "published": "2026-10-31T17:57:00+00:00"
+     "outlet": "Politico",
+     "title": "Judge throws out Trump admin suit seeking to stave off GOP defeat in Alaska Senate race",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS1DVkRfaW55aGV1SW1kNzJtVTdXUW03QUd2Wi1VRUt1QTFLUDBJd19TREx5cFdxNFRTLXhiQ21PSHhUTVRHaU9xVGlUQWJvOFJ0cjYzMWs5UXpGUGRGdVZXcDdUbG11cTVOc0xpQUJlT2VyWDgyN0VYMGlOaTFzd0FwaGpLSkhmaUU4?oc=5",
+     "published": "2026-11-01T18:56:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "CBS News",
-     "title": "Virginia and D.C. sue over Trump's arch, adding to mounting legal challenges",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaMnlWQ3FqVTBlVzdCc3FzbHVTZFprM2VrdU9HVGVLcFo1aGl1NldPTWpQeWxqR0ZBcllMaTZ2VU5palFWWl9PVVdFYnNtOUl6OFlJTnRkekIxUnVYTVJPRjF2bVZKZmdaZG1OSVBKcldEQzBycFhIakRB?oc=5",
-     "published": "2026-10-31T17:42:22+00:00"
+     "outlet": "NPR",
+     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0tqclpGdHZtME0wZFY2LWpLZHF3TG5BMmk3RUM2SkdvWVI5c0tJa2pOTzJvN19pRFhkQng0ZUloMGVmSUZoQ1V3cE5PWkRWX1ppaHpFV0F4WDVVSVF1eDFPT2N3WnBROEpOdVR3QkYtZVZTcl8wNGpLZ05wSi1fdE5tbU5nNE9UX2VQX0gxbWlhQQ?oc=5",
+     "published": "2026-11-01T18:00:37+00:00"
     },
     {
      "n": 6,
-     "outlet": "NBC News",
-     "title": "Virginia and D.C. sue to stop proposed Trump arch",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0JYOEFFSTlqaEY2NXFncGdnRVJDOEJTVXh2eFdKLTQ3NGNNNXZuaW5FTW1ocF9yRTllYzhjdm4zX3lKd01heGhYS2RoOC1Xd01UNkY2MmhSWW82QU5PTHNjQldkZnQ3dkV6OXVURXY0ZjMyT3MtRnc2WHA2T1pid1dBakRGOXd4U1NhTVJDd2JzaXRpUV9WMGZkTm9BbjJVMEs1MVlKTktpYjEtRnFIZlp0Yw?oc=5",
-     "published": "2026-10-31T17:30:35+00:00"
+     "outlet": "The Guardian",
+     "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZUb3MxSW1QUVU5VTdwRDk1U0M0dFNneVdPSUwtbDZ6RjF5Y1oyR2NfSU5ycEhNamFwTDQ0VlZtVUNVemx2ajJCblpkbFNnZDlvR1huOC1kNllyNnp5WUVRTUxEWUJ6SnRBZ0dTU0hrWEhEcmlqUzU4Z2xHalM2SFVGZG1CY1hxUUlFeWw4Z1NNa1Fx?oc=5",
+     "published": "2026-11-01T15:39:00+00:00"
     }
    ],
    "factcheck": null,
-   "score": 76,
-   "rank": 6,
-   "slug": "06"
+   "score": 62,
+   "rank": 10,
+   "slug": "10"
   },
   {
-   "headline": "美국무 \"트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어\"",
+   "headline": "FBI blames North Korea for record $6.3B Binance hack",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "Cointelegraph",
+    "Decrypt",
+    "Financial Times",
+    "TechCrunch",
+    "The Block",
+    "The Guardian"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "The Guardian",
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
+     "published": "2026-11-01T18:08:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "The Block",
+     "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+     "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+     "published": "2026-11-01T16:32:31+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "TechCrunch",
+     "title": "Binance resumes withdrawals following $6.3 billion breach",
+     "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+     "published": "2026-11-01T16:20:10+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Decrypt",
+     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+     "published": "2026-11-01T16:01:02+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Cointelegraph",
+     "title": "FBI blames North Korea for record $6.3B Binance hack",
+     "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "published": "2026-11-01T07:44:38+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "Financial Times",
+     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+     "url": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+     "published": "2026-11-01T04:24:02+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 62,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "트럼프 \"급진 좌파가 캔자스서 투표 대가로 상품권 줘\"",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "people",
-   "importance": 6,
+   "importance": 4,
    "outlets": [
     "뉴시스",
-    "연합뉴스",
-    "파이낸셜뉴스",
-    "한국경제"
+    "연합뉴스"
    ],
    "official": false,
    "draft": true,
@@ -420,253 +653,16 @@
     {
      "n": 1,
      "outlet": "뉴시스",
-     "title": "美국무 \"트럼프, 김정은과 대화 열려 있어…예정 회담은 없어\"",
-     "url": "https://www.newsis.com/view/NISX20261101_0003849465",
-     "published": "2026-10-31T17:51:03+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "파이낸셜뉴스",
-     "title": "루비오 \"트럼프, 김정은과 대화 준비돼…회담 일정은 아직 없어\"",
-     "url": "https://www.fnnews.com/news/202611010232069201",
-     "published": "2026-10-31T17:46:24+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "美국무 \"트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어\"",
-     "url": "https://www.yna.co.kr/view/AKR20261101001700071",
-     "published": "2026-10-31T17:10:59+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "한국경제",
-     "title": "[속보] 美국무 ＂트럼프, 김정은과 대화 준비돼…아직 회담일정 없어＂",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ182eWNLZERubm5WeFVfcVZKMEt2M202c0pJVDh4ZE1vRXAwU2g0cjVqN1lWMjB1VlF0djBJWmdMX3hfVFZHdUZsUkhqTnVfYnVYN1U4TG5obmNiN2RyZFRkZzFvWm5rV05RYVl1am5JbUN2dmNsY3FlczdoTm5CVw?oc=5",
-     "published": "2026-10-31T16:52:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 7,
-   "slug": "07"
-  },
-  {
-   "headline": "깜짝 방한 올트먼이 삼성에 선물한 '코덱스 키보드' 눈길",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 5,
-   "outlets": [
-    "SBS",
-    "연합뉴스",
-    "조선일보"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "SBS",
-     "title": "샘 올트먼 '1박 2일 깜짝 방한'…삼성 사장단에 '코덱스 키보드' 선물",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824384",
-     "published": "2026-10-31T11:31:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "올트먼이 삼성 사장단에 선물한 30만원대 ‘코덱스 키보드’ 뭐길래",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/31/MRTDSOLFMUYDQZJTMZQWGYLBGQ/",
-     "published": "2026-10-31T06:55:25+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "깜짝 방한 올트먼이 삼성에 선물한 '코덱스 키보드' 눈길",
-     "url": "https://www.yna.co.kr/view/AKR20261031033700017",
-     "published": "2026-10-31T06:04:02+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 8,
-   "slug": "08"
-  },
-  {
-   "headline": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "crypto",
-   "importance": 4,
-   "outlets": [
-    "BBC",
-    "CNBC",
-    "CoinDesk",
-    "Cointelegraph",
-    "The Block",
-    "The Verge"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "The Verge",
-     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-     "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-     "published": "2026-10-31T18:40:32+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "Cointelegraph",
-     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "published": "2026-10-31T15:36:01+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "CoinDesk",
-     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-     "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-     "published": "2026-10-31T15:24:10+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "CNBC",
-     "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5",
-     "published": "2026-10-31T12:47:08+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "The Block",
-     "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
-     "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-     "published": "2026-10-30T21:20:23+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "BBC",
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "published": "2026-10-30T21:13:14+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 62,
-   "rank": 9,
-   "slug": "09"
-  },
-  {
-   "headline": "애플, 엔비디아 제치고 시총 1위 탈환",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "이데일리",
-    "조선일보",
-    "한겨레"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한겨레",
-     "title": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리고 시총 1위 탈환",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1285125.html",
-     "published": "2026-10-31T22:15:49.454232+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "조선일보",
-     "title": "애플, 엔비디아 제치고 시총 1위 탈환",
-     "url": "https://www.chosun.com/economy/tech_it/2026/10/31/MYZDIMJYMFQWMZJVGEZGIMJRGU/",
-     "published": "2026-10-31T01:12:20+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "이데일리",
-     "title": "AI 투자 우려에…애플, 엔비디아 제치고 시총 1위",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01879446645618496",
-     "published": "2026-10-31T00:50:46+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 61,
-   "rank": 10,
-   "slug": "10"
-  },
-  {
-   "headline": "트럼프, 바이낸스 해킹 北소행 여부에 \"모른다…살펴보고 있다\"(종합)",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "한겨레"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한겨레",
-     "title": "트럼프, ‘8.4조 바이낸스 해킹’ 북 소행 여부 “살펴보는 중”…FBI 조사 착수",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1285119.html",
-     "published": "2026-10-31T22:15:49.454274+00:00"
+     "title": "트럼프 \"급진 좌파가 캔자스서 투표 대가로 상품권 줘\"",
+     "url": "https://www.newsis.com/view/NISX20261102_0003850044",
+     "published": "2026-11-01T21:16:32+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "트럼프, 바이낸스 해킹 北소행 여부에 \"모른다…살펴보고 있다\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261031006851071",
-     "published": "2026-10-30T21:34:50+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 11,
-   "slug": "11"
-  },
-  {
-   "headline": "美국무 \"트럼프, 이란 공격 재개 아직 결정 안 내렸다\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "파이낸셜뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "루비오 \"트럼프, 이란 공격 재개 아직 결정 안 해…외교해결 선호\"",
-     "url": "https://www.fnnews.com/news/202611010611449272",
-     "published": "2026-10-31T21:26:03+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "美국무 \"트럼프, 이란 공격 재개 아직 결정 안 내렸다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261101002700071",
-     "published": "2026-10-31T19:04:24+00:00"
+     "title": "트럼프 \"급진 좌파 단체, 캔자스서 상품권 주며 투표 유도\"",
+     "url": "https://www.yna.co.kr/view/AKR20261102003300071",
+     "published": "2026-11-01T20:06:14+00:00"
     }
    ],
    "factcheck": null,
@@ -675,33 +671,33 @@
    "slug": "12"
   },
   {
-   "headline": "EU-캐나다, 美 맞서 '미래 동맹' 출범…전방위 협력 강화",
+   "headline": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위'",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
+   "section": "kr",
    "importance": 4,
    "outlets": [
-    "연합뉴스",
-    "파이낸셜뉴스"
+    "뉴스1",
+    "서울경제"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "캐나다·EU, 트럼프 관세 위협 맞서 '미래동맹' 출범…전방위 밀착",
-     "url": "https://www.fnnews.com/news/202610312304292410",
-     "published": "2026-10-31T14:07:52+00:00"
+     "outlet": "서울경제",
+     "title": "코스피 10월 16% 급락…월간 낙폭 역대 7위",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByNTZscTgtZ3RkaThxTm1rV3ZzdmctcklsLS11d0lNdTNvLXBtN21oLVZpdEVYVjRIT1NMczNYZHQxZDhGSm5TMUZHa29NdXNzREdF0gFTQVVfeXFMUHI1NmxxOC1ndGRpOHFObWtXdnN2Zy1ySWwtLXV3SU11M28tcG03bWgtVml0RVhWNEhPU0xzM1hkdDFkOEZKblMxRkdrb011c3NER0U?oc=5",
+     "published": "2026-11-01T20:54:00+00:00"
     },
     {
      "n": 2,
-     "outlet": "연합뉴스",
-     "title": "EU-캐나다, 美 맞서 '미래 동맹' 출범…전방위 협력 강화",
-     "url": "https://www.yna.co.kr/view/AKR20261031015400009",
-     "published": "2026-10-30T23:01:43+00:00"
+     "outlet": "뉴스1",
+     "title": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위'",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMjM0aHdVZ2J4MTNsZElGbGloRWlQMG5jc1NMVVBKblFmTld0cElCcXU0d0hWRnlTUDlYZ01KM0dhdFNMLU9XSEVXR1Y2XzJyVF91alZWNjBKbEE?oc=5",
+     "published": "2026-11-01T05:48:41+00:00"
     }
    ],
    "factcheck": null,
@@ -710,15 +706,15 @@
    "slug": "13"
   },
   {
-   "headline": "트럼프 마러라고 리조트에 방공미사일 배치…'어벤저' 포착",
+   "headline": "빅테크 신용위험 우려 확산…AI 투자 열풍 속 '보험' 찾는 월가",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "people",
+   "section": "ai",
    "importance": 4,
    "outlets": [
-    "매일경제",
+    "YTN",
     "연합뉴스"
    ],
    "official": false,
@@ -726,17 +722,17 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "매일경제",
-     "title": "“테러 무서웠나”…트럼프 마러라고 리조트에 방공미사일 배치",
-     "url": "https://www.mk.co.kr/news/world/12192491",
-     "published": "2026-10-31T11:21:14+00:00"
+     "outlet": "YTN",
+     "title": "AI 빅테크 신용 위험 우려 확산...보험 찾는 월가",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSUd4Wlk0cHFiRGVzU1dQUHNELWRCWnM5STFyTTlmR01xODVlZXdMeWVyRVNSeDdkV1I2VzV3cFE5RVhMUjdJOVJpVF95Z0pMZmtOcHlMYkFVRE5WTVE?oc=5",
+     "published": "2026-11-01T18:04:00+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "트럼프 마러라고 리조트에 방공미사일 배치…'어벤저' 포착",
-     "url": "https://www.yna.co.kr/view/AKR20261031044400009",
-     "published": "2026-10-31T10:43:50+00:00"
+     "title": "빅테크 신용위험 우려 확산…AI 투자 열풍 속 '보험' 찾는 월가",
+     "url": "https://www.yna.co.kr/view/AKR20261102001100072",
+     "published": "2026-11-01T16:28:03+00:00"
     }
    ],
    "factcheck": null,
@@ -745,117 +741,12 @@
    "slug": "14"
   },
   {
-   "headline": "트럼프 핼러윈 파티가 공포로…에어포스원 등장에 \"테러냐\" 소동",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "매일경제",
-     "title": "“이거 테러 아냐?”…에어포스원 등장에 공포로 뒤덮인 백악관 핼러윈 파티",
-     "url": "https://www.mk.co.kr/news/world/12192483",
-     "published": "2026-10-31T10:32:51+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "트럼프 핼러윈 파티가 공포로…에어포스원 등장에 \"테러냐\" 소동",
-     "url": "https://www.yna.co.kr/view/AKR20261031043000009",
-     "published": "2026-10-31T09:58:34+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 15,
-   "slug": "15"
-  },
-  {
-   "headline": "트럼프, '인공지능→슈퍼지능' 압박에 실리콘밸리도 용어 바꾸나",
+   "headline": "딥시크, 여러 작업 동시 가능한 '슈퍼 에이전트' 발표",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "JTBC",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "JTBC",
-     "title": "이제 실리콘밸리서도 ‘슈퍼지능’…‘인공지능’ 쓰지 말자는 트럼프 압박에 용어 바뀌나",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fY2RuSktOMUFJRGZndXJYcVhNUXA2S1RlMWxvZ05ydV96QXF3U1FzVkVVb3BzNmNWT2x4U2tja1MtbTBadkFWZlpQYTFkcWJoM3JsSw?oc=5",
-     "published": "2026-10-31T08:04:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "트럼프, '인공지능→슈퍼지능' 압박에 실리콘밸리도 용어 바꾸나",
-     "url": "https://www.yna.co.kr/view/AKR20261031005700075",
-     "published": "2026-10-30T21:39:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 16,
-   "slug": "16"
-  },
-  {
-   "headline": "\"트럼프, '지쳤다' 보도에 격분해 쉬려던 주말유세 재개\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "people",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한국경제",
-     "title": "\"지쳤다\" 보도에 격분한 트럼프…취소했던 주말 유세 전격 재개",
-     "url": "https://www.hankyung.com/article/2026103175237",
-     "published": "2026-10-31T05:11:57+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "\"트럼프, '지쳤다' 보도에 격분해 쉬려던 주말유세 재개\"",
-     "url": "https://www.yna.co.kr/view/AKR20261031029500009",
-     "published": "2026-10-31T04:09:23+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 50,
-   "rank": 17,
-   "slug": "17"
-  },
-  {
-   "headline": "체이널리시스 \"올해 가상자산 해킹 피해액 89% 북한 소행\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "crypto",
    "importance": 4,
    "outlets": [
     "연합뉴스",
@@ -867,16 +758,128 @@
     {
      "n": 1,
      "outlet": "조선일보",
-     "title": "“올해 가상자산 해킹 피해액 89%, 북한 소행”",
-     "url": "https://www.chosun.com/economy/stock-finance/2026/10/31/GUYTIZLEMQ2DEOJRHE4DENDCMY/",
-     "published": "2026-10-31T04:22:57+00:00"
+     "title": "딥시크, 여러 AI가 동시에 일하는 ‘슈퍼 에이전트’ 공개",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/01/GIZDMYRZHA4WIZLCGY4TEYJWMI/",
+     "published": "2026-11-01T11:34:12+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "체이널리시스 \"올해 가상자산 해킹 피해액 89% 북한 소행\"",
-     "url": "https://www.yna.co.kr/view/AKR20261031026400002",
-     "published": "2026-10-31T02:57:09+00:00"
+     "title": "딥시크, 여러 작업 동시 가능한 '슈퍼 에이전트' 발표",
+     "url": "https://www.yna.co.kr/view/AKR20261101039300089",
+     "published": "2026-11-01T08:39:17+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "HD현대로보틱스, 팔란티어와 피지컬 AI 설루션 고도화",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "HD현대로보틱스, 팰런티어와 '피지컬 AI' 고도화 협력",
+     "url": "https://www.hankyung.com/article/2026110185851",
+     "published": "2026-11-01T09:07:29+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "HD현대로보틱스, 팔란티어와 피지컬 AI 설루션 고도화",
+     "url": "https://www.yna.co.kr/view/AKR20261101015700003",
+     "published": "2026-11-01T00:30:50+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "국민은행, 12조 GPU 파이낸싱 금융주선",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "국민은행, 12조 GPU 파이낸싱 금융주선",
+     "url": "https://www.hankyung.com/article/2026110185841",
+     "published": "2026-11-01T09:06:52+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "국민은행, 12조 GPU 파이낸싱 금융주선 맡는다",
+     "url": "https://www.hankyung.com/article/202611018081i",
+     "published": "2026-11-01T01:08:37+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
+     "url": "https://www.yna.co.kr/view/AKR20261030166300002",
+     "published": "2026-11-01T00:00:07+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "반도체 훈풍 무색한 내수…소매판매 5분기만에 감소",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "반도체 훈풍에도 대형마트 역대 최장 ‘한파’…소매판매 5분기만에 감소",
+     "url": "https://biz.heraldcorp.com/article/10921501",
+     "published": "2026-11-01T08:48:20+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "반도체 훈풍 무색한 내수…소매판매 5분기만에 감소",
+     "url": "https://www.yna.co.kr/view/AKR20261031028000002",
+     "published": "2026-10-31T20:52:05+00:00"
     }
    ],
    "factcheck": null,
@@ -885,33 +888,33 @@
    "slug": "18"
   },
   {
-   "headline": "인텔 주가 29% 폭락, 52년 만에 최악의 하루…시총 183조원 증발",
+   "headline": "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위(종합)",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "kr",
+   "section": "money",
    "importance": 4,
    "outlets": [
-    "뉴시스",
-    "매일경제"
+    "SBS",
+    "연합뉴스"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "매일경제",
-     "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
-     "url": "https://www.mk.co.kr/news/stock/12192398",
-     "published": "2026-10-31T01:44:36+00:00"
+     "outlet": "SBS",
+     "title": "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824926",
+     "published": "2026-11-01T07:27:00+00:00"
     },
     {
      "n": 2,
-     "outlet": "뉴시스",
-     "title": "인텔 주가 29% 폭락, 52년 만에 최악의 하루…시총 183조원 증발",
-     "url": "https://www.newsis.com/view/NISX20261031_0003849191",
-     "published": "2026-10-31T01:26:30+00:00"
+     "outlet": "연합뉴스",
+     "title": "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261101015351003",
+     "published": "2026-11-01T01:35:42+00:00"
     }
    ],
    "factcheck": null,
@@ -920,33 +923,33 @@
    "slug": "19"
   },
   {
-   "headline": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
+   "headline": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "kr",
+   "section": "ai",
    "importance": 4,
    "outlets": [
-    "연합뉴스",
-    "이투데이"
+    "SBS",
+    "연합뉴스"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "이투데이",
-     "title": "영광·래블업·이에스티 코스닥 데뷔…바로팜·동원파츠 등 청약 [주간 IPO]",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhSG9GYlpQX3JPbnpwekZHdDA4TTVwMjI5eDhkVzFXd2xVelJaMG9Qc0x4MkhETmxraW0zMHFGclpQWk4tTV9pZ2xFVzVrd1hKRWVLeA?oc=5",
-     "published": "2026-10-31T00:01:00+00:00"
+     "outlet": "SBS",
+     "title": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825012",
+     "published": "2026-11-01T04:57:00+00:00"
     },
     {
      "n": 2,
      "outlet": "연합뉴스",
-     "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
-     "url": "https://www.yna.co.kr/view/AKR20261030067200008",
-     "published": "2026-10-31T00:00:38+00:00"
+     "title": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장",
+     "url": "https://www.yna.co.kr/view/AKR20261101015800017",
+     "published": "2026-11-01T03:00:05+00:00"
     }
    ],
    "factcheck": null,
@@ -956,7 +959,7 @@
   }
  ],
  "market": {
-  "fetched_at": "2026-11-01T07:15:56.311343+09:00",
+  "fetched_at": "2026-11-02T07:37:25.649460+09:00",
   "groups": {
    "지수": [
     {
@@ -1028,26 +1031,26 @@
     {
      "ticker": "KRW=X",
      "name": "원/달러",
-     "value": 1335.0999755859375,
-     "change": -2.8800048828125,
-     "pct": -0.21525022233916946,
-     "date": "2026-10-31"
+     "value": 1332.6300048828125,
+     "change": -5.3499755859375,
+     "pct": -0.3998546812384429,
+     "date": "2026-11-01"
     },
     {
      "ticker": "JPYKRW=X",
      "name": "원/100엔",
-     "value": 847.3393440246582,
-     "change": -1.9489288330078125,
-     "pct": -0.22947789287730558,
-     "date": "2026-10-30"
+     "value": 843.9000129699707,
+     "change": -3.4393310546875,
+     "pct": -0.4058977172417766,
+     "date": "2026-11-01"
     },
     {
      "ticker": "EURKRW=X",
      "name": "원/유로",
-     "value": 1495.9000244140625,
-     "change": 1.4400634765625,
-     "pct": 0.09636012433944519,
-     "date": "2026-10-30"
+     "value": 1485.9000244140625,
+     "change": -10.0,
+     "pct": -0.6684938723707123,
+     "date": "2026-11-01"
     },
     {
      "ticker": "DX-Y.NYB",
@@ -1086,9 +1089,9 @@
     {
      "ticker": "BZ=F",
      "name": "브렌트유",
-     "value": 117.63999938964844,
-     "change": 2.7600021362304688,
-     "pct": 2.4025088807602346,
+     "value": 113.43000030517578,
+     "change": -1.4499969482421875,
+     "pct": -1.2621840032286835,
      "date": "2026-10-30"
     },
     {
@@ -1102,17 +1105,17 @@
     {
      "ticker": "SI=F",
      "name": "은",
-     "value": 49.09700012207031,
-     "change": -3.0940017700195312,
-     "pct": -5.92822834943213,
+     "value": 49.2760009765625,
+     "change": -2.9150009155273438,
+     "pct": -5.585255714298032,
      "date": "2026-10-30"
     },
     {
      "ticker": "HG=F",
      "name": "구리",
-     "value": 6.458499908447266,
-     "change": -0.12249994277954102,
-     "pct": -1.8614184097983988,
+     "value": 6.48199987411499,
+     "change": -0.0989999771118164,
+     "pct": -1.5043303350532833,
      "date": "2026-10-30"
     }
    ]
@@ -1121,40 +1124,40 @@
    {
     "name": "비트코인",
     "id": "bitcoin",
-    "usd": 77592,
-    "krw": 103462864,
-    "pct": 1.0144447127019875
+    "usd": 77681,
+    "krw": 103596835,
+    "pct": 0.16201691393610068
    },
    {
     "name": "이더리움",
     "id": "ethereum",
-    "usd": 2261.62,
-    "krw": 3015683,
-    "pct": 1.0154767386836945
+    "usd": 2256.48,
+    "krw": 3009283,
+    "pct": -0.09144153036748712
    },
    {
     "name": "솔라나",
     "id": "solana",
-    "usd": 95.97,
-    "krw": 127974,
-    "pct": 0.5234193205409353
+    "usd": 93.6,
+    "krw": 124831,
+    "pct": -2.294472354216019
    },
    {
     "name": "리플",
     "id": "ripple",
-    "usd": 1.25,
-    "krw": 1671.69,
-    "pct": 0.2776779398485965
+    "usd": 1.24,
+    "krw": 1659.29,
+    "pct": -0.7373984295685617
    }
   ],
-  "kimchi_premium": 0.9633102136655802,
+  "kimchi_premium": 0.4829679665778297,
   "flows": null
  },
  "stats": {
-  "collected": 919,
-  "outlets": 57,
-  "verified_stories": 27,
+  "collected": 1239,
+  "outlets": 61,
+  "verified_stories": 43,
   "dropped_by_factcheck": 0,
-  "seconds": 10
+  "seconds": 26
  }
 }
