@@ -1,0 +1,1176 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T08:53:08.244377+09:00",
+ "mode": "draft",
+ "articles": [
+  {
+   "headline": "뉴욕증시, 美중간선거 당일 혼조 마감…나스닥 0.83%↑",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "global",
+   "importance": 10,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "서울신문",
+    "아시아경제",
+    "연합뉴스",
+    "이투데이",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 중간선거 경계 혼조…반도체주 반등에 나스닥 0.8%↑(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261104009851072",
+     "published": "2026-11-03T22:24:32+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "뉴욕증시, 중간선거 관망 속 혼조…반도체주 반등에 나스닥 0.83%↑",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/04/656CNGUG7ZHFVGI7NE7G5UK4QM/",
+     "published": "2026-11-03T22:21:57+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]",
+     "url": "https://www.hankyung.com/article/2026110442136",
+     "published": "2026-11-03T22:06:16+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴시스",
+     "title": "뉴욕증시, 美중간선거 당일 혼조 마감…나스닥 0.83%↑",
+     "url": "https://www.newsis.com/view/NISX20261104_0003853607",
+     "published": "2026-11-03T21:55:36+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 중간선거 경계 속 혼조…기술주 반등에 나스닥 0.8%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261104009800072",
+     "published": "2026-11-03T21:20:55+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "아시아경제",
+     "title": "[속보]뉴욕증시, 선거 당일 반도체주 반등…혼조 마감",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jOGdiVG9FMVdLZHpvVkdTaHJlZUJRRVdGYjA2MXc2bjNNYjVRVXQxV3J0V3M3eVVnblZSaE4xRXlDZFlpOUpJdVUwb1h0bkhscDFKOHFVQ0FQWUg1WjFyMA?oc=5",
+     "published": "2026-11-03T21:11:17+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "코스피 3%대 하락해 5,600대...코스닥 4%대 하락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 8,
+   "outlets": [
+    "YTN",
+    "뉴스핌",
+    "연합뉴스",
+    "전자신문",
+    "중앙일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "YTN",
+     "title": "코스피 3%대 하락해 5,600대...코스닥 4%대 하락",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5scnJSQm5TaDFER1J6NU44SlhsS2tjQ3pkaVh0WGFwVk43eXRUVmoxeUJRWkFqM2RiTFdnek1ZSE1fcV9vUzZyWTBVaWpKSXNkNTJDcEQ0ZWY5YnZlRXc?oc=5",
+     "published": "2026-11-03T07:37:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "전자신문",
+     "title": "외인·기관 2조 매도…코스피, 3%대 하락 5600선 마감",
+     "url": "https://www.etnews.com/20261103000382",
+     "published": "2026-11-03T07:15:10+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴스핌",
+     "title": "[마감시황] 코스피, 외국인·기관 '팔자'에 3%대 하락…5700선 아래로",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkejZhelhqbHU4WVBEVEZ4bWtTUGFMa2QyaG1fY1hvRzIyeE8tM3JqYXdmdlVvR3F5NGR3WlRuY3hQT0c5eTRIVnNNX0taZ3Y1SjVYNTd0aTZGU2Ra?oc=5",
+     "published": "2026-11-03T07:11:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "중앙일보",
+     "title": "[오늘의증시] 코스피 3%↓'뚝' 5600선까지 밀려…'AI 자금난·국제유가 하락' 직격탄",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OZjk2UEIzTkZhQ0NiZG02TkI5Y3RteDRQMHNHMnNzZU1YTTdjQXMtc0JWZkI2aUN0Qko3X1hBVUE5ZEkwRVVBNVhaREtKOXd2bERWYVdaQ3JtTUtkakc5aUp3?oc=5",
+     "published": "2026-11-03T07:06:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "코스피, 3%대 급락해 5600선으로 밀려…삼전닉스↓",
+     "url": "https://www.hankyung.com/article/2026110332016",
+     "published": "2026-11-03T06:45:02+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "코스피, 3% 넘게 급락해 5,600대로 털썩…코스닥도 4%대 하락",
+     "url": "https://www.yna.co.kr/view/AKR20261103137300008",
+     "published": "2026-11-03T06:35:08+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 102,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "크라우드스트라이크, AI 에이전트 '킬스위치' 공개[글로벌AI브리핑]",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "뉴스핌",
+    "연합뉴스",
+    "전자신문",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "전자신문",
+     "title": "크라우드스트라이크, AI 보안기업 2곳 인수…에이전트 보안 강화",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iZWRrV1dYZEZwN3k2M2JLTzVIYVVCS01CV0xLUU5IVUZBLXFBYTV6R0xpeTdodVg1QloxYmpPZ1ZyMW9PT2VCdW9KWmFRdw?oc=5",
+     "published": "2026-11-03T23:24:54+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "크라우드스트라이크, AI 에이전트 '킬스위치' 공개[글로벌AI브리핑]",
+     "url": "https://www.fnnews.com/news/202611040801014646",
+     "published": "2026-11-03T23:18:52+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "크라우드스트라이크, AI 에이전트 차단용 '킬 스위치' 공개",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ZjFGMGVIU3lvX0lJN3FsUkFCYWdncGlFNTNkQ3g3Wmh5dGFpSE5jVXJ4NWZGSkZ2azE3dGJiLVl2UHhMbkNITDlLX3ZmTDFPX3lJQ3pKU3prVHZ6UFVxM2RhR1JBRFJNeWllT05IM2_SAXRBVV95cUxOcGFUWVJUUW9yeWVubDlqeFJURUZSa1E5YVR2QVVWZ1VhNU1WTTh0WEtMUTFpWnNkTzFUVXBzSFhXSXFXaWFpcnBkcm9pUE1fclFaaEtfWGxvTEYtWmxfMHRyMUJLYlVFaWRXaWtGZF9sbUd2MQ?oc=5",
+     "published": "2026-11-03T22:40:58+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴스핌",
+     "title": "[미국 특징주] 크라우드스트라이크, AI 에이전트 '킬 스위치' 출시…오작동 즉시 차단",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JUElJZHB3MXRXNHVnUTNncWpqZTlWTHpZbWl0TzJPMGh6UlNRd2RibkVqcmR2NkMwTWZsaUhjTHRDR1lVeFV3NmoteFdlN0FmWE00cV9fbXdWTU5x?oc=5",
+     "published": "2026-11-03T21:19:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "속보 코스피, 3.59% 내린 5,648선 마감",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "MBC",
+    "YTN",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "MBC",
+     "title": "코스피, 3.59% 하락 마감‥5천600선으로 후퇴",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtSFNFcUFWSktBSlk0eUljQ2k5OHFCaTBMRGcySVg3QXJidVFxczgzM0NxX29FYlRLazBYMkZvdnA2YnlDN2VkM0VqemRWQlFXQzhJdVhMX2ZNUTJfREd2VFFFUmc1NG9nSjh2VjhXYjltX3pJ0gF0QVVfeXFMT01sRFNjckt5MWR1VU1TaVZEWmJQR3lTdlhTMmM1bTF6aVN0SGx5YnptVzVLR1ZpTlVXeGI1TEJSVnd6amNzWDlkNWJIdmdlN0NMTlB2VHg1Ti1ZVFVhY3Foc0pLM2w2WXIxQzRkbmMxZGVyRkU?oc=5",
+     "published": "2026-11-03T07:18:50+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "[속보] 코스피, 3.59% 내린 5,648선 마감",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GWmsxeU5XWXR5NTBMU25hXzZ1YmJsVWF0Z2R3R0dPNmJIMnNNSUVvT21LSmx4bUN5VmppVGlxX2lYN0dOMWJqUDFxM0FuVXVpT2lQZ1Qyak0yNkdLck5ScUlnUkVTaVBrSVptZmxxQQ?oc=5",
+     "published": "2026-11-03T06:38:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "YTN",
+     "title": "속보 코스피, 3.59% 내린 5,648선 마감",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JSGF3Y0liS1hqakR5X2NvbUV3WUY4eEI4NmdQQUdkaU5NeldxRHpJMGs1Wk5UREF5OEZlMXdBYnZ2dnN3V3pxZGZ1VkxiRTlfWTljTWEtbjNxdHZpd3lQWUtadHVUR3RpcHN4STRaVVpZdGxuWFE?oc=5",
+     "published": "2026-11-03T06:38:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "[속보] 코스피, 3.59% 급락한 5648.79 마감…코스닥도 4.08%↓",
+     "url": "https://www.hankyung.com/article/2026110331876",
+     "published": "2026-11-03T06:35:15+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "코스피, 3.59% 내린 5,648.79에 장마감…코스닥 4.08%↓",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ITGd5ZjZvUWh2LUoxNEUwZFY5MnBvTHRua0V5ckowVV9ocENhQmkzLU8zaFlvdlppaWxvZXlVM2U0WU9IZ0c5RUduMmJJMXFxSDRHRTNVV0pfRC1OS2RwaHYtb1h1ZGM?oc=5",
+     "published": "2026-11-03T06:34:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "Polls begin to close in midterm elections as voters pass judgment on Trump’s second term",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "AP",
+    "CNBC",
+    "Cointelegraph",
+    "Forbes",
+    "NBC News",
+    "The Guardian",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "AP",
+     "title": "Polls begin to close in midterm elections as voters pass judgment on Trump’s second term",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+     "published": "2026-11-03T23:45:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Washington Post",
+     "title": "The midterm elections and Trump’s response carry big implications for U.S. education",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEdXWGlzX29PSXBvLVV4ZnlvX1g1S1BEZ0xLdEhpWXlYWVhNOWZPX1BOX2owaWdXOE1UeDk5LW9IWnNnTWVURTA0azBkaDNzOGRSazZBVmVyTmJ6WUZTd1otb2R4U3V1QUdpRkZyaG12VjFQczR1NUNJeHp0anlQUjFHZU5MUGJUa1hBSWRLZDQybXFfS0ZiMTlPaTFyY3FtYzFaeHJHSFZEcENJYTFsNXp6V3FxamFJNEhn?oc=5",
+     "published": "2026-11-03T23:30:01+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "NBC News",
+     "title": "Nearly half of voters saw midterm election as a rebuke of Trump, NBC News Exit Poll shows",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDQyYlg2UzJDSGdEYmNabGZWUXRYQlNXcFVXVW0taGpzeHA3R1RHSlRXUHkwcEJURlF2bTVGVkd2cVBhRm9iSkNQOWFuTDRkVUp6T2x0UDFaSF9DZmNYYTR5OUpCcDFkcVdUWmM5OWhVR1FJU0ZuVGRDUXVsVzkza3gtZHVuNEM4VHJxQS1tbXpFaTJjZElJQzhRYnhBOGRMRHZ6b09aSzhkdVZYR3c?oc=5",
+     "published": "2026-11-03T23:14:10+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Forbes",
+     "title": "Election Day Live: 60% Disapprove Of Trump In Early Exit Poll",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdjAtcElobUdMMXlvRlp4R2ItQTJ4anpsX082elRhWjk1cmNKTWVpS3lHdS1tM0dMZEpxeVc5aldrQUM3M3R6REtjelpJUjJCV0RqNUNiRHBoaHFTUi1sLXVjMTBDTWdfMWYtOUpBSU4tb21vNXNpc3E4elBKNkg2OEhtR0tmbXN6djZrbmc3bVBodW5EcVB3S0VYeDRuQnBXaC1qaDNqeXdULUJobDh0VTUyaFQyelZzeXZFVGdpRzItNmRQeTYyNWpHenE3UzNwS2Mzcjc5aUZpc0hUWUtPZW1RUQ?oc=5",
+     "published": "2026-11-03T22:52:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "The Guardian",
+     "title": "US midterm voters poised to deliver verdict on Trump’s second term",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2Z2cndTU3p6QU10MW0tZngtWk5vOHBzS2lWajFxQ21kTlAyTTdqT2R1N2lSOWtPLXdHQzA1ZUR5T18xRE1KTDZNZFdsUEN1WVgxNE1pZXpnSjY5NFJkeEMydWIyLXJZUUNxMlR0c0FtTlI1QjRZYTRDS18wS0hxVlhWZ21XSTRVdk96RWNBbm9RRUxqLVRRMmlqdEpGaldCWDY4?oc=5",
+     "published": "2026-11-03T22:30:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "CNBC",
+     "title": "What the 2026 midterm elections could mean for Trump's final two years",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHpLVWlsaWJ2emp2NWVJeHVXM3o2VkdvT2hjLW9aWE5CUVU0d3lXejhYYU5mcDZjTUFwU3ljOVJCTldSaV8wOFRHQ3NVT0pqOTJMc0hxdkUwQjFPYUduTl9xYnRfdmJUWXdZWmNYQXNyUFdsUE9qdm5TZ19OaHdfNzJqSjI2aWRybmNTN25Ld2RUd01wd0HSAZsBQVVfeXFMUFNhTTQ4dkNpSTFLMDAxTkxiWVlXODM4U1dXNkgzcHlBLUhhX2EyRXRVZkFOR3prSzBORnV5Tkh1c3JsLUw5RmNJMFM3TW1NWS02Y0RNOFViSkpKMGU1alFJeGU5LUQ1MmVRVFQ2RVdPVE1IWWtZTGUwaVRVX0hBYUFFV2d3bHdpMXFGWFhwM2tjV3B0ZlEtNVRBY00?oc=5",
+     "published": "2026-11-03T15:00:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 65,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "Trump says US will end military aid to Israel by end of the year",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "ABC News",
+    "AP",
+    "Al Jazeera",
+    "Financial Times",
+    "New York Times",
+    "Reuters",
+    "The Guardian"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "ABC News",
+     "title": "Trump says $4 billion in Israel military aid will end this year, citing political reasons",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU84TG44N2RQcno1cWYycFRyZE5XdnVLVm14cFYxVWFQZWVrTDNMV3Z2RzJPd29HOVNacjQ2TS1xM0taNmVxeUFvRW9NaENrc0oxNVB5MTR6a0syb3ozSnNlM1B1R0pMMjFsUzUwYU9xakpwU0c0Sk5BRjFTcE5QUG9kZUIzVDg3alFqdHpSRnFCaFg5Tm5uM0JlLWJEY3fSAaQBQVVfeXFMUHh6ZG5Ka0lvMWIzRnluajN6b0ZIWDJHQTV6THpSZFJXbWNfdWYwNEZ4azNZcDE5TXE5LWNJVzhVbXRXbWtXSld6dlVXeGtYSlcwQXNLcVlRU0kxWTJjYTR5SE0zOGxZTUp6MEJ1cG5oMS1lQlk0Y1dSUEFWM05rXzZfQmdISVpoYUNfbm45WEllTnV0c3RhMV9sZGROdDRISWJXWWE?oc=5",
+     "published": "2026-11-03T23:41:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Reuters",
+     "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
+     "published": "2026-11-03T23:11:02+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "New York Times",
+     "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlQyR2MxUTF6Qzg1eml5RkpRVDN2VS0xUGhEaXZVZlRwbW05ZzgzZlk4djZuX2wtNVVFdFhlcEtON1V1MzUtQ3c1QjduaGo0Z2ZVSUgxdEVkZDZlTk9HSHd3dVJzd1ZBdjNId1pKd0hZTWpqNjBXTGlHVDd6M1ZpN0Y5c2c?oc=5",
+     "published": "2026-11-03T21:52:37+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Al Jazeera",
+     "title": "Trump says US will stop giving Israel aid after year-end",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0dUNVRlTTRrMGdlaGlfVldzdHdiVGxXaGxWcWRxRUI2TFpJTEJvR0dXaUZtRnBaeGNQSE9oWlllWWRWYTU5WWN4X1licmwtTXFJNWVkZmdhOEx3ek5xWjZncV9xQ2lGcUtKV2pWTmVHb0g4WjJtQ1gzenNhRV9NWVpubHpwS2pQZkUyY1FzaW9QRHpNNDdxS2RGVEtiUTdlQ05PY0Rn0gGrAUFVX3lxTE1NX2tqcGFZV2V1OHdlVi1ZbmwxVFAyTWszUm14REJqRTRNZXpaM2taNC11OE9DQXpJZUFVa2ZJY1RQblcyOHY5UWZZb214VkwzWmgwZ0hzcWtjSTBLSGkyTkZzRk9fZF9DbmhyMEcwU2VWYUZMNGdDRnBrMTJSMjVDdWtQWUZJejZ0eURhd3BTR2RUeUdOVzdSdUxhV2tOSHJKaDJBUTdiY21IWQ?oc=5",
+     "published": "2026-11-03T20:53:57+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "AP",
+     "title": "US will halt $4B in aid to Israel as the Mideast ally weans itself from American dependence",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0YwcDVrc0FwXzlPOGd6aUZxSUdSaFpFSUdMUlRqVkpyTDhYVVdsSC1ZRFhpZlJVWlgycWh1YnlRNEh2STZiQjhsNkNJeDZ5eWY3ZmM4cDBsY2ljaXNVWkl3TnVsc2xtbVVzSktwT01zclRSbWx1R2YyY251YmF1YV85b3pMSmN1OTZ4VjJkN19kbXdNUWRkdGZ3?oc=5",
+     "published": "2026-11-03T19:51:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "The Guardian",
+     "title": "Trump claims US will end military aid to Israel by end of this year",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVFSbzlJTUFQVFBqdTBIQnJYOEJnbFJkYWpDMFhXUUhlcTAweEs4VGsyV0ltMm9QWXZCWlBIV1NUVmRwcHpkSFp2TGtVYWlNaF9wVHJqTVF5RHZhSFppUDYteFJLRmlobVhxc0dkWDktTnVTTXI1RHhORHZyOG9CY0xtT0I3aDhqWkQ3dzVwekNCRjgwOWlCNUdzSUE2NzZyUktLNXZuanRmM0V2Q3c?oc=5",
+     "published": "2026-11-03T18:38:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 65,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "BBC",
+    "CoinDesk",
+    "Cointelegraph",
+    "Financial Times",
+    "The Block",
+    "The Guardian",
+    "The Verge"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "The Verge",
+     "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+     "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+     "published": "2026-11-03T22:04:02+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "The Guardian",
+     "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+     "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+     "published": "2026-11-03T19:00:23+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Financial Times",
+     "title": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
+     "url": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1",
+     "published": "2026-11-03T17:00:20+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Cointelegraph",
+     "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+     "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "published": "2026-11-03T16:44:06+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "BBC",
+     "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-03T16:19:29+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "The Block",
+     "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+     "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+     "published": "2026-11-03T15:34:34+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 65,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "삼성전자 TV, 미국 컨슈머리포트 평가서 크기별 전 부문 1위",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "삼성전자 TV, 美 소비자 평가서 종합·크기별 전 부문 '1위'",
+     "url": "https://www.fnnews.com/news/202611040836354132",
+     "published": "2026-11-03T23:44:25+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "삼성전자 TV, 미국 컨슈머리포트 평가서 크기별 전 부문 1위",
+     "url": "https://www.yna.co.kr/view/AKR20261103158800003",
+     "published": "2026-11-03T23:01:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "삼성전자 TV, 美 컨슈머리포트 '올해 최고의 TV' 전 크기 1위",
+     "url": "https://www.newsis.com/view/NISX20261103_0003853297",
+     "published": "2026-11-03T23:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "\"美, SK하이닉스 中공장 장비반입 제동…뉴욕 공장투자도 차질\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "美, SK하이닉스 中공장 장비 반입 제동…450억달러 뉴욕 투자도 차질 빚나",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/04/WQMEQJQCGVGC3DUKMMKOX2RWQQ/",
+     "published": "2026-11-03T23:16:38+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "\"美, SK하이닉스 中 공장 미국산 장비 반입 제동\"",
+     "url": "https://www.fnnews.com/news/202611040549199020",
+     "published": "2026-11-03T21:00:26+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "\"美, SK하이닉스 中공장 장비반입 제동…뉴욕 공장투자도 차질\"",
+     "url": "https://www.yna.co.kr/view/AKR20261104006700072",
+     "published": "2026-11-03T20:42:48+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "트럼프 \"이스라엘 40억달러 군사지원, 올해 말 중단\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "이데일리"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "이데일리",
+     "title": "트럼프 \"이스라엘 40억달러 지원 중단…새 협정 대체\"",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVlrSnNqNS1UenVRTTN1VnZRMU5iWmt5UDU0bWtjd1FCNWdwMlNRcHVKcnJBT1p2c2VXSjV2MUVBSlVnNDFNR3JtT0poT0VCUmJqdlhBSnBRcVpZRnJLa25BRUxVNmtiMTBWNmxzNDRIZDR1OHFQeDhUay1JTDRRYg?oc=5",
+     "published": "2026-11-03T22:24:37+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "트럼프 \"이스라엘 40억달러 군사지원, 올해 말 중단\"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wWHl5UDdLVGJTNWR6RlhjUkhKYmpxS01Sb3hrOHFjOEVMUHRFczRtYTJWdWptSnJWbHYtMWJUbEZWRUtvN3ZiVkFDMEJxbEFmVEJBcVU0ai0xRjY5NVFpaE9IUHN0S3M1ZEtPTVBkQ3R4aVp5M2tVUNIBeEFVX3lxTE9wWHl5UDdLVGJTNWR6RlhjUkhKYmpxS01Sb3hrOHFjOEVMUHRFczRtYTJWdWptSnJWbHYtMWJUbEZWRUtvN3ZiVkFDMEJxbEFmVEJBcVU0ai0xRjY5NVFpaE9IUHN0S3M1ZEtPTVBkQ3R4aVp5M2tVUA?oc=5",
+     "published": "2026-11-03T18:39:37+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "트럼프 \"이스라엘 연40억불 지원 중단…좌파가 불공정하다 악용\"",
+     "url": "https://www.yna.co.kr/view/AKR20261104000400071",
+     "published": "2026-11-03T15:35:11+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "스노우플레이크, 알아서 일하는 AI 에이전트 공개…보안·통제 강화",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "머니투데이",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "머니투데이",
+     "title": "스노우플레이크, 알아서 일하는 AI 에이전트 공개…보안·통제 강화",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LdTBLaXBzUUlUM1ZLd1VhN1F6YS1pcE1CWWxSZ2NfeE9sSUFlLWxfZVdOU2pnLW5UU1h0V194ZVpwTnNuaVNOQzdDRkhqUHF5LThxTDJyTlh0Z2NNaFBqXzJkbDl0eUHSAWxBVV95cUxQa0RFbkNDUGMySXVvdFI5aUtxOEJQR09YNnFNd0ZUY05tXzNLTDZ0UWFLX3E2S2xXZk1EcVJRTUpESjhMaWx0MG80c1NiQW5GU0JBZzhDOFU3ZEVvUGpKWnhINWhvUlBJT1BaSTM?oc=5",
+     "published": "2026-11-03T22:20:19+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "스노우플레이크, 기업용 AI 에이전트 공개…\"업무흐름 자동화\"",
+     "url": "https://www.yna.co.kr/view/AKR20261103083400091",
+     "published": "2026-11-03T14:00:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "스노우플레이크, 로그오프해도 일하는 AI 에이전트 공개… 승인 필요할 때만 사용자 호출",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/03/GFSTGNZTHE2GCNJZGJSWCOJSMQ/",
+     "published": "2026-11-03T14:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "LX세미콘, 신임 대표이사에 나준호 부사장 내정",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "블로터",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "LX세미콘, '25년 반도체 전문가' 나준호 신임 대표 내정",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=677578",
+     "published": "2026-11-03T16:07:41+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "LX세미콘 신임 대표에 나준호",
+     "url": "https://www.hankyung.com/article/2026110337261",
+     "published": "2026-11-03T09:01:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "LX세미콘, 신임 대표이사에 나준호 부사장 내정",
+     "url": "https://www.yna.co.kr/view/AKR20261103140800003",
+     "published": "2026-11-03T06:47:51+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "AI타임스",
+    "뉴시스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "美 반도체 기업 마벨, 광통신 베팅 “광학 업체 루멘텀 154조원에 인수”",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/04/JGQBGTGZRNHZLAH7JFCCBSFCCU/",
+     "published": "2026-11-03T15:34:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "AI타임스",
+     "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216952",
+     "published": "2026-11-03T15:00:16+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "마벨, 루멘텀 107조원에 인수…AI 시장 공략 강화",
+     "url": "https://www.newsis.com/view/NISX20261103_0003852313",
+     "published": "2026-11-03T02:25:02+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "AI 우려에 외국인 매도 폭탄…코스피 3%대 급락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "머니투데이",
+    "연합뉴스",
+    "이데일리"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "AI 우려에 외국인 매도 폭탄…코스피 3%대 급락",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80VTgwU1UzNW5xaE9EWWFNY0ltbzM3WDdWME85UFBhd2RnUlFEbHJWalQySjNKQVRncEdDeHJoQ3pOSGwtdEtzYURwcWVQWXh6YV9xLVY1S29fNi14d2VPcHZBWUFrcEU?oc=5",
+     "published": "2026-11-03T07:08:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "이데일리",
+     "title": "외국인 1.3조 매도 폭탄…코스피 3%대 하락세",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFR1TGxxZWdhcmJWRTN1NHFfcWt0dHFtMUF3NU1XakRlNk1WeVU0NDU2X25VVGJNZ296NEJzT1otZzhPa2xGWWlUNzctblRMQVVVWFJwel9ORlZka1lxR0FOTHBMbnVHOEh3UnRJa1ZYNFpvTVJsVmxkdjUzUmx3RQ?oc=5",
+     "published": "2026-11-03T04:48:22+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "AI 수익성 우려 재점화…코스피 3%대 급락",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HOFliNFF3UVlRYVRIQXB5YkpITzhOamQzdHR5UkRxOUt5OUpodHRNbXEtWjZjM1JuVk5aYVc1Q19pMzJvY0hvamJXN0JuYmpycW5SMnNLWE55NW1RdGVhUHRLMzExbmM?oc=5",
+     "published": "2026-11-03T01:20:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "머니투데이",
+     "title": "코스피, 장 중 3%대 '뚝'… AI 수익성 우려에 美 기술주 급락 여파",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZ3VNanNEVS1BZlBEOG0xX3hIUkE0MWc0bFlwSEFZWDAyR1AxMVB0N2xlaEtDeFhGQUg2bU0yTm1XS3VCbTJlbkl2LU1vNVp4ZjVoenVpV2QweHRtZjNwcWZNMF9BNkhE0gFuQVVfeXFMT21lREtUeXlhVzlrbmk1U1Npa0lrQ3o4dUxFSGI0MzQ1OXN3Wlc4RkRQU09JMUFjVElzYzFnSUhhTURUaXNWeFVPNnZuMHdONzE0cXU0eVZ2MzdaWTByNmxGTjFQaHBjNHNFRm8tWnc?oc=5",
+     "published": "2026-11-03T00:32:11+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "美 '블루웨이브' 현실화하면…AI·데이터센터 투자 위축될까",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴스핌",
+    "뉴시스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴스핌",
+     "title": "[모닝 리포트] 美 중간선거 '블루웨이브' 변수…AI 데이터센터 규제 우려",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YXk3bUh2UHI5SGpLUjQ5SnBTX21KTEJ4MFRHaHp1S25YbldNU0tQZk1SNDc2bzZ5c0JqVkt4UC1lSTFrNkE5Q0VSRE83SFN6cmI5bW1YME9qLWFV?oc=5",
+     "published": "2026-11-03T23:49:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "美 '블루웨이브' 현실화하면…AI·데이터센터 투자 위축될까",
+     "url": "https://www.newsis.com/view/NISX20261103_0003853448",
+     "published": "2026-11-03T22:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "M83-디블라트, 딥페이크 판별 솔루션 '안티제니' 개발",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "매일경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "M83-디블라트, 딥페이크 판별 솔루션 '안티제니' 개발",
+     "url": "https://www.newsis.com/view/NISX20261104_0003853814",
+     "published": "2026-11-03T23:48:09+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "M83·디블라트, 美 선거 딥페이크 논란 속 AI 판별 솔루션 ‘안티제니’ 개발",
+     "url": "https://www.mk.co.kr/news/stock/12195955",
+     "published": "2026-11-03T23:43:05+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "삼성전자서비스, 서비스품질지수 에어컨 AS 부문 2년 연속 1위",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "삼성전자서비스, 에어컨 AS 2년 연속 1위…“고객 10명 중 6명 원격 해결”",
+     "url": "https://www.mk.co.kr/news/business/12195956",
+     "published": "2026-11-03T23:44:06+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "삼성전자서비스, 서비스품질지수 에어컨 AS 부문 2년 연속 1위",
+     "url": "https://www.yna.co.kr/view/AKR20261104023700003",
+     "published": "2026-11-03T23:20:09+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "구글 \"초중고에서 제미나이 차단하면 검색 기능 못쓴다\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "구글 \"초중고에서 제미나이 차단하면 검색 기능 못쓴다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261104024200009",
+     "published": "2026-11-03T23:41:08+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "구글 \"초중고에서 제미나이 차단하면 검색 기능 못쓴다\"",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pX2tuUWROQ0swWU85Ymp0RmZtU0M0X3k4TW81aTI5Ml9HYkVZUjdkQWZLYUkza2VnM001OUY5eFlXcF9SdWVxemIyNzEya2hWaVE?oc=5",
+     "published": "2026-11-03T23:41:08+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "[美중간선거]AP \"유권자 4분의 3, 트럼프 국정에 분노…변화 원해\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "AP ″유권자 4분의 3, 트럼프 국정에 분노…변화 원해″",
+     "url": "https://www.fnnews.com/news/202611040804273672",
+     "published": "2026-11-03T23:09:58+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "[美중간선거]AP \"유권자 4분의 3, 트럼프 국정에 분노…변화 원해\"",
+     "url": "https://www.newsis.com/view/NISX20261104_0003853639",
+     "published": "2026-11-03T22:41:14+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "한투증권, LG생건 목표가↓…\"3분기 실적, 기대치의 30% 하회\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "global",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "한투증권, LG생건 목표가↓…\"3분기 실적, 기대치의 30% 하회\"",
+     "url": "https://www.yna.co.kr/view/AKR20261104022400008",
+     "published": "2026-11-03T23:07:14+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "\"LG생활건강, 3분기 영업익 시장 기대치 30% 하회…목표가↓\"-한투",
+     "url": "https://www.hankyung.com/article/2026110442566",
+     "published": "2026-11-03T23:00:13+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 20,
+   "slug": "20"
+  }
+ ],
+ "market": {
+  "fetched_at": "2026-11-04T08:53:11.088374+09:00",
+  "groups": {
+   "지수": [
+    {
+     "ticker": "^KS11",
+     "name": "코스피",
+     "value": 5859.080078125,
+     "change": 128.33984375,
+     "pct": 2.239498537731177,
+     "date": "2026-11-02"
+    },
+    {
+     "ticker": "^KQ11",
+     "name": "코스닥",
+     "value": 734.3599853515625,
+     "change": 9.97998046875,
+     "pct": 1.3777272152017073,
+     "date": "2026-11-02"
+    },
+    {
+     "ticker": "^GSPC",
+     "name": "S&P 500",
+     "value": 7568.919921875,
+     "change": 27.52001953125,
+     "pct": 0.36491924427315414,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "^IXIC",
+     "name": "나스닥",
+     "value": 25372.009765625,
+     "change": 207.69921875,
+     "pct": 0.8253721808237469,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "^DJI",
+     "name": "다우",
+     "value": 51786.71875,
+     "change": -197.26171875,
+     "pct": -0.3794663605427129,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "^SOX",
+     "name": "필라델피아 반도체",
+     "value": 10600.396484375,
+     "change": 272.06640625,
+     "pct": 2.6341761368202876,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "^N225",
+     "name": "닛케이 225",
+     "value": 63081.859375,
+     "change": -208.25,
+     "pct": -0.32904035410351584,
+     "date": "2026-11-02"
+    },
+    {
+     "ticker": "000001.SS",
+     "name": "상하이종합",
+     "value": 3638.031005859375,
+     "change": 39.013916015625,
+     "pct": 1.0840158588221405,
+     "date": "2026-11-02"
+    }
+   ],
+   "환율·금리": [
+    {
+     "ticker": "KRW=X",
+     "name": "원/달러",
+     "value": 1343.8199462890625,
+     "change": 18.2999267578125,
+     "pct": 1.3805847130308857,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "JPYKRW=X",
+     "name": "원/100엔",
+     "value": 845.4999923706055,
+     "change": 0.4900932312011719,
+     "pct": 0.05799851950849533,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "EURKRW=X",
+     "name": "원/유로",
+     "value": 1505.300048828125,
+     "change": 18.8900146484375,
+     "pct": 1.2708481653154635,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "DX-Y.NYB",
+     "name": "달러인덱스",
+     "value": 101.88999938964844,
+     "change": 0.1399993896484375,
+     "pct": 0.13759153773802435,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "^TNX",
+     "name": "미 국채 10년(%)",
+     "value": 4.952000141143799,
+     "change": 0.05800008773803711,
+     "pct": 1.1851264222540125,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "^VIX",
+     "name": "VIX 변동성",
+     "value": 20.829999923706055,
+     "change": -0.31999969482421875,
+     "pct": -1.5130009484437767,
+     "date": "2026-11-03"
+    }
+   ],
+   "원자재": [
+    {
+     "ticker": "CL=F",
+     "name": "WTI 원유",
+     "value": 96.5199966430664,
+     "change": 0.05999755859375,
+     "pct": 0.062199418580966004,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "BZ=F",
+     "name": "브렌트유",
+     "value": 104.2699966430664,
+     "change": -0.5,
+     "pct": -0.477235865248149,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "GC=F",
+     "name": "금",
+     "value": 3938.300048828125,
+     "change": -31.300048828125,
+     "pct": -0.788493753983055,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "SI=F",
+     "name": "은",
+     "value": 49.70500183105469,
+     "change": -1.0149993896484375,
+     "pct": -2.001181713761735,
+     "date": "2026-11-03"
+    },
+    {
+     "ticker": "HG=F",
+     "name": "구리",
+     "value": 6.4004998207092285,
+     "change": -0.14300012588500977,
+     "pct": -2.1853767410732305,
+     "date": "2026-11-03"
+    }
+   ]
+  },
+  "crypto": [
+   {
+    "name": "비트코인",
+    "id": "bitcoin",
+    "usd": 77642,
+    "krw": 104347323,
+    "pct": 1.2421970964337412
+   },
+   {
+    "name": "이더리움",
+    "id": "ethereum",
+    "usd": 2281.59,
+    "krw": 3066377,
+    "pct": 1.4106471193608185
+   },
+   {
+    "name": "솔라나",
+    "id": "solana",
+    "usd": 93.1,
+    "krw": 125123,
+    "pct": 1.41283248376089
+   },
+   {
+    "name": "리플",
+    "id": "ripple",
+    "usd": 1.28,
+    "krw": 1720.73,
+    "pct": 2.581010912505442
+   }
+  ],
+  "kimchi_premium": 0.31640946838753514,
+  "flows": null
+ },
+ "stats": {
+  "collected": 1900,
+  "outlets": 64,
+  "verified_stories": 60,
+  "dropped_by_factcheck": 0,
+  "seconds": 12
+ }
+}
