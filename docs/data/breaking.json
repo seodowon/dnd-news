@@ -1,5 +1,813 @@
 [
  {
+  "id": "2f103d7b67",
+  "time": "2026-11-04T16:08:14+00:00",
+  "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+  "ko": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9bc6ec4fc6",
+  "time": "2026-11-04T16:04:17+00:00",
+  "title": "Trump told voters, ‘Pretend I’m on the ballot.’ They did.",
+  "ko": "Trump told voters, ‘Pretend I’m on the ballot.’ They did.",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXJPbDFrU2R6eVZWeGtUNjEtdW1CbExWTjFSSnR2MW4wTEFrRXBlMTVKZGVpbUdDdzJTdm10elBKSW1XNXo0X0cwMnF5UHBDVjFBajJTdEhJYUlxYS1pRzRPS2MyM3psS1NFVkVJcGVOMjlDOElvODdmSm9VV0tTUWFJQ0FaYjdEenJOQkl0TTV1RHA1MkxZSUN1Q0o?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6929ef8400",
+  "time": "2026-11-04T16:02:38+00:00",
+  "title": "Musk threw his fortune at the midterms. Voters handed him a stunning defeat.",
+  "ko": "Musk threw his fortune at the midterms. Voters handed him a stunning defeat.",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODNfSTJGVlVMQXMwdTZJYklvYmVKamdwaHJMX1BWTXF2eGRocFNhUll3ZVlWb1JIQ0QtZ295eUFYc2YzN1NBTkJzRXBYbzduX2Job2FPSkJtZlVpT2RsbnZSVngySXRXMEJqNm02TnZkTG93NkRvUm9icTc1LVNTdzhsNFdNVkFnQUxyYWxKSE9KendQTTJKM3FYNDlPR3ZfRE1aTUttNTJ4ZWFWRTQ2ZWk2SmNhdUhUU1lZ?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7ae15288d9",
+  "time": "2026-11-04T16:00:57+00:00",
+  "title": "\"문제는 내가 아닌 폭스\"…트럼프, 선거 패배 책임 돌려",
+  "ko": "\"문제는 내가 아닌 폭스\"…트럼프, 선거 패배 책임 돌려",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611050056064316",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8d92e0a7ac",
+  "time": "2026-11-04T16:00:01+00:00",
+  "title": "[美중간선거]크렘린, 트럼프 참패에도 \"러우 평화 중재 계속 기대\"",
+  "ko": "[美중간선거]크렘린, 트럼프 참패에도 \"러우 평화 중재 계속 기대\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261105_0003855376",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "cb0ebb9235",
+  "time": "2026-11-04T15:59:24+00:00",
+  "title": "[美중간선거] '남미의 트럼트' 밀레이, 최대 우군 트럼프 입지 약화에 부담",
+  "ko": "[美중간선거] '남미의 트럼트' 밀레이, 최대 우군 트럼프 입지 약화에 부담",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261104183200009",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f8695da35c",
+  "time": "2026-11-04T15:57:00+00:00",
+  "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+  "ko": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnZRT0MyRlJQZFBrYkRoNTB5LV84MXFhZmlpeGhadldPTUtqTnpHQ0RrTDR0eXZPRzQxeURDeTFudHhha0VoUFk4MjJfZ0hjRnp0cFFGUXFGeHd4cFNXSzF4N195TWtGMGdHbkZ6NTdzVWs4bnR3bTVMOUl4MWw5a2VUaWFVaElkOS1QZnh0Z2NOWUZOak83NUNXVFljX1k?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a3e2b24eaf",
+  "time": "2026-11-04T15:51:37+00:00",
+  "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+  "ko": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+  "lang": "en",
+  "outlet": "BBC",
+  "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "92d8cc6e28",
+  "time": "2026-11-04T15:45:51+00:00",
+  "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+  "ko": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vTkpYaTV3VnR5bU9lX1MzeDZ2Rk9wODBaTDN0WXd6azNMZnNtdmlPaFdWWlNodjZzWk81N0loR3l3WlMxWW4xcHdaVldjR0ZPVE5pT0k0Z2licTVVdDhucW1YNGtiTkVkZWZhdTR6emM0Ujl1S1NhYi130gF_QVVfeXFMTm1jYUVzYVZtWUhUdlgyLXd4dUtiWWV2YUUzLUk2XzNFRnc2MUZPcHJvajdDYUlNNG5rMGxHMVFxM2t0d0FSQmR5OHI4RzlWWnBUMHZTMUZ5ZWV3UGFGSFJmLWFyMXNkZ0U5bUdFRWs2NzN5X3lmTjBsMjFqSzJaTQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "abdb3c75b0",
+  "time": "2026-11-04T15:40:06+00:00",
+  "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
+  "ko": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXE0Tzd3TkNCb2h6ZlJXbFNfa3ZUY2dIYngxS0ktazhGYTRpN0c0SEotNDRCVzhaNnFtRWo3ejg4bVVyVDJQOFd3NXBsZ3paMUVDSEtXeXItSFVGWG1Td0R5YXRoMHZnMlg2VHFFajlxeFpHeG02RzhpRVEwVWhqVmRINDFaY0Y3ODlfT1NvTHJyYlByMEczUEtqalhaNElsLWVqVVBKRTlPSDJGVE9QMWdYcUw1clU?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Reuters"
+  ]
+ },
+ {
+  "id": "039de0e3ad",
+  "time": "2026-11-04T15:28:46+00:00",
+  "title": "Trump reacts to midterm election results",
+  "ko": "Trump reacts to midterm election results",
+  "lang": "en",
+  "outlet": "NPR",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWl4b21jNG9NbVl1ZW9CYm1CRHA3ZWlGQ1NpY0R3emt1QXFiejhPd1lzUV9QOVBrT3g5RTJnNlNlQnRIeVFGbkxzTnQzZDBmOFpMbUFYT09xdDZBQm9jREo3X0FJc1R2RjdnMFlHV2V6V1ZnQkxBUjQ4RFhBRjNxZHpuWnZHVDJtWXJvQk1B?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "01d3ff882a",
+  "time": "2026-11-04T15:28:09+00:00",
+  "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+  "ko": "Iranian leaders welcome US midterms, but Trump may still attack",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdF9kYVI3SGNySm5CRUp6OWpWc1F3TzZYN09vMnJHTmFFTnJoOUpacUdHbnJ5Ty1WSmZab21Ea0Y0R2w3MERTcjd6ajBqN1FkQ3JCaGl4XzRxU091eFROMm9yUnBzODV0Zm8xMTh3WkxBMFpUVXV6YlB2d1R0bm9SMElIdktra1FJWTdabURGN1B3UzM1TWRqT1JkME5VcndzWExPbjBn0gGrAUFVX3lxTE0tSXQyTjAyWHRXMUl5dVJ0c0ZMSFdDSTFKNGtTU3pqMlUwd3ZMMmROb0NnbS01THhRYkloXzNQOGE4Uzc3RTdHekFIS3BJYUppYTA2b2NrcWVucmZBTkNaR1VrTGRfM3FueUNzMzNSSGlZZU8xQ0pzYTFyQWpULWhtU09zalFRY0xkSkh5N1hJWi1YS0Z3cjkxOTlURzlidGlEU2htVHZBa0Nfaw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "362970b17d",
+  "time": "2026-11-04T15:27:20+00:00",
+  "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+  "ko": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b58d70cf4b",
+  "time": "2026-11-04T15:26:36+00:00",
+  "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+  "ko": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUJMNUhfVmg3dHlfRHhVb0tham91N0NObjZjNXl0bWN0Yno0QVdFNFVueHlnNEo2eGJJbTUzajY3cVZ6cnR2TG9vN0VpVVBpcEttSm1sZVgwbmpnTE5JZ2EycUV3ZXY5WVk4VTRZaHpHTTNSVHMtZUl3d0l2UXI0LWZsWTR1dkpmcF9R?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "94d9297aee",
+  "time": "2026-11-04T15:25:48+00:00",
+  "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
+  "ko": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "NBC News"
+  ]
+ },
+ {
+  "id": "d4f1ba3b57",
+  "time": "2026-11-04T15:24:56+00:00",
+  "title": "Trump says he’ll accept the results after weeks of priming voters to doubt them",
+  "ko": "Trump says he’ll accept the results after weeks of priming voters to doubt them",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1hPeURNaEZfaUMwRHFTakVWSFJtemZQSkJjd1FBOTZtQ1U5enZvdzRqVm5kOFdadzU1YzFjQjhVeVFBM1VMcnZncmlEdVBwbG93cDhWVFZqM0lHclhnekNHMTNyS0tneTBWYkl5bzRLRVgwTzBWX1NiaEVBRUl2ODFDVVV1c2d4MFV3LU9FRXdpbGducmZlRTRtbmlwYl9rd0NGN2JOdDN3dUd6LVpmZDRkODhRTDNwSUdkT3NLeElGV0U?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "04ab59bbd6",
+  "time": "2026-11-04T15:24:26+00:00",
+  "title": "\"불확실성 사라져\" 뉴욕증시, 민주당 압승에 급등…테슬라·스페이스X는 약세",
+  "ko": "\"불확실성 사라져\" 뉴욕증시, 민주당 압승에 급등…테슬라·스페이스X는 약세",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611050003042105",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e3ad94b315",
+  "time": "2026-11-04T15:19:25+00:00",
+  "title": "美 9월 무역적자 1천50억달러…소폭 감소",
+  "ko": "美 9월 무역적자 1천50억달러…소폭 감소",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261105000600072",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8612c1f0c9",
+  "time": "2026-11-04T15:19:00+00:00",
+  "title": "Iran’s leaders say midterm results show US voters have rejected Trump’s war",
+  "ko": "Iran’s leaders say midterm results show US voters have rejected Trump’s war",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e843577205",
+  "time": "2026-11-04T15:17:00+00:00",
+  "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+  "ko": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "23a2f5fd78",
+  "time": "2026-11-04T15:16:00+00:00",
+  "title": "Datadog’s stock extends steep declines in the wake of earnings",
+  "ko": "Datadog’s stock extends steep declines in the wake of earnings",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c76b0ba8ee",
+  "time": "2026-11-04T15:15:00+00:00",
+  "title": "전기 먹는 데이터센터가 전력망 지킨다?…오픈AI의 승부수",
+  "ko": "전기 먹는 데이터센터가 전력망 지킨다?…오픈AI의 승부수",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261104_0003854550",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "eb7e13e822",
+  "time": "2026-11-04T15:13:09+00:00",
+  "title": "[美중간선거] 크렘린궁, 트럼프 '패배'에 \"평화 노력 계속해주길\"(종합)",
+  "ko": "[美중간선거] 크렘린궁, 트럼프 '패배'에 \"평화 노력 계속해주길\"(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261104184051108",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "90eac27e5f",
+  "time": "2026-11-04T15:10:30+00:00",
+  "title": "Trump blames losses on GOP candidates, oil prices and his absence from ballot",
+  "ko": "Trump blames losses on GOP candidates, oil prices and his absence from ballot",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f45b87a87a",
+  "time": "2026-11-04T15:10:20+00:00",
+  "title": "뉴욕증시, 중간선거 블루웨이브에 상승 출발",
+  "ko": "뉴욕증시, 중간선거 블루웨이브에 상승 출발",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261105000500009",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "50b1347b6c",
+  "time": "2026-11-04T15:09:30+00:00",
+  "title": "[美중간선거]트럼프, 참패 다음날 두문불출…공개행보 계획 없어",
+  "ko": "[美중간선거]트럼프, 참패 다음날 두문불출…공개행보 계획 없어",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261104_0003855372",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "974f8c6c8f",
+  "time": "2026-11-04T15:09:23+00:00",
+  "title": "Opinion | America’s rejection of Trump and the GOP was broad and deep",
+  "ko": "Opinion | America’s rejection of Trump and the GOP was broad and deep",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU1MdWd4Ri1Cb0R6ZWNOQ3dyMnNsQ1VwY1hzaHFwQ0Z0ZGl2anRmUlh1aUxoR29hOGcyWm5zRklIUzBNc0E4dTkzRlJqR1VlSzc5YWQxN2ZNWmIyeXJtRFdxZ3hTUGJjLTNlUW1IUHU1NGxUTDlhd2VvSW5lY1YzMXgxdHozWEhFZjluMnJLRUdNZVlyaTQzUEtzWS0tbDl4c1pVUlpRNA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b821883207",
+  "time": "2026-11-04T15:06:29+00:00",
+  "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+  "ko": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUG0zVGoyS25rdFM0SlE2bThyZTVPNi1zcF9PYjFyR0llQi10X2FKaVZvX0dkNjJoTmF5UnZCVjdqaWZZNlpKRTVlR0IwMjdVRTVUd0VmRTltaUlGMzBna00xUXNZZF9lZm1FOFNGSU1VZjZCWnJCUmFjRzZReUVQaTFoWkFBZTM2OTh4ODF2S1ZERmNqaWduLW5hM0MzT1pXaHhtZnRrQWhiOVF40gGyAUFVX3lxTE4xT0dvM2g0a3o3SF8tWnhQRVhUcEYwUlY4LWNhbFNERndncVA5ZHZkNFV4R0tQVWQ3RktkQ3drMDZIeWV6d3lDVGJ2dmtfZkVUMmdHaWRjTWRXUFktSU9lQi1RRW83RGlMZnFSM0k0VXhkdm9GM20xeTI4eTQtbWF2MGJNa0pSNXROdTNUMUtqYmtXendCQks3M2hoaWxWdHk5eDdCaHhDTldrdzBmOVh6WVE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "27be324b8c",
+  "time": "2026-11-04T15:03:39+00:00",
+  "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+  "ko": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iYzVLNHBmVThDMFItQ0ViM1AtcldSNFdBU2NPbG03b1IydnFlOENRQWNnbVBIOXRyalZ0OVkwTU1QU3YwSGVEcUtuTzBXQjB1V1RWRlFGMEtiZWh5Vkd3X3RHMnZTMkVQanV0TTdNbWdMMnZNZjMyUm91RdIBgAFBVV95cUxOUWkzU0JEQkVtb255M3c1a1B0Q211UDRSMTFZQ3pxeTBuNkxXUkN2UUpOOVZjSzM5U3Q0cnlrSkRxb2w4a0wtOVZSYk5JcFpfMWM3TW5ES2VCRXRhUW93cnJ1UENmeWNFWmdmUWp0XzAyQ0JvNnVRV3ZCVkxXTDFOQw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "44ca663781",
+  "time": "2026-11-04T15:01:06+00:00",
+  "title": "Democrats warn Trump officials to keep records or risk criminal penalties after midterm victories",
+  "ko": "Democrats warn Trump officials to keep records or risk criminal penalties after midterm victories",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTd2cHZrcXp4bnFkaXA2Y0VHcGJ4S0dlYm9UR0pDeVR3bDlOVnFqTmhaUWxEeHVGaF9YRzBoN2VPV1hYUWc4YzFjQUZIU3lvVWREZFRZTmp1WHEwbk1BMEZXWlRDc25WYnczclJ1d1dzVl9NVDNOQkxiLU9WYS1uVGtwWjFyRnk2TUVKREt1cmg5cEJvcWdmQjhxOA?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "65d18f7233",
+  "time": "2026-11-04T15:00:00+00:00",
+  "title": "이혼 소송 중 2배 오른 아파트…남편의 '공시가 기준 분할' 주장 통할까",
+  "ko": "이혼 소송 중 2배 오른 아파트…남편의 '공시가 기준 분할' 주장 통할까",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261104_0003853761",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "25f05605af",
+  "time": "2026-11-04T14:55:36+00:00",
+  "title": "U.S. election results, a sharp setback for Trump, draw reaction from around the world",
+  "ko": "U.S. election results, a sharp setback for Trump, draw reaction from around the world",
+  "lang": "en",
+  "outlet": "CBS News",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFFqdDd2NUlXZF90QXBnYUtYUE1mSjFRQlFnNDExcWZyNnI5NHhlUkQtczNINjRCU2ppaXpJN01iSTdvYVpGbTkzUmVzWm15a1AyVGhhR0U2c1kwQVBFalJiOFh3bkVsNk1YaHlLV29JSk5ESmxpOXpoRTFZVktmQUV2bE1KUQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ce2dbea7ce",
+  "time": "2026-11-04T14:53:00+00:00",
+  "title": "Musk jokes about GOP losses after spending big in midterms",
+  "ko": "Musk jokes about GOP losses after spending big in midterms",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFhkQ01ZVFBFVmtiaHpJMVg2UkNSb2NQNjIybGwxNHBoUk12THQtd0l0ZDJQdUtmbkZyNmowdW5TUjJPcG42djVKWDUyUDFocnpvdjdtejFZQWdHanFUVGFYRTVwZUh6Wk1UXzVTUTg0dTFfZkRUU3c3YXNoanlieFBxYmZleDFlRHBTbXJ3N211UGvSAZgBQVVfeXFMTkJPZXp5OGk3by1adFFUa2tudV8tQ2MzTXlyb2owMUcya3pKeHZnNTktSG9WNHQwS0h0UVlzSTFYeHdTS29FREZvS1IzNjhsU05kVDhSclU1aWFlOURKVUZQU0FlZFo5X1BNWi1Iby11RG1ieG1VcVBDTTlsTkNIYVl5c19yRFhTTWJxNENuZVBXQXI3MHJhdFY?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "10c2aa01a7",
+  "time": "2026-11-04T14:50:59+00:00",
+  "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+  "ko": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlF6NkdldkxEMjY5TFU0U1hCSWJraVlvbUdWcDlleFY4MEJlUGZrQmUxQjB4ekcxVTNMMTg2MWxCUzBybURhSlR2eWRaUzExbjE2M05QbTR2dGRPM3ZDRnB2TnhMUmJQel82LWJEaThmcm9ZREhwRUNwdmpmX0hfa29Hb1BnOUtweWx0Vmotc1BRMTAtTjZqS2h0Yy1uczZFMVJTTV9sc2VCMXdmcG8w0gG0AUFVX3lxTE9XU0kwWXhweldPSmlUa1kzQ0hyUVQ3RGdvNFVNTXgybk9EQWNVVWdWQ3lUZkxUTDkyRUdNazBFaWh2eDM5d3Q4NTNYY3dLTzZtb2NPdExVVjQ5Wk9tVVBBRE15dHJ1ZVI0cXpodGVqelpPS0s2NjBocDlITldkbHRMc1E0eFV5d0ZrR2s3cWtldEhHVU1JX21XdzFjaW9sbWxtZVpZWXhDSV82amVFTG1nOFVkMw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "87cb236f74",
+  "time": "2026-11-04T14:48:59+00:00",
+  "title": "코트라 \"미국 관세정책 유지 전망…쟁점법안 거부권 가능성\"",
+  "ko": "코트라 \"미국 관세정책 유지 전망…쟁점법안 거부권 가능성\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261104185300003",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "060506d485",
+  "time": "2026-11-04T14:39:08+00:00",
+  "title": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+  "ko": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTg3TkZ0TWJkWUt2Sl9OTG1LRU9JZGhqazhzSWxEVTl4SDFwYU9HcktqMGRQS2VOd2libmF3a1pDb2NESTN1bmthUWhlc2NFV1k4WDRrdEE1SVBJOW54X3ZTN04wUjJOeldDSUNhdU8wanFqZXlTV3U0RGw1TFVhOWNta3RXb21IQXFHQl8wWQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "93fca46d6f",
+  "time": "2026-11-04T14:37:00+00:00",
+  "title": "Trump: Fox News ‘bears responsibility’ for GOP losses",
+  "ko": "Trump: Fox News ‘bears responsibility’ for GOP losses",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1udGJYS3d4eExBLWFYeDJTTDd4NzVHU2FndEhpZVYzQ05rQ210VldNMHp3RGtGN0ZyUHJkWVpRbGFjMTdhT2QxVlVNT2VKVFdwQW80UW9YSUxZR0ZuMENuZkJlVlJRemhBc0Z1TVdlb1VaS1pYQzdLRDZqY2nSAYIBQVVfeXFMTU0yVENHbmZXeTBVVlRNZkpaTGY1bGxoeHl3ZEczWWdDMGEyWlhVZmNpM2JxZTVjNFFubkRHdk1hMjdIb1FwdUxrNVI5WXQ3ZE5lLTk2V2NTUG1hTndMQ1BXNkUwX1dzY3RVNG1aSzliQzU0THMyT3Y1NEhmWkRoNnVsZw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ba3bf7bd47",
+  "time": "2026-11-04T14:34:32+00:00",
+  "title": "Americans on Why They Rejected Trump’s Republican Party",
+  "ko": "Americans on Why They Rejected Trump’s Republican Party",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wTk54LThiOVJPOXVkNUlpckhuRTNMc2xtaWhNRzRsSEkyM01BQ2Z6eU4ycTdkUFE3ZWF5d1R0YkNYd1JVR2h3anFWX1J6QUJhTTNBU0hvb2RGdkxld05QNUp5NDg0QWc0aFJrelhFdDhtbk5U?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f493b107ae",
+  "time": "2026-11-04T14:32:40+00:00",
+  "title": "[속보]뉴욕증시, '정치적 불확실성 제거' 상승 출발…다우, 1000P 급등",
+  "ko": "[속보]뉴욕증시, '정치적 불확실성 제거' 상승 출발…다우, 1000P 급등",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261104_0003855365",
+  "section": "global",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8cb59d19c9",
+  "time": "2026-11-04T14:26:00+00:00",
+  "title": "Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement",
+  "ko": "Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEtLektoYVZDcWstQTl3dFFheHpIanU2NTZVT01JamIwVmtJRzNVdG1IOHpaZnU4WDdpelRhV1MxeldtTS1BQzhtcUZmam9oUG1uNUNNZnUtTTlyYzFSeWVweHpsT0pKd0trcFlLVll3MzFHLVU0Q3hCRlExWGw5ZEZDSDR1X0p6R3VJRDg3TXNXQ293UlE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7ddfbbb90d",
+  "time": "2026-11-04T14:26:00+00:00",
+  "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
+  "ko": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONW5jbWZPYUFqbVVlY2pUeWlNXzRReW9rMXhVS3YzdnpaNEYxY0p4MmNqYW1BWEsxcUpBVkszaTdBRHRhekhEU0pHNzlQZFhvenpZZWQzcTNRMWt0RWZPOXNaZUxLZTNOMTk2VjV2QVRvaTNMYnpfcEI2b1JYT3VGSFg1S1ZLcFJPcGlTOHRaVzg?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d19693c4c6",
+  "time": "2026-11-04T14:25:12+00:00",
+  "title": "The election changes Washington. The work on crypto continues",
+  "ko": "The election changes Washington. The work on crypto continues",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "da653fbc22",
+  "time": "2026-11-04T14:25:00+00:00",
+  "title": "Talarico says his Texas Senate win sends message to Elon Musk: \"Texas is not for sale\"",
+  "ko": "Talarico says his Texas Senate win sends message to Elon Musk: \"Texas is not for sale\"",
+  "lang": "en",
+  "outlet": "CBS News",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zc29JTVJFOEI2OUlsQU1UTkdNeHMwNHQwS3JsQ0NGdk9fbFBOWTdzSGFVRHFDYkNNNHZEbEdJdzJzTHhMNTcwMEdRdTMyalJ1QUxyZWFHaVNXVXVKbjlDVS13ekwyOGc0NldIeGRDaDlzVENLLXc?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "21abd1d308",
+  "time": "2026-11-04T14:00:53+00:00",
+  "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+  "ko": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dafb690acd",
+  "time": "2026-11-04T13:49:00+00:00",
+  "title": "America's foreign allies hope for a post-midterms check on Trump",
+  "ko": "America's foreign allies hope for a post-midterms check on Trump",
+  "lang": "en",
+  "outlet": "Politico",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTZ4MElmV1V4WXZvRlRfR0V0SXpQWm02aDh1MmRNX1NwNDRfQVlmNjlSdTJLZE9MUGxid1hEVFBQYUxUOHBfdWNRV3pMLVBMa3pvV0xYRXJEbFlQSzk2VXFjbVhlcVhqUmN1aTdOQllpeHhWOUxtbVRPMGlnaTEtUWMxMkhJd3ltX2VIY3g4RF9hVXBEM3JrRG16cHA0WDFaOEZDVl9CRQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "563bfa7b2b",
+  "time": "2026-11-04T13:48:00+00:00",
+  "title": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
+  "ko": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
+  "lang": "en",
+  "outlet": "Wired",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUlabHlOdnBMeUhRaTRINExMTFJuSU84TUpRWnFLLV81SEFuT193YllUTVZNRWMyb0ZxM2owUHM1MDk2NUxSZjBZcXFqbGI1WTZORWxfTW4ydm9GU2JBUFZrTlNWOExxZmZHRmlsZHRwZXlYUU9jSnNJN0toT3l3aTJJaHhFc2gwNzE4WGtoT3ZSY0RBXzBtRkx1Z293dw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f2ac5a20a4",
+  "time": "2026-11-04T13:44:00+00:00",
+  "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+  "ko": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "094ebbfe0e",
+  "time": "2026-11-04T13:42:00+00:00",
+  "title": "Trump-backed Republican redistricting sought a midterm edge. It didn’t work",
+  "ko": "Trump-backed Republican redistricting sought a midterm edge. It didn’t work",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2JROXdkeWhPR0RzZ0JxTnRYcFNNWkc3VEtWU2NUZ1BFQXpMcURGa2ZSc0RuNnV1S3R2dnhPcDF3RzFMMTdCRDFMZ1BBVkxlVzVVZVpvbkRmazdWQmJuYXZuVncwb2FNZWkzV0xpckR5OVJtTG5ZNTJLeFFYZ0pqQTNPZklLOXhFbmpGVGdzbzNlTkZSZ3RsVzVkWm1ILXdhTnJUNQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f2ac825b9d",
+  "time": "2026-11-04T13:38:58+00:00",
+  "title": "Iran says Americans rejected Trump’s war as the world reacts to the midterms rout",
+  "ko": "Iran says Americans rejected Trump’s war as the world reacts to the midterms rout",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXNTWEFrYUgxWTVNYUxORkM0NXM5MVd6bk85SGZNUlI3OGVyYU45UEpXNW5mS212ZkxKdG5HaUxhTjAzcVUyQ3czeWd3eTd6V09fckJBVDJfRVNUcUFIU0ZBb2pOVUluVHRCaXVfTGlIc0paU1JtbUVwTFZMNDYyODNKY01qZE9ES3kySEhIUm9mUXdsOTZ6U2NTcHdFdEtrZk5YRmpvc0hnNGs?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "50f9820964",
+  "time": "2026-11-04T13:38:09+00:00",
+  "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+  "ko": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+  "lang": "en",
+  "outlet": "NPR",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1FoZU41QU9vc05waFBPWVB3Y3M3NW80TmgyQ3o5U25lTHV2VGVmY0FpOEtSTVkyQ3BNZ2RZQ1dheDluQUhoR1JucVlUek9mNWVtSW1QOUIzbUsxOUpiQ09iQmZVVTV0SzdpSzU3bkpDR1UxRXFPdXVOMGlxSmw1TWdSd2UxdGhtb1pLS29HRQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fef8353aac",
+  "time": "2026-11-04T13:23:30+00:00",
+  "title": "The midterms have already cost Musk more than $60bn — and counting",
+  "ko": "The midterms have already cost Musk more than $60bn — and counting",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KcENUb1N1V05yT2hySUc2eVN6X1FKUHJubmxzMnRVY0RfOUhLeWJzelpiOHNvcUxzdFBjbUtlNGU4aFkzMEJuUm9ZdGxkLVQzZVVkRDNlZjVnZVVFa3h0czBoWEZVNDFLYjlDb0Z6eTE?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b14f10a547",
+  "time": "2026-11-04T13:22:02+00:00",
+  "title": "유로존 10월 인플레 4.0%…獨 2.8% 佛 3.8% 伊 5.6%",
+  "ko": "유로존 10월 인플레 4.0%…獨 2.8% 佛 3.8% 伊 5.6%",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261104_0003855334",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "ee70bf5ba9",
   "time": "2026-11-04T08:05:12+00:00",
   "title": "\"채용공고보다 인재 매칭\"…잡플래닛·링크드인, AI 채용 혁신 논의",
@@ -5188,826 +5996,5 @@
    "BBC",
    "Financial Times"
   ]
- },
- {
-  "id": "1cb10750ab",
-  "time": "2026-11-03T15:51:26+00:00",
-  "title": "‘We Will Kill Trump’ Billboard Crops Up In Tehran In Latest Display Against The U.S. President",
-  "ko": "‘We Will Kill Trump’ Billboard Crops Up In Tehran In Latest Display Against The U.S. President",
-  "lang": "en",
-  "outlet": "Forbes",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbnRHZVVjcU52Z1FqU0QxU2VLblo3Z2FHZ2JtOUZnSVB2T0tGaXVUWDI3Q0k4eXNPd3dkQmRDOGJkeFVvXzlKNUVhWmVFckhsOUhLd0pNeC1sU0NSdXoza1RGOHJIUXA4Z1J1aXJzVmpDeVozSDN4VFlXN20tTGZ5b0w2S2sycnNKeDFLVWluSTRfSk1qYVVnZGhCRVhfa0VncW5KNEw0WVV3cmdDMGV0MEh4V2dSdE82YnFCVFdLRVJmTDRFT25iNW5YMXloeklwYnF6X2IyQjVXdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4d0ba23660",
-  "time": "2026-11-03T15:49:00+00:00",
-  "title": "Trump Will Keep His Leverage on Geopolitics No Matter Who Controls Congress",
-  "ko": "Trump Will Keep His Leverage on Geopolitics No Matter Who Controls Congress",
-  "lang": "en",
-  "outlet": "Barron's",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUk2LTJycFVyOWtBcVN5c3JxaFV2RVBlM1V2aVBWbGxJajNwMnFiSzIwTkVkc0dKcjNsNTYta2JRUjl4LUx4N1NZWkxYWEdlRG9iYjRlVGk0TmJhT2pjSTRtTjdRSTctZGVURXg2MG5MT2c0X3JYdlBxZFhpSzRoOVpjRU9YdXRSX0NyMkhMY0lpWm8?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f10b73f3b8",
-  "time": "2026-11-03T15:44:00+00:00",
-  "title": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
-  "ko": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4bef53bcd9",
-  "time": "2026-11-03T15:42:33+00:00",
-  "title": "[美중간선거] 트럼프 정부 사상최대 감시단 파견…野주지사 주방위군 동원",
-  "ko": "[美중간선거] 트럼프 정부 사상최대 감시단 파견…野주지사 주방위군 동원",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261104001000071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "475a6a4bf0",
-  "time": "2026-11-03T15:39:30+00:00",
-  "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-  "ko": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-  "lang": "en",
-  "outlet": "Ars Technica",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTk5WTTljd1FTWmJwczl3YV9ETktQeUxWenRRQkNfVUYyTHljaTN5YURvR2Nib1drQ3l2MmppQjdqV0I5OC1temNWbUwxZ1l4NTJORVByWFdzSXUySjVtemw5Mko1V3JGeXZHZUhJME53bUVsRGlwSVhOM2h0cWFOLWVfQ3BGTGdpdi15cURmMlVMV1Q5ZjgzZkFvT0Qta2VVTXJYR0stRE5BRFI3ZWthZzRfV3VzZw?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b20a0a0ea7",
-  "time": "2026-11-03T15:38:01+00:00",
-  "title": "Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal",
-  "ko": "Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlQyR2MxUTF6Qzg1eml5RkpRVDN2VS0xUGhEaXZVZlRwbW05ZzgzZlk4djZuX2wtNVVFdFhlcEtON1V1MzUtQ3c1QjduaGo0Z2ZVSUgxdEVkZDZlTk9HSHd3dVJzd1ZBdjNId1pKd0hZTWpqNjBXTGlHVDd6M1ZpN0Y5c2c?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "57b42f5d0c",
-  "time": "2026-11-03T15:35:11+00:00",
-  "title": "트럼프 \"이스라엘 연40억불 지원 중단…좌파가 불공정하다 악용\"",
-  "ko": "트럼프 \"이스라엘 연40억불 지원 중단…좌파가 불공정하다 악용\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261104000400071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3172cca6e0",
-  "time": "2026-11-03T15:34:49+00:00",
-  "title": "뉴욕증시, 美중간선거 당일 혼조 출발…나스닥 0.59%↑",
-  "ko": "뉴욕증시, 美중간선거 당일 혼조 출발…나스닥 0.59%↑",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853577",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "05fb3886e7",
-  "time": "2026-11-03T15:32:31+00:00",
-  "title": "Trump says US will end military aid to Israel by year-end",
-  "ko": "Trump says US will end military aid to Israel by year-end",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2Z6Slh6WVRpQzRUYU1Nd20yVDVGYWxRbGJuZTR0WENNT25vc1hwS3hCOHloc0dyNXkzLUQweDROT2hQUUVrZzN4VTVpdnFkcHZrOV9XOERZdm1NWFRDQks1Y3BOZXdMcHBZSm5VeWt1cF9BQWpVZ2JjSncySU1sTkFrNDk?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "AP",
-   "Al Jazeera",
-   "BBC"
-  ]
- },
- {
-  "id": "965924a01c",
-  "time": "2026-11-03T15:30:00+00:00",
-  "title": "美 중간선거 끝나면 반도체주 반등할까…\"관건은 의회 구도\"",
-  "ko": "美 중간선거 끝나면 반도체주 반등할까…\"관건은 의회 구도\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003852266",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "919b05f39e",
-  "time": "2026-11-03T15:29:04+00:00",
-  "title": "With US midterms underway, courts rebuff Trump's pressure on state election officials",
-  "ko": "With US midterms underway, courts rebuff Trump's pressure on state election officials",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZW93bHktaktVcmxFd3hYUnU2dzJkWUJWMmtSbG9EQThOVEZfNDR5dlRMcEdfazl0ZU1GVGdMY1E3eWVkcG92Mi1fLTc5R0F3YXFOdlJXYlpMQ3FPZWZQb0U4X19lX01YOWxqcHkzUTB1U29adl9CQnIwUjdOd3d5dFBGX2xnQmRDdENGeDMtSk9OR05iTWxOMGpkQWpCR0I2RU5xUEtDazlPVzU1YTJYcGlwNXgxMURrNThHNGNrYkE1SjQtNG44RWh1UzFRQQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "906d127f48",
-  "time": "2026-11-03T15:21:33+00:00",
-  "title": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
-  "ko": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a619fb8328",
-  "time": "2026-11-03T15:20:00+00:00",
-  "title": "Trump says he will end billions of dollars in military aid to Israel",
-  "ko": "Trump says he will end billions of dollars in military aid to Israel",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmd6SkVPb2ZTOURqbWtoSFVYckRHVHhtcjhrRUJlSGdXRTB5V1N2U0xTQ1VjQlNLN2ctaF9OWnlIcng4ZWoxS2l3WkFVWkl4RFVINUUyY2YwaGJpdzZCZEhZbkN3TzBULWdaS1M5TUJ1NF9CNzRJUEpMdXF1YUdYLXFQNmVHeEE?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "AP",
-   "Financial Times",
-   "NBC News"
-  ]
- },
- {
-  "id": "a74f00f2aa",
-  "time": "2026-11-03T15:19:00+00:00",
-  "title": "US will halt $4B in aid to Israel as the Mideast ally shifts to buying military hardware, Trump says",
-  "ko": "US will halt $4B in aid to Israel as the Mideast ally shifts to buying military hardware, Trump says",
-  "lang": "en",
-  "outlet": "AP",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0YwcDVrc0FwXzlPOGd6aUZxSUdSaFpFSUdMUlRqVkpyTDhYVVdsSC1ZRFhpZlJVWlgycWh1YnlRNEh2STZiQjhsNkNJeDZ5eWY3ZmM4cDBsY2ljaXNVWkl3TnVsc2xtbVVzSktwT01zclRSbWx1R2YyY251YmF1YV85b3pMSmN1OTZ4VjJkN19kbXdNUWRkdGZ3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "Financial Times",
-   "NBC News",
-   "Politico"
-  ]
- },
- {
-  "id": "499715bd81",
-  "time": "2026-11-03T15:17:21+00:00",
-  "title": "U.S. will stop $4B in aid to Israel at the end of the year, Trump says",
-  "ko": "U.S. will stop $4B in aid to Israel at the end of the year, Trump says",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGRQeHJ5WHZ1MUlfR2VWTVdaSjVBT3p4Mm9RR2VtQnBTT0ZQV0dMOHFXbDF0Uk1kWTJjYXZoTTJ2c3BtY2M4UlBrSHJOTm55UEZWRHZyYy1CR1VwWEI4R2kycDVUMTJtNkZFLXJZSWp2bE9TREwtS2pUTmtRUkU0OHVrZ1haOTNickpXMjZVb0RhT1E5cUgyS0tfU2lrTlowT0JpaHozTUthRjFHWWRIVUR6UQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "AP",
-   "Al Jazeera",
-   "BBC"
-  ]
- },
- {
-  "id": "a826f68108",
-  "time": "2026-11-03T15:16:49+00:00",
-  "title": "튀르키예 방산기업 아셀산, 1.5조원 방공시스템 공급 계약",
-  "ko": "튀르키예 방산기업 아셀산, 1.5조원 방공시스템 공급 계약",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261104000800108",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ac2b2b82dc",
-  "time": "2026-11-03T15:15:08+00:00",
-  "title": "Trump says US will stop giving Israel aid after year-end",
-  "ko": "Trump says US will stop giving Israel aid after year-end",
-  "lang": "en",
-  "outlet": "Al Jazeera",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0dUNVRlTTRrMGdlaGlfVldzdHdiVGxXaGxWcWRxRUI2TFpJTEJvR0dXaUZtRnBaeGNQSE9oWlllWWRWYTU5WWN4X1licmwtTXFJNWVkZmdhOEx3ek5xWjZncV9xQ2lGcUtKV2pWTmVHb0g4WjJtQ1gzenNhRV9NWVpubHpwS2pQZkUyY1FzaW9QRHpNNDdxS2RGVEtiUTdlQ05PY0Rn0gGrAUFVX3lxTE1NX2tqcGFZV2V1OHdlVi1ZbmwxVFAyTWszUm14REJqRTRNZXpaM2taNC11OE9DQXpJZUFVa2ZJY1RQblcyOHY5UWZZb214VkwzWmgwZ0hzcWtjSTBLSGkyTkZzRk9fZF9DbmhyMEcwU2VWYUZMNGdDRnBrMTJSMjVDdWtQWUZJejZ0eURhd3BTR2RUeUdOVzdSdUxhV2tOSHJKaDJBUTdiY21IWQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "BBC",
-   "Financial Times",
-   "NBC News"
-  ]
- },
- {
-  "id": "f8b393fff6",
-  "time": "2026-11-03T15:10:24+00:00",
-  "title": "Greenland lawmakers set to ratify Trump security deal",
-  "ko": "Greenland lawmakers set to ratify Trump security deal",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGs2NUJnQ1FjVkdfMVh5eDNKOXhoV042ckRlWFYyc05LSE5ncG9JMGNIZWJaMXhtUjZnMmp3ZVcweGJsT2RJeGdtNy0xZlRTaGg2Qm5rU2ZsSDNPWmV1NVRIc2Q3SmRwWTFJbmRfOVByLXI2bFpfOGY0eFgwT1pmaW5uT3ZvTm1BUnpSZTV6emJOQmNUUm9fUkV2bmkyVEVl?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "19d2135578",
-  "time": "2026-11-03T15:09:51+00:00",
-  "title": "Trump says US will stop providing aid to Israel after year-end",
-  "ko": "Trump says US will stop providing aid to Israel after year-end",
-  "lang": "en",
-  "outlet": "BBC",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04Tm9ubkowWWNySVB0cGk5U2RTTmVkRktseS1Eb1Q0emtJNXdJLW0xMm0tNGlxT3RWbXkwMGR2QnJ1ZzRjVlNBQjdSSWxnNEtlaFZyN2QxTUctdkk?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "Al Jazeera",
-   "Financial Times",
-   "NBC News"
-  ]
- },
- {
-  "id": "8997fe1397",
-  "time": "2026-11-03T15:04:00+00:00",
-  "title": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
-  "ko": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b4427db7fe",
-  "time": "2026-11-03T15:02:13+00:00",
-  "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-  "ko": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f8f028b99a",
-  "time": "2026-11-03T15:02:00+00:00",
-  "title": "\"상승장 뛰어들고 하락장에 손절\"…노후자금 갉아먹는 투자 습관",
-  "ko": "\"상승장 뛰어들고 하락장에 손절\"…노후자금 갉아먹는 투자 습관",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003852214",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d6ae64740d",
-  "time": "2026-11-03T15:02:00+00:00",
-  "title": "트럼프, 이스라엘 지원 끊는다…\"더는 돈 필요 없어\"",
-  "ko": "트럼프, 이스라엘 지원 끊는다…\"더는 돈 필요 없어\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611032345133283",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "33886a8af4",
-  "time": "2026-11-03T15:01:12+00:00",
-  "title": "뉴욕증시, 중간선거 결과 대기하며 혼조 출발",
-  "ko": "뉴욕증시, 중간선거 결과 대기하며 혼조 출발",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261104000600009",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c6da3f2eec",
-  "time": "2026-11-03T15:00:01+00:00",
-  "title": "What the 2026 midterm elections could mean for Trump’s final two years",
-  "ko": "What the 2026 midterm elections could mean for Trump’s final two years",
-  "lang": "en",
-  "outlet": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHpLVWlsaWJ2emp2NWVJeHVXM3o2VkdvT2hjLW9aWE5CUVU0d3lXejhYYU5mcDZjTUFwU3ljOVJCTldSaV8wOFRHQ3NVT0pqOTJMc0hxdkUwQjFPYUduTl9xYnRfdmJUWXdZWmNYQXNyUFdsUE9qdm5TZ19OaHdfNzJqSjI2aWRybmNTN25Ld2RUd01wd0HSAZsBQVVfeXFMUFNhTTQ4dkNpSTFLMDAxTkxiWVlXODM4U1dXNkgzcHlBLUhhX2EyRXRVZkFOR3prSzBORnV5Tkh1c3JsLUw5RmNJMFM3TW1NWS02Y0RNOFViSkpKMGU1alFJeGU5LUQ1MmVRVFQ2RVdPVE1IWWtZTGUwaVRVX0hBYUFFV2d3bHdpMXFGWFhwM2tjV3B0ZlEtNVRBY00?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1d2a3da7a4",
-  "time": "2026-11-03T15:00:00+00:00",
-  "title": "\"고점·저점 맞추려 마라\"…140억 자산가의 美 레버리지 ETF 생존법",
-  "ko": "\"고점·저점 맞추려 마라\"…140억 자산가의 美 레버리지 ETF 생존법",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003852549",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fead1bd2cb",
-  "time": "2026-11-03T14:56:31+00:00",
-  "title": "Trump says US will stop $4 billion in funding to Israel at end of 2026",
-  "ko": "Trump says US will stop $4 billion in funding to Israel at end of 2026",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "ABC News",
-   "NBC News"
-  ]
- },
- {
-  "id": "8aa1328ba5",
-  "time": "2026-11-03T14:55:39+00:00",
-  "title": "[美중간선거]트럼프 \"부정선거 제보 시 최대 13억원\"…美 투표소 긴장",
-  "ko": "[美중간선거]트럼프 \"부정선거 제보 시 최대 13억원\"…美 투표소 긴장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853568",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b178b11d84",
-  "time": "2026-11-03T14:51:39+00:00",
-  "title": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​",
-  "ko": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenlkU0tVOVBzcm1oVTFKMjNPUVlJY25RNjBfUXo5OGFPeWg2S01zM0lTa3ZXa216UjhPTVlXdzU1RXU4aWtJVnZ4cmJQX19xV1M1NG5HbWFLYm9ReUp0VUFBMThuS1JHMzJRZGxLZnNmNVlCb0lOQ2tfamowMU9TRnRLZ2l1X1I0Qkk5YWotZ1pIeXVyNHp0MEZ3V2h4ZVpmX2lXMlRqbHlTaU1VQUd1N1NKa3lNa25hdXZuSlBTNUZLVDJfUU1CTE1n?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5bbbf57c93",
-  "time": "2026-11-03T14:42:30+00:00",
-  "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-  "ko": "South Korea asks its biggest banks how a major crypto hack would hit them",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "11ac00748c",
-  "time": "2026-11-03T14:33:34+00:00",
-  "title": "[속보]뉴욕증시, 중간선거 당일 혼조 출발…나스닥 0.45%↑",
-  "ko": "[속보]뉴욕증시, 중간선거 당일 혼조 출발…나스닥 0.45%↑",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853574",
-  "section": "global",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8bc49fa102",
-  "time": "2026-11-03T14:33:22+00:00",
-  "title": "Wall Street braces as voters head to high-stakes polls",
-  "ko": "Wall Street braces as voters head to high-stakes polls",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9685ae6bba",
-  "time": "2026-11-03T14:27:54+00:00",
-  "title": "트럼프 \"이란 방공시설 완공되자마자 어젯밤 타격…작은 공격\"",
-  "ko": "트럼프 \"이란 방공시설 완공되자마자 어젯밤 타격…작은 공격\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261103188000071",
-  "section": "kr",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "84f18b7b15",
-  "time": "2026-11-03T14:25:09+00:00",
-  "title": "Oil price extends decline to $103",
-  "ko": "Oil price extends decline to $103",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "264a749fa5",
-  "time": "2026-11-03T14:22:09+00:00",
-  "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
-  "ko": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "28395245a3",
-  "time": "2026-11-03T14:21:01+00:00",
-  "title": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
-  "ko": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
-  "lang": "en",
-  "outlet": "CNN",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUnBVMUZfT29MNHkzbnUyaTY5MHI3UzR4OElKVUV6TFV1NVEybHNLV3ktQ3VWYUljaDJKZFhwVTUwbmRla2tDRzVqOU9HcVVneHhYYjJoLW4wcjN4QmhldVRlS0s5dFF5SEt3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d0f1717571",
-  "time": "2026-11-03T14:09:33+00:00",
-  "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-  "ko": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHVzNkEtR21PRVNoSGFwTlk2VjVoRWhKNDRhRlRwd2FtVzlEMHNkelFia0NRaWtEQjdpMEV2U2FsU2RuSkFSUzdQUWg0RkhOVzVYeDRJZm0zYjNCemV5TTFoV3JWOWtMOE10LVYxYkJQeDNrRFFyVEhLT1o4R3Q2UnAyZEZoYnpIR3lJSnZsbWhQWHM?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cb47ee875a",
-  "time": "2026-11-03T14:09:26+00:00",
-  "title": "Trump says US is close to making a trade deal with Canada",
-  "ko": "Trump says US is close to making a trade deal with Canada",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUpBTWJCc1lBeWhlaWFkSEFyYUtsbjg4THBRS3Z1cGs2ZE5BXzhiUGRpNFZsTnZtb2I0eHItTV9McE5BYm90TU5nZXJfMm9wLVc4TkhWNnBIZTlyYXhDX3ZRdzRGSnZCWS16Y0JpNnBYLWZwR2hrVmk3c3pIQXpxUVJ5ZGF4amN5ckhIUGdPS28yUjZkbHEtekFnVVVwQQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4750f5deae",
-  "time": "2026-11-03T14:06:00+00:00",
-  "title": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks",
-  "ko": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "314973b6ca",
-  "time": "2026-11-03T14:04:30+00:00",
-  "title": "트럼프, 연내 美 대 이스라엘 원조 중단, 무기 판매는 계속 허용",
-  "ko": "트럼프, 연내 美 대 이스라엘 원조 중단, 무기 판매는 계속 허용",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611032258266852",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "da036d6c4a",
-  "time": "2026-11-03T14:00:00+00:00",
-  "title": "스노우플레이크, 기업용 AI 에이전트 공개…\"업무흐름 자동화\"",
-  "ko": "스노우플레이크, 기업용 AI 에이전트 공개…\"업무흐름 자동화\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261103083400091",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f66d5e73cf",
-  "time": "2026-11-03T14:00:00+00:00",
-  "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-  "ko": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "aca7e49b79",
-  "time": "2026-11-03T13:45:01+00:00",
-  "title": "Trump's Justice Dept identifies where US election monitors will be in the 50 states",
-  "ko": "Trump's Justice Dept identifies where US election monitors will be in the 50 states",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGRoZ2w1TlIydE5odC15MjNOMlpTV3hMcFRwaDBPbmFVUzRBUkp4RXVpUnl3MHZuZmhVVFhXVDRkSFl4ZmUzVWsxczFwRHMzNU43WUhPbWlZTWUyTE1lQ3VzWko2SDBzLUMxc213T3ppaHlfcjl4MVdCNFY2TkZYWnJ2U1VWek9SckwzaG1zTXQwdDZTUmk3blZsQVFqMVdPN3Y0N05rOWU0MFJRc2xER25jcDBUeHp6Unhsd3JDLTJGekRjcTN3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "df0bd33cf8",
-  "time": "2026-11-03T13:44:00+00:00",
-  "title": "Federal judge dismisses Trump lawsuit seeking Harvard admissions data",
-  "ko": "Federal judge dismisses Trump lawsuit seeking Harvard admissions data",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2puY2ZZRDRXT0haa0VFVHlVWWZzdmNPckRRTVgwdkJfWUs2Q1lzM3ZWNU5LR0NuWWo5dU9HMEcyNzJiVWEtX2pkSmtHel83VUlZVE5scVZkWTdTWWU3Sl83M0pkajEzcHhvV1ZFM2JlMWhjYUNGQnoteTV0RWVVSkg3TS1COVZsWWJicnhzdEhrakczSXUwRlVfZVpiUQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8418149a21",
-  "time": "2026-11-03T13:43:59+00:00",
-  "title": "\"중국산 오징어 몇 조각에 5900원\"…내용물은 찔끔, 가격은 '금값'",
-  "ko": "\"중국산 오징어 몇 조각에 5900원\"…내용물은 찔끔, 가격은 '금값'",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853549",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b97006397a",
-  "time": "2026-11-03T13:32:00+00:00",
-  "title": "Trump’s midterm campaign has distilled his vile message | Sidney Blumenthal",
-  "ko": "Trump’s midterm campaign has distilled his vile message | Sidney Blumenthal",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdySlJvd01sU0wwSHV2b1JYdGxZczBCMF9nRXV2R3FSQkFtT1FKMXZUTk1CM1c2dG03amNmWXMxWHh5anhaNUwwdkRDOHBPaWQ3TTN1ODdYeV83QmRCbW9pZTBONFR6Q0cyOEFwaXQybldvSTItOF9PcktSeUJNcGUtZDNtYklyZXBsRjJsUHU?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f5b0903c77",
-  "time": "2026-11-03T08:21:20+00:00",
-  "title": "서강대 연구팀, 이미지 생성 AI 화풍 모방 막는 기법 개발",
-  "ko": "서강대 연구팀, 이미지 생성 AI 화풍 모방 막는 기법 개발",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853222",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9169fcbe4e",
-  "time": "2026-11-03T08:18:13+00:00",
-  "title": "\"트럼프, 중간선거 패배시 나토 압박 등 대외 강경 노선 우려돼\"",
-  "ko": "\"트럼프, 중간선거 패배시 나토 압박 등 대외 강경 노선 우려돼\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611031702373814",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c870a4f0aa",
-  "time": "2026-11-03T08:06:13+00:00",
-  "title": "美법원, 트럼프 '비시민권자 의심' 투표지 분리 보관 요구에 제동",
-  "ko": "美법원, 트럼프 '비시민권자 의심' 투표지 분리 보관 요구에 제동",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611031630224999",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a2dc5692dc",
-  "time": "2026-11-03T08:05:58+00:00",
-  "title": "제주항공, 3Q 흑자전환·순익 2000억 돌파…\"환율 하락에 항공기 매각 수익까지\"",
-  "ko": "제주항공, 3Q 흑자전환·순익 2000억 돌파…\"환율 하락에 항공기 매각 수익까지\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853216",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fbcbf79bc1",
-  "time": "2026-11-03T07:55:02+00:00",
-  "title": "국고채 금리, 위험회피 속 외국인 선물 매수에 일제히 하락(종합)",
-  "ko": "국고채 금리, 위험회피 속 외국인 선물 매수에 일제히 하락(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261103155151008",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "211dbcfc0e",
-  "time": "2026-11-03T07:54:30+00:00",
-  "title": "공소청, '노태우 비자금 의혹' 前비서실장·경호실장 소환…김옥숙 메모에 등장",
-  "ko": "공소청, '노태우 비자금 의혹' 前비서실장·경호실장 소환…김옥숙 메모에 등장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261103_0003853252",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
  }
 ]
