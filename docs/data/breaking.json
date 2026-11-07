@@ -1,5 +1,305 @@
 [
  {
+  "id": "0837befb1e",
+  "time": "2026-11-07T14:04:39+00:00",
+  "title": "[올댓차이나] TSMC, 차세대 메모리 3D D램 생산 추진",
+  "ko": "[올댓차이나] TSMC, 차세대 메모리 3D D램 생산 추진",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261107_0003859069",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9acdf0361c",
+  "time": "2026-11-07T14:01:00+00:00",
+  "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+  "ko": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnk5akFZVUlZNUVTWG92VmZOZFMxcXVQcHlTTl9nOUdyeU4yMzRrZUxDYXVTZ2R5eXByc1ZtUGd1YzBaeDZfbnJSYzRPcW9QeTRmNnAzbXdfVHAtbDBNRi1hMjJ4NjRYY25oMUl6aFJ3ZmJYZGx5Y0ZiWWFERkdLRWJPX1dtRk1ia05pa1IyTkhHQQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "adde3317b5",
+  "time": "2026-11-07T13:55:14+00:00",
+  "title": "Musk fled California for Texas. Now his red-state refuge is in revolt.",
+  "ko": "Musk fled California for Texas. Now his red-state refuge is in revolt.",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObF9oQ3hUNXptNWZGbHk1MDc0SzM5Yzd5ZHJpV3BEazhMUnlkNDVaR3NzaERiVWZIekJESmdZdlBDblhzaGdqeERjZC02V3Z5b0tMcG1rTVU3eUlFLWVZMGNaV3l5TDMyQ2wxNk9kMFFTMGN6WUhYWnlnWWtGc1VlY1RwOHZ5enZHUUx1bnpaVWRDRExjNEl4ZEZOXzdWLTcxZ01JTDEteHZZNUt3dmlRSXNwR0xGQQ?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7b1537cbb2",
+  "time": "2026-11-07T13:51:30+00:00",
+  "title": "Why Bolsonaro says U.S. took him in: Trump ‘convinced’ Brazil is no longer a democracy",
+  "ko": "Why Bolsonaro says U.S. took him in: Trump ‘convinced’ Brazil is no longer a democracy",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzRsUnFna1BFRloyQWlkY0RtQXVmVVpOSnVScTdNNF8tN3ZwcGhBVmRiSXZEajJrMFZWZXpEd09kdVB0ZlRJZldfQTlnWXZwSFhSU1Z3SWxDUGV6Z2xJcUp3OFIyejBWZTh2N18zNk1UUy1PQmR4ZDA5ZFB3NERlUWxJZU5FbTY3LTBPY1ViREV5U3pQVjJiY0lQekVUQjMyaFJlV1NFUGpzTU42VUJHQ0JoOHJmVmFLcnJFQTJJeTZqVFk?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "520784019c",
+  "time": "2026-11-07T13:45:41+00:00",
+  "title": "Trump's \"war-time consigliere\" and the Miller Doctrine",
+  "ko": "Trump's \"war-time consigliere\" and the Miller Doctrine",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVkcxeWJJQ3U3M2lLU2xNdkxkc0JRNVVkYzVCMGU5Sm9oUkMzM0k1anJBS3RZTUVEd3EyTkhoYTZJaVFYTkt4VV9VbFFuRG1ja0xMMU5nOFBSeHlTVUxicW84TnRRRDBITTFhX3QxQS1qWTBJV1cxMHc3S0s0amM?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b712683e7e",
+  "time": "2026-11-07T13:35:24+00:00",
+  "title": "Despite midterm rebuke of Trump, allies see U.S. turning further away",
+  "ko": "Despite midterm rebuke of Trump, allies see U.S. turning further away",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWnU0c09PaGdoanJILTZ3NTJjWkw4c05jc1l0ak1rRnc5dDVFZkpUMXdaY3N2ZnZ2eFRCTnJ5NFVvMmZJMk1iS2JkRzFUekNkZTNXajdEaE9JYjNnQm1oR0NtMi1UWXF4UEE2NXc2YnI5cEZRVW5Za3BSYl9GZTZCcnAtUDJESTFXNHZLSTVhVWhuSThmX1ItQndSMlJKaFl6V3prQTd4Sk5pNTJUYnB1RTB3?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "db8c46c36d",
+  "time": "2026-11-07T13:33:38+00:00",
+  "title": "Melania Trump and LSU are set to announce a scholarship program for students who were in foster care",
+  "ko": "Melania Trump and LSU are set to announce a scholarship program for students who were in foster care",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbEdaUHpYcXFEUDJsSV9UQW5qOWZlcXoxSXUzTXotbDlvRGVoNUtYLTM0UkdOdlJuZWxWZ3ZZYkpEV2IxclBKajlzR2dOMFhLTldhTVM5Q1pidWVfeFNmMW1WSktkSi05eUJRUDgtS2pLN1RHNUNjSk00Q2Q3ZkFjZGJjNXlOMnloTldvR3U4WVBSLWdIcENIbW03MDhWeVQ1VUFJSXU4Q2k5Z2dpTEZBYUo3R3REaXJNT1VaMlVIb094WXZNWDVXcU1iU0VLOTNld3B4RE1MYWdOdnhib01YaGN6bw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f77db363b6",
+  "time": "2026-11-07T13:30:00+00:00",
+  "title": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time",
+  "ko": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ccd96e0e80",
+  "time": "2026-11-07T13:23:52+00:00",
+  "title": "밴스, '중간선거 패배는 이란전 탓' 트럼프에 미리 알렸다",
+  "ko": "밴스, '중간선거 패배는 이란전 탓' 트럼프에 미리 알렸다",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261107_0003859060",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fc1b995d5a",
+  "time": "2026-11-07T13:02:00+00:00",
+  "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+  "ko": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclJVWWhaZHdNbFQwT1hMUzBxMzZJWUdlbEJVZVVTUGdlb2llM3FxVGtOSzdLUEx0NkpDbXJzakN0bHMzdTdvY0tGUTdlSWIwQ1M0eUZqQ1UzUldGQXQzYTZfSEloWEUzd01tQUN3RzJteVJaUjUwZjZqM3p1M1ZrX0dPcw?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f820602d81",
+  "time": "2026-11-07T13:02:00+00:00",
+  "title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
+  "ko": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZYVkw1MDB6YWZPS25SN1FMbi1INFZsNnIwRUliZ2I0VlZEbUExN3JjU3IzNk5ZbHlrV0hoTEE0a1R2UlZ1WTc5X1lLVEpIcnFyRU00aEVhOXBpTjFpOHdhUm53M0UwYU5iTWQ1bGVHWTE2a3daTHFEOGhReThjTmFPT3ZfYWRscllMWXUzby1hRFB0RUtoOUxwVG5WaF91REo0U0tFZjdTZnRpU1Jn?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c2091318eb",
+  "time": "2026-11-07T13:02:00+00:00",
+  "title": "Trump administration accused of altering translation of request to extradite wealthy leftwing activist",
+  "ko": "Trump administration accused of altering translation of request to extradite wealthy leftwing activist",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOXBuUzZrVHJhUUU0a2EyVEFyWWxsaS1yejJUQVVzTW15VnNxckNpVDZQNVcxeXJBRUtRbFBHTlhZR0dUS0NJemVOWXJOWm9Ic1d0N3pqakw5aUdmM0w2WUxzZVJQZV9UR2duWnRIR1VRWFBJTDh2WkpXeGNKZnlWVEwzVlE4Mmw1NG93a0Z6WDJBUkhoTm1ybkxySUxJb3Zib05iUm01ME5ZREFZWTRkN1hrUkY0bUlTM0RnRTJLTQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "205265978e",
+  "time": "2026-11-07T12:49:00+00:00",
+  "title": "Trump’s grip on his party is in question as Republicans reel from the midterm wipeout",
+  "ko": "Trump’s grip on his party is in question as Republicans reel from the midterm wipeout",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlJlRjdta2pORGI0RFp3c1I3M25qQnpkcjZwZzJXYW5TVjJSYkFiakZoTm1MY3BJWnVLSTlhUlJ4WjFHZzFza0hPdm0wbzNmT2d3d2NrQ1J1dG5NTjQyVUc5VUJrN1J3QlI0aU9mNkVTVDhuMnhlcDlra3padlRWd3NZTUpOUEdldVdvUTExVUFBX21SMmlLdHE4aVY?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3e14704f93",
+  "time": "2026-11-07T12:35:01+00:00",
+  "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
+  "ko": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261107050000017",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4e2ec12fc6",
+  "time": "2026-11-07T12:30:45+00:00",
+  "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+  "ko": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5",
+  "section": "crypto",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3ac3be694c",
+  "time": "2026-11-07T12:28:07+00:00",
+  "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+  "ko": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXQ0d0dpVEhkVm5NVjJNZ1I3dGRaUHZCOUZzRGtXelc4ZGVHTnNmX2tmcHdLTXpvbFF1X3FzYmc3a1dtMmVlQ3lIVHg0OHJxZXBGUHV2R05peGRiM3g4SHJRbGdHTmtuTGxnbzdkNVdjN0ROR0ZzVXBmcDRFWUdtbWk0MWxpcDNiRFRNUkN0d2NTT3FaUWxjMVpOSlpJNHRJNFlZWHplWlpUWjhGcThzWVp5ZnDSAboBQVVfeXFMUFYyNTVITzd1b19BQzhMZWhVbzViclBBcHI5a2JXdWEyZTZnUThWek5lcDdJQjZRUlhKdVo1b2M0Wk5MeVVNYjNZZkNXNlA5Uk95dU1YRUdkYm40UE1uOURxVnBYSXNiRnJaRHphd09NOWVLbWI2N29JRHEzT2JNbEoxMmEzWS1DazJQdkxzWGt2Z2JMOXloRTZlT0oxeEdNdGdhcG1PMjJRdVhqeGxpMzlISlRtRTR1Zjln?oc=5",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9e1e83f111",
+  "time": "2026-11-07T12:00:09+00:00",
+  "title": "Opinion | We the People Finally Turn on Trump",
+  "ko": "Opinion | We the People Finally Turn on Trump",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FY3FrcXR2NmFrSDVTQjYydHZWUWtCeHI0Z0lrTFNxOG5QMklCVEFobjIyNEFCVEFIdk0tSnpWSUw2c1BTT2h4ZzhaeVA2U0wtdzFFWU1WaWUyU0hxdW43VWdtaWpHd0Rra1k3Nk1BUE9DV2lmT25CM05oMWE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3927cbb6a1",
+  "time": "2026-11-07T12:00:00+00:00",
+  "title": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
+  "ko": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwclN0S0FOLXZHdWRScjRHNUIzWG9GZXVnamloNjJjeGVTSUdlc0F1dnM1NGxqZkZ3QWxVWjAyV3JNQkJieFZFcFdHeVZuYVpLbzI0UnNZcEhfQzg5R2dMbFZidTNDX3BIcERBclA4dXVaRV9zV1g0NnVTemdxM3c?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8f8a433d14",
+  "time": "2026-11-07T11:50:25+00:00",
+  "title": "민주당 공격하고 트럼프 치켜세운 헤그세스…영상은 美국방부 직원들이 제작",
+  "ko": "민주당 공격하고 트럼프 치켜세운 헤그세스…영상은 美국방부 직원들이 제작",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261107_0003859035",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "16766fbf5e",
   "time": "2026-11-07T07:42:43+00:00",
   "title": "여자농구 신한은행, BNK 잡고 개막 2연승…홍유순 더블더블",
@@ -5809,293 +6109,6 @@
   "section": "kr",
   "people": [],
   "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8a0e152863",
-  "time": "2026-11-06T00:04:42+00:00",
-  "title": "[속보]코스피 5000선 붕괴...8% 급락에 서킷브레이커 발동",
-  "ko": "[속보]코스피 5000선 붕괴...8% 급락에 서킷브레이커 발동",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611060904006455",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "문화일보",
-   "아시아경제",
-   "연합뉴스"
-  ]
- },
- {
-  "id": "d2b02a7c3b",
-  "time": "2026-11-06T00:04:34+00:00",
-  "title": "[속보]코스피 지수 5000선 붕괴",
-  "ko": "[속보]코스피 지수 5000선 붕괴",
-  "lang": "ko",
-  "outlet": "아시아경제",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxeG1CX3FIam1Vd3p2ZGtkdXBFMFhQOV9XSS1TTnJ2aGd3c1NzWW9JRmVYeVBjMXZQMnlUM0V3VDlGcmhpcEx0dURaWFhBVjRpdVR3Zm54a2szT3htVVpnNw?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴시스",
-   "문화일보",
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "fbfee1d6c4",
-  "time": "2026-11-06T00:04:04+00:00",
-  "title": "[속보] 코스피 '검은 금요일' 4900선도 위태...1단계 '서킷 브레이커'",
-  "ko": "[속보] 코스피 '검은 금요일' 4900선도 위태...1단계 '서킷 브레이커'",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tY3d6c29OZGg3N05VV0JORnBPb2FHbk5JdGFpZEQyYVpjbEhsaEthZFhwdzlxbk84TUxIRkI2Ti1tQWMxMG1aQjlHWDZmNXcxa3RHVDBIcDlKNWxSOWxzVS1VQ1R0MFdH0gFuQVVfeXFMTjFqRGFNTkZERXB6d1ZDeGtfc3RSLXdVVkpsVkJBdHU1YmtxNVRvcG5xcFlWTlBYd1lQcVN5VXJJbExGYy1Xb1RucWJCc2d2dGhPX19sNG9EWmR0YXVaaDBHc0NTM3JQLUdoMHkzZ2c?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "788b35c062",
-  "time": "2026-11-06T00:04:00+00:00",
-  "title": "[속보] 코스피, 개장 3분만에 ‘서킷 브레이커’…삼전닉스 10% 폭락",
-  "ko": "[속보] 코스피, 개장 3분만에 ‘서킷 브레이커’…삼전닉스 10% 폭락",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWZiOTZiRklURmVsaXZlcVRLZ20zQk4tSG5UY1RXa0dKbEtKUHVJUGxJZWp6d3RwSHpHVk1nQzJSZ1E2VHdjemF5eTR2dFN4UktOc3Rlc21XRmFCcFg5ZU12S0wzcXdjZHRmUXFMTmwtb1dnTkpIc1dOV2pzUWNBRU16czZvX2F20gGcAUFVX3lxTE9paVYzZEluc2wzYXAyVXU5aGEyWjU3TUt5bm9yTXhock1JTmFLSkdXZHBZRnVHaHk3eXg3bjJWNTJpalB4VlZEbGhTWjhtTk9MV2RqT0NYTlQxdUNXeVRDbWJPV1pMSTRPRnRGc1BMclppVkRYUzMxVDVBUVZMbjRQQ2pXYWlmWkdwekRWZkVxcHZhcEFwNEhuMTI1SA?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "서울신문"
-  ]
- },
- {
-  "id": "fd9120c5cb",
-  "time": "2026-11-06T00:03:58+00:00",
-  "title": "[속보] 코스피 8%대 폭락에 서킷브레이커 발동…5000선 붕괴",
-  "ko": "[속보] 코스피 8%대 폭락에 서킷브레이커 발동…5000선 붕괴",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsYllVa1Z5M2hyVVhSZ2Q1bDBlYl9xUGQxdzI5X1pCWFFONDlSbjlLU2JvbXljb3ZiNXlXcDdxcnFYYVROUUFKVFRiZ1lWRF9mbEdNZmVKeXBibG8?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스핌",
-   "한국경제"
-  ]
- },
- {
-  "id": "d6f34d89c4",
-  "time": "2026-11-06T00:03:41+00:00",
-  "title": "[속보]코스피, 5000선 붕괴…8%대 하락",
-  "ko": "[속보]코스피, 5000선 붕괴…8%대 하락",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Dc0MwRVZ5UXNkX2xPRGd3WWZFd01aclVmUnpubnVMSlIyOUhUbDBDclFvV0h6cTBmTGVaYmZlY0Jlc0NEQ2RtRTRTQVc2aUc2c0FrbEpfNGhLU0Z5OElUNXBn?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "아시아경제"
-  ]
- },
- {
-  "id": "e85c388319",
-  "time": "2026-11-06T00:03:15+00:00",
-  "title": "[속보] 코스피 장중 8%대 폭락…5000선 붕괴",
-  "ko": "[속보] 코스피 장중 8%대 폭락…5000선 붕괴",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026110699696",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "뉴스핌"
-  ]
- },
- {
-  "id": "915f2cee90",
-  "time": "2026-11-06T00:03:03+00:00",
-  "title": "AI 성장 서사 대폭 후퇴…블루웨이브 방어 섹터는 [오늘 나온 보고서]",
-  "ko": "AI 성장 서사 대폭 후퇴…블루웨이브 방어 섹터는 [오늘 나온 보고서]",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12200165",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c691ca91c2",
-  "time": "2026-11-06T00:03:03+00:00",
-  "title": "[속보] 코스피, 8%대 급락 출발…코스닥 5~6%대↓",
-  "ko": "[속보] 코스피, 8%대 급락 출발…코스닥 5~6%대↓",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpdHhSUVQyQ1pLdngySDNqSi1WQ0NTYTNtY0dhamdqMFVKRGpOUmxnSzhkak5CZEd5blRkNDhSOGM5TmRmTkFYb19ObTgxZkJKdnZMRjNlNGx4ellhMlIycdIBYEFVX3lxTFBpdHhSUVQyQ1pLdngySDNqSi1WQ0NTYTNtY0dhamdqMFVKRGpOUmxnSzhkak5CZEd5blRkNDhSOGM5TmRmTkFYb19ObTgxZkJKdnZMRjNlNGx4ellhMlIycQ?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "매일경제"
-  ]
- },
- {
-  "id": "40441e4b99",
-  "time": "2026-11-06T00:02:51+00:00",
-  "title": "[속보]코스닥, '美 AI 쇼크'에 23.98포인트(3.53%) 하락한 654.43개장",
-  "ko": "[속보]코스닥, '美 AI 쇼크'에 23.98포인트(3.53%) 하락한 654.43개장",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zVFYza2RCRlZwMTFyU25LMjNrRXd4S285NHlUdURyeUE2RlNwNG4yVHNKZ0FqVzR4NjRSeElWMGtUa29UTS1zc3ZfdlhrQWdiTjgyaDJQTy1EcWxYYTZ1ZjNn?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "66254b0082",
-  "time": "2026-11-06T00:02:03+00:00",
-  "title": "글로벌 주요 암병원 석학들 삼성서울병원 집결한다...AI 암 치료 논의",
-  "ko": "글로벌 주요 암병원 석학들 삼성서울병원 집결한다...AI 암 치료 논의",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611060829142445",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ce4334ee7e",
-  "time": "2026-11-06T00:02:00+00:00",
-  "title": "삼전닉스 개장 후 곧바로 거래정지…코스피 5000선 내어주며 ‘서킷 브레이커’",
-  "ko": "삼전닉스 개장 후 곧바로 거래정지…코스피 5000선 내어주며 ‘서킷 브레이커’",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlhPeWEzNTZmYVlzNXoxUlplUmNZdHNOcHRNNXdSNVlPcFRULWp1bmg1MzZJbnlSRXJ1SUhZc2pkYmFGZjQ5bFI5RjBNcG5fMWZfa0l0X2xMZkpuWkpPSVRtcUpnVWxDWnZJS1FneW00UlBzbTlWd3lfYjY5bzA4aWVmUUt6YkxM0gGcAUFVX3lxTE5lT1ZCMGNlNWtpak9LT25uSl9ZOVZlU3laVFYzOTRuWkp5dDJfMkJEUU5XdUJxczNPcjhRcHNNRUVXWF81RmJJaTBNUnFBbno3OUJWTG9KODRETmlXSWJUbmhTeEd5WHR1WXg0c1NkeHlUTzBuMm9Wam43OE1VRDI0QjhfN1FoNUM0S0JnaDNMd09SdkVYZ1ZCVUZqVw?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bd02149d1e",
-  "time": "2026-11-06T00:01:41+00:00",
-  "title": "[속보]코스피, '검은 금요일'…2.24% 하락한 5263.26출발",
-  "ko": "[속보]코스피, '검은 금요일'…2.24% 하락한 5263.26출발",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZOFJ3UHlRb2FkdmxwYXlzQ1VKYkFsNGdXNWlFajQzOHU3SUZaUi1ldGlqdGpvU056RG5ENHBZWFBlaG1rSy1zZVo1VjdpaXZUNGpfODhuSWdPaE1ZZXRBUdIBeEFVX3lxTE40WjhNS0pZVkRXYmhXS3RpaTF4ZHBzcWxLVDZQODhuSWRoenlFOHR6UktSa1ZjVzZqdHZCVW5vWU5MTW04aTRYdmI1UDgyS2Y3X2ZiMkxHRU5Oc2YzZmJmUkpHTzEwUVJKMWtKV2FxV1B5NkNUbTZlMA?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "020ce0db4e",
-  "time": "2026-11-06T00:01:35+00:00",
-  "title": "[속보]코스피, 전일 대비 2.24% 내린 5263.26 출발",
-  "ko": "[속보]코스피, 전일 대비 2.24% 내린 5263.26 출발",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611060901036264",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7fa88e8489",
-  "time": "2026-11-06T00:01:30+00:00",
-  "title": "[속보] 코스피 2.24% 하락 출발…5200선으로 밀려",
-  "ko": "[속보] 코스피 2.24% 하락 출발…5200선으로 밀려",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/2026110699496",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "da0ec76725",
-  "time": "2026-11-05T23:53:54+00:00",
-  "title": "美 10년물 국채금리 4.83%대 하락…빅테크 매도세 속 안전 자산 쏠림",
-  "ko": "美 10년물 국채금리 4.83%대 하락…빅테크 매도세 속 안전 자산 쏠림",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611060844367643",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7da6ce3082",
-  "time": "2026-11-05T23:53:35+00:00",
-  "title": "중진공, AI인재 키운다…\"2030년까지 6만명 목표\"",
-  "ko": "중진공, AI인재 키운다…\"2030년까지 6만명 목표\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261106_0003857317",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dfbc9e6ac5",
-  "time": "2026-11-05T23:53:00+00:00",
-  "title": "[속보] AI 규제 공포에 나스닥 5.5%↓, 반도체지수 6년만 최대 폭락",
-  "ko": "[속보] AI 규제 공포에 나스닥 5.5%↓, 반도체지수 6년만 최대 폭락",
-  "lang": "ko",
-  "outlet": "중앙일보",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZnBZVkx4VlZLUWpsdFNLalJmN3EwbkJaM25ENkpMc2NfTGhXRWs0NXVDQ0F1eUlhTUxnWmxUUjBoWG0zZERmdWhLTm9RVWxpX1FxQWM5SmhmRlBSM3ZKbUVB?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "857bee1076",
-  "time": "2026-11-05T23:52:48+00:00",
-  "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-  "ko": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmNvckxNTEw5QzhKbVdmMkRXc0RISXppT28zVWVsOERmckNXNGR4blB4dE42NDNQLXRMdkhxS3JjdkNsMXlMcE5Vc0lEZGZEckg3S3Y2MXk5d1otSGh0RFNyeDZWOTVqSWNTY1AzTUQ3N24tY1lUREtEdmVlTUVCQkpNb3ltQlFRb1lUQzNxWXp5V244ZXdMYWs4QXVLN2pDTWhBNURBSE1zUjhCdC1qd0ZDbHI5aUYwUEY0?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
   "official": false,
   "also": []
  }
