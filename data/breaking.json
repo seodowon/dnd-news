@@ -1,5 +1,35 @@
 [
  {
+  "id": "4d305371fc",
+  "time": "2026-11-07T22:33:00+00:00",
+  "title": "매대 비고 월급도 밀려…홈플러스, 자금 악순환에 회생 '빨간불'",
+  "ko": "매대 비고 월급도 밀려…홈플러스, 자금 악순환에 회생 '빨간불'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261106192400030",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ced7559eea",
+  "time": "2026-11-07T22:32:22+00:00",
+  "title": "\"美 정부, 엔비디아 젠슨 황은 中 스파이와 연인 관계\"",
+  "ko": "\"美 정부, 엔비디아 젠슨 황은 中 스파이와 연인 관계\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611080656362057",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "a039390324",
   "time": "2026-11-07T22:27:45+00:00",
   "title": "Trump says he offered UFC CEO Dana White the White House press secretary role",
@@ -68,6 +98,22 @@
   "section": "people",
   "people": [
    "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0ceabb1e22",
+  "time": "2026-11-07T22:07:22+00:00",
+  "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+  "ko": "After the midterms, things are looking rocky for Elon Musk and data centers",
+  "lang": "en",
+  "outlet": "TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU1oZzdSaEhoRDBjNHpPaU90MTBiUjlaS29VWFVTX3c1ckFHa0laNTBYN2RHdmFwajFWaWU2c2hjMzRXQUdEUDU4a0s3QUhHWkZsOWNUOHNpcXNpa1JzTTFIQm11dmVXWUhtTmNPUzdrUkY1X3hZdWhvZlBrMW9sbzBWU09EdHFfcHV3WE0wSFJaNVF3Ri0zZEpuUmFtd1Z3S2xuV1BnRnJUallDREE?oc=5",
+  "section": "people",
+  "people": [
+   "머스크"
   ],
   "flash": false,
   "official": false,
@@ -169,6 +215,22 @@
   "url": "https://www.yna.co.kr/view/AKR20261107042100030",
   "section": "money",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f4ebf737f0",
+  "time": "2026-11-07T21:48:10+00:00",
+  "title": "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration",
+  "ko": "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeHR1Y3YtYlJlVVhBVS04R2JnczFFZ1JWOEtjYkZIMFlvb2lfVERuYzJFQWdRMnNaWExYNnZvSGhuTnJrZTNTMHV0QWRmRFl0RncwX0hTQ3FOOVlnVUREeTJuSXh3RDEyRGdTeEptWXp4VU5fNTNMWDlPYV9XenkyYWRxNWpFWjVJWGV0YkpQRDA3VFF2U2UzWjdTTnZ2VWVyUGs3MWZtYldzXzV5UU1Tem5ZbGdobzZJQXZCSm90MGdBUQ?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -8216,132 +8278,6 @@
   "lang": "en",
   "outlet": "NBC News",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckxtSVBZV0FkSkdqRGVONm9pTkRmWFBxVHpOZTlxY2lhdUpSOURFYUVhRFB5c1FqeHJYM3ZlMmNOcnVrNTV3M1d6V1JWZVNNbVY4a1gxNkNOQ3hQNnVPR3J3MmRrdmdiNThLak1SYmlGVXZSbVpWRzZnTUlIUUZTVGpYd2RZVTQzV21OU2luZHplNE8yX0JQckNNZWFySnRzWGlISEpyMVV0bHFjeTdTU09FZjhmcnJUOWZscg?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "152e921466",
-  "time": "2026-11-05T22:45:13+00:00",
-  "title": "트럼프-이라크총리 통화 \"주변국 공격에 이라크 영토 사용금지\"",
-  "ko": "트럼프-이라크총리 통화 \"주변국 공격에 이라크 영토 사용금지\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261106_0003857162",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5be5e52d43",
-  "time": "2026-11-05T22:43:00+00:00",
-  "title": "Trump administration stops disclosing disaster aid requests",
-  "ko": "Trump administration stops disclosing disaster aid requests",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUJnWEdKVDRvQlM5TlctTmFhRXBRbzlJX1JfbmhfRWxvVDlyUkc3YlVXTGdyY1R5YjQ1NngyU1VRR3ViVklnb19HblRQSm4wTF9abDV5QWo2X2NxRHVNMHMybVpuaVhLVkR6U2p6eWU4dFkweGlpQ3I4TnB1dl9UeEt1T0M?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3f7e4cbdc8",
-  "time": "2026-11-05T22:42:00+00:00",
-  "title": "Ben Jennings on the billionaires who bent the knee to Trump – cartoon",
-  "ko": "Ben Jennings on the billionaires who bent the knee to Trump – cartoon",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOams0SkhsSnhCMHhrQy00SVZJeTVGd1dPd3Jqei0zWEFIMl9ZLWl4S2NJS2J1OHhuYVlBY1ZwY0VVOFFpLXllejU2bTRDNjhCTU93dGtfNkpJRGplX0J0b3ExdGUwUjB6Tl8xcy1MOEFMeTJaeEFzVlFMY0FDRE9qUGlRTUQwRThEQ09JYXBydTQyV0VvV25hTUNYU2FrRHUxUF9mdzNWa21lYV9VTkJKOGFIY25peHpmaTlXTWhkTQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d347663d90",
-  "time": "2026-11-05T22:41:52+00:00",
-  "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
-  "ko": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1399c472d1",
-  "time": "2026-11-05T22:39:43+00:00",
-  "title": "Rubio tells NYT serving Trump to end of term 'has always been my plan'",
-  "ko": "Rubio tells NYT serving Trump to end of term 'has always been my plan'",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHhPV2p6MUtYR3Byd0c5ZmwyQnNRc2NpM1JtNnlzbkJSSUMtOEgxSkU4dDQ0TzNHQks4SEFBR183WGFEbkJvd0ZEM1FJc2N0UHB1dHBKcGU1Z0ZGNnpyckE3Sm53ek1sY3BNeUhWcFpZTXctX0N6ZllxelRVaXhGazR3RElESzlwTEtXNW1VU2w3ZnNRWHFESEhCOWtBU3gyVG14aExURDJUTVU?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6d102af5e9",
-  "time": "2026-11-05T22:32:00+00:00",
-  "title": "Trump signs proclamation making Oval Office, Cabinet Room national monument",
-  "ko": "Trump signs proclamation making Oval Office, Cabinet Room national monument",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmtjWXZENE43ajdTQ1I5aUFVc2xvai0zZ1VjTVVLUTZFVlZFMm00OUZjUmRybHBxSDVnUkl6My1FSWkxQWVqYzR0OWx6emN0aV8tcWRpemNmallhRzlhUEEtVDhuenFYZHRxUlg3SVJDeVdOMXdETFN5UGhDS3V5S002Ml8yQmx3eF9kY3M1VVhqd2R3MktGSDU3R1NTTjhXeE5nVdIBqgFBVV95cUxNSGdsNlI0YkRObmpWZ3RzSC1JWmlBc29Za2d5ZUlQdURLUl9yaUdIZWVVWXRzT0pkeE0wSzdhaDdwUGMwMkhoNGt0Wms2eTRvMGNNdEdMcTE4cFdPQUxXV3pOakVFcGN6TzNDdGt2SWFJYTBwN2k4TnREWUdOYU1EYWJLWlBjM3RwM1d5T2F3b2liY1gyb0taN1Jab3hWbHVhTmRTc2VTTmJEdw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d7f1476b8b",
-  "time": "2026-11-05T22:31:27+00:00",
-  "title": "트럼프 \"푸틴 특사 만났다…유럽 전체와 큰 합의 이뤄질수도\"",
-  "ko": "트럼프 \"푸틴 특사 만났다…유럽 전체와 큰 합의 이뤄질수도\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261106_0003857170",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "560d066ec3",
-  "time": "2026-11-05T22:30:52+00:00",
-  "title": "Massachusetts man charged with threatening to kill Trump \"allegedly had the means to do it,\" FBI says",
-  "ko": "Massachusetts man charged with threatening to kill Trump \"allegedly had the means to do it,\" FBI says",
-  "lang": "en",
-  "outlet": "CBS News",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHQ1U3N2UDZfejhDMTNKdUxKQ0hnSE5lWEY0bFRqY2pDSVhUcnNlSmxEWkZ2dFRwbVpKM0Z3TllLcElEQjFWbDZrSGFOYU5VTS1nUlNZUV9XMzhZQmR4eE9rcFlvaXFWd0xaa3JrdnFUeVhYR09fQzlvX1ZyUEJRWW9lUjBhWTJRSFEzWHJZUnhFVkdJcDdleGlfakhVRER4S1E?oc=5",
   "section": "people",
   "people": [
    "트럼프"
