@@ -1,5 +1,75 @@
 [
  {
+  "id": "9887ae68df",
+  "time": "2026-11-10T23:49:17+00:00",
+  "title": "한컴위드, FISCON 2026서 AI 기반 제로트러스트 인증 기술 공개",
+  "ko": "한컴위드, FISCON 2026서 AI 기반 제로트러스트 인증 기술 공개",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110840449700",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a8bac0d74e",
+  "time": "2026-11-10T23:48:00+00:00",
+  "title": "챗GPT, AI비즈니스 포털로 확장…기업 입점시켜 검색·쇼핑시장 공략[글로벌AI브리핑]",
+  "ko": "챗GPT, AI비즈니스 포털로 확장…기업 입점시켜 검색·쇼핑시장 공략[글로벌AI브리핑]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110808390256",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ca9efd3e4d",
+  "time": "2026-11-10T23:47:55+00:00",
+  "title": "KB증권 \"美 규제 우려에도 2028년까지 AI 투자 방향성 안 꺾여\"",
+  "ko": "KB증권 \"美 규제 우려에도 2028년까지 AI 투자 방향성 안 꺾여\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261111031400008",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "51d06cc157",
+  "time": "2026-11-10T23:47:12+00:00",
+  "title": "美 장기금리 급등에 저가매수…10년 국채 ETF에 개인 500억",
+  "ko": "美 장기금리 급등에 저가매수…10년 국채 ETF에 개인 500억",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110832143252",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a324069b49",
+  "time": "2026-11-10T23:46:16+00:00",
+  "title": "GS리테일, AI로 유통 현장 바꾼다…상품 검색 노출 최대 3.9배↑",
+  "ko": "GS리테일, AI로 유통 현장 바꾼다…상품 검색 노출 최대 3.9배↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863059",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "ef13b9cf6f",
   "time": "2026-11-10T23:37:21+00:00",
   "title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
@@ -245,6 +315,22 @@
   "url": "https://www.newsis.com/view/NISX20261111_0003863035",
   "section": "ai",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "afa0628a0c",
+  "time": "2026-11-10T23:14:00+00:00",
+  "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+  "ko": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjF5TzcyRV9xRWtobXIwY1NSLVVGbk5nTWR1NWc3WDZZVUNSRE9seElTMExIenZvNDNpTmFjdk9PTDBRNHZkOF9mV0lSaXFkZ3dGWlhMdHNnZ1RpQzJyU3I0bEY0QjBacFRkX0tmWFJfc1lmYUFKQjVwSHhMNzlOSDMyUmZ2aUFCa05r?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -5941,99 +6027,6 @@
   "section": "kr",
   "people": [],
   "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2bcbc6d0e1",
-  "time": "2026-11-10T00:06:20+00:00",
-  "title": "[속보] 코스피, 매수 사이드카 발동…올해 28번째",
-  "ko": "[속보] 코스피, 매수 사이드카 발동…올해 28번째",
-  "lang": "ko",
-  "outlet": "머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iem5Cb1hab04yenJkZVlSTUc3WTMxY1ptOG01VlFPcFdCc3JaMEZhcnd0V21Od1JxZFBoS1dMWWhhMHRUVldlREpiRF9wWmd0T3k3eWlwWEJtblVwTk9IQ0xPMXdQbjhB0gFuQVVfeXFMT0VrV2hBTnRoX1NRdl93a0dwc19NMkZVenk3THV2ZzNoX3M1eklBcnQ4R1Vxekx6N3JKbDFSWEdiVXB5bnczTWhXdldnSjJEbG1SUW56WHIzeWljV2w5MkdJSi1DUFlEV012Rkw3NUE?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "매일경제",
-   "서울신문",
-   "연합뉴스",
-   "전자신문"
-  ]
- },
- {
-  "id": "b033a1bf2a",
-  "time": "2026-11-10T00:06:20+00:00",
-  "title": "[속보] 코스피, 9거래일 만에 '매수 사이드카'…지수 5.23%↑",
-  "ko": "[속보] 코스피, 9거래일 만에 '매수 사이드카'…지수 5.23%↑",
-  "lang": "ko",
-  "outlet": "뉴스1",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAweWRacm9KdVplaXY3NnVycGxhaGlvN3FDOVlMN2dpeDlSUnZwdy0yTXdVM0x3U21TeW4xNkVXOUJaWUd5NDl5V1JjUFd4alBOclJBZEN6ZGJsZ2c?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "한국경제"
-  ]
- },
- {
-  "id": "31018130e7",
-  "time": "2026-11-10T00:04:22+00:00",
-  "title": "반도체 약세에도 삼전닉스 '줍줍'… 초고수들, 인버스 ETF도 매수",
-  "ko": "반도체 약세에도 삼전닉스 '줍줍'… 초고수들, 인버스 ETF도 매수",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202611106562i",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9c456e26cd",
-  "time": "2026-11-10T00:04:19+00:00",
-  "title": "기안84가 대화하던 AI, 나도 만나볼까…'AI 콘텐츠 페스티벌'",
-  "ko": "기안84가 대화하던 AI, 나도 만나볼까…'AI 콘텐츠 페스티벌'",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611100855259943",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f958b2444b",
-  "time": "2026-11-10T00:04:12+00:00",
-  "title": "[속보] 코스피·코스닥, 4%대 급등 출발",
-  "ko": "[속보] 코스피·코스닥, 4%대 급등 출발",
-  "lang": "ko",
-  "outlet": "중앙일보",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DY2llRHI3Z0d5VlVYakZRbE9GeWVZaEphMl9TU3FkdV9WZlZHbFpDSWtwSmxqUnRSWU15d1YtbmlyUHo4SG9EVEpYNEsycEdCeGVacG1R?oc=5",
-  "section": "kr",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": [
-   "한국경제"
-  ]
- },
- {
-  "id": "fa1a629037",
-  "time": "2026-11-10T00:04:00+00:00",
-  "title": "[속보] 코스피, 美 반도체주 반등에 5%대 강세...삼성전자 5%, SK하이닉스 8% 급등",
-  "ko": "[속보] 코스피, 美 반도체주 반등에 5%대 강세...삼성전자 5%, SK하이닉스 8% 급등",
-  "lang": "ko",
-  "outlet": "조선일보",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0xHNUlyMzF0Z1RXMWY2cUt0WXdQOWxFdGpmZWF5bXBuODVfUGFmTGpxelI1enIzTUY1SS11bTlvNy0zY3JYUm01T29MdzJsa1BPNDN3ODZJQ2tBSXlqYW9OWFNicW9tcUhuc1ZEZU5CZzVORktqNEpGSTJpSUNIVDdBeWVoeVJj0gGcAUFVX3lxTE53b0lET1FYVTZjVFFWVlpIVHFNeWpDYzdVa3F2WjlVVnpDcW03ZmluNFFiNUFFUTIyaFdEZlBOOVZha2VKaGpwSVFfYnNCbC1WcHdZVWhvc2RHRlA2TjkxTWlhVzg2ZzFFZ1ZHcnlxN2FfYzc0SVFXbUJvaTVWMkw4QV9JclN6SXg0aHh6dEloVWt2Y3pYYzB1dlgzQg?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
   "official": false,
   "also": []
  }

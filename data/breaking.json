@@ -1,5 +1,75 @@
 [
  {
+  "id": "9887ae68df",
+  "time": "2026-11-10T23:49:17+00:00",
+  "title": "한컴위드, FISCON 2026서 AI 기반 제로트러스트 인증 기술 공개",
+  "ko": "한컴위드, FISCON 2026서 AI 기반 제로트러스트 인증 기술 공개",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110840449700",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a8bac0d74e",
+  "time": "2026-11-10T23:48:00+00:00",
+  "title": "챗GPT, AI비즈니스 포털로 확장…기업 입점시켜 검색·쇼핑시장 공략[글로벌AI브리핑]",
+  "ko": "챗GPT, AI비즈니스 포털로 확장…기업 입점시켜 검색·쇼핑시장 공략[글로벌AI브리핑]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110808390256",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ca9efd3e4d",
+  "time": "2026-11-10T23:47:55+00:00",
+  "title": "KB증권 \"美 규제 우려에도 2028년까지 AI 투자 방향성 안 꺾여\"",
+  "ko": "KB증권 \"美 규제 우려에도 2028년까지 AI 투자 방향성 안 꺾여\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261111031400008",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "51d06cc157",
+  "time": "2026-11-10T23:47:12+00:00",
+  "title": "美 장기금리 급등에 저가매수…10년 국채 ETF에 개인 500억",
+  "ko": "美 장기금리 급등에 저가매수…10년 국채 ETF에 개인 500억",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611110832143252",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a324069b49",
+  "time": "2026-11-10T23:46:16+00:00",
+  "title": "GS리테일, AI로 유통 현장 바꾼다…상품 검색 노출 최대 3.9배↑",
+  "ko": "GS리테일, AI로 유통 현장 바꾼다…상품 검색 노출 최대 3.9배↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863059",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "ef13b9cf6f",
   "time": "2026-11-10T23:37:21+00:00",
   "title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
@@ -245,6 +315,22 @@
   "url": "https://www.newsis.com/view/NISX20261111_0003863035",
   "section": "ai",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "afa0628a0c",
+  "time": "2026-11-10T23:14:00+00:00",
+  "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+  "ko": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjF5TzcyRV9xRWtobXIwY1NSLVVGbk5nTWR1NWc3WDZZVUNSRE9seElTMExIenZvNDNpTmFjdk9PTDBRNHZkOF9mV0lSaXFkZ3dGWlhMdHNnZ1RpQzJyU3I0bEY0QjBacFRkX0tmWFJfc1lmYUFKQjVwSHhMNzlOSDMyUmZ2aUFCa05r?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -10331,80 +10417,6 @@
   "lang": "en",
   "outlet": "CBS News",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rc2hlRDFiUVRiTHJVSkVUQldCWFRwWTBNU0dCMEtvVnlHcVM4ZmpfMFBReTVTTXMyWGJ1QXhlYmM2WXZfdF9BZENLSjY5RVdFeE9OWUpRZFdRMHd1WmFqS3NtMW1DaGJnRmRGVXphc2ZBdnFIN2N0dzRqUml5a28?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4010d61955",
-  "time": "2026-11-08T23:54:45+00:00",
-  "title": "'오늘은 오를까'…SK하이닉스 담은 1% 초고수들, 반등에 베팅",
-  "ko": "'오늘은 오를까'…SK하이닉스 담은 1% 초고수들, 반등에 베팅",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202611093822i",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "790a8c178c",
-  "time": "2026-11-08T23:52:25+00:00",
-  "title": "실적 부진에도 목표가 12%↑…파마리서치 반전의 이유",
-  "ko": "실적 부진에도 목표가 12%↑…파마리서치 반전의 이유",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611090830364052",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d10180ba13",
-  "time": "2026-11-08T23:52:19+00:00",
-  "title": "\"환율도 문제 없다\"…'불닭' 삼양식품 고성장 지속",
-  "ko": "\"환율도 문제 없다\"…'불닭' 삼양식품 고성장 지속",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611090849008795",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e7f9d6f54f",
-  "time": "2026-11-08T23:50:00+00:00",
-  "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-  "ko": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "837a139a2e",
-  "time": "2026-11-08T23:49:53+00:00",
-  "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
-  "ko": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5",
   "section": "people",
   "people": [
    "트럼프"
