@@ -1,10 +1,10 @@
 {
- "date": "2026-11-11",
- "generated_at": "2026-11-11T08:55:44.742642+09:00",
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T10:20:27.029312+09:00",
  "mode": "draft",
  "articles": [
   {
-   "headline": "한국 디지털·AI 경쟁력 세계 10위…전년보다 8단계 상승",
+   "headline": "\"엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의\"",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -13,13 +13,25 @@
    "importance": 10,
    "outlets": [
     "AI타임스",
-    "KBS",
+    "경향신문",
+    "국민일보",
+    "뉴스핌",
     "뉴시스",
     "동아일보",
     "매일경제",
+    "머니투데이",
+    "문화일보",
+    "서울신문",
     "아시아경제",
+    "아이뉴스24",
     "연합뉴스",
-    "지디넷코리아"
+    "전자신문",
+    "조선일보",
+    "중앙일보",
+    "지디넷코리아",
+    "파이낸셜뉴스",
+    "한겨레",
+    "한국경제"
    ],
    "official": false,
    "draft": true,
@@ -27,44 +39,44 @@
     {
      "n": 1,
      "outlet": "AI타임스",
-     "title": "한국 디지털·AI 경쟁력, 세계 10위 도약...전년 대비 8단계 상승",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217238",
-     "published": "2026-11-11T08:05:00+00:00"
+     "title": "엔비디아 이사회, 젠슨 황 해임 논의 착수…주가 시간외 8% 급락",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217304",
+     "published": "2026-11-12T09:56:27+00:00"
     },
     {
      "n": 2,
-     "outlet": "아시아경제",
-     "title": "한국 디지털·AI 경쟁력 세계 10위 기록…전년보다 8단계 올라",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtYmI5ZVlUbGwxZV92bmFJVXBDYjZUZjR0bVJldnY4MlFhWGZLTTFyc05BMEN1c1hydWxNdUFKM3FZNEFYcFNnVEw3Y00wUy1vSVd6QVd1b2JiT0U5Wk1QaQ?oc=5",
-     "published": "2026-11-10T23:51:15+00:00"
+     "outlet": "연합뉴스",
+     "title": "\"엔비디아 이사회, 젠슨황 해임 준비…거취결정 회의 예정\" (종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261112020752072",
+     "published": "2026-11-11T23:43:27+00:00"
     },
     {
      "n": 3,
-     "outlet": "동아일보",
-     "title": "韓 디지털·AI 경쟁력 세계 10위…1년 만에 8계단 상승",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yTFJGZ2NTOXZfNXJTaXRiWkFhbWQ0a0g2TnF2NGFNMUNhNkdxdGZEMnVWbTVPRDhtRDV1WmlUNk1tRnN6QWdmSW5YN0JwT2ZYRER6bWtUa01GSGNzRWx2aUpuU0dQV0hVVW1pdjdBOWtCRDJIY1HSAWZBVV95cUxQS0hSUDJURUVVUzZxdUhOeTRhODZlZTRKYVFNTGNmUXN4alZoU0pZbE85NXFZSGFGMGVQRU95dFRhTUdQNTB3MVExT2ZWZ2NhNnZQMFR6Z1czUHZGdXhKMEstdmJpZnc?oc=5",
-     "published": "2026-11-10T23:06:28+00:00"
+     "outlet": "연합뉴스",
+     "title": "[속보] \"엔비디아 이사회, 젠슨황 CEO 해임 준비\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rWDR3bWo1Qkk3bHVteW9VLW45SUhsOGw5eFRHMlQxZm8yd0ZwaDR3bm5KYV9KdkZ2ZFZsRC05VzRfUkJQMFB4OGcza0p5cE9qbHI3U3RkZmdES21iRnJLMjdwVUJfbm8?oc=5",
+     "published": "2026-11-11T23:24:00+00:00"
     },
     {
      "n": 4,
      "outlet": "지디넷코리아",
-     "title": "한국 디지털·AI 경쟁력 세계 10위…효율성 10계단 뛰었다",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yTDN0OGVWUHFFVGZSZExjMmVlV2k2cm9xcVktTFgyQXVISWlzSEt1eThCVnhjU29RSHRWNjBLaV9SRlJlUDQ3aWhhTGNrVGNWSlEyc01n?oc=5",
-     "published": "2026-11-10T23:02:01+00:00"
+     "title": "[속보] WSJ \"엔비디아, 젠슨 황 CEO 해임 검토…빠르면 오늘 결론\"",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNFUtWkQ5bTBpcEwwWS00MkhfcVhzUzhHaVJ4eXo0WGNvZlZfRWhsYjNLMFpuVzNGM0dhNkptR05jNUFhSGVXTE5wOUM1UXM0U0hkNHZB?oc=5",
+     "published": "2026-11-11T23:21:46+00:00"
     },
     {
      "n": 5,
-     "outlet": "연합뉴스",
-     "title": "한국 디지털·AI 경쟁력 세계 10위…전년보다 8단계 상승",
-     "url": "https://www.yna.co.kr/view/AKR20261110131300017",
-     "published": "2026-11-10T23:01:00+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "엔비디아 이사회, 젠슨 황 CEO 해임 준비 들어갔다",
+     "url": "https://www.fnnews.com/news/202611120812033001",
+     "published": "2026-11-11T23:19:40+00:00"
     },
     {
      "n": 6,
-     "outlet": "뉴시스",
-     "title": "韓 디지털·AI 경쟁력 세계 10위…1년 만에 8계단 상승",
-     "url": "https://www.newsis.com/view/NISX20261110_0003862873",
-     "published": "2026-11-10T23:01:00+00:00"
+     "outlet": "매일경제",
+     "title": "젠슨 황 해임 준비 소식…엔비디아 주가, 시간외 거래서 8% 급락",
+     "url": "https://www.mk.co.kr/news/world/12205951",
+     "published": "2026-11-11T23:19:00+00:00"
     }
    ],
    "factcheck": null,
@@ -73,69 +85,71 @@
    "slug": "01"
   },
   {
-   "headline": "코스피·코스닥 4% 급등…매수 사이드카 발동",
+   "headline": "[속보] 李대통령, 16∼19일 필리핀 아세안·中 APEC 참석",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "kr",
+   "section": "people",
    "importance": 10,
    "outlets": [
-    "JTBC",
     "KBS",
-    "MBC",
-    "SBS",
-    "YTN",
     "경향신문",
-    "매일경제",
-    "머니투데이",
+    "국민일보",
+    "뉴시스",
+    "동아일보",
+    "아시아경제",
+    "아이뉴스24",
     "연합뉴스",
-    "한겨레"
+    "이투데이",
+    "조선일보",
+    "중앙일보",
+    "파이낸셜뉴스"
    ],
    "official": false,
    "draft": true,
    "sources": [
     {
      "n": 1,
-     "outlet": "한겨레",
-     "title": "코스피·코스닥 ‘매수 사이드카’…“AI·반도체 주가 낙폭 과도”",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1286548.html",
-     "published": "2026-11-10T23:55:40.242610+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "李대통령, 16~19일 아세안·APEC 순방…靑 \"북미 접촉 가능성 적다\"",
+     "url": "https://www.fnnews.com/news/202611120952288003",
+     "published": "2026-11-12T01:12:33+00:00"
     },
     {
      "n": 2,
-     "outlet": "머니투데이",
-     "title": "오늘은 '매수' 사이드카...미국 반도체 훈풍, 코스피·코스닥 동반 상승",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05N2pqaVU0a1hsRXJQRThDS1N1czJTQkM1NDRTZVNTeDRCaDFfbkRjcUMtNFZGTlJoWVFwVTdsWGVMaDRBMWZqYkc3NzBPN24xZU1JSkJ3ZjIxUkhKT2dmejVsZFk4SW9J0gFuQVVfeXFMTWp4UTJkRHYxTE8tU0lUck1Panp2ZTUtQXRWUWJVRVBzTll2M1FrckY1VFNDN2NNa1Z2bjJXYlRZX1Jpb3dGVnpJTFl5eU9PTkRjdG5ULXVrRzl2T0M1RXNTd2g2MDZfY0c2eDdkTGc?oc=5",
-     "published": "2026-11-10T20:52:53+00:00"
+     "outlet": "동아일보",
+     "title": "[속보]李대통령, 16~19일 필리핀·중국 순방…아세안·APEC 참석",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJaHZDbXg5cTRWLTdGb1lhM3VmazVZeUk5RE5IZUN4Z1lucEstbTFSc0tzMDltaGxRc19zX25YQjE5bTdMWGxESXRFb1hLcll4MUdTUUdKSXJHWVh4aHB1ZWZUYURFVFNEbkY3V1B0Q2o3aThBQXhF0gFmQVVfeXFMT0dtbExtc2ZIVEZSVUctcjhuNzhoeTQ5cmR0cV9xa25aRHE1LU94RjZfaG1lTFpQV0Z0U3VVZmVCZHFVcy1HYzZzS1Y3LWQxY2JZaHlCTllvRFNHQTVnQjNORERKZDRB?oc=5",
+     "published": "2026-11-12T00:58:59+00:00"
     },
     {
      "n": 3,
-     "outlet": "KBS",
-     "title": "미 선거 충격 딛고 급반등…코스피·코스닥 매수 사이드카",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrRDV5Y3A1cmdsRF9YWjNtbUtMRXdJaG10S1JLdDNuYW5ZTUVpekRoeGVNOUl1MnJxd2FQakdqNkpaNmdQTU1XbEZpbFFZcldQNWJHQkJzWUltRVE?oc=5",
-     "published": "2026-11-10T09:59:00+00:00"
+     "outlet": "뉴시스",
+     "title": "이 대통령, 16~19일 필리핀 아세안·中 APEC 참석…3박4일 순방",
+     "url": "https://www.newsis.com/view/NISX20261112_0003864947",
+     "published": "2026-11-12T00:48:00+00:00"
     },
     {
      "n": 4,
      "outlet": "연합뉴스",
-     "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5",
-     "published": "2026-11-10T09:13:00+00:00"
+     "title": "李대통령, 16∼19일 필리핀 아세안·中 APEC 정상회의 참석",
+     "url": "https://www.yna.co.kr/view/AKR20261112043900001",
+     "published": "2026-11-12T00:47:52+00:00"
     },
     {
      "n": 5,
-     "outlet": "SBS",
-     "title": "코스피·코스닥 4% 급등…매수 사이드카 발동",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839380",
-     "published": "2026-11-10T08:02:00+00:00"
+     "outlet": "국민일보",
+     "title": "[속보] 李대통령, 16∼19일 필리핀 아세안·中 APEC 참석",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xOUZwam1yRlhueElTNVpsMC14WlBlQ2dLMEdxam5SS21TdjZrZk9nSVZscTJnUVEyckgzT2lxdGFXLW0xWWkyakdSeF9MXzU5cmxna1dBZEo?oc=5",
+     "published": "2026-11-12T00:45:09+00:00"
     },
     {
      "n": 6,
-     "outlet": "JTBC",
-     "title": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95THJhQVdDVVZ1eFNIS29RSzkzTzFiWE1WbGZwY0twMTVFVW5Gbm9xV2xEdWJxT3FGWmdNOFhRLUhHR1NoMklkZXVET3pUZDgzS2xIcw?oc=5",
-     "published": "2026-11-10T06:36:00+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "[속보]청와대 \"아세안·APEC 계기 북미 접촉 가능성 작아\"",
+     "url": "https://www.fnnews.com/news/202611120943394186",
+     "published": "2026-11-12T00:44:10+00:00"
     }
    ],
    "factcheck": null,
@@ -144,7 +158,154 @@
    "slug": "02"
   },
   {
-   "headline": "앤트로픽, 몸값 1.4조달러 목표로 IPO 추진…공모가 70∼78달러",
+   "headline": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 10,
+   "outlets": [
+    "Axios",
+    "Barron's",
+    "Bloomberg",
+    "CBS News",
+    "CNBC",
+    "CNN",
+    "Cointelegraph",
+    "Decrypt",
+    "Financial Times",
+    "Fortune",
+    "Fox Business",
+    "MarketWatch",
+    "New York Times",
+    "Nikkei Asia",
+    "Reuters",
+    "TechCrunch",
+    "The Verge",
+    "Wall Street Journal"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "MarketWatch",
+     "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+     "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+     "published": "2026-11-12T01:12:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Axios",
+     "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMUlFvT2hycnRfYTg1US1nQzR2a3BoS1pNVVlCS0FYaGpEM0VPcktxRmF5Qy1OYnRYZHRNYjZYV2dzMllOUVoyZmttVm9oVzI5Z1Zsc0h1RFJiVDZVb3RVTU1KV3F1Y0YwTm1OMDdXVzJTX2dM?oc=5",
+     "published": "2026-11-12T00:51:43+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "CBS News",
+     "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fcFlOTlBVS01qTlJEOEJBQmtoSWxtVHpiSzhnTTdYQ2htUlJBUVQydUNMQ3dEN1RRQjZrVkZKVUxtRlhXSkhoY2FuYU5YYjdubGxtbnlrVGxEZlVTRzM4VlYxSDhZcm51UGdRVVJKR0tWV2s?oc=5",
+     "published": "2026-11-12T00:42:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Wall Street Journal",
+     "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
+     "published": "2026-11-12T00:17:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Nikkei Asia",
+     "title": "Nvidia shares plunge almost 10% on report board may oust Jensen Huang",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ3BxNkwwaFkwbi1YcFpvMTQ2a0RoYjdEQWxFVjVfQm5BVVZZTHJPdW1LNDdIYTJTdnRpTU5sMThoOXRmcjd5VU5LSzRvYWNXdjIyek1ReUdEdWJlZVhweVRrWl9RRUVBcFNpdUVkV2Y4Tzhmd0FpQl9ZVHlmNVMwM1BVUmRtN1lYdG84MVJzSTU0ZmtnQVJzQjJTY3BLeVdjMnZnTW1IZlJFSWkzb2xSaWJtUzJBSWdqaG9KYUp1bGlpUXN2WjVrbjBoV0hwTnFNdGc?oc=5",
+     "published": "2026-11-12T00:15:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "Fox Business",
+     "title": "Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN0ekV3QWFzaGtVZkZ0bzZDWVZ0WWdITi0zQ3ZDRG1ONVo5TFo3a3NmcHJIcE9QeUFWZmFfT0xqQ2ZPckE3S0g3Q2dMZDFqT0pXVU54R3V1RjJ0dl9LNlJaVWJYaV9ZT0E4SFhuWk9kWVFaV0lsZF91NmpWWFpjZVpzVEdXWnZxMzNNRWJHRG5CVHluWE5VZ0lKTjVTRzhIUnJZVVF4bS1ETXJReTl3Rlp3YzPSAboBQVVfeXFMTnZxcUR0OXRBUHlvbXpCMTl2VXk2Z1h4RzI4X0RrMTdYYk1OV3VESmJRcExhc0RvS2NSVFF6cXd0MnJyd2lvRkpMSVBlODNReEtIbEtKZWhxbzd3ZW92VFVucThWbENtT29oWWdnT2I3NzNuZ0luUi1zaTlBcUlnamhxNmVzTEh0aDhzb3hfRVhwNnVIam1HYkhFd1cwa1RwN1NBaThkcTROZVlpc1F5TEdUYkQ0clR6MG5R?oc=5",
+     "published": "2026-11-12T00:13:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "코스피, 10.58P 오른 5385.94 출발(0.20%↑)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 9,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "머니투데이",
+    "아시아경제",
+    "연합뉴스",
+    "이투데이",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "코스피, 0.20% 오른 5,385.94 출발…코스닥은 소폭 하락",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRGhfemdSak5rcHdyRVJQTzVvam1tS0oyMHhFNXVKOFJBWmtkaWFHNGZpNkxpWkVJblpzVVZyeHRyZXdDbmZ3T0dFbzlQNkp6QlNzWGZwSXJkUUxDejFBakhBODdlVE0?oc=5",
+     "published": "2026-11-12T00:13:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "코스피 0.2% 오른 5385.94 출발...‘젠슨 황 리스크’에 위아래 출렁",
+     "url": "https://www.chosun.com/economy/money/2026/11/12/METELMMVPRBSRJGWENHQAZKQGA/",
+     "published": "2026-11-12T00:03:42+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "아시아경제",
+     "title": "코스피, 10.58P 오른 5385.94 출발(0.20%↑)",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82d3lJWkQySXZQN3dOMTRsYTlKTGhSZlNsYUJjOW1lQ3pnNUVLX0t3M1ptRm1rMVdrSHBCeWRWX1BMajluam8ycFkxVjc1VmlPZHdzdUxwTjFLYzdMc2FiZA?oc=5",
+     "published": "2026-11-12T00:03:15+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "[코스피] 10.58p(0.20%) 오른 5,385.94(개장)",
+     "url": "https://www.yna.co.kr/view/AKR20261112036100008",
+     "published": "2026-11-12T00:01:35+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "뉴시스",
+     "title": "[속보]코스피, 10.58포인트(0.20%) 오른 5385.94 출발",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xT0pLNDdxVUlMT0kya3dGSEVsT3JkNXc5ajBuTHNHRUpJeXcyNUlMOF9oMjhnc3V1aER1bS1WekRra2JlQjktSl9KaERBWVVPWWIzLWw0bF85VWF2aWR5dndB?oc=5",
+     "published": "2026-11-12T00:01:23+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "뉴스1",
+     "title": "[코스피] 10.58p(0.20%) 오른 5385.94 출발",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDakhHZmpKX2VONDdLaF9XNFR0d0Y2V19uN0xjOVR0aFgwVDZzbU9veXVVai04OVFxMWc1Tmk1M3JiMC1ySVV2Y1JLVkgtZlZvX09vTTBmNmw1dlU?oc=5",
+     "published": "2026-11-12T00:01:23+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "[속보]코어위브 호실적에 AI주 반등…나스닥 1.6% 상승",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -153,9 +314,9 @@
    "importance": 8,
    "outlets": [
     "AI타임스",
-    "매일경제",
-    "블로터",
-    "연합뉴스",
+    "뉴시스",
+    "이데일리",
+    "조선일보",
     "파이낸셜뉴스",
     "한국경제"
    ],
@@ -165,203 +326,65 @@
     {
      "n": 1,
      "outlet": "AI타임스",
-     "title": "앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217248",
-     "published": "2026-11-11T06:59:21+00:00"
+     "title": "코어위브 25% 급등에 AI 기술주 동반 반등…엔비디아도 상승 전환",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
+     "published": "2026-11-12T08:25:05+00:00"
     },
     {
      "n": 2,
-     "outlet": "블로터",
-     "title": "앤트로픽, 몸값 1.4조달러 목표로 IPO 추진…공모가 70∼78달러",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=678277",
-     "published": "2026-11-11T03:23:55+00:00"
+     "outlet": "조선일보",
+     "title": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/12/W4CCREARX5EKLJKKTZ3F5BPBZM/",
+     "published": "2026-11-11T22:20:20+00:00"
     },
     {
      "n": 3,
-     "outlet": "파이낸셜뉴스",
-     "title": "앤트로픽, IPO 공모가 70~78달러 제시…눈높이 낮춘 목표 시총 1.3조~1.4조 달러",
-     "url": "https://www.fnnews.com/news/202611102336056945",
-     "published": "2026-11-10T14:39:03+00:00"
+     "outlet": "한국경제",
+     "title": "코어위브 호실적에 AI·반도체주 반등…나스닥 1.6%↑ [뉴욕증시 브리핑]",
+     "url": "https://www.hankyung.com/article/2026111215046",
+     "published": "2026-11-11T22:03:42+00:00"
     },
     {
      "n": 4,
-     "outlet": "매일경제",
-     "title": "몸값 1.4조달러…앤트로픽 IPO 예정대로",
-     "url": "https://www.mk.co.kr/news/world/12204527",
-     "published": "2026-11-10T14:29:05+00:00"
+     "outlet": "뉴시스",
+     "title": "뉴욕증시, 코어위브 급등·엔비디아 반등에 상승 마감…나스닥 1.6%↑",
+     "url": "https://www.newsis.com/view/NISX20261112_0003864614",
+     "published": "2026-11-11T21:25:31+00:00"
     },
     {
      "n": 5,
-     "outlet": "한국경제",
-     "title": "앤트로픽 공모가 70~78달러…90조원 조달 추진",
-     "url": "https://www.hankyung.com/article/202611108645i",
-     "published": "2026-11-10T13:35:20+00:00"
+     "outlet": "이데일리",
+     "title": "[속보]코어위브 호실적에 AI주 반등…나스닥 1.6% 상승",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01922086645645064",
+     "published": "2026-11-11T21:06:18+00:00"
     },
     {
      "n": 6,
-     "outlet": "연합뉴스",
-     "title": "앤트로픽 공모가 70∼78달러…최대 904억달러 조달",
-     "url": "https://www.yna.co.kr/view/AKR20261110176100009",
-     "published": "2026-11-10T12:37:14+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발",
+     "url": "https://www.fnnews.com/news/202611120020113129",
+     "published": "2026-11-11T15:23:38+00:00"
     }
    ],
    "factcheck": null,
    "score": 102,
-   "rank": 3,
-   "slug": "03"
-  },
-  {
-   "headline": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 8,
-   "outlets": [
-    "경향신문",
-    "연합뉴스",
-    "전자신문",
-    "중앙일보",
-    "파이낸셜뉴스",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "전자신문",
-     "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQa1czM1NFOTdvdXViZG9reWNXQU5uV2NjNnI2ZUFrLVhlVVhGSXlGdDBONzJWTXRWMVNPTm9FeEZ0QVFPcmRjWWVJSnBwZw?oc=5",
-     "published": "2026-11-10T23:42:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "경향신문",
-     "title": "“‘젠슨 황 연인’ 앨리스 황, 10조원 규모 엔비디아 칩 중국으로 밀반입” 의혹 제기",
-     "url": "https://www.khan.co.kr/article/202611110753001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-     "published": "2026-11-10T22:53:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "중앙일보",
-     "title": "“젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 中으로 밀반입”",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cVZzdmVTd3BYZlVVZnZGWFdaOFhWTmhEOUV2SkZ4QlJZTk5uMWpPYXRTLXc0SW9Fb3VKM1FxZ0s1TzFId3JER2ZaT2hWYmJRRWZzLU5R?oc=5",
-     "published": "2026-11-10T22:08:24+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "파이낸셜뉴스",
-     "title": "젠슨 황의 연인, 中에 엔비디아 AI 제품 10조원 어치 밀반입",
-     "url": "https://www.fnnews.com/news/202611110643063500",
-     "published": "2026-11-10T21:52:52+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "한국경제",
-     "title": "\"앨리스 황, 10조원 규모 엔비디아 AI칩 중국 우회 유출\"",
-     "url": "https://www.hankyung.com/article/2026111187887",
-     "published": "2026-11-10T21:26:39+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "연합뉴스",
-     "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-     "url": "https://www.yna.co.kr/view/AKR20261111006500091",
-     "published": "2026-11-10T20:59:43+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 102,
-   "rank": 4,
-   "slug": "04"
-  },
-  {
-   "headline": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 7,
-   "outlets": [
-    "CNBC",
-    "Decrypt",
-    "Financial Times",
-    "Forbes",
-    "MarketWatch",
-    "NBC News",
-    "NPR",
-    "New York Times",
-    "Politico",
-    "TechCrunch",
-    "The Guardian",
-    "Washington Post"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "Washington Post",
-     "title": "Opinion | The Nvidia spy scandal was hiding in plain sight",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkdielp1Z184RmpXa3daSjlEVlBGMTVwTGpTanpIYmhpWU5rdWZrS1I1cGRQUks0RjZaUks2bVFERmpCQmItWHA0Rllta085QTd4eUZFbTlSS3d5WVdSVmVwT3dpYUI0VTJfTDgtN0Vlamw2dWNsTy1KQy1FdXQ5dWd6ZnEyTGJ6aERBcFB5RmZ3TUw2RFRJczhMNjVvSDZRUXBTckZRZ2dIV2twNG5TLVF3?oc=5",
-     "published": "2026-11-10T23:54:17+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "Politico",
-     "title": "Nvidia’s spy scandal threatens America’s AI edge",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUnRhLTd0OV9sOXkybXVjb0NLVlNUX09mZkpnb0JCRVpLU0t1cWhGY3Myeks5YlJTYmRjQ2xDaUVaa0ZPRnV2WDdRMHJMUmIwcDQ3MkxuRWluMHlTWndlTWI2VVg4NGdka3I5RU5JdlVSbHFnbnpkeTJPYw?oc=5",
-     "published": "2026-11-10T23:14:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "MarketWatch",
-     "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-     "url": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-     "published": "2026-11-10T22:05:00+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "NBC News",
-     "title": "Nvidia hires former acting U.S. attorney to probe Jensen Huang affair",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmhQV0NDZF96d3BGR3p0WmU0Vl80aEJQSklDaXNTeWxQcEk1VHpNR1FaT3pzREJsaGlfWVpYak1PSDZJU2h4OGxOOG5kQzhveHNtTDZ5NklwTW9qZW03UXRPVFU5aTVURXJOcUFqejFkNHN3a1B6SUJPMGJXTVFTcUZ0bE51Z29NeThRMGNpcWFqaC1yd05mejNVdWdwMzZkTVFGT0Q4b0tBZXIxdnZpaWpXY09UZw?oc=5",
-     "published": "2026-11-10T21:18:59+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "Forbes",
-     "title": "Nvidia Hires Law Firm Once Retained By Indian Billionaire Gautam Adani Amid Jensen Huang Affair Scandal",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNVlOS3ZRUEYzbkFOeThHdl9NcGhIUnNydno4elpzR2ZoMmNTQ2toMTl3VkItNXp2QjhLRTMwaF9IMXBWbnFoR3k3U3JkZUlsc2UxMFVBOTBKMmN6MGVfd0FTS1FZS3RRdS1YVGtJcXlYeHBicjh6TFZRZzRQRXlFbV8ydGV4bldCRC0zQlUtcHQxb255WklaUDN6YjZmZnFOUzZSR1FfUWNHLTVKM3JzRlRvNll0d3Y3YWxvdFhBYlo2b3JhZ2RQSnBmVGxfbWRmeEpVemN6ek5DOHFpQld6T05vYmpIRW9xYVp0bQ?oc=5",
-     "published": "2026-11-10T21:04:28+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "Financial Times",
-     "title": "Nvidia shares down as Huang affair scandal deepens",
-     "url": "https://www.ft.com/content/798a6321-41e3-407b-9b6d-e4521111208d?syn-25a6b1a6=1",
-     "published": "2026-11-10T21:00:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 98,
    "rank": 5,
    "slug": "05"
   },
   {
-   "headline": "신현송 한은 총재, BIS ‘지급 및 시장인프라 위원회’ 의장 선출",
+   "headline": "美빅스텝 우려에도 급등…코스피 2.6%·코스닥 5.6%↑",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
-   "section": "money",
-   "importance": 6,
+   "section": "kr",
+   "importance": 8,
    "outlets": [
-    "경향신문",
+    "KBS",
+    "MBC",
+    "SBS",
+    "매일경제",
     "연합뉴스",
-    "조선일보",
     "한겨레"
    ],
    "official": false,
@@ -370,433 +393,64 @@
     {
      "n": 1,
      "outlet": "한겨레",
-     "title": "신현송 한국은행 총재, BIS 핵심 위원회 의장 선임",
-     "url": "https://www.hani.co.kr/arti/economy/economy_general/1286692.html",
-     "published": "2026-11-10T23:55:40.242191+00:00"
+     "title": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1286819.html",
+     "published": "2026-11-12T01:20:20.601628+00:00"
     },
     {
      "n": 2,
-     "outlet": "조선일보",
-     "title": "신현송 한국은행 총재 BIS 지급 및 시장인프라위 의장 선임",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/11/5CJDMTPZRNG4FMD3ZLVDJ6IBKA/",
-     "published": "2026-11-10T23:04:54+00:00"
+     "outlet": "연합뉴스",
+     "title": "코스피, 미 긴축 우려에도 상승…코스닥 5% 급등",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QcVZ5WGMxdlQtQXhCTkktYy1pUjlncTBLUGNxa19TVmw3QUFpcVJGQlpXMXAtQ3gzNTdDeWp5YTVOUDZqMEpnTkd4TFdEbzJ6NTBYbkJ4Q19PTC1nYWFxVUFmOERzM2M?oc=5",
+     "published": "2026-11-11T09:14:00+00:00"
     },
     {
      "n": 3,
-     "outlet": "경향신문",
-     "title": "신현송 한은 총재, BIS ‘지급·시장인프라 위원회’ 의장 선출",
-     "url": "https://www.khan.co.kr/article/202611102021005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-     "published": "2026-11-10T11:21:00+00:00"
+     "outlet": "연합뉴스",
+     "title": "美빅스텝 우려에도 코스피 2.6%·코스닥 5.6%↑…외국인 '사자'(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261111135351008",
+     "published": "2026-11-11T07:10:16+00:00"
     },
     {
      "n": 4,
-     "outlet": "연합뉴스",
-     "title": "신현송 한은 총재, BIS CPMI 의장 선임…지급결제 기준 제정",
-     "url": "https://www.yna.co.kr/view/AKR20261110119300002",
-     "published": "2026-11-10T10:00:00+00:00"
+     "outlet": "SBS",
+     "title": "미국 '빅스텝 우려'에도 급등…반도체 '반등' 힘입어 코스피 2.6%·코스닥 5.6%↑",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841312",
+     "published": "2026-11-11T07:05:00+00:00"
     },
     {
      "n": 5,
-     "outlet": "경향신문",
-     "title": "신현송 한은 총재, BIS ‘지급 및 시장인프라 위원회’ 의장 선출",
-     "url": "https://www.khan.co.kr/article/202611101900001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-     "published": "2026-11-10T10:00:00+00:00"
+     "outlet": "KBS",
+     "title": "코스피 2.6%·코스닥 5.6% 상승 마감…외국인 이틀째 ‘사자’",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FQTZuVFpTTzBoZVdPLWhoakVZN3RpMndoQ25NSkRLWExkTHpKWmE4N3FMbU5MNFFmZ21id1paZmN2cGp0V2tJTFFybXFEYkdhUkhSSzFGcGRYdjQ?oc=5",
+     "published": "2026-11-11T07:01:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "MBC",
+     "title": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56QUxuYTVvNEFqXzlNdjJGa0xpbHVGSHVoMk9sNlhKaDRvOHE1S0xnd1pMWFpIS3BidlN6UTNEYlBkYllFRDNLZGJMWVRBWW40eTgyZkpmU2pXdExqSE9INjVmcWRwWjZoemNacG9fb204R3Zm0gF0QVVfeXFMTkpGSWJQX0VXY085YkRWQ1VpaFpWM2Z0RVpHd2I1M0c4T0RBMUN3QVQyVUw3V25pdE5pVk5TSjUxTlJ5cW5vM2xGMm5DVnJjMURucGhmU2M1OG9uT2c1Z1R1d2IwWXgtSmxhRXRkd25xYXFOMl8?oc=5",
+     "published": "2026-11-11T06:55:08+00:00"
     }
    ],
    "factcheck": null,
-   "score": 76,
+   "score": 102,
    "rank": 6,
    "slug": "06"
   },
   {
-   "headline": "원주 기업 2곳 CES 2027 혁신상…3년 연속 수상기업 배출",
+   "headline": "[속보]네이버, 3분기 영업이익 4513억원…전년 동기 대비 20.9%↓",
    "dek": "",
    "key_points": [],
    "body": [],
    "tags": [],
    "section": "ai",
-   "importance": 6,
+   "importance": 8,
    "outlets": [
-    "AI타임스",
-    "뉴시스",
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "매일경제",
-     "title": "나인테크, ‘CES 2027’ 혁신상 2개 수상…AI 서버용 하이브리드 냉각솔루션 선보여",
-     "url": "https://www.mk.co.kr/news/stock/12204943",
-     "published": "2026-11-10T23:05:50+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "AI타임스",
-     "title": "아리아스튜디오, CES 2027 혁신상 수상…관객 참여형 AI 영화 기술 인정",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217192",
-     "published": "2026-11-10T09:00:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "뉴시스",
-     "title": "CES 2027 최고혁신상에 '건축유산 복원설계' 기술",
-     "url": "https://www.newsis.com/view/NISX20261110_0003862616",
-     "published": "2026-11-10T07:58:55+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "연합뉴스",
-     "title": "원주 기업 2곳 CES 2027 혁신상…3년 연속 수상기업 배출",
-     "url": "https://www.yna.co.kr/view/AKR20261110137300062",
-     "published": "2026-11-10T06:59:07+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "매일경제",
-     "title": "버넥트 ‘VisionX Marine’, CES 2027 혁신상 3개 부문 수상",
-     "url": "https://www.mk.co.kr/news/stock/12203709",
-     "published": "2026-11-10T02:13:37+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "매일경제",
-     "title": "유니온바이오메트릭스 ‘라이브가드’, CES 2027 사이버보안 부문 최고혁신상 수상",
-     "url": "https://www.mk.co.kr/news/stock/12203603",
-     "published": "2026-11-10T00:57:48+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 7,
-   "slug": "07"
-  },
-  {
-   "headline": "물가지표 예상 상회에 나스닥 0.74%↓…12월 '빅스텝' 가능성 부상[뉴스새벽배송]",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "global",
-   "importance": 6,
-   "outlets": [
-    "뉴스1",
-    "이데일리",
-    "이투데이",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "이데일리",
-     "title": "물가지표 예상 상회에 나스닥 0.74%↓…12월 '빅스텝' 가능성 부상[뉴스새벽배송]",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03073366645644736",
-     "published": "2026-11-10T22:55:03+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "한국경제",
-     "title": "美 물가 부담에 금리 인상 가능성 커져…나스닥 0.74%↓ [뉴욕증시 브리핑]",
-     "url": "https://www.hankyung.com/article/2026111189066",
-     "published": "2026-11-10T22:54:40+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "이데일리",
-     "title": "‘빅스텝’ 경계에 나스닥 0.74%↓…엔비디아 이틀간 9.6% 급락[월스트리트in]",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02850326645644736",
-     "published": "2026-11-10T22:05:36+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "이투데이",
-     "title": "[속보] 뉴욕증시 하락…나스닥 0.74%↓",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XX0FQTDF4ZmNvZHh1bC1WdDRXSmFhWmo4NG5xTS1OUFVrX1dEOTJtWjdaQVhyRVdMdDRaNW11UUpKeXlKazlaMHhfc05Eb2tnNHA3Mw?oc=5",
-     "published": "2026-11-10T21:08:00+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "뉴스1",
-     "title": "[속보]美 CPI 예상 상회에 연준 '빅스텝' 부상…나스닥 0.74% 하락 마감",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWEV5cy1sZTIzTldVUkhDTkZfTF9LX00wRGlDcndwMi1rcWFvZWZJczdqMVRpc3JTTzhjYnJtOUdKanpWRWJPY3JLQnV4VTdGaTIxLS1DMnZVc1FYM1JnQTQ5cHBhcms?oc=5",
-     "published": "2026-11-10T21:01:22+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 8,
-   "slug": "08"
-  },
-  {
-   "headline": "TSMC, 10월 매출도 60% 급증…사상 최대치",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 6,
-   "outlets": [
+    "서울경제",
+    "아시아경제",
     "연합뉴스",
-    "이데일리",
-    "한국경제",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "대만 TSMC, 10월 매출 新기록…AI 호황에 60% 급증",
-     "url": "https://biz.heraldcorp.com/article/10932719",
-     "published": "2026-11-10T20:26:37+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "이데일리",
-     "title": "[美특징주]TSMC, AI 반도체 수요에 10월 매출 60% 급증…주가 강세",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01400566645644736",
-     "published": "2026-11-10T18:36:57+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "한국경제",
-     "title": "TSMC, 10월 매출도 60% 급증…사상 최대치",
-     "url": "https://www.hankyung.com/article/2026111085397",
-     "published": "2026-11-10T10:07:28+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "연합뉴스",
-     "title": "'AI 수혜' TSMC 10월 매출 60% 증가…사상 최고치 새로 써",
-     "url": "https://www.yna.co.kr/view/AKR20261110169900089",
-     "published": "2026-11-10T09:57:21+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 9,
-   "slug": "09"
-  },
-  {
-   "headline": "외국인 채권 8.5조 순매수 전환…10월 국고채 금리 일제히 하락",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "money",
-   "importance": 6,
-   "outlets": [
-    "뉴스1",
-    "아이뉴스24",
-    "이데일리",
-    "이투데이"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "이데일리",
-     "title": "외국인, 韓채권 8.5조 순매수 전환…국고채 금리 '뚝'",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkt5VVRhcnhCd25sRHRFZ1RjSDdPcFVJQ2lIaERfSHBLR1ZPWDZUZV85R0tpS1dPV1RFckROcU9GRm1JOEh0ZGItb1RtV1FPRHRhRVVsOFVYZWw2eVd6aFVNNUZiTGtjQWsyMXktMjk3ZDBGMTc1QnNRdmp1RVQ0Qg?oc=5",
-     "published": "2026-11-10T04:45:49+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "뉴스1",
-     "title": "외국인 채권 8.5조 순매수 전환…10월 국고채 금리 일제히 하락",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxNUtOSlRoNlVPVjBaZUFjc2YxWk9VQWtGTDZ6VS11VXU3ekRQQ2pHa1E0eDN4Q0hnVHJQYV81b20wM2ZvdWVKZHhXLUg1QTcxZE1MWXBBY3N3dUw1ZGw0?oc=5",
-     "published": "2026-11-10T02:50:48+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "아이뉴스24",
-     "title": "10월 국고채금리 하락⋯외국인 8.5조 순매수 전환",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81YmNtZllFMVBGWkJjZnl2QnA0S3dMVl9NM2NhT19CTi1DM2FhSUVfbEV6OGFTTXlkSEk2YUpucXBoWkJsRkJBV2owYw?oc=5",
-     "published": "2026-11-10T01:56:24+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "이투데이",
-     "title": "10월 외국인 국내 채권 8.5조 순매수 전환",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YUENtTFhYU2ZNMmR0b25EeTFwSF9Pd1A2N0lTbEJVWEtyTWlQYS0zak85MEZxYklSZFYxazc5ZmRVV2NPTm9mdGllQ2w4Y2FiOWIycnNBSzVtZEpIazljRHo4dFIwVl8tSFRwcjk5YlNyZw?oc=5",
-     "published": "2026-11-10T00:32:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 76,
-   "rank": 10,
-   "slug": "10"
-  },
-  {
-   "headline": "US Inflation Exceeds Expectations... 'Big Step' Rate Hike Discussed",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "money",
-   "importance": 4,
-   "outlets": [
-    "Business Insider",
-    "CNBC",
-    "CoinDesk",
-    "Cointelegraph",
-    "Decrypt",
-    "Reuters",
-    "SBS"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "SBS",
-     "title": "Wall Street Falls as Inflation Pressures Prompt Rate Hike Mentions",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84RHdGeF9RSGxGaE5oQW5fNHFHUFN5eG9tdXV6ako2TS00cWlBMnQ3TlFOMXpXaU53dThpa3RWVVhFMFl1VEtOU2YydTgtZDVHckMzODVELTR5QzllQ3hEVUR0ekdmUzNiRjdsYml30gFmQVVfeXFMTW95YW9EMERVVENnVC05clo4eXI2V0FlZ0FiUUNSNW5LSndXU2NCT0tWb1ZGbzBVRjM0eDJxN3dRSDdaaTBVZUt6a2M0YXkxWDItald5bHViYWtxUGltNW5CQnJ3UExR?oc=5",
-     "published": "2026-11-10T22:52:10+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "SBS",
-     "title": "US Inflation Exceeds Expectations... 'Big Step' Rate Hike Discussed",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jUVdQNzZLUWJuN2Y4cVNiQTY1S09RNXVsWHhDS1UycXpsZWNZa1MtVTg2a0h0UV9ET1lLX0FuMkhTZTV2OHlxejlDc2dOb2hyWnVXSk40S0psMTdHS1ZlQnFhLWxEV25MMFlYVXh30gFmQVVfeXFMUFVLWGdicUdNdmVSY21DdVdtbl9HU1pFcXdIUlFPWTFONUJjUGh3RTlxLXdPaElsX1dKenhuS0FGaGxwMGVad0w5SmxNbllMTHUxRFAzcXdFYWdMN2E4bHFycUJXNmZn?oc=5",
-     "published": "2026-11-10T22:41:12+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "SBS",
-     "title": "US Inflation Exceeds Expectations, Raising Talk of 'Big Step' Rate Hike",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aNjFLVFJqS1lUbF9BcUp4WHN0STJvSl8zRUtMZkdOcWV5UWVZT19kOURKd3ZNWTV4MGd4VHdTTW0zSVczWU9YbkszQTNEcDhuYzJCaEZGZWhIX0F1Zld6STE2OEhFd0M5VmZ5U2tB0gFmQVVfeXFMUG5NcUY1aGlYN1hNSDVncWxiTU52dVl4X3BvT3Q5ZkQ2R3ZWMWkzeVBHWVoyVWY2Z1JrZXdyZFRJY3hMYXphZXNxTElXNXRCcmdpbng1QlF0ejhmRW5TMzhjcXZRRzl3?oc=5",
-     "published": "2026-11-10T21:12:32+00:00"
-    },
-    {
-     "n": 4,
-     "outlet": "Cointelegraph",
-     "title": "Hot US inflation raises odds of half-point Fed hike in December",
-     "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "published": "2026-11-10T17:31:09+00:00"
-    },
-    {
-     "n": 5,
-     "outlet": "Decrypt",
-     "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-     "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-     "published": "2026-11-10T16:27:57+00:00"
-    },
-    {
-     "n": 6,
-     "outlet": "Business Insider",
-     "title": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1hTSE1lVXBadV9WUnRGZC13VzN4SWJhSlZUVjh5enJUOGNVVVBLWWZEb0hMeEltT09CQVprQndNZDdwUmI5X3Rod1R5Z0V1SGpiZFpuVTNuZHRRa0Y2WjVQbXZBOXd6dHBQa0dyTG5mT0ladEFGeFdGY1BjMmp0Sl9RWDNUTk0tb0RlOE9pNXVDb0hIYUhldzRtd1NIcXBycXg3cDlEMlRJQnpqQ0VwUnlvRmJGRFB3LWRwczhiOEN6dXNlaUprZGNhUDdsQQ?oc=5",
-     "published": "2026-11-10T15:53:25+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 65,
-   "rank": 11,
-   "slug": "11"
-  },
-  {
-   "headline": "오픈AI, 챗GPT에 기업 AI고객센터 도입…온라인쇼핑 플랫폼 역할",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "SBS",
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "SBS",
-     "title": "챗GPT가 상품 가격 알려준다…오픈AI, 기업 AI고객센터 도입",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83WC1LSUlXLVJhVWRBamtGWWIxS0NJZXAxX25BV0hRSURrakdZLWRGVjhsdVAtWWJtVUxpZW9TcU9nNHd6VE1hcmZISURLWlBDV0pz0gFYQVVfeXFMUGg3OW50VjFHdmtLaDNPbk1lckg3TGl2ajdCN01oM3hLdTJoMzFpWmh3ZVRJMkROT3VUWXo3cEtiYlFpZzNNVnViY2dkM2Q1ZURFdEdrSzd0Yw?oc=5",
-     "published": "2026-11-10T23:25:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "오픈AI, 챗GPT에 기업 AI고객센터 도입…온라인쇼핑 플랫폼 역할",
-     "url": "https://www.yna.co.kr/view/AKR20261111019500091",
-     "published": "2026-11-10T23:12:53+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "매일경제",
-     "title": "오픈AI, 챗GPT에 기업 AI고객센터 도입…온라인쇼핑 플랫폼 역할",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05aVc2cXhuT2ptOXBDdWZSNDllazRZcFZCRlNHTGJuNTI0dTlKeFdpNHhLQWtkckJhOXM4WGFPaVdySG52aThKRExDaFdfWjN4dUE?oc=5",
-     "published": "2026-11-10T23:12:53+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 12,
-   "slug": "12"
-  },
-  {
-   "headline": "[마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "kr",
-   "importance": 5,
-   "outlets": [
-    "뉴시스",
-    "매일경제",
-    "연합뉴스"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "연합뉴스",
-     "title": "[마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나",
-     "url": "https://www.yna.co.kr/view/AKR20261111021500008",
-     "published": "2026-11-10T23:04:27+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "매일경제",
-     "title": "[마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fdy1wdnNGc0t3QWNSUXRaNXY4T29kQVhFajBmR0s2akpfWDkzSDlqSEl4ZG8zNEk1T1RPOXJMMERtUVhOMGp0cmNQREE1Vm5SaGc?oc=5",
-     "published": "2026-11-10T23:04:27+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "뉴시스",
-     "title": "[오늘의 증시]美 증시 '빅스텝' 우려에 하락…코스피, 또 흔들리나",
-     "url": "https://www.newsis.com/view/NISX20261111_0003862984",
-     "published": "2026-11-10T22:49:13+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 13,
-   "slug": "13"
-  },
-  {
-   "headline": "[속보] 엔비디아 이틀간 9.6% 급락…시총 약 4300억달러 증발",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "뉴스1",
+    "조선일보",
     "파이낸셜뉴스",
     "한국경제"
    ],
@@ -805,24 +459,424 @@
    "sources": [
     {
      "n": 1,
-     "outlet": "한국경제",
-     "title": "[속보] 엔비디아 이틀간 9.6% 급락…시총 약 4300억달러 증발",
-     "url": "https://www.hankyung.com/article/2026111187687",
-     "published": "2026-11-10T21:07:06+00:00"
+     "outlet": "조선일보",
+     "title": "지니언스, 3분기 영업익 38억원…전년 比 253%↑",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/12/MRRWENZYMUZDGMRUMZSDGYTDGA/",
+     "published": "2026-11-12T00:53:47+00:00"
     },
     {
      "n": 2,
-     "outlet": "뉴스1",
-     "title": "[속보] 엔비디아 5.53% 급락…이틀간 시총 약 4300억달러 증발",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sNndlWjBSZGtyS19IYnFJZ09pMC1HcmJ6bGUyUVhhbWdyS2Z3TjRhM2Z3MHdNcmgwWlhrS25fdG5jZ19aM2p2SmNzZkRGMzd2ZTV4V05BQWRiaTBfX1k2eEJ5VHUwSjA?oc=5",
-     "published": "2026-11-10T21:03:59+00:00"
+     "outlet": "파이낸셜뉴스",
+     "title": "지니언스, AI 보안 수요에 3분기 영업익 81억원…전년比 274%↑",
+     "url": "https://www.fnnews.com/news/202611120906388731",
+     "published": "2026-11-12T00:23:40+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "지니언스, 3분기 영업이익 38억원…전년 동기 대비 253%↑",
+     "url": "https://www.hankyung.com/article/2026111217846",
+     "published": "2026-11-11T23:49:12+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "아시아경제",
+     "title": "[속보]네이버, 3분기 영업이익 4513억원…전년 동기 대비 20.9%↓",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tZjZZdFUyMDZaNmdrMmxrNUZDNmRLU05IdDVCNjFJaGhfZVRzaGtWSFNiY0JtM0RQVGluVlpBbDFZVkZsRkRuS1EwSnZuM3RkODh4XzRra0JleG1nWmRvRA?oc=5",
+     "published": "2026-11-11T23:13:28+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "파이낸셜뉴스",
+     "title": "[속보] 네이버, 3분기 영업이익 4513억원…전년比 20.9% ↓",
+     "url": "https://www.fnnews.com/news/202611120803100659",
+     "published": "2026-11-11T23:08:02+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "서울경제",
+     "title": "[속보] 네이버, 3분기 영업익 4513억원…전년비 20.9%↓",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZVN5R01TbFgxaWdvLVFrVU8zX29ydU9lbkdSMHRBU0JlVXE2VU1wYjFXNC1HT1VheVJmWFZYcHVMTzdBanAzUG5rc2x1UENRZG5RRXR6WDlJa0JKU3ZnRV9Ebks?oc=5",
+     "published": "2026-11-11T23:07:51+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 102,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "넥스아이, 코스닥 상장 첫날 25%대 급락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 8,
+   "outlets": [
+    "뉴시스",
+    "머니투데이",
+    "연합뉴스",
+    "이데일리",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "머니투데이",
+     "title": "넥스아이, 코스닥 상장 첫날 25%대 하락",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FeFMybzNQTXZYVkF6Y2RMV2lqZ01aY3k0aTB0RER2Um1ZLURUUmg4MmNhMkpVSDAxQ0pVeXBiRnhua28ycVRoakV6SFV3d0ljSjc5bTMzdnFWZ1g4S3pYdmJVMmVrb1l20gFuQVVfeXFMTlFtV2FEdDM0ZzdicGhic3BSS3lzUE5fNGk5S01HWFlvcVktQUwya0hZdEVRUnJCWGdtOXpEczZCOENsei1pbTBjVnhhb2w1SV82SThmdzFiUXlYa292U19SNzBkUEE4LVFkV1ZBS0E?oc=5",
+     "published": "2026-11-12T00:42:53+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "넥스아이, 코스닥 상장 첫날 25%대 급락",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTX1BtY3M4ZnBCZmhUM2FkNXJkLVFCVE5YNW5CN3Y4UXdPYjZBbUkxQ3FMU3ZCUEZDYjRBSThlMUNPZnpPMFV3aG5zWHNyRGVmc2xnNW4zcXdtQXNpSmktMNIBeEFVX3lxTE1GcUhRb1RZN2loWkNmVEZRMU5USjktSnltQTlCU3dCMUZMaXhZSHV0WUN3dU1HSTdpckd4clByQTJhMDhrS1g3X1RhMFZsS3dmczE0RHB1YUx3UWNvMkZKVlNWVlVNcm5lQTFQajdndXJtcHBsWERucQ?oc=5",
+     "published": "2026-11-12T00:40:37+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "머니투데이",
+     "title": "바로팜, 코스닥 상장 첫 날 22%대 급락",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpU0x6SXZyd2szS0VZSTQ3em5Wc2xkTjlma05aVGJ3MW93Q1QxdW9CUnY5UnF3Zy1zbmhaY3lETzUyaS10by1ZYzRrU0tlWnM3WlZyaTY2UktyM0t1Q2UzMDRiSXVTS0pS0gFuQVVfeXFMT3RnbHh1MVZuSlJpVWgzWjdFVkRScDNEOUV5b1h0ZWpKWElWN0d4eGN4MGxtQUhTcU5aaXZQcGh6bUNoVzhBQlJwREhmMTZJSWdHVUNtUlBCUWVSbUpXemlSbkZRa25QSXpFT3o3SWc?oc=5",
+     "published": "2026-11-12T00:25:18+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "이데일리",
+     "title": "넥스아이, 코스닥 상장 첫날 공모가 대비 15%대 급락[특징주]",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02433766645645064",
+     "published": "2026-11-12T00:12:20+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "[특징주] 넥스아이, 코스닥 시장 상장 첫날 19% 하락 출발",
+     "url": "https://www.yna.co.kr/view/AKR20261112038200008",
+     "published": "2026-11-12T00:09:51+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "조선일보",
+     "title": "[특징주] 넥스아이, 코스닥 입성 첫날 약세…공모가 대비 12%↓",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/12/GFSTOZBXMI2TANBQGFRDGNBVMU/",
+     "published": "2026-11-12T00:06:30+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 102,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "[속보] NYT \"젠슨 황, 엔비디아 여성 임원과도 불륜 관계\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 8,
+   "outlets": [
+    "뉴시스",
+    "매일경제",
+    "서울경제",
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+     "url": "https://www.mk.co.kr/news/stock/12205989",
+     "published": "2026-11-12T00:14:47+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "NYT “젠슨 황, 사내 여성 임원과도 불륜”",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/12/DNKZHYLLJZDHNHJKFVJKCSPPNY/",
+     "published": "2026-11-11T23:11:38+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "서울경제",
+     "title": "[속보] NYT “젠슨 황, 엔비디아 부사장과도 불륜 관계”",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45cjZTVXdVN19BeTVhTUtRRDdLQTgzbGVzSzJGSjVvd1BuVEdTRjdrZDQ4cl9jU0VZbFBmRi0wbVllY055bEMtdG52Vk5yM0NIWkHSAVNBVV95cUxPYU12cjh0VjhKUjJqU3ZUakRObUtZZk5VVlpTZkhZVmtKZXZaQTZYeXk2anJtVVVqWWRXelJTOXFpZ3g1OERIbXBJQVlIVDdwbWd2Yw?oc=5",
+     "published": "2026-11-11T23:02:12+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴시스",
+     "title": "[속보]NYT \"젠슨 황, 엔비디아 직속 부하 임원과도 불륜 의혹\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56RzAxalR0OTFwMTVDVXJqUUIzdjV4YzRTQmpzTE4yRUJPQnktb2J2QUM0dy05V01mWDBVc1Q2cFVaVlY0b1cyQzRXUlFGOV9IS3B6bXRqUDdHZHJJeFVMcNIBeEFVX3lxTE5xaWpaTENCeTk5RjBscmVZc1A5MmdqODRnb0JlVDlyT2hCY3dxekNrN0hzQjJOY0tTQUI3aWZnM2daQ2lhc0VqMFcyN196amZwTXlMZjAyVWdUMUdkVXBVS2NzbzBzbVJZSmVQQkFseVpFaEZkcGVWeA?oc=5",
+     "published": "2026-11-11T22:58:45+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "[속보] NYT \"젠슨 황, 엔비디아 여성 임원과도 불륜 관계\"",
+     "url": "https://www.hankyung.com/article/2026111215797",
+     "published": "2026-11-11T22:42:53+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "[속보] NYT \"젠슨 황, 엔비디아 여성 임원과도 불륜 관계\"",
+     "url": "https://www.yna.co.kr/view/AKR20261112020900009",
+     "published": "2026-11-11T22:41:23+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 102,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "LG CNS, 글로벌 로봇 석학들과 피지컬AI 산업화 모색",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "뉴스핌",
+    "서울경제",
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울경제",
+     "title": "LG CNS, 글로벌 로봇 전문가들과 피지컬 AI 산업 활용 방안 논의",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJU3hQcnNGUG9iUlpEUThiZ29USnBEdlFRdFlBSUU0OExkaGExaGJOQnNYWFpaRVN3QjctMThWRDEtX1VsRFY1eXZIaGp1REpBcGdTRDhnU3phdDk3bG85akpVS1k?oc=5",
+     "published": "2026-11-12T01:00:05+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "LG CNS, 글로벌 로봇 석학들과 피지컬AI 산업화 모색",
+     "url": "https://www.yna.co.kr/view/AKR20261112035400017",
+     "published": "2026-11-12T01:00:03+00:00"
     },
     {
      "n": 3,
      "outlet": "파이낸셜뉴스",
-     "title": "엔비디아 주가 이틀 새 10% 급락…시총 4700억달러 증발 위기",
-     "url": "https://www.fnnews.com/news/202611110522370209",
-     "published": "2026-11-10T20:54:29+00:00"
+     "title": "LG CNS, 글로벌 로봇 석학들과 피지컬 AI 미래 해법 모색",
+     "url": "https://www.fnnews.com/news/202611120845135191",
+     "published": "2026-11-12T01:00:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴스핌",
+     "title": "LG CNS, 로봇 전문가들과 피지컬 AI 산업 적용 논의",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04OVhpUjNQVHIxek5wc0Ficl9RU3hTckhCb1lOeXBRaVUzendFWlBBekpvTTNKaFhUX0U2NHZwaVV0cGM3Z1ZyblZtbWlobUZIbEF5WUZpcnVKVkpN?oc=5",
+     "published": "2026-11-12T01:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "[코스닥] 1.88p(0.27%) 내린 703.22 출발",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "아시아경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "아시아경제",
+     "title": "코스닥, 1.88P 내린 703.22 출발(0.27%↓)",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBES1JQdE9qRGRFZ3kwZWVibTdlUnZ6LWxRbHRoVnplVUZPU3kxcUlobTZ3VmhYQnpRSzZZbVdsUWpfS0VTY2pZRVVFSnRtaHBQTW5DUEJqM2IzdGJ4UEtINA?oc=5",
+     "published": "2026-11-12T00:03:30+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "[속보]코스닥, 1.88포인트(0.27%) 내린 703.22 출발",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LMmpicGhqR011U2ZUVFVPY0VjS2Zidzhja25PekZhUllxc1lqWk1OTy01YXQ4dTdJTC02OHBVTDRkb25GeDE3NlRGR2ZVZWVxbV96SlJuM1FHVHcwN01PY1FB?oc=5",
+     "published": "2026-11-12T00:02:01+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "[코스닥] 1.88p(0.27%) 내린 703.22(개장)",
+     "url": "https://www.yna.co.kr/view/AKR20261112036000008",
+     "published": "2026-11-12T00:01:49+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴스1",
+     "title": "[코스닥] 1.88p(0.27%) 내린 703.22 출발",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YjVDeTNLdWE1WWpoeG55Q2toVVFBZUtORHVkTW5GSGdmZWN5QThOVTA1Q3NtUk9McUx4U2tBc083Q253bEY2a2ROd3hNVlh2VGx6ZGFOWnQ0UWM?oc=5",
+     "published": "2026-11-12T00:01:06+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "'반도체 힘' 전기전자 5대 기업 수출 1년새 3.3배로 증가",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "경향신문",
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "전기전자 5대 기업 수출, ‘반도체 초호황’에 3.3배 껑충…전체의 53%",
+     "url": "https://biz.heraldcorp.com/article/10934490",
+     "published": "2026-11-12T08:44:10+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "경향신문",
+     "title": "“반도체 덕분” 전기·전자 5대 기업 수출, 1년새 3배 넘게 뛰어",
+     "url": "https://www.khan.co.kr/article/202611120751011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-11T22:51:01+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "'반도체 힘' 전기전자 5대 기업 수출 1년새 3.3배로 증가",
+     "url": "https://www.yna.co.kr/view/AKR20261111162400002",
+     "published": "2026-11-11T20:51:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "머니투데이",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "이 대통령, '충청권 메가프로젝트' 착공식 참석…\"中企·소상공인, 성장의 기회로\"",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865045",
+     "published": "2026-11-12T01:13:17+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "李대통령, 충청권 메가프로젝트 착공식…이재용 삼성 회장도 참석",
+     "url": "https://www.fnnews.com/news/202611121006293752",
+     "published": "2026-11-12T01:12:30+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "파이낸셜뉴스",
+     "title": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+     "url": "https://www.fnnews.com/news/202611121005292661",
+     "published": "2026-11-12T01:06:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xY0l4ZF9pNnZzTVRtYTdHY0JURjdrZFdXTFhXNUh5Z2xQLTFITjhueGFMQ3p5d3MzVHUwcnpoTmR5QUZsMEU2LUFtWTZLdEZ6aWJIYlc0ODRnQQ?oc=5",
+     "published": "2026-11-12T01:06:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "머니투데이",
+     "title": "[속보]李대통령, 충청권 메가프로젝트 착공식 참석",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92amhzTURlQ2w2UkpMcXpnSkFsMUhQdmxVUnZsVlAxRThLQWlsMFdkc3d1eEs4SzVqUTlVdEp2alBiUFJ6cmdZWjhIOXZVaHY4dFhvc1JXcGMtZjYtSUY5YllsVmlMWmhUbEVFeXNLUnpicEg4QVpRQzRR0gF_QVVfeXFMUEZkMlVKZ19JXzRDUDM4d25ZN0VpdWhpbDN4S2lGSXAzdmlVYjRkQ1h5SVE2eTJxWEpYd09DTDFMczVSbG5TT0VSajJvSUVUdm5ORWVmb0JWQVBvWE5Wb2RkMUxHaTcyNklONTEtbEwtTXpQcDUwcVRHSHRIZUx3VQ?oc=5",
+     "published": "2026-11-12T01:03:12+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "[컨콜] 네이버 \"AI 팩토리 첫 2조원 계약, 20㎿ 규모로 4~5년간 공급\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "서울경제",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "[컨콜] 네이버 \"AI팩토리 2조 계약, 20MW 규모 4~5년 공급\"",
+     "url": "https://www.fnnews.com/news/202611120944069979",
+     "published": "2026-11-12T00:57:35+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "[컨콜] 네이버 \"AI 팩토리 첫 2조원 계약, 20㎿ 규모로 4~5년간 공급\"",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865005",
+     "published": "2026-11-12T00:47:56+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "서울경제",
+     "title": "[컨콜] 네이버 “AI 팩토리 초기 고객 확보…美 기업과 2조원 계약”",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05Mjl5SEFzU0JudHNKZTYydXhhQXIyZTdNcDZRSEZfcE1YRTFhQVk0RUg0QXNiRENHZzdudDdJTmd2WmcyT2lZQ2hseVRrYjFXUnZrT0Y3SG1waW92UDlJWHZTZ2Q?oc=5",
+     "published": "2026-11-12T00:18:13+00:00"
     }
    ],
    "factcheck": null,
@@ -831,7 +885,57 @@
    "slug": "14"
   },
   {
-   "headline": "제11회 부동산 산업의 날 …AI·데이터 기반 산업 혁신 논의",
+   "headline": "이틀연속 오른 코스피, '젠슨황 해임 준비' 악재속 보합권 등락(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "YTN",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "이틀 연속 오른 코스피, '젠슨 황 해임 준비' 악재 속 보합권 등락",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842389",
+     "published": "2026-11-12T00:53:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "YTN",
+     "title": "이틀연속 오른 코스피, 장초반 보합권...방향성 탐색",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfMmdqQngyQkhHSkZKV2JXRTJmVTJhT0RwVmg5YVRIb3NBNkdmcjd4VW9LQkk3SEFlTXZvQUlUMGhtS0J4R0R4OHlNUTFlYkY4ZXpjeWdGTnU5MUliaEE?oc=5",
+     "published": "2026-11-12T00:44:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "이틀연속 오른 코스피, '젠슨황 해임 준비' 악재속 보합권 등락(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261112038151008",
+     "published": "2026-11-12T00:39:55+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "이틀연속 오른 코스피, 장초반 보합권…방향성 탐색",
+     "url": "https://www.yna.co.kr/view/AKR20261112038100008",
+     "published": "2026-11-12T00:08:36+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "포스코·GS 손잡고 ‘AI 데이터센터 사업’ 미래로",
    "dek": "",
    "key_points": [],
    "body": [],
@@ -839,7 +943,168 @@
    "section": "ai",
    "importance": 5,
    "outlets": [
-    "아시아경제",
+    "경향신문",
+    "블로터",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "포스코·GS, AI 데이터센터 맞손 ‘철강·에너지’ 역량 결집",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=678354",
+     "published": "2026-11-11T16:39:28+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "경향신문",
+     "title": "포스코·GS 손잡고 ‘AI 데이터센터 사업’ 미래로",
+     "url": "https://www.khan.co.kr/article/202611112031015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-11T11:31:01+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "포스코·GS그룹 손잡고 AI 데이터센터 시장 공략",
+     "url": "https://www.hankyung.com/article/2026111110291",
+     "published": "2026-11-11T09:07:29+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "경향신문",
+     "title": "포스코·GS그룹, AI 데이터센터 사업 협력…“소재·운영 시너지”",
+     "url": "https://www.khan.co.kr/article/202611111630001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-11T07:30:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 61,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "미국 ‘빅스텝’ 우려에 국고채 금리 급등…3년물 3.729%",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1286857.html",
+     "published": "2026-11-12T01:20:20.601467+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261111150551008",
+     "published": "2026-11-11T07:56:47+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "국고채 금리 일제히 상승…3년물 연 3.729%",
+     "url": "https://www.yna.co.kr/view/AKR20261111150500008",
+     "published": "2026-11-11T07:45:30+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "AI로 만든 허위정보, 어떻게 대응할까…시민 100명 머리 맞댄다",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "머니투데이"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "AI로 만든 허위정보, 어떻게 대응할까…시민 100명 머리 맞댄다",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865057",
+     "published": "2026-11-12T01:03:11+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "머니투데이",
+     "title": "정부, AI 허위조작정보 대응책 논의…시민 100명 의견 듣는다",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jd1FaRks4TVlsalM1eXQ1NzNxY244Vm55Nnd6cHRlZlhHWjRTMGRwRFlnTHhvYVM3VEExN3B0cndWSmNNN0tqUGR1TFZjMmdmeEdVSlFtN0tnMjBNOExrRzBtVUk2YnpTSko3aXpEUVAwbFdI0gF6QVVfeXFMTWRMNDQyUVU2TW1KQmlLdFNjQWFnQkNobGdIcEkwRnJsRU1fdmhiaXFTcmdOcEJ2RUNDc0tIalJvdnRHbW5OWE92THR5T1N0WFV4V05KRk5xWTMtVE4zeHlSRHRQMzZBVjVBUzJqdVk0RmEyMlNKc3BieXc?oc=5",
+     "published": "2026-11-12T01:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "[컨콜] 네이버 \"AI 에이전트, 글로벌 서비스로도 확장 가능\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "서울경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "서울경제",
+     "title": "[컨콜] 네이버 최수연 “AI 에이전트, 美·유럽 등 해외 확장 가능”",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtMC1OWVIzZFhzZmM1ZVhmLThvMzBuVDk5ZW5qejRrWTBkZER5ZVB2eDBoM1RyNGhKQlMxclFxYy13bFpQVVZscWRZRnBnRktnYk9hbWNjYU9hbVI2d0hxLXhYVkg?oc=5",
+     "published": "2026-11-12T01:01:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "[컨콜] 네이버 \"AI 에이전트, 글로벌 서비스로도 확장 가능\"",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865021",
+     "published": "2026-11-12T00:54:16+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "9월까지 나라살림 적자 32조, 8년만 최소…세수호조에 3분의 1로",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
     "연합뉴스",
     "조선일보"
    ],
@@ -849,230 +1114,16 @@
     {
      "n": 1,
      "outlet": "연합뉴스",
-     "title": "제11회 부동산 산업의 날 …AI·데이터 기반 산업 혁신 논의",
-     "url": "https://www.yna.co.kr/view/AKR20261110133300003",
-     "published": "2026-11-10T21:00:09+00:00"
+     "title": "9월까지 나라살림 적자 32조, 8년만 최소…세수호조에 3분의 1로",
+     "url": "https://www.yna.co.kr/view/AKR20261112052900002",
+     "published": "2026-11-12T01:00:00+00:00"
     },
     {
      "n": 2,
      "outlet": "조선일보",
-     "title": "“국민 신뢰·산업 혁신”…국토부, 제11회 부동산산업의 날 개최",
-     "url": "https://www.chosun.com/economy/real_estate/2026/11/11/GFQTEYRUGQ3WEZRWHEYWENBRMI/",
-     "published": "2026-11-10T21:00:01+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "아시아경제",
-     "title": "제11회 부동산산업의 날…\"AI·데이터로 여는 미래 주거 혁신\"",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMGNmWXJ5b3ZVd2UyUUhlUHBTNG80UWFLMzE4SmRxYjdtYXgyb2d3VmhYaFhvbzlNSmVDODc1YUE1bjVldkd0cnJUVzZWZU9NVHFEN1lWQzJhaXN5ZEVJMw?oc=5",
-     "published": "2026-11-10T21:00:00+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 15,
-   "slug": "15"
-  },
-  {
-   "headline": "[만나보니] 엔비디아-KAIST, 우리말 AI 데이터 100만건 만든다",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "연합뉴스",
-    "조선일보",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "조선일보",
-     "title": "“엔비디아·KAIST, 한국어 AI 학습 데이터 100만건 만들 것”",
-     "url": "https://www.chosun.com/economy/science/2026/11/11/DOYW3AQAZJFWTPJXLZB2JPKIFY/",
-     "published": "2026-11-10T15:32:00+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "한국경제",
-     "title": "KAIST·엔비디아 \"한국어 데이터 100만건 구축\"",
-     "url": "https://www.hankyung.com/article/2026111083211",
-     "published": "2026-11-10T08:38:20+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "[만나보니] 엔비디아-KAIST, 우리말 AI 데이터 100만건 만든다",
-     "url": "https://www.yna.co.kr/view/AKR20261110107900017",
-     "published": "2026-11-10T05:26:01+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 16,
-   "slug": "16"
-  },
-  {
-   "headline": "반도체 호황에 대기업 수출 2배… 상위 10개사 비중 60% 첫 돌파",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "경향신문",
-    "연합뉴스",
-    "헤럴드경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "헤럴드경제",
-     "title": "반도체 훈풍에 대기업 수출 2배…상위 10곳이 61% 차지",
-     "url": "https://biz.heraldcorp.com/article/10932203",
-     "published": "2026-11-10T14:05:45+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "경향신문",
-     "title": "반도체 호황에 대기업 수출 2배… 상위 10개사 비중 60% 첫 돌파",
-     "url": "https://www.khan.co.kr/article/202611101503001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-     "published": "2026-11-10T06:03:00+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "연합뉴스",
-     "title": "'반도체 날개' 대기업 수출 2배로…'톱10' 기업 비중 60% 돌파",
-     "url": "https://www.yna.co.kr/view/AKR20261110061100002",
-     "published": "2026-11-10T03:00:08+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 17,
-   "slug": "17"
-  },
-  {
-   "headline": "엔비디아 주주들, 젠슨 황에 집단소송…\"中 스파이 의혹 여성과 관계 숨겨\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 5,
-   "outlets": [
-    "AI타임스",
-    "뉴시스",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "AI타임스",
-     "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 '허위 설명' 쟁점",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217206",
-     "published": "2026-11-10T11:34:38+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "뉴시스",
-     "title": "엔비디아 주주들, 젠슨 황에 집단소송…\"中 스파이 의혹 여성과 관계 숨겨\"",
-     "url": "https://www.newsis.com/view/NISX20261110_0003861842",
-     "published": "2026-11-10T02:44:01+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "한국경제",
-     "title": "'외도 인정' 젠슨 황, 美 엔비디아 주주들에게 집단소송 당해",
-     "url": "https://www.hankyung.com/article/2026111066657",
-     "published": "2026-11-10T00:32:59+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 63,
-   "rank": 18,
-   "slug": "18"
-  },
-  {
-   "headline": "\"NHN, 데이터센터 확장에 2028년 클라우드 매출 1조 가능…목표가↑\"",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "global",
-   "importance": 5,
-   "outlets": [
-    "이데일리",
-    "파이낸셜뉴스",
-    "한국경제"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "파이낸셜뉴스",
-     "title": "\"NHN, 데이터센터 확장에 2028년 클라우드 매출 1조 가능…목표가↑\"",
-     "url": "https://www.fnnews.com/news/202611110812298706",
-     "published": "2026-11-10T23:35:01+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "이데일리",
-     "title": "NHN, 클라우드 타고 실적 고공행진…“2028년 매출 1조 조기 달성”-메리츠",
-     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03135686645644736",
-     "published": "2026-11-10T23:10:01+00:00"
-    },
-    {
-     "n": 3,
-     "outlet": "한국경제",
-     "title": "\"NHN, 2028년까지 실적 성장 전망…목표가↑\"-NH",
-     "url": "https://www.hankyung.com/article/2026111188706",
-     "published": "2026-11-10T22:30:28+00:00"
-    }
-   ],
-   "factcheck": null,
-   "score": 61,
-   "rank": 19,
-   "slug": "19"
-  },
-  {
-   "headline": "개보위, 앤트로픽 '클로드' 개인정보 유출 사고 정식 조사 착수",
-   "dek": "",
-   "key_points": [],
-   "body": [],
-   "tags": [],
-   "section": "ai",
-   "importance": 4,
-   "outlets": [
-    "연합뉴스",
-    "한겨레"
-   ],
-   "official": false,
-   "draft": true,
-   "sources": [
-    {
-     "n": 1,
-     "outlet": "한겨레",
-     "title": "앤트로픽, 개보위에 개인정보 유출 신고…국내 기업 클로드 계정 100여개",
-     "url": "https://www.hani.co.kr/arti/economy/it/1286527.html",
-     "published": "2026-11-10T23:55:40.242629+00:00"
-    },
-    {
-     "n": 2,
-     "outlet": "연합뉴스",
-     "title": "개보위, 앤트로픽 '클로드' 개인정보 유출 사고 정식 조사 착수",
-     "url": "https://www.yna.co.kr/view/AKR20261110142600530",
-     "published": "2026-11-10T07:22:26+00:00"
+     "title": "3분기까지 나라살림 적자 32兆… 반도체 호황에 세수 늘며 8년 만에 최소",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/12/GBQTSOLGMM2TCYZRGA4DGMJYGY/",
+     "published": "2026-11-12T01:00:00+00:00"
     }
    ],
    "factcheck": null,
@@ -1082,164 +1133,164 @@
   }
  ],
  "market": {
-  "fetched_at": "2026-11-11T08:55:46.108527+09:00",
+  "fetched_at": "2026-11-12T10:20:29.280578+09:00",
   "groups": {
    "지수": [
     {
      "ticker": "^KS11",
      "name": "코스피",
-     "value": 5018.85009765625,
-     "change": -40.83984375,
-     "pct": -0.807160996482903,
-     "date": "2026-11-09"
+     "value": 5395.39990234375,
+     "change": 156.27001953125,
+     "pct": 2.9827475750106913,
+     "date": "2026-11-12"
     },
     {
      "ticker": "^KQ11",
      "name": "코스닥",
-     "value": 638.969970703125,
-     "change": -5.300048828125,
-     "pct": -0.8226440261772772,
-     "date": "2026-11-09"
+     "value": 700.6400146484375,
+     "change": 33.030029296875,
+     "pct": 4.947503785384733,
+     "date": "2026-11-12"
     },
     {
      "ticker": "^GSPC",
      "name": "S&P 500",
-     "value": 7520.93017578125,
-     "change": -29.009765625,
-     "pct": -0.38423836282327484,
-     "date": "2026-11-10"
+     "value": 7619.3798828125,
+     "change": 98.44970703125,
+     "pct": 1.3090097199449646,
+     "date": "2026-11-11"
     },
     {
      "ticker": "^IXIC",
      "name": "나스닥",
-     "value": 25065.875,
-     "change": -187.265625,
-     "pct": -0.7415538042607306,
-     "date": "2026-11-10"
+     "value": 25466.189453125,
+     "change": 400.3203125,
+     "pct": 1.5970733360735068,
+     "date": "2026-11-11"
     },
     {
      "ticker": "^DJI",
      "name": "다우",
-     "value": 52231.890625,
-     "change": -157.859375,
-     "pct": -0.3013172901187744,
-     "date": "2026-11-10"
+     "value": 52486.48828125,
+     "change": 254.59765625,
+     "pct": 0.487437182923145,
+     "date": "2026-11-11"
     },
     {
      "ticker": "^SOX",
      "name": "필라델피아 반도체",
-     "value": 9998.330078125,
-     "change": -35.599609375,
-     "pct": -0.35479229458174055,
-     "date": "2026-11-10"
+     "value": 10564.111328125,
+     "change": 565.78125,
+     "pct": 5.658757468288167,
+     "date": "2026-11-11"
     },
     {
      "ticker": "^N225",
      "name": "닛케이 225",
-     "value": 58775.5,
-     "change": 1340.73046875,
-     "pct": 2.3343533537128813,
-     "date": "2026-11-09"
+     "value": 61418.03125,
+     "change": 958.453125,
+     "pct": 1.5852792141857197,
+     "date": "2026-11-12"
     },
     {
      "ticker": "000001.SS",
      "name": "상하이종합",
-     "value": 3660.7919921875,
-     "change": 11.614990234375,
-     "pct": 0.3182906783682604,
-     "date": "2026-11-09"
+     "value": 3663.722900390625,
+     "change": 2.930908203125,
+     "pct": 0.08006213435178822,
+     "date": "2026-11-10"
     }
    ],
    "환율·금리": [
     {
      "ticker": "KRW=X",
      "name": "원/달러",
-     "value": 1342.260009765625,
-     "change": -20.43994140625,
-     "pct": -1.499959062057088,
-     "date": "2026-11-10"
+     "value": 1335.6800537109375,
+     "change": -6.22998046875,
+     "pct": -0.4642621569305394,
+     "date": "2026-11-12"
     },
     {
      "ticker": "JPYKRW=X",
      "name": "원/100엔",
-     "value": 843.5000419616699,
-     "change": -16.835975646972656,
-     "pct": -1.956906987780116,
-     "date": "2026-11-10"
+     "value": 834.7000122070312,
+     "change": -10.95418930053711,
+     "pct": -1.2953508988672646,
+     "date": "2026-11-12"
     },
     {
      "ticker": "EURKRW=X",
      "name": "원/유로",
-     "value": 1498.300048828125,
-     "change": -19.8099365234375,
-     "pct": -1.3049078600750996,
-     "date": "2026-11-10"
+     "value": 1481.0999755859375,
+     "change": -16.9100341796875,
+     "pct": -1.1288331899953818,
+     "date": "2026-11-12"
     },
     {
      "ticker": "DX-Y.NYB",
      "name": "달러인덱스",
-     "value": 102.21700286865234,
-     "change": 0.5670013427734375,
-     "pct": 0.5577976726631739,
-     "date": "2026-11-10"
+     "value": 102.84700012207031,
+     "change": 0.6169967651367188,
+     "pct": 0.6035378508034261,
+     "date": "2026-11-11"
     },
     {
      "ticker": "^TNX",
      "name": "미 국채 10년(%)",
-     "value": 4.9830002784729,
-     "change": 0.11900043487548828,
-     "pct": 2.4465550719976026,
-     "date": "2026-11-10"
+     "value": 4.998000144958496,
+     "change": 0.015000343322753906,
+     "pct": 0.3010303816955773,
+     "date": "2026-11-11"
     },
     {
      "ticker": "^VIX",
      "name": "VIX 변동성",
-     "value": 19.459999084472656,
-     "change": -0.46000099182128906,
-     "pct": -2.3092419179692625,
-     "date": "2026-11-10"
+     "value": 17.489999771118164,
+     "change": -1.9699993133544922,
+     "pct": -10.123326855273984,
+     "date": "2026-11-11"
     }
    ],
    "원자재": [
     {
      "ticker": "CL=F",
      "name": "WTI 원유",
-     "value": 86.3499984741211,
-     "change": -0.5,
-     "pct": -0.57570524903231,
-     "date": "2026-11-10"
+     "value": 85.94000244140625,
+     "change": -0.09999847412109375,
+     "pct": -0.1162232369328664,
+     "date": "2026-11-11"
     },
     {
      "ticker": "BZ=F",
      "name": "브렌트유",
-     "value": 91.91999816894531,
-     "change": -0.6500015258789062,
-     "pct": -0.7021729804707499,
-     "date": "2026-11-10"
+     "value": 92.12000274658203,
+     "change": 0.6300048828125,
+     "pct": 0.6886052000466547,
+     "date": "2026-11-11"
     },
     {
      "ticker": "GC=F",
      "name": "금",
-     "value": 4043.39990234375,
-     "change": -71.10009765625,
-     "pct": -1.7280373716429653,
-     "date": "2026-11-10"
+     "value": 3999.0,
+     "change": -31.199951171875,
+     "pct": -0.7741539266011621,
+     "date": "2026-11-11"
     },
     {
      "ticker": "SI=F",
      "name": "은",
-     "value": 51.54999923706055,
-     "change": -1.0139999389648438,
-     "pct": -1.9290768489078958,
-     "date": "2026-11-10"
+     "value": 51.61000061035156,
+     "change": 0.5089988708496094,
+     "pct": 0.9960643696269145,
+     "date": "2026-11-11"
     },
     {
      "ticker": "HG=F",
      "name": "구리",
-     "value": 6.269999980926514,
-     "change": -0.058499813079833984,
-     "pct": -0.924386742261385,
-     "date": "2026-11-10"
+     "value": 6.252999782562256,
+     "change": 0.033499717712402344,
+     "pct": 0.5386239627479084,
+     "date": "2026-11-11"
     }
    ]
   },
@@ -1247,40 +1298,40 @@
    {
     "name": "비트코인",
     "id": "bitcoin",
-    "usd": 73692,
-    "krw": 98928025,
-    "pct": -2.0520113286512123
+    "usd": 73656,
+    "krw": 98366723,
+    "pct": 0.3072262486816198
    },
    {
     "name": "이더리움",
     "id": "ethereum",
-    "usd": 2048.52,
-    "krw": 2750023,
-    "pct": -3.877234717698499
+    "usd": 2051.3,
+    "krw": 2739499,
+    "pct": 0.2621727445836926
    },
    {
     "name": "솔라나",
     "id": "solana",
-    "usd": 83.28,
-    "krw": 111797,
-    "pct": -3.7418300173963215
+    "usd": 83.15,
+    "krw": 111051,
+    "pct": 0.23305451855692677
    },
    {
     "name": "리플",
     "id": "ripple",
-    "usd": 1.056,
-    "krw": 1416.98,
-    "pct": -3.7083287823538056
+    "usd": 1.05,
+    "krw": 1401.88,
+    "pct": -0.019890222385243805
    }
   ],
-  "kimchi_premium": 1.2396400248586348,
+  "kimchi_premium": 1.3825352834089477,
   "flows": null
  },
  "stats": {
-  "collected": 1985,
-  "outlets": 63,
-  "verified_stories": 68,
+  "collected": 2081,
+  "outlets": 67,
+  "verified_stories": 78,
   "dropped_by_factcheck": 0,
-  "seconds": 8
+  "seconds": 11
  }
 }

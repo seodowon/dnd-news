@@ -1,5 +1,155 @@
 [
  {
+  "id": "ecafd47ea0",
+  "time": "2026-11-12T01:16:01+00:00",
+  "title": "\"엔비디아 이사회, 젠슨황 거취결정 회의…후임 CEO 찾는 중\"(종합2보)",
+  "ko": "\"엔비디아 이사회, 젠슨황 거취결정 회의…후임 CEO 찾는 중\"(종합2보)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261112020753072",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "833bbab463",
+  "time": "2026-11-12T01:12:30+00:00",
+  "title": "李대통령, 충청권 메가프로젝트 착공식…이재용 삼성 회장도 참석",
+  "ko": "李대통령, 충청권 메가프로젝트 착공식…이재용 삼성 회장도 참석",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611121006293752",
+  "section": "people",
+  "people": [
+   "이재용"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "50fb4fd017",
+  "time": "2026-11-12T01:12:00+00:00",
+  "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+  "ko": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "693e4793e1",
+  "time": "2026-11-12T01:11:50+00:00",
+  "title": "LH, 광명시흥신도시·용인반도체에 2조 더 투입…사업 '속도전'",
+  "ko": "LH, 광명시흥신도시·용인반도체에 2조 더 투입…사업 '속도전'",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261112_0003865080",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2e3a425a22",
+  "time": "2026-11-12T01:11:25+00:00",
+  "title": "재난 예방·대비·대응·복구에 AI 입히자…대응 과정 접목",
+  "ko": "재난 예방·대비·대응·복구에 AI 입히자…대응 과정 접목",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261112_0003865081",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5a10cc5ecb",
+  "time": "2026-11-12T01:07:05+00:00",
+  "title": "서천군의회 \"건물 신축 지양하고 유휴 공공시설 활용해야\"",
+  "ko": "서천군의회 \"건물 신축 지양하고 유휴 공공시설 활용해야\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261111_0003864341",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c210368ceb",
+  "time": "2026-11-12T01:06:25+00:00",
+  "title": "젠슨 황, 이민자 성공 신화서 불륜설 얼룩진 위기의 CEO로",
+  "ko": "젠슨 황, 이민자 성공 신화서 불륜설 얼룩진 위기의 CEO로",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261112051800075",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d3832c5097",
+  "time": "2026-11-12T01:06:00+00:00",
+  "title": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+  "ko": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611121005292661",
+  "section": "people",
+  "people": [
+   "이재용"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fe8c0aaa0d",
+  "time": "2026-11-12T01:06:00+00:00",
+  "title": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+  "ko": "[속보]李대통령, 충청권 메가프로젝트 착공식…이재용 등 참석",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xY0l4ZF9pNnZzTVRtYTdHY0JURjdrZFdXTFhXNUh5Z2xQLTFITjhueGFMQ3p5d3MzVHUwcnpoTmR5QUZsMEU2LUFtWTZLdEZ6aWJIYlc0ODRnQQ?oc=5",
+  "section": "people",
+  "people": [
+   "이재용"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0cdce4105a",
+  "time": "2026-11-12T01:05:42+00:00",
+  "title": "메리츠금융지주, 3분기 실적 부진에 11%대 급락 [종목NOW]",
+  "ko": "메리츠금융지주, 3분기 실적 부진에 11%대 급락 [종목NOW]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611120946530308",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "821efcb453",
   "time": "2026-11-12T01:04:51+00:00",
   "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
@@ -265,6 +415,22 @@
   "also": []
  },
  {
+  "id": "5458754219",
+  "time": "2026-11-12T00:54:00+00:00",
+  "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+  "ko": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaW1tUGR6WFlEVmNGLXlEaVd2UnBSdkRKRlRxYUtieXVsbHh5WWRpNWUtMnp3WTRNUHhaYllYdG5MZEN4czNyUXJ6TVpyc2F6U0NBN3ZvM1pxWkJWSDREa0dJSlctQXQ1eGl4R3BHUTU3WEVIdTZWeGdOT0hVcHNzcVp5NklibXIwalRQWTkxcHBOdjNlXy1nSDVR?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "5f5882cce2",
   "time": "2026-11-12T00:53:53+00:00",
   "title": "Freedom Desk: How Trump, GOP are reacting to their midterm catastrophe",
@@ -503,7 +669,8 @@
   "flash": false,
   "official": false,
   "also": [
-   "연합뉴스"
+   "연합뉴스",
+   "한국경제"
   ]
  },
  {
@@ -800,6 +967,20 @@
   "also": []
  },
  {
+  "id": "bff15aa94e",
+  "time": "2026-11-12T00:23:16+00:00",
+  "title": "DB하이텍 , 3분기 실적 실망에 장 초반 16%대 급락",
+  "ko": "DB하이텍 , 3분기 실적 실망에 장 초반 16%대 급락",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111219086",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "692b9eb4e0",
   "time": "2026-11-12T00:23:03+00:00",
   "title": "[컨콜] 네이버 \"연내 AI 에이전트 앱 출시\"",
@@ -808,6 +989,20 @@
   "outlet": "파이낸셜뉴스",
   "url": "https://www.fnnews.com/news/202611120921163938",
   "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "831bfb8be8",
+  "time": "2026-11-12T00:22:46+00:00",
+  "title": "코스피, 옵션 만기일 경계감에 개장 직후 하락전환",
+  "ko": "코스피, 옵션 만기일 경계감에 개장 직후 하락전환",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111219026",
+  "section": "kr",
   "people": [],
   "flash": false,
   "official": false,
@@ -828,6 +1023,34 @@
   "also": [
    "파이낸셜뉴스"
   ]
+ },
+ {
+  "id": "65c495eb9e",
+  "time": "2026-11-12T00:21:01+00:00",
+  "title": "코스맥스, 3분기 호실적에 연이틀 강세",
+  "ko": "코스맥스, 3분기 호실적에 연이틀 강세",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111219216",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "909d1d7cf4",
+  "time": "2026-11-12T00:18:47+00:00",
+  "title": "JYP엔터, 3분기 깜짝 실적에 17% 급등",
+  "ko": "JYP엔터, 3분기 깜짝 실적에 17% 급등",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111219116",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
  },
  {
   "id": "e0f7dfbd95",
@@ -876,6 +1099,24 @@
   "also": []
  },
  {
+  "id": "d8056353c0",
+  "time": "2026-11-12T00:13:00+00:00",
+  "title": "Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report",
+  "ko": "Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report",
+  "lang": "en",
+  "outlet": "Fox Business",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN0ekV3QWFzaGtVZkZ0bzZDWVZ0WWdITi0zQ3ZDRG1ONVo5TFo3a3NmcHJIcE9QeUFWZmFfT0xqQ2ZPckE3S0g3Q2dMZDFqT0pXVU54R3V1RjJ0dl9LNlJaVWJYaV9ZT0E4SFhuWk9kWVFaV0lsZF91NmpWWFpjZVpzVEdXWnZxMzNNRWJHRG5CVHluWE5VZ0lKTjVTRzhIUnJZVVF4bS1ETXJReTl3Rlp3YzPSAboBQVVfeXFMTnZxcUR0OXRBUHlvbXpCMTl2VXk2Z1h4RzI4X0RrMTdYYk1OV3VESmJRcExhc0RvS2NSVFF6cXd0MnJyd2lvRkpMSVBlODNReEtIbEtKZWhxbzd3ZW92VFVucThWbENtT29oWWdnT2I3NzNuZ0luUi1zaTlBcUlnamhxNmVzTEh0aDhzb3hfRVhwNnVIam1HYkhFd1cwa1RwN1NBaThkcTROZVlpc1F5TEdUYkQ0clR6MG5R?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "The Verge"
+  ]
+ },
+ {
   "id": "a2e4189c56",
   "time": "2026-11-12T00:12:25+00:00",
   "title": "원주시, 맨홀 4만5천106곳 관리 강화…신고창구 일원화",
@@ -884,6 +1125,20 @@
   "outlet": "연합뉴스",
   "url": "https://www.yna.co.kr/view/AKR20261112037600062",
   "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3cd4628adb",
+  "time": "2026-11-12T00:12:19+00:00",
+  "title": "[마켓라이브] 美 반도체 반등에 삼전·기판주 강세…JYP 급등·네이버 급락",
+  "ko": "[마켓라이브] 美 반도체 반등에 삼전·기판주 강세…JYP 급등·네이버 급락",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202611121858i",
+  "section": "ai",
   "people": [],
   "flash": false,
   "official": false,
@@ -916,7 +1171,8 @@
   "flash": false,
   "official": false,
   "also": [
-   "뉴시스"
+   "뉴시스",
+   "한국경제"
   ]
  },
  {
@@ -932,6 +1188,23 @@
   "flash": false,
   "official": false,
   "also": []
+ },
+ {
+  "id": "9b019cde9d",
+  "time": "2026-11-12T00:06:06+00:00",
+  "title": "넥스아이, 코스닥 상장 첫날 14%대 급락",
+  "ko": "넥스아이, 코스닥 상장 첫날 14%대 급락",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111218536",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스",
+   "연합뉴스"
+  ]
  },
  {
   "id": "e7a212da44",
@@ -1787,6 +2060,22 @@
   ]
  },
  {
+  "id": "824f8c02c2",
+  "time": "2026-11-11T22:49:00+00:00",
+  "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama",
+  "ko": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXB2RnB0R01qNVRtM25qWVlJUFhtM3lFOTJLdEtGQklVRC1zUFJTeW5ST2c4T3dZZVFHNlJJNW44WTBfd0xOelpwUTJybllxd254dDhOMXFBQmx6NmxvZVJmcmpUSnRTUW5vS3Q4MGV0ckRmMVRsbURjUzM1RHBkdmpMNnMzSFMwb201c3BkcDRkY2V6dlVvR1Iyaw?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "5fe5b230da",
   "time": "2026-11-11T22:48:08+00:00",
   "title": "[속보] “엔비디아 이사회, 젠슨황 해임 준비”⋯ 사내불륜 추가 폭로",
@@ -1962,6 +2251,7 @@
   "official": false,
   "also": [
    "Fortune",
+   "Fox Business",
    "Reuters"
   ]
  },
@@ -9877,9 +10167,7 @@
   "people": [],
   "flash": false,
   "official": false,
-  "also": [
-   "연합뉴스"
-  ]
+  "also": []
  },
  {
   "id": "2b3b65da9a",
@@ -10639,214 +10927,6 @@
   "url": "https://www.newsis.com/view/NISX20261110_0003861702",
   "section": "ai",
   "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "74ad2e1875",
-  "time": "2026-11-10T01:19:00+00:00",
-  "title": "President Trump brings UFC’s Dana White to White House news conference",
-  "ko": "President Trump brings UFC’s Dana White to White House news conference",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFCMm1iU0JJQ3cybzNpczBoUlF5cDVZX3BONUMtRFRIQUtlaWRvSkpGUGxLRTBqVC1uSTZ6Uzl3R3JfYmtMdG01a3dfU0xSMURSZTY3LTdtLWtKNGRKd3h0S0ZlREppQ2MtMzZBcjVqMGVWR2Y0alNKREo2Mlhuc1BTN0Iwb3RGRFpWZXpKQzhaZjQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b62312ec2a",
-  "time": "2026-11-10T01:18:56+00:00",
-  "title": "NHN, 분기 최대 실적에 GPU 대여 5년치 완판…클라우드 사업 '청신호'(종합2보)",
-  "ko": "NHN, 분기 최대 실적에 GPU 대여 5년치 완판…클라우드 사업 '청신호'(종합2보)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261110_0003861690",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9e8f9f4e84",
-  "time": "2026-11-10T01:17:21+00:00",
-  "title": "관악구청 홈페이지에 'AI 자동번역'…4개 외국어 지원",
-  "ko": "관악구청 홈페이지에 'AI 자동번역'…4개 외국어 지원",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261110061700004",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "99ded60af0",
-  "time": "2026-11-10T01:17:06+00:00",
-  "title": "Trump: New Iran attacks \"quite unlikely\"",
-  "ko": "Trump: New Iran attacks \"quite unlikely\"",
-  "lang": "en",
-  "outlet": "Axios",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmhpTVpNQWZvRlZVdVMtWFNXZldjWXhfVURkUDVZNmNyVENYU0JrN09FbVotWkozWEtxcjEwZ1liRGFwOHhzNlRCcjVWU2c2cUNERk9tSVBLdGZjUm5Yc0Fka3hSc0NpemV0d0pGYmVfMmF2S3NUV0FQeVBUclExeGtPTjdxQ2lXd1pn?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a733eba5dc",
-  "time": "2026-11-10T01:16:45+00:00",
-  "title": "민주당 압승에 실리콘밸리 'AI 속도전' 균열…주민 몫 키운다",
-  "ko": "민주당 압승에 실리콘밸리 'AI 속도전' 균열…주민 몫 키운다",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261110_0003861669",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "75f496d454",
-  "time": "2026-11-10T01:16:37+00:00",
-  "title": "골드만삭스 CEO \"AI 산업에 대한 투자수요 여전히 강해\"",
-  "ko": "골드만삭스 CEO \"AI 산업에 대한 투자수요 여전히 강해\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261110055700009",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "e9d0f5ac2d",
-  "time": "2026-11-10T01:14:56+00:00",
-  "title": "반도체 일단 반등했지만 … 증시 D.N.A 공포는 여전",
-  "ko": "반도체 일단 반등했지만 … 증시 D.N.A 공포는 여전",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12203615",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d54d81bb01",
-  "time": "2026-11-10T01:14:38+00:00",
-  "title": "中관영지, 젠슨황 '中스파이 불륜 연루설'에 \"정치적 마녀사냥\"",
-  "ko": "中관영지, 젠슨황 '中스파이 불륜 연루설'에 \"정치적 마녀사냥\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261110058300083",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a56d4c6ce5",
-  "time": "2026-11-10T01:14:06+00:00",
-  "title": "상품권 거래 가장한 불법 사금융업자 168명 검거…5천% 초고금리",
-  "ko": "상품권 거래 가장한 불법 사금융업자 168명 검거…5천% 초고금리",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261110054300051",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b1699d86b6",
-  "time": "2026-11-10T01:12:49+00:00",
-  "title": "한병도 \"증시 안정 추가 조치해야..주가누르기 방지법 논의할 것\"",
-  "ko": "한병도 \"증시 안정 추가 조치해야..주가누르기 방지법 논의할 것\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611100957412254",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5a1f656165",
-  "time": "2026-11-10T01:12:29+00:00",
-  "title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes",
-  "ko": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f4a046ab32",
-  "time": "2026-11-10T01:11:49+00:00",
-  "title": "비큐AI, 3분기 순이익 5억…전년比 흑자 전환",
-  "ko": "비큐AI, 3분기 순이익 5억…전년比 흑자 전환",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261110_0003861647",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "232369fa22",
-  "time": "2026-11-10T01:10:45+00:00",
-  "title": "금융연 \"내년 성장률 3.1%\"...반도체 호황, 내수 회복으로 확산",
-  "ko": "금융연 \"내년 성장률 3.1%\"...반도체 호황, 내수 회복으로 확산",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611100845025158",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1ae4388847",
-  "time": "2026-11-10T01:09:48+00:00",
-  "title": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy",
-  "ko": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW1HU00tbS1Cc1hhRHRONTBJakI4QW15UDhOUWFqVVByOXdEcWpUeXFpMVFwQ2wySFg0UkRfd3NjX0lma1RhX1k3cjJpcXRQd2FfbzFvdS1nUjdPcTJXSW1TRWpDV0drNnJqRG1iZks0TkJ2dEFadGFBZlJNcVdFdUU5OUVWYXpsTjFhMXRYenhsM29zUkFXT0tlRFc5SDJfYWJIYjFmQjhYRlB2dUdweVBHZGgxeVE?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
   "flash": false,
   "official": false,
   "also": []
