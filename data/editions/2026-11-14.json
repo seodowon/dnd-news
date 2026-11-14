@@ -1,0 +1,1283 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T09:13:25.169665+09:00",
+ "mode": "draft",
+ "articles": [
+  {
+   "headline": "젠슨 황 없는 엔비디아…한국 GPU 26만장 공급 약속 유지",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 10,
+   "outlets": [
+    "SBS",
+    "경향신문",
+    "연합뉴스",
+    "전자신문",
+    "지디넷코리아",
+    "한겨레",
+    "한국경제",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "정부 “엔비디아 GPU 26만장 공급 차질 없어”…젠슨 황 사임에도 협력 계속",
+     "url": "https://www.hani.co.kr/arti/economy/it/1287276.html",
+     "published": "2026-11-14T00:13:20.717629+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "지디넷코리아",
+     "title": "배경훈 부총리 \"젠슨 황 사임에도 GPU 26만 장 예정대로 공급\"",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vbGI1Q1VKVGZGT2R4ZzZ2MWlfZklESVh4VDNUZUMzRVl5VklFVWhSM3RFTjhPdGRzclVIR1VwZXFSRmJlNEl6OTBVUFlJMkhVWEI5UlBn?oc=5",
+     "published": "2026-11-14T00:00:45+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "헤럴드경제",
+     "title": "젠슨 황 사임에도 韓 GPU 26만장 공급 그대로…정부 “차질 없다”[비즈360]",
+     "url": "https://biz.heraldcorp.com/article/10936654",
+     "published": "2026-11-13T17:31:17+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "경향신문",
+     "title": "배경훈 “GPU 26만장 예정대로 공급”…젠슨 황 사임에 정부 긴급점검",
+     "url": "https://www.khan.co.kr/article/202611131855001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-13T09:55:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "젠슨 황 사임에 정부 긴급 점검…GPU 공급·협력 유지 총력(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113155451017",
+     "published": "2026-11-13T08:50:50+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "전자신문",
+     "title": "젠슨 황 사임에도 韓 GPU 26만장 공급 유지…정부 점검회의서 재확인",
+     "url": "https://www.etnews.com/20261113000289",
+     "published": "2026-11-13T08:49:13+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "코스피, '젠슨황 퇴임'에도 장 초반 2%대 상승",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 9,
+   "outlets": [
+    "SBS",
+    "YTN",
+    "경향신문",
+    "매일경제",
+    "연합뉴스",
+    "한겨레",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "‘젠슨 황 퇴진’ 충격에도…코스피, 장 초반 2%대 상승",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1287156.html",
+     "published": "2026-11-14T00:13:20.718097+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "'젠슨 황 퇴임'에도 코스피, 장중 2%대 상승…외국인 '사자'",
+     "url": "https://www.yna.co.kr/view/AKR20261113071900008",
+     "published": "2026-11-13T01:57:35+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "YTN",
+     "title": "'젠슨 황 사임'에도 선방...코스피, 2%대 상승 개장",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOUR3VlBUbUh0YnpWT0NjTko4WEttZFFiTU8xcWZHVmhUdmszMUhjSFFzUDJ1NUxxbXBaWF93eW9oUVlmZ2I5LWRKYXJsS0VMb2RwckJEbnEtZVRlMGRzSWFrWFdfS2RxM0N3NkpJNA?oc=5",
+     "published": "2026-11-13T01:26:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "경향신문",
+     "title": "‘젠슨황 퇴임’에도 외국인 ‘사자’ 행렬에 코스피 2%대·코스닥 3%대 상승세",
+     "url": "https://www.khan.co.kr/article/202611131022001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-13T01:22:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "'젠슨황 퇴임'에도 증시 선방…코스피·코스닥, 2%대 상승세(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113036451008",
+     "published": "2026-11-13T00:26:17+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "SBS",
+     "title": "코스피, '젠슨황 퇴임'에도 장 초반 2%대 상승",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844317",
+     "published": "2026-11-13T00:26:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 7,
+   "outlets": [
+    "BBC",
+    "CNBC",
+    "Decrypt",
+    "Forbes",
+    "Fox Business",
+    "NPR",
+    "New York Times",
+    "Reuters",
+    "The Guardian",
+    "The Verge",
+    "Wall Street Journal",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Washington Post",
+     "title": "Musk joins calls for Jensen Huang to be reinstated as CEO of Nvidia",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhlbTRQQ1N5SDNnU3V2a1BObGlkTXFTUm5QalRXS1NIaXVYUU4yajluRkwxdUt4ZllpNVpCVWdHOGM3Q0Jqc3BXRWxobnJzcjdxYkZ1YU9kZ1pmX1gyZ2JTT3BYbWVRTlR1VkZjemZkTmhrRjYtUFlBbmdidTdtQzhpMlR2QldFUlF5ZVlXUzhXb0J5WmhXay1LVkdsVkNCQ3pxaWRHZXk5UQ?oc=5",
+     "published": "2026-11-13T23:43:40+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "NPR",
+     "title": "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6040264/is-there-an-opening-for-nvidias-competitors-now-that-jensen-huang-is-out",
+     "published": "2026-11-13T21:06:10+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "CNBC",
+     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2U3Yy1DMTN6MDFSWHFMcDRNYXR6Yzc1OTJsV2RqXzMtUHU2UlJHdnhDV1J4X2oyWGxIb2NWYzlzQ2JJMXZxTm90OVZfVURkbV8zdnp3MmFKT1N5aF9sazU4RVIyZU1mYTh2MkpUSDNxTDVrLV9DWG1xOFQ3ZGRDZjl30gGHAUFVX3lxTE1pdngxMkNyUXg0WklPNmttdFR2NzhCc0pNMTVRbm5zOW5sMmFkZGhoYUVJRHJVZ25nLUhWaElJTW5XMEFmcFN1MXFWXzJ6NnFIX3lwc0JpdGlWNWlkWkhYQ2ZBaHdYRnc2UlM2VTJTcTI4UVMtenVSTnVEd0hyeWZsV2pFTVV5dw?oc=5",
+     "published": "2026-11-13T21:04:43+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Fox Business",
+     "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjJyTGdPdGpTMU1kMXBhN2pmTlM4cmJFUFN1MU1TUUpEZUFUNUZaLUd1WDctYXhHRk8tMk5VdlFYdk5HTUw2TXA4UGtQSy13WVlIbDRZVFBWcUpuSDNmU3JxdVRFNl9MSnVkaTNSZVJJbXFEbjlzZ3VCOGdyYlhKT0VReVU4Z1NPbHJsaGVQX3dYM1F3TTJyaTQzdHUzd9IBowFBVV95cUxPQ1VmWEs5YUJCYTE1Y3VjZ3ZPMVRHMUVXX3NPVG16U19JVDNubW5yZkwwRGw4UWM4MFVkSUZDQURCcVJOS3I2MElRV3pzZTVkOXgzcktTbUpIaElFNGdLcnJTSjdtbkhVeXJ4SXIyS3RpVE9PYW5RakZYMkhxdUhUWmpxR0wySFNLNGw4WUxXVTFkNzhvdVNTdHlKU1dqSlYwUnI4?oc=5",
+     "published": "2026-11-13T19:40:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "New York Times",
+     "title": "Video: Why Jensen Huang Was Essential to Nvidia’s Rise",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWY2eUwyYjBDVHJqa1R2OGVHMHFET2xiOE9xemlxRFJ6ZkttMHJqX2x5MjNTLU81ekw0d0V1NENMRUZOaEJVdWtjdTZVWEYtWHFrODJsa1lBSXg3eXhOUlNEU1ZZN2F1dUhSSkdLREJrdkpPX0RnOHRYeGlOZ1JPTFU0Sm9rNFdXS2JLMk9IUDEwY3d1NUg2alFmbWk2cUhpdkJwV25odXIyQQ?oc=5",
+     "published": "2026-11-13T19:32:59+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "Reuters",
+     "title": "Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trump",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGw1N002MEg5dkpaaGZfeDVtSEd0dWswbERkbFZ3TEQtclVqNDNiTUdnZmUzSFF2Yms4TXctSmZTYXB1NGUwbUxXMmtKaDJhbTNsLW5DUmRiNFkwOEEtT1FwejgybEs5TF8tOHJoY2swRGVUOU12MzhJTGd0cFZraVFnamFRTzVLRE9WU21NZ01zRnJtSXNJOHgwU0JBQ1drVDhjSVF6bzBoQlpjTGsyeFVWejhXTDNkQkg4TFJfOA?oc=5",
+     "published": "2026-11-13T19:04:27+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 98,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "Supreme Court Set to Hear Trump’s Ban on Asylum Claims at Border",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "AP",
+    "CBS News",
+    "CNN",
+    "NBC News",
+    "New York Times",
+    "The Guardian",
+    "The Hill",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Washington Post",
+     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
+     "published": "2026-11-14T00:02:36+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "AP",
+     "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0Rkg5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5",
+     "published": "2026-11-13T21:33:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "New York Times",
+     "title": "Supreme Court Set to Hear Trump’s Ban on Asylum Claims at Border",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXRvNHhiWUZsY0xQMWxmSDBydXJHU2lRNkRteXM2QVJjSWttb2Y3VnZGVGVNTlZHMy1xUUxSTkh1ZGlLWGFRdTZZZHdOTjBIX2tJM0Y1OW5HRm41S3d6YWxxTnlhV3VVZllWS2w5enRoeU1LREtZN29kU0hYQnNZRHJkZTFqZl80aW9BczVn?oc=5",
+     "published": "2026-11-13T20:37:10+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "The Guardian",
+     "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekVqcGxQQnJ5ZkJSTmo5cUZiWV9xZGlzN3RXRmQyQmo5VDF1bkRoc1ZWWENTZkdNRnkwd1hsaXFwdEl6YWxGdkhaa1BfZzdLMVY3dXBYRkZadUp5U1QyOEdQYWtqTU9xdjdWaGM0SFFjZ3lFNThMX2JLQXdkRUpHVW1WNHNJSFZjNHZiSDdB?oc=5",
+     "published": "2026-11-13T19:38:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "The Hill",
+     "title": "Supreme Court will decide if Trump’s asylum restrictions are legal",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWJXN1ZQWGdDUl9RR2c2NnVma0ptZ3V6UVNLODR2WGcwd2Z6ZDBQRWhWbmdRcV9JN1F4OENSQTMtdjdOa1lTTng0b2VkdFduenBlNnZiY3pjcmpFSm1hSEtJa3lOUm5CMHpDTGVaNnRMbHptb0dpeWJtekYtSFVKb0tQa1E5UUo3X0NDQW0xb2c1bW0xLW9HONIBngFBVV95cUxOaGV1Q3VsX19PV25fQTFYdkxRVEc4QUhvemp4R1I5MUpXQWRtN3lFSnpGcGhER0FoanBLeTZIUE10TE5xWm52OGplLXJkVS1tTDRXZ24wTGNRelVhUEdnLWdLV3JOdnpEZlJaa1NKMGNCQVZTTWpxUWFWR3BUMVB0TEM3aVh2UFhaaFZCa0RoXzIybEwybXQ0LW1QamlNQQ?oc=5",
+     "published": "2026-11-13T19:14:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "CBS News",
+     "title": "Supreme Court takes up case over Trump effort to suspend asylum access at southern border",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZURSRkFKejdGTE1oQWE1dGRITVllN1M4TVVaOEMyZDlEbEc1VmsxYklZY3IxUVBud2xUMERqT01zYjlSYUJKMlNJY2ozTFFLTFBtWU1hZFB4eGZOWVRQT2ZBVnRIZGVpODltaER2YnFUZGVBX1BNTlN0WHFmblU?oc=5",
+     "published": "2026-11-13T19:09:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 78,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "'깐부' 젠슨 황 사임에도…삼전닉스, 장 초반 3~4%대 '강세'",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 6,
+   "outlets": [
+    "연합뉴스",
+    "이데일리",
+    "한겨레",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "‘젠슨 황 퇴진’ 악재에도 ‘삼전닉스’ 강세",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1287188.html",
+     "published": "2026-11-14T00:13:20.717924+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "'깐부' 젠슨 황 사임에도…삼전닉스, 장 초반 3~4%대 '강세'",
+     "url": "https://www.hankyung.com/article/2026111344286",
+     "published": "2026-11-13T00:26:33+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "[특징주] '젠슨 황 사임' 악재 털었나…삼전·닉스, 장초반 3∼4%대 급등",
+     "url": "https://www.yna.co.kr/view/AKR20261113040100008",
+     "published": "2026-11-13T00:19:55+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "이데일리",
+     "title": "삼전닉스, 젠슨 황 사임 충격 딛고 장초반 동반 3%대 반등[특징주]",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02728966645645392",
+     "published": "2026-11-13T00:18:54+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "[속보]정부, 구글社 고정밀 지도 반출 조건이행 확인",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "전자신문",
+    "한겨레"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "국내 ‘구글 지도’ 고정밀로 바뀐다…정부, 구글 보안이행 확인",
+     "url": "https://www.hani.co.kr/arti/economy/it/1287253.html",
+     "published": "2026-11-14T00:13:20.717714+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "[속보] \"정부, 구글의 고정밀 지도 반출 조건이행 확인\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16NFRYNjA0bGxhZXd3M2s5dGE0SUpvZXRRVnFIMUhQV2lfaTZZLWRBV3NOMWNTYmZmLVZsQWY1MHVrbzcxSko4djRpYWx1UUVzU3k3eGg1dHNZWmZSUzlwRmstZU1CaUU?oc=5",
+     "published": "2026-11-13T03:48:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "정부, 구글 고정밀지도 반출 보안이행 확인…위반 시 허가 회수(종합)",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867044",
+     "published": "2026-11-13T03:26:09+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "정부 \"구글, 고정밀지도 좌표제거·영상 보안처리 이행\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113087151003",
+     "published": "2026-11-13T03:25:53+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "뉴시스",
+     "title": "정부, 구글社 고정밀 지도 조건이행 확인…반출 허가 마침표(1보)",
+     "url": "https://www.newsis.com/view/NISX20261113_0003866643",
+     "published": "2026-11-13T03:12:31+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "전자신문",
+     "title": "정부, 구글 지도 반출 조건 이행 확인…국외 이전 수순",
+     "url": "https://www.etnews.com/20261113000154",
+     "published": "2026-11-13T03:11:53+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "[속보] 코스피, 0.98% 내린 5,290선 마감",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "MBC",
+    "YTN",
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "MBC",
+     "title": "코스피, 0.98% 하락 마감‥반도체 대형주 약세",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVWxUdTgwRTVlaTV2ZTRGTGdYR21oV2l4SlVDaG1mUnhzWXlRZGdWQW1GbVR3QUlVNjRpNXdqMHNkaWNqclVfNUZzTjFyZmRQR3o3ZENmM203TWUyblRaOG9GSXpnd1MxRGhqVERwZnpZYmNl0gF0QVVfeXFMTWNDc2h2VWsxWElyY2RhaUxvaFk3bFpUdjI2MjB5Y0ZjYWZPd25QVW5BdnoyRmFRSVNWQ0FnTkRXTHdITENUU3NXWE0xZVRsemFiazdrQi1MeGpIOC1pcUV2cnR1dUEtVmc3Znlpc1RSWHBORWk?oc=5",
+     "published": "2026-11-13T07:30:42+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113129251008",
+     "published": "2026-11-13T07:23:21+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "'전강후약' 코스피, 0.98% 하락 마감…코스닥 0.4%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261113129200008",
+     "published": "2026-11-13T06:38:39+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "코스피, 0.98% 내린 5290…코스닥 0.45% 오른 699 마감",
+     "url": "https://www.hankyung.com/article/2026111354636",
+     "published": "2026-11-13T06:38:07+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "코스피, 0.98% 하락한 5,290.53 마감",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XbUlYWWRIU29HN21uVDFNLTJ6c2tEYzE0SUdSWndJZlBzSG5uVXJZMmFZa3RzT0tveV9XVGRIOVNSbXlkNk1jWmtJVHhBVHAwdkJUcUlDT0ZJMjdCVElSOUxtRXBQWTdrUjc0SDQzQTXSAXRBVV95cUxQakkteUFndDg1RUdvbThDSm01Qm9uNmJ0YWp1b1Jrc21PZGxDZWFoeGRoNXN6UjZvbWtDa29GNGNiVnctN2NUQ1ZpaXFwVVpCbDhJMEE3WWk2ZkJYQTlWbWs0aE1qV0dpaExXbHlNN2FGcHRfcQ?oc=5",
+     "published": "2026-11-13T06:36:57+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "YTN",
+     "title": "[속보] 코스피, 0.98% 내린 5,290선 마감",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53WjNCNkZBbXVkc3VIdUhGY0Z5SlpMaFdDTHdyN1pTOVVLaG4tSloxRTg4bDFlbWZzMURyelVSeUkxTzFSaElOdDVwREVXMG43YjJXZUI2UUFPMldoMVlOSmtySzZzb0NmSUNhMHpvTQ?oc=5",
+     "published": "2026-11-13T06:36:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "李 대통령 \"IR 안하는 상장사, 자격 의문\"…거래소 \"코스닥 연 1회 의무화 추진\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 6,
+   "outlets": [
+    "뉴스핌",
+    "머니투데이",
+    "전자신문",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "李 대통령 \"IR 안하는 상장사, 자격 의문\"…거래소 \"코스닥 연 1회 의무화 추진\"",
+     "url": "https://www.hankyung.com/article/202611135520i",
+     "published": "2026-11-13T07:44:24+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴스핌",
+     "title": "거래소, 코스닥 상장사 IR 연 1회 의무화 추진…업계 \"형식적 개최 경계\"",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HeDJEMFBnSWhxU3NpSGRvdHZ3ZFB3WXBwcWpYMDh4cTd0WkpjellCR2E0MWhhM3h4MmJkNkdyMS1CcHo0QnFvd0NKaDRnN1RaYk90LWtRWFYtWkRF?oc=5",
+     "published": "2026-11-13T06:13:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "전자신문",
+     "title": "李 대통령 “상장사 IR 안 하면 시장 남을 자격 있나”…코스닥 IR 의무화 추진",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oSFR0V191Y0Z6WHdrVGI3T1FYZW12am1aRmt6OHNQcExwWldXZkhLYlUwR1pWVHhFb2l4b20za1ZRUUo5U05XUzY2WlBvUQ?oc=5",
+     "published": "2026-11-13T05:06:57+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "머니투데이",
+     "title": "거래소 이사장 \"코스닥 상장사, 연 1회 IR 의무화\"",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53dEV5ZHA2bEh0NjNnb01WS2JIV1ZIcnl6am0ySFFVV1lnS1Yxd200ZkZNUzBSZ2NKS1RPclVreTRRLU03RnczOVFVby1QU0hKWjhSZnVlbmJMdzVuVjlsdlZhZnZ6aGU10gFuQVVfeXFMTWlsM0RobldlWm9OUVBRVDRaUkZpNUdSZkU2OVNaWml0VkNGbFVaYlBNTW9XTm5WTjhoYXVBTEN4SXdnSm90SV8xTm5pTS15Z2NMNTZKai1zVnM0MUttRzNTTW85MDRNMzlLZERqN1E?oc=5",
+     "published": "2026-11-13T04:24:44+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 74,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "젠슨황 퇴진에 670조원 AI 금융구상 '흔들'…금융사 이탈 움직임",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "전자신문",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "전자신문",
+     "title": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPc1JWSk5IY2hOM1U4Mmg5VHFLMk9Zc3d1Tm1ERktuU0d6ZG9wMDhjLVhfQkh5dHFlU1JWYmwzVXBRSm9jaV9VRlYwLURsUQ?oc=5",
+     "published": "2026-11-13T23:57:29+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "젠슨황 퇴진에 금융사 이탈 움직임...670조원 AI 금융 구상 '휘청'",
+     "url": "https://www.fnnews.com/news/202611140821049925",
+     "published": "2026-11-13T23:40:20+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "젠슨황 퇴진에 670조원 AI 금융구상 '흔들'…금융사 이탈 움직임",
+     "url": "https://www.yna.co.kr/view/AKR20261114010400072",
+     "published": "2026-11-13T21:43:12+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2%↓, 하락 지속(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2%↓, 하락 지속(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261114009551072",
+     "published": "2026-11-13T22:14:46+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "[뉴욕증시] 기술주 약세 속 다우지수만 0.1% 상승…엔비디아, 낙폭 2%로 좁혀",
+     "url": "https://www.fnnews.com/news/202611140642023929",
+     "published": "2026-11-13T21:44:47+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "SBS",
+     "title": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2%↓",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zT0VkX0tHMldrX3paSVY1TmVNcWd6X1JHQ05RMkJ2QTVkZ09NUW1fZk91cUNuSEhUTVdRX2hibHg5RFo1UkZqbEhtS3FnQzNsSUxz0gFYQVVfeXFMT3FMcFFPcnV2VHp3UWdCd3R1bW9uOFo5LXBfWk55MVdtVUViV1JKeWthb0gyNzliRGxybzVaaUpkbVZ3OUcyblNZZ0c2UndGSEgzangxY1dnNw?oc=5",
+     "published": "2026-11-13T21:27:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "[속보][뉴욕증시] 다우지수만 0.1% 상승…엔비디아, 2% 하락",
+     "url": "https://www.fnnews.com/news/202611140601292872",
+     "published": "2026-11-13T21:01:56+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "현대해상, 3분기 누적 순익 7808억… 전년 比 23% 증가",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "global",
+   "importance": 5,
+   "outlets": [
+    "블로터",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "현대해상, 3분기 누적순익 7808억 '장기·일반보험' 실적 견인",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=678567",
+     "published": "2026-11-13T15:53:13+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "현대해상, 3분기 누적 순익 7808억… 전년 比 23% 증가",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/13/HBRDAOLFMI2GGMTGMNRDIMZRGI/",
+     "published": "2026-11-13T08:02:14+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "현대해상, 3분기 누적 순익 7천808억…전년比 23%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261113112500002",
+     "published": "2026-11-13T05:45:58+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "젠슨 황 없는 엔비디아…한국과 AI 동맹에도 변화 생기나",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "SBS",
+    "뉴시스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "SBS",
+     "title": "젠슨 황 없는 엔비디아…한국 'AI 동맹' 어디로?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845361",
+     "published": "2026-11-13T13:50:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "젠슨 황 없는 엔비디아…한국과 AI 동맹에도 변화 생기나",
+     "url": "https://www.yna.co.kr/view/AKR20261113101700017",
+     "published": "2026-11-13T05:13:03+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "젠슨 황 없는 엔비디아, 어쩌나…외신 \"AI 업계 전반 충격파\"",
+     "url": "https://www.newsis.com/view/NISX20261113_0003866509",
+     "published": "2026-11-13T01:55:43+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "\"엔비디아 임시 CEO, 과거 젠슨황에게 '겁먹은 사슴' 혹평 들어\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "경향신문",
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "경향신문",
+     "title": "“엔비디아 임시 CEO, 젠슨 황으로부터 ‘겁먹은 사슴 같다’ 혹평 듣던 인물”",
+     "url": "https://www.khan.co.kr/article/202611132143001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-13T12:43:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "엔비디아 임시 CEO 누군가 했더니…젠슨 황 “겁먹은 사슴”",
+     "url": "https://www.mk.co.kr/news/world/12208413",
+     "published": "2026-11-13T12:41:19+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "\"엔비디아 임시 CEO, 과거 젠슨황에게 '겁먹은 사슴' 혹평 들어\"",
+     "url": "https://www.yna.co.kr/view/AKR20261113175400009",
+     "published": "2026-11-13T12:04:14+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "온라인에 TSMC 직원 개인정보 판매글…해커 \"4만6천여건 보유\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "“4만6000건, 2억8000만원”…TSMC 직원 개인정보 온라인 판매가격",
+     "url": "https://www.mk.co.kr/news/business/12208379",
+     "published": "2026-11-13T11:35:42+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "다크웹에 올라온 TSMC 전·현직 직원 개인정보… 해커 “4만6000건 비트코인 3개에 판매”",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/13/MEYGMMZWMVTGGNJQMY2WGYJQG4/",
+     "published": "2026-11-13T09:17:46+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "온라인에 TSMC 직원 개인정보 판매글…해커 \"4만6천여건 보유\"",
+     "url": "https://www.yna.co.kr/view/AKR20261113146400009",
+     "published": "2026-11-13T08:27:07+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향(종합)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "정부, 경기 진단 ‘회복 흐름→견조한 성장세’…글로벌 경제 불확실성에 AI 첫 언급",
+     "url": "https://biz.heraldcorp.com/article/10936054",
+     "published": "2026-11-13T10:34:20+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113040251002",
+     "published": "2026-11-13T02:04:11+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "'회복 흐름'→'견조한 성장세'…재경부, 경기 판단 상향조정(종합)",
+     "url": "https://www.newsis.com/view/NISX20261113_0003866813",
+     "published": "2026-11-13T01:28:04+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "Bitcoin Slips Below $70,000 as Higher Yields Weigh on Crypto",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "crypto",
+   "importance": 4,
+   "outlets": [
+    "Barron's",
+    "Bloomberg",
+    "CNBC",
+    "CoinDesk",
+    "Forbes",
+    "Wall Street Journal"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "CNBC",
+     "title": "Bitcoin trades below $70,000 for the first time since August",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1NWVVZWTDBydm5BNHhpUHAxakNzc3VVNWNrM1B1NTBoQlJPaGFZZW9KaDJkVVluaEJsZFR4U1pRTTJTMVBDaDl1OG85ZEdUQzZTSUVSa1g5SE04cW5vZlNieWp6S25aMW4xdDNqY2dhVUlpSVM4SXNCWEtVZVI1ZmFzanczaHVHSnRRUFB0Z0F2d0tIbFVUd256NC1OcWZxSEhr?oc=5",
+     "published": "2026-11-13T22:52:04+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Bloomberg",
+     "title": "Bitcoin Slips Below $70,000 as Higher Yields Weigh on Crypto",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5",
+     "published": "2026-11-13T21:18:32+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "Forbes",
+     "title": "Bitcoin Falls Below $70,000 To Reach Lowest Since August",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHBZT0JieE5DbDZGeW4xemVUVUp2UGppek85bGpFQ3RWLTFHNkhRcVJER1BUeFJSWUpHTGhBRGxGUEtnV2ZjNWtFd1FEaFY1d3B3ZXIzT1UxSl9tT2JkeWlXUDY1b3RYTDhCUFI1MEQ0N2llRnM2b2xiTk03ZzZlMmVXemp2ak5qVzFYWTRncXFUcnNKTXR4WmpnUlJ5T09Kd0ptWDhqUUdoaVkxclFR?oc=5",
+     "published": "2026-11-13T19:26:37+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "Barron's",
+     "title": "Bitcoin Slumps Below $70,000. Robinhood, Coinbase, and Other Crypto Stocks Follow It Down.",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTV80VkdRSEwyNVd4aEsxc0ljT2V0ekpnR3BOZ0l2TlpRT1ZVY1dva2YweDQ1N3MzZUI4c0h3YjBDTW12X1FLVUpOdWpOSjNqR3RUSkxVTTdDUVhLWGlEeVczay1MbkhiczgxNnpVRGxCcENSNzZCSzNySEQyUlVrcWdsYXprMmVIY25qcFBjTTJ0ams?oc=5",
+     "published": "2026-11-13T14:13:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "CoinDesk",
+     "title": "Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5",
+     "published": "2026-11-13T11:52:25+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "Wall Street Journal",
+     "title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkRFdXJ3VnJvNExRVTFoQVJFRG83VHNleGp6YURoaFJ4cW5UWlh0STJBZ01fb3ZJTlBNVWZtYWUyeVVtOXg1T2h0RDJ2Wk50SXFtMjFLaTBZZjRjS0FMSHpvZnByblFhZ3ppQkNrRHdENVkwalo1d2RiRkRDa2U1WHhnZ2lkZkhYcjRMaUozWG80dUIwZ2tyeGhPVDhCVXRzMkExRzZjeXIwUTlq?oc=5",
+     "published": "2026-11-13T11:34:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 62,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "'조선미녀' 구다이글로벌, 코스피 상장 도전장",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "블로터",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "'10조 몸값' 구다이글로벌, 코스피 상장 첫발…일본 FI 정리가 관건",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=678606",
+     "published": "2026-11-14T06:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "'조선미녀' 구다이글로벌, 코스피 상장 도전장",
+     "url": "https://www.hankyung.com/article/2026111359051",
+     "published": "2026-11-13T09:32:13+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "‘조선미녀’ 구다이글로벌, 코스피 상장 예비심사 청구",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/13/MEYGKNLBMIZWINBQGNSWIZTEMQ/",
+     "published": "2026-11-13T09:07:03+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 61,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "깜짝 반등 후 약세 전환...코스피, 5,200대로 추락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "KBS",
+    "YTN",
+    "매일경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "YTN",
+     "title": "깜짝 반등 후 약세 전환...코스피, 5,200대로 추락",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85VmpGd1c2aUlsWmY2bXFva05wV0l1TGJGWS1lOEFqOW5CdFlDUUhob2pCVGRIZkJ6blA0ZDVoWFhaVzdjSlNzRHNvM3ZZbHFmQ0doQ1p3VWtyNUdIZUlEZVJoTG8zZ0J0a3VLNDc5QQ?oc=5",
+     "published": "2026-11-13T07:29:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "KBS",
+     "title": "코스피 하락 전환, 5,200선 마감…반도체주↓",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWWxjT0p0OGhOZmozaHMzdzlzTXVBWjhYVHRwYVFkTU92MjlyaTNMZmVhS1I0X0htMGZUcjNhd3FhVHg4Q1NTM2lTU0pRN0EtYm10ekRfN3V0X1k?oc=5",
+     "published": "2026-11-13T07:20:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "결국 ‘팔자’로 돌아선 외국인…장중 5500 찍은 코스피, 5200대 약세 마감",
+     "url": "https://www.mk.co.kr/news/stock/12208082",
+     "published": "2026-11-13T06:46:55+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 61,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "Trump administration delays Medicaid work requirement enforcement",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "Axios",
+    "NBC News",
+    "New York Times",
+    "Politico",
+    "The Hill",
+    "Wall Street Journal"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Wall Street Journal",
+     "title": "Trump Administration Delays Rollout of Tougher Medicaid Work Requirements",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtGa1A1d1FmWUY2cUtoNHhYMS0xU0x3YjVmN0J0SVEzNzF3djZyYldkUGFaQXZMWk53X0pTTjdtRE9kS3lCNmFWZmc0aEJvRl9GaERHbFc1Z2JWeHNNWUFkTHlTTzg3VHlHcEJVQzh4Q0hQLS14aGdPUTl0QnJUWWlvT1liaGUxd1VabVM0V0dYcFM4S0FOXzltMWo3MjE3eXh0WEQ1eC1WbjlWWnc3YVRTUG1Belk3ZktRYg?oc=5",
+     "published": "2026-11-13T23:35:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "The Hill",
+     "title": "Trump administration delays Medicaid work requirement enforcement",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDQyVEpWOUpfWkEzMnRUazJ5RGdOM2JvRDNMUDBNWFo1NDFJMkZNdW5mRW83ZXFDZllna0pmSkc0X19JOTU3a3VjY0hoSjEwZTIyMTRnT3laREgwWURsQWNwTWg0b2EtODRmbDlteEFWM3Z2YVJyU1BlZkZiTVNlLXRqR0lYaFdid2hBMHVBb9IBlAFBVV95cUxQam5WYjBqLTQ0enpFNEZjTEtJbUQ0X2ItZUQ1dXNWRWtiSDNlQ0NXc01reTRibEQxZWR5ckotRnhzUWdQUXRRdVczdHc2N2ZuMWlyeHI4NUNtR20zcWt1YTBHdkZOblVUXzdTM2xaalNxYUx5b1FyMnJUTXU0X0JGLTRyVFU3VVg2bkhvV2g2UU5LTGFs?oc=5",
+     "published": "2026-11-13T23:19:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "New York Times",
+     "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXhQWVFoSHVHNFR4ZURLdnJrdVFiQlY5bFlHMGRqZDNqMkRVTUdaRTJlLVhPVEtHTTRoZWIxN0VCRWNpdGY4WmJ6Ty0yQlBQRURPX25QYWNzT3FGX3VwTThLX1ozQW5BTExtbXhLWGFXdnJiX2NqQmVMeU1hVlZ5bTZHQzA0OWJ4YUU4?oc=5",
+     "published": "2026-11-13T23:10:21+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "NBC News",
+     "title": "Trump administration delays Medicaid work requirements by six months",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObC1XRzJaTTZ4eHRSSVl1c0JBZ0trZWlOT3B1bFJoQXJDR1c2TmFJSUZmZ1NLNUw0NXpGQTQxUmJfdHJ4VUdHeXZPYTZzVWg1RmRBNlJZaDhQbXplWUo5YUo5bTNnb2ZUWUdBWnVMVmZ4enQyeS1sYXFlVG9kYTJuTmtZOVI3cW1aZnU0UXRCNUktNU1QLXlaMGJfQ1pvSXV4UzRCWVRMMU9ZZnk3M3FnR1ZtNENpbnktSzFrczJEUjI?oc=5",
+     "published": "2026-11-13T22:49:46+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Axios",
+     "title": "Trump admin delays Medicaid work requirements by six months",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1lhRm54WGtBMUUzUFY4UmNrVGVleWgwX1pRNDg5a2Z5bm9rN0xLd2VLVmhnQlpaMzNaSzVYTXpnR1VGLWZ5RGdscW42NlFCandZT1B3NWdnR0lWNGttOFNXTGlDVnpPY2k3eEE0V3lIdzlYMGhhSnF6TGN1RGx4Tg?oc=5",
+     "published": "2026-11-13T22:46:21+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "Politico",
+     "title": "New Medicaid work requirements delayed",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1lGRWpybVF2RThMSGgxY1BBVHZHaFltcUFpWTJtM21YVF9OUDBReEFsWXMwcERIUXBtbWo3MThJam5XNUs2WHJnVV84aGR1WjBoZ2pOdkpsYjFTcHViWTRSSUxRM1ptOHZhbDluSXlIWXUyMkxVeHlBUzRtUS1PSjU5OGNfaU5ETFRaTGI2WEpYejNCS3I3ek1rcTZFYy1QUFk0YVVROA?oc=5",
+     "published": "2026-11-13T22:04:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 60,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "'도심형 산불' AI가 연기 감지해 알린다…대구동구, 감시망 구축",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "'도심형 산불' AI가 연기 감지해 알린다…대구동구, 감시망 구축",
+     "url": "https://www.yna.co.kr/view/AKR20261113120800053",
+     "published": "2026-11-13T23:01:01+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "'도심형 산불' AI가 연기 감지해 알린다…대구동구, 감시망 구축",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRE51eG5VUm9CVnJqNFpIZ0d6aktvYWZ3U1lxajZBc1lEZzlROXVVQXZISFgtRXgtYXJfN3R1dVhrM1ZxT0w5U2d2UHlaSHA3NkE?oc=5",
+     "published": "2026-11-13T23:01:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 20,
+   "slug": "20"
+  }
+ ],
+ "market": {
+  "fetched_at": "2026-11-14T09:13:26.530600+09:00",
+  "groups": {
+   "지수": [
+    {
+     "ticker": "^KS11",
+     "name": "코스피",
+     "value": 5342.72998046875,
+     "change": -32.6298828125,
+     "pct": -0.6070269459611977,
+     "date": "2026-11-12"
+    },
+    {
+     "ticker": "^KQ11",
+     "name": "코스닥",
+     "value": 696.530029296875,
+     "change": -8.5699462890625,
+     "pct": -1.215422859991011,
+     "date": "2026-11-12"
+    },
+    {
+     "ticker": "^GSPC",
+     "name": "S&P 500",
+     "value": 7561.669921875,
+     "change": -30.72998046875,
+     "pct": -0.40474660007389085,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^IXIC",
+     "name": "나스닥",
+     "value": 25136.2734375,
+     "change": -229.81640625,
+     "pct": -0.9059985502914425,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^DJI",
+     "name": "다우",
+     "value": 52347.55078125,
+     "change": 50.4609375,
+     "pct": 0.0964889970948013,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^SOX",
+     "name": "필라델피아 반도체",
+     "value": 10146.3232421875,
+     "change": -360.3466796875,
+     "pct": -3.4296944928026596,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^N225",
+     "name": "닛케이 225",
+     "value": 60819.359375,
+     "change": -429.23046875,
+     "pct": -0.7008005732785039,
+     "date": "2026-11-12"
+    },
+    {
+     "ticker": "000001.SS",
+     "name": "상하이종합",
+     "value": 3655.830078125,
+     "change": -24.81298828125,
+     "pct": -0.674148180999179,
+     "date": "2026-11-12"
+    }
+   ],
+   "환율·금리": [
+    {
+     "ticker": "KRW=X",
+     "name": "원/달러",
+     "value": 1333.780029296875,
+     "change": -2.47998046875,
+     "pct": -0.18559116119810648,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "JPYKRW=X",
+     "name": "원/100엔",
+     "value": 834.3043327331543,
+     "change": -2.151775360107422,
+     "pct": -0.25724904621863276,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "EURKRW=X",
+     "name": "원/유로",
+     "value": 1474.010009765625,
+     "change": -7.219970703125,
+     "pct": -0.4874307702602776,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "DX-Y.NYB",
+     "name": "달러인덱스",
+     "value": 103.41100311279297,
+     "change": 0.24100494384765625,
+     "pct": 0.23359983340602852,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^TNX",
+     "name": "미 국채 10년(%)",
+     "value": 5.154000282287598,
+     "change": 0.051000118255615234,
+     "pct": 0.9994143957722024,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^VIX",
+     "name": "VIX 변동성",
+     "value": 19.299999237060547,
+     "change": 0.5999984741210938,
+     "pct": 3.2085478590471395,
+     "date": "2026-11-13"
+    }
+   ],
+   "원자재": [
+    {
+     "ticker": "CL=F",
+     "name": "WTI 원유",
+     "value": 88.91999816894531,
+     "change": 0.18000030517578125,
+     "pct": 0.20284010537403585,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "BZ=F",
+     "name": "브렌트유",
+     "value": 96.08000183105469,
+     "change": 0.26000213623046875,
+     "pct": 0.2713443300548457,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "GC=F",
+     "name": "금",
+     "value": 3887.60009765625,
+     "change": 2.300048828125,
+     "pct": 0.05919874396365099,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "SI=F",
+     "name": "은",
+     "value": 48.650001525878906,
+     "change": -1.3219985961914062,
+     "pct": -2.6454786539703457,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "HG=F",
+     "name": "구리",
+     "value": 6.063499927520752,
+     "change": -0.11899995803833008,
+     "pct": -1.924787064150002,
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  "crypto": [
+   {
+    "name": "비트코인",
+    "id": "bitcoin",
+    "usd": 68349,
+    "krw": 91268085,
+    "pct": -4.088228230537274
+   },
+   {
+    "name": "이더리움",
+    "id": "ethereum",
+    "usd": 1932.37,
+    "krw": 2580334,
+    "pct": -4.057336286978643
+   },
+   {
+    "name": "솔라나",
+    "id": "solana",
+    "usd": 78.3,
+    "krw": 104560,
+    "pct": -3.9758953679709648
+   },
+   {
+    "name": "리플",
+    "id": "ripple",
+    "usd": 1.011,
+    "krw": 1349.91,
+    "pct": -2.79460563138281
+   }
+  ],
+  "kimchi_premium": 2.524577528428784,
+  "flows": null
+ },
+ "stats": {
+  "collected": 1802,
+  "outlets": 71,
+  "verified_stories": 69,
+  "dropped_by_factcheck": 0,
+  "seconds": 8
+ }
+}
