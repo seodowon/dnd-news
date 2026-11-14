@@ -1,0 +1,1005 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T07:53:40.577533+09:00",
+ "mode": "draft",
+ "articles": [
+  {
+   "headline": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃을 것\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 7,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 장악력 약화\"",
+     "url": "https://www.hankyung.com/article/2026111567777",
+     "published": "2026-11-14T22:13:49+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "머스크 \"젠슨 황 없는 엔비디아, 핵심 계약 잃을 것\"",
+     "url": "https://www.fnnews.com/news/202611150322189652",
+     "published": "2026-11-14T18:30:35+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "머스크, 젠슨 황 없는 엔비디아 경고…\"일부 거래 무산될 수도\"",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868282",
+     "published": "2026-11-14T17:25:07+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "조선일보",
+     "title": "머스크 “젠슨 황 부재에 엔비디아 공급망 핵심 계약 잃을 것”",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYndFeFRaWnlQWExvV3VaUHBjSFhtNDdJdjdWRDR5UFd6a183NTFHQTIyc2VPMEh6UTc2akR3TDh3QmFZMGE5S01hekViay0tZlMtOXZ3bnNtVFBIYWpITE41X1NWLVhuZHM1VlIycW9DNE5VM1ZvbTlHT0NfUUFFOVBlWU52aVV5eGZfc0JsMjdfVk5QdEEtdmNZX1h3Z9IBsgFBVV95cUxQbDFqSFZZbFNUVmNrTng0cEJjR1NOYnBQTHozUzFGNF92Z1FiMmF0Rm42Mjh2MWIyS3QxNy1yOGk0RGQ1OC1aZlNLaHFEUTBrSnQzNXJMZ1owNHotM28weWdEV2tsV1V0c192UzdwVkYydGNYeWxUZ2tOSmlodzdRWEk2alpPSmN3TWxxcUVUQklpVllNZEU1Q0k5dE5FaUc0MkE2WkVSVENQTUdXUTJMVmtR?oc=5",
+     "published": "2026-11-14T16:23:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "연합뉴스",
+     "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃을 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261115000300072",
+     "published": "2026-11-14T15:27:11+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 5,
+   "outlets": [
+    "Business Insider",
+    "CNBC",
+    "Decrypt",
+    "NPR",
+    "Reuters",
+    "TechCrunch",
+    "Wall Street Journal",
+    "Washington Post"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "TechCrunch",
+     "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+     "published": "2026-11-14T21:41:22+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "Business Insider",
+     "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkRibzV3RlFkczI4cG44NEVaVDZJSkFDVTdRd2RncVRjdDRpT0plb1VnNlhnV1hCMkFaOWNLak90Xzk0ZjVnMll3cUZROTRPd211b0tVbEJrano4WTRHN2x4dU9nWFpoc1VGUnJaaFJ6LU9zdFBndWNJeWUyT0dKMUZJVXhJY0V2Sl9lX1BVcUNGQQ?oc=5",
+     "published": "2026-11-14T20:35:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "CNBC",
+     "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
+     "published": "2026-11-14T17:35:51+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "TechCrunch",
+     "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+     "published": "2026-11-14T16:34:15+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "Reuters",
+     "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
+     "published": "2026-11-14T15:08:32+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "Wall Street Journal",
+     "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFZaWU0ZEdlakM1WnlreGY5X19qOTNjVjFlWTJXZWFwZkl6QlNYdUlYZ1JCNkNtQ0U3T04zaDNPYnNyd0NqZUtTYlJlRkhwaUwwYl82aWpUaEZ3Y2FCcGh6UHdXaW5FUmZEZU93NE81U0UyYVhia1JXdnVZUG1kYW1UbGZWTlJsQVh6bGZFMkZtY0I3SEdCNHFlVUlsYU1rRUNF?oc=5",
+     "published": "2026-11-14T10:30:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 78,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "美연구소 \"中딥시크·키미, 美제재에도 엔비디아 최첨단칩 훈련\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "MBC",
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "MBC",
+     "title": "미 연구소 \"중국 AI모델, 미국 제재에도 엔비디아 최첨단칩 훈련\"",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fMWVBVWozN19Fd3AyaWZfbGlYa1o0Q3VsY3JEMldxeFA5c0NlNmVKOHNBOW1GMXVJeU5BWTE5WEdja2RoRjR6NWo5WkpxRXhZYi05dnM4eC1haXZSWnE3X3ZBeDJPYTJRTjNsM3RJcWE3WDd00gF0QVVfeXFMTmZtTEZVUm9qRXJObXNtZWhydDdmOG1mOE9WWjEwLVlPazY3SmxpYmZ4aVdvdGhrWkRDVWt2cDFwUVJZT19UbGFwN1g2QXFyd1MyTkhQZFl1RE14Z05OZWkwa2NoMjlKSkFkZS03QWpOTks3a2E?oc=5",
+     "published": "2026-11-14T20:01:49+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "미 연구소 \"中딥시크·키미, 미 제재에도 엔비디아 최첨단칩 훈련\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFVUxZYjNfVVhDc0k5LU52eTFYSndqWWQ5Wlh0M05tVXZteFBWZzZBQ00wRWV3YmFiOUdSWFJkNzVjYVR3SERyclc1YzY1SUlQNnRiVVpZUzhOVTY5WGRsUXZkc3BWdHc?oc=5",
+     "published": "2026-11-14T18:43:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "美연구소 \"中딥시크·키미, 美제재에도 엔비디아 최첨단칩 훈련\"",
+     "url": "https://www.yna.co.kr/view/AKR20261115001500091",
+     "published": "2026-11-14T18:32:12+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "매일경제",
+     "title": "美연구소 \"中딥시크·키미, 美제재에도 엔비디아 최첨단칩 훈련\"",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYjNacjFwazNkN0t6VEdyQ0tFNkJwc0I2emVhV0RocmdYRDlkQnNZZW5BeUVmdGgydlBkVDI0ZTNSSmpsWW1nZFk2Z3c0Nm9TOHc?oc=5",
+     "published": "2026-11-14T18:32:12+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "엔비디아 “차기 CEO 후보, 누구와도 공식 접촉 안 해”… ‘Arm 하스 접촉설’ 진화",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "AI타임스",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "AI타임스",
+     "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
+     "published": "2026-11-14T17:03:50+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "엔비디아 “차기 CEO 후보, 누구와도 공식 접촉 안 해”… ‘Arm 하스 접촉설’ 진화",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/14/2PFK4TKTUFFH7PVKHCE6MDA23Y/",
+     "published": "2026-11-13T22:41:05+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "엔비디아, Arm CEO 접촉설에 \"아직 누구와도 공식 연락 안해\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261114004751091",
+     "published": "2026-11-13T21:55:05+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 5,
+   "outlets": [
+    "매일경제",
+    "연합뉴스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "영광와이케이엠씨 등 3곳 내주 코스닥 상장…에스에프씨·유캐스트 청약 [투자360]",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RdWNvR052ekREcXZPWWFPcFlUR2w0UEZlc1F2OTJzZUJuOWZFaEpnSXNjZDhUSHVzOC1kYnRTVUZXSVFlS0k3NWVUb0tZcW5EcFlnd0tB?oc=5",
+     "published": "2026-11-14T00:52:58+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+     "url": "https://www.yna.co.kr/view/AKR20261113076800008",
+     "published": "2026-11-14T00:00:03+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "매일경제",
+     "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zczdPRXRNTUJyR3dLZDlId1d0VlZ6VVZqckVJQk45aWpyeEFCMHNPbzBxenNPNTdzSXJ6SUxPZ0pyRnRWemxKRWg5eDJ0TEFIU2c?oc=5",
+     "published": "2026-11-14T00:00:03+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867514",
+     "published": "2026-11-14T22:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/15/MNQTCODBGNSWKNJZGVQTANBXHA/",
+     "published": "2026-11-14T21:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은?",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은?",
+     "url": "https://www.yna.co.kr/view/AKR20261114025800008",
+     "published": "2026-11-14T21:30:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은?",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xSC01ampBZS12SjE3czlRRkFHRzdfVzB2R1VMUjF3Q2Y0SjFicmI1OUZ4WTZoQkVXNjNLQ1lucG9BRThwS0ZFcEJNYTlXRGtaaFE?oc=5",
+     "published": "2026-11-14T21:30:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "[AI프리즘] AI로 일자리 170만개 늘지만…5명 중 1명 직무 바뀐다",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "[AI프리즘] AI로 일자리 170만개 늘지만…5명 중 1명 직무 바뀐다",
+     "url": "https://www.yna.co.kr/view/AKR20261113151600017",
+     "published": "2026-11-14T21:15:01+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "[AI프리즘] AI로 일자리 170만개 늘지만…5명 중 1명 직무 바뀐다",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzhfcVl1RG9kN1hUd2NMUkJSQXFFWUlNaTNNYTJENG9qOGl4X0NVbllXZEZ0NWFPSzgwN1ZnNlVqaXEybGs2a0lyN09oak9iV2c?oc=5",
+     "published": "2026-11-14T21:15:01+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "롯데하이마트, 삼성라이온즈 우승 기념 삼성전자 가전 추가할인",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "롯데하이마트, 삼성라이온즈 우승 기념 삼성전자 가전 추가할인",
+     "url": "https://www.yna.co.kr/view/AKR20261113163500030",
+     "published": "2026-11-14T21:00:02+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "롯데하이마트, 삼성라이온즈 V9 기념 가전 할인에 12만원 추가 혜택",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867680",
+     "published": "2026-11-14T21:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "美 이어 러도 \"19일 미중러 정상회담 개최\" 확인",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "크렘린도 \"19일 中서 미·중·러 정상회담 개최\" 확인",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868284",
+     "published": "2026-11-14T17:57:17+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "美 이어 러도 \"19일 미중러 정상회담 개최\" 확인",
+     "url": "https://www.yna.co.kr/view/AKR20261115000800109",
+     "published": "2026-11-14T16:08:20+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "美, 19일 미중러 정상회담 발표…\"트럼프-김정은 회담예정 없어\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114024600009",
+     "published": "2026-11-14T02:07:33+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "\"트럼프, 中수출 규제 완화 전 엔비디아 주식 대규모 매입\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "\"트럼프, 對中 수출 규제 풀기 전 엔비디아 주식 최대 500만 달러어치 샀다\"",
+     "url": "https://www.fnnews.com/news/202611150028545925",
+     "published": "2026-11-14T15:31:30+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "\"트럼프, 中수출 규제 완화 전 엔비디아 주식 대규모 매입\"",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868260",
+     "published": "2026-11-14T14:01:46+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "AI타임스",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "AI타임스",
+     "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+     "published": "2026-11-14T10:41:50+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
+     "url": "https://www.yna.co.kr/view/AKR20261114022000091",
+     "published": "2026-11-14T00:19:23+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "AI가 서·논술형 답안 채점…서울 초·중학생 300명 체험",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "KBS",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "KBS",
+     "title": "AI가 서·논술형 답안 채점…서울 초·중학생 300명 체험",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTDY2dFB2T29qZ29zZVRrNTJ2a1BkQ0tyVmxJQVFyTUVzaXQ2elFuTmV2ZkItbjhOTUxwandfcHB3Mk9Bc2FsdVRYS2ZHNjh6X1FydTNHUG50SnRpdzVxOEpWNF92UQ?oc=5",
+     "published": "2026-11-14T06:55:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "AI가 서·논술형 답안 채점…서울 초·중학생 300명 체험",
+     "url": "https://www.yna.co.kr/view/AKR20261113094100530",
+     "published": "2026-11-14T04:30:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "\"젠슨황, 엔비디아 임원진에 '앨리스와 적절한 관계' 거짓말\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "\"젠슨 황, 엔비디아 임원진에 '불륜 관계' 아니라 거짓말\"",
+     "url": "https://www.hankyung.com/article/2026111464287",
+     "published": "2026-11-14T03:55:22+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "\"젠슨황, 엔비디아 임원진에 '앨리스와 적절한 관계' 거짓말\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114030500009",
+     "published": "2026-11-14T03:27:16+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "전자신문"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "전자신문",
+     "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
+     "url": "https://www.etnews.com/20261114000015",
+     "published": "2026-11-14T02:20:52+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114026400089",
+     "published": "2026-11-14T01:48:08+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "엔비디아 임원들 연명했다는 '젠슨 황 복귀 촉구 서한'은 가짜",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "“젠슨 황 안 돌아오면 집단 이직”... 엔비디아 임원 서한은 ‘가짜’였다",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/14/IBWZF5IFYFFZPLUN7BPSLXI45I/",
+     "published": "2026-11-14T01:32:55+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "엔비디아 임원들 연명했다는 '젠슨 황 복귀 촉구 서한'은 가짜",
+     "url": "https://www.yna.co.kr/view/AKR20261114024400091",
+     "published": "2026-11-14T01:03:43+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "젠슨 황 스캔들 터진 뒤 '휘청'…엔비디아 일주일 새 13% 급락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "뉴시스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "젠슨 황 스캔들 터진 뒤 '휘청'…엔비디아 일주일 새 13% 급락",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmbFYycTFFYlZDTzJ2WTl3MmxDRmRCeWdhelljM3hWWENpTC0tbDloRzdtTzBpZjh2Y0xBNW5JYk5GeTMtelFsc1RWX0JMcWtNaHEyTDJWc3lMa1pVZVNFRzZ1WVFUZFJBVEpHMUpKR2ZkRk5KV2FRYdIBeEFVX3lxTFBmbFYycTFFYlZDTzJ2WTl3MmxDRmRCeWdhelljM3hWWENpTC0tbDloRzdtTzBpZjh2Y0xBNW5JYk5GeTMtelFsc1RWX0JMcWtNaHEyTDJWc3lMa1pVZVNFRzZ1WVFUZFJBVEpHMUpKR2ZkRk5KV2FRYQ?oc=5",
+     "published": "2026-11-14T00:51:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "엔비디아 주가 일주일 새 13% 급락...시총 4조달러 붕괴",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/14/DFGKTXF52VF7XCEKX6VHX3JJOQ/",
+     "published": "2026-11-13T23:57:46+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "뉴욕증시 혼조 마감…엔비디아 하락세 계속, 2%↓",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "경향신문",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "경향신문",
+     "title": "뉴욕증시 혼조 마감…엔비디아 2%&#8595;‘하락세’ 지속",
+     "url": "https://www.khan.co.kr/article/202611140752001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-13T22:52:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시 혼조 마감…엔비디아 하락세 계속, 2%↓",
+     "url": "https://www.yna.co.kr/view/AKR20261114009500072",
+     "published": "2026-11-13T21:18:20+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 50,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "엔비디아 실적 발표·앤트로픽 IPO…빅 이벤트 이어진다 [다음주 주요 변수 미리보기]",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "블로터",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=678625",
+     "published": "2026-11-14T16:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "엔비디아 실적 발표·앤트로픽 IPO…빅 이벤트 이어진다 [다음주 주요 변수 미리보기]",
+     "url": "https://www.hankyung.com/article/202611146383i",
+     "published": "2026-11-14T03:00:04+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 48,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "‘AI 안경 의혹’ 세무사 수석 합격자 “고득점 이유로 의심받아야 하나”",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 4,
+   "outlets": [
+    "매일경제",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "‘AI 안경 의혹’ 세무사 수석 합격자 “고득점 이유로 의심받아야 하나”",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVlSYjQ5UnJ0WlY0QzdTcTE3d0xtWlREWDZvdDAyaXpra0dnWmZhUjBCbVhxMkFieUFMaUhsZXlKNjk0SURxRnZ3SlI1bTIzMElqV0xCYXZfOG05UjZCOEtoWXdOaGREdVE3TDJpaDZIUWEydUFOUUVjRFpBNkpqQlln?oc=5",
+     "published": "2026-11-14T14:19:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "‘AI 안경 의혹’ 세무사 수석 “고득점이 의심받을 일인가…찍는 것도 기술”",
+     "url": "https://www.mk.co.kr/news/society/12208846",
+     "published": "2026-11-14T04:02:54+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 48,
+   "rank": 20,
+   "slug": "20"
+  }
+ ],
+ "market": {
+  "fetched_at": "2026-11-15T07:53:41.925671+09:00",
+  "groups": {
+   "지수": [
+    {
+     "ticker": "^KS11",
+     "name": "코스피",
+     "value": 5290.52978515625,
+     "change": -52.2001953125,
+     "pct": -0.9770322569796042,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^KQ11",
+     "name": "코스닥",
+     "value": 699.6599731445312,
+     "change": 3.12994384765625,
+     "pct": 0.4493623700353444,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^GSPC",
+     "name": "S&P 500",
+     "value": 7561.669921875,
+     "change": -30.72998046875,
+     "pct": -0.40474660007389085,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^IXIC",
+     "name": "나스닥",
+     "value": 25136.26953125,
+     "change": -229.8203125,
+     "pct": -0.9060139497874764,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^DJI",
+     "name": "다우",
+     "value": 52347.55078125,
+     "change": 50.4609375,
+     "pct": 0.0964889970948013,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^SOX",
+     "name": "필라델피아 반도체",
+     "value": 10146.3203125,
+     "change": -360.349609375,
+     "pct": -3.4297223768755547,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^N225",
+     "name": "닛케이 225",
+     "value": 61142.3515625,
+     "change": 322.9921875,
+     "pct": 0.53106805270422,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "000001.SS",
+     "name": "상하이종합",
+     "value": 3634.35302734375,
+     "change": -21.47705078125,
+     "pct": -0.5874739887326785,
+     "date": "2026-11-13"
+    }
+   ],
+   "환율·금리": [
+    {
+     "ticker": "KRW=X",
+     "name": "원/달러",
+     "value": 1336.199951171875,
+     "change": 2.419921875,
+     "pct": 0.18143335646401137,
+     "date": "2026-11-14"
+    },
+    {
+     "ticker": "JPYKRW=X",
+     "name": "원/100엔",
+     "value": 834.3043327331543,
+     "change": -2.151775360107422,
+     "pct": -0.25724904621863276,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "EURKRW=X",
+     "name": "원/유로",
+     "value": 1474.010009765625,
+     "change": -7.219970703125,
+     "pct": -0.4874307702602776,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "DX-Y.NYB",
+     "name": "달러인덱스",
+     "value": 103.41000366210938,
+     "change": 0.2400054931640625,
+     "pct": 0.23263109181319575,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^TNX",
+     "name": "미 국채 10년(%)",
+     "value": 5.1539998054504395,
+     "change": 0.05099964141845703,
+     "pct": 0.9994050515209407,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "^VIX",
+     "name": "VIX 변동성",
+     "value": 19.299999237060547,
+     "change": 0.5999984741210938,
+     "pct": 3.2085478590471395,
+     "date": "2026-11-13"
+    }
+   ],
+   "원자재": [
+    {
+     "ticker": "CL=F",
+     "name": "WTI 원유",
+     "value": 88.55999755859375,
+     "change": -0.18000030517578125,
+     "pct": -0.20284010537402475,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "BZ=F",
+     "name": "브렌트유",
+     "value": 95.83999633789062,
+     "change": 0.01999664306640625,
+     "pct": 0.020868965904918824,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "GC=F",
+     "name": "금",
+     "value": 3886.300048828125,
+     "change": 1.0,
+     "pct": 0.025738037923273005,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "SI=F",
+     "name": "은",
+     "value": 49.03099822998047,
+     "change": -0.9410018920898438,
+     "pct": -1.8830582922260253,
+     "date": "2026-11-13"
+    },
+    {
+     "ticker": "HG=F",
+     "name": "구리",
+     "value": 6.079500198364258,
+     "change": -0.10299968719482422,
+     "pct": -1.66598769270353,
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  "crypto": [
+   {
+    "name": "비트코인",
+    "id": "bitcoin",
+    "usd": 63397,
+    "krw": 84654983,
+    "pct": -7.256701785810316
+   },
+   {
+    "name": "이더리움",
+    "id": "ethereum",
+    "usd": 1742.9,
+    "krw": 2327326,
+    "pct": -9.648067933166297
+   },
+   {
+    "name": "솔라나",
+    "id": "solana",
+    "usd": 69.1,
+    "krw": 92267,
+    "pct": -11.699261977219567
+   },
+   {
+    "name": "리플",
+    "id": "ripple",
+    "usd": 0.899218,
+    "krw": 1200.74,
+    "pct": -10.919303283463366
+   }
+  ],
+  "kimchi_premium": 3.891972751078754,
+  "flows": null
+ },
+ "stats": {
+  "collected": 908,
+  "outlets": 60,
+  "verified_stories": 30,
+  "dropped_by_factcheck": 0,
+  "seconds": 6
+ }
+}
