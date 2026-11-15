@@ -1,5 +1,305 @@
 [
  {
+  "id": "2934ee177b",
+  "time": "2026-11-15T23:53:05+00:00",
+  "title": "유진證 \"한국전력, AI 전력망 투자 확대에 요금 인상 기대…목표가↓\"",
+  "ko": "유진證 \"한국전력, AI 전력망 투자 확대에 요금 인상 기대…목표가↓\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003869002",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f55f00aca6",
+  "time": "2026-11-15T23:53:00+00:00",
+  "title": "[속보] 젠슨 황, 엔비디아 CEO 복귀 논의…백악관 설득",
+  "ko": "[속보] 젠슨 황, 엔비디아 CEO 복귀 논의…백악관 설득",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT2lxM0MzSWZjZFQxYi1wVnlPSVNhXzlBN3VTOTN0NXNDc2hIcS01NHdSaUZaSTR0a0JTN3hxdGh1Q3FjbHJJSXNWLUNJVFA3TEpuQlB1TWFKM1ZleTQwQTdR?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "03955c9732",
+  "time": "2026-11-15T23:52:47+00:00",
+  "title": "서울임팩트프로젝트 결과공유회…'특수교사 보조 AI' 대상 수상",
+  "ko": "서울임팩트프로젝트 결과공유회…'특수교사 보조 AI' 대상 수상",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116025600004",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "669662d1de",
+  "time": "2026-11-15T23:52:22+00:00",
+  "title": "\"6~8등급서 서울대 치대, 그리고 LEET 만점…비현실적 학습 곡선\"",
+  "ko": "\"6~8등급서 서울대 치대, 그리고 LEET 만점…비현실적 학습 곡선\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003869038",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7cc6d47423",
+  "time": "2026-11-15T23:49:08+00:00",
+  "title": "아모데이 \"컴퓨팅 확보 큰 딜레마…상장도 이것 때문\"",
+  "ko": "아모데이 \"컴퓨팅 확보 큰 딜레마…상장도 이것 때문\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116021100009",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "61d45e20f9",
+  "time": "2026-11-15T23:49:02+00:00",
+  "title": "M83, 3분기 영업익 88억·전년비 110억 개선… AI 인프라 타고 ‘역대 최대’",
+  "ko": "M83, 3분기 영업익 88억·전년비 110억 개선… AI 인프라 타고 ‘역대 최대’",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12209591",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e526b7eba7",
+  "time": "2026-11-15T23:48:39+00:00",
+  "title": "디와이덕양, 3분기 매출 3335억…\"4분기 실적 개선 추진\"",
+  "ko": "디와이덕양, 3분기 매출 3335억…\"4분기 실적 개선 추진\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003869026",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "078d93e659",
+  "time": "2026-11-15T23:45:34+00:00",
+  "title": "KB증권 “삼성전자, 탈엔비디아 시대 최대 수혜주”",
+  "ko": "KB증권 “삼성전자, 탈엔비디아 시대 최대 수혜주”",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12209588",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e6a2d3abe6",
+  "time": "2026-11-15T23:45:19+00:00",
+  "title": "\"네이버, AI 신사업 좋지만 본업이 둔화\"...목표가 ↓",
+  "ko": "\"네이버, AI 신사업 좋지만 본업이 둔화\"...목표가 ↓",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611150157461685",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e0106c35d5",
+  "time": "2026-11-15T23:43:58+00:00",
+  "title": "증시 출렁이자 주식·채권 반반…ACE 채권혼합 ETF에 1조 유입",
+  "ko": "증시 출렁이자 주식·채권 반반…ACE 채권혼합 ETF에 1조 유입",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611160837152459",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2c830840e0",
+  "time": "2026-11-15T23:43:41+00:00",
+  "title": "iM증권 \"엔비디아·코스피, 불편한 차트…중요한건 펀더멘털\"",
+  "ko": "iM증권 \"엔비디아·코스피, 불편한 차트…중요한건 펀더멘털\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116022900008",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5cc89d6e90",
+  "time": "2026-11-15T23:43:17+00:00",
+  "title": "\"수능 하루 전에도 연기 가능하다\"…미미미누, AI 부정행위 대책없는 수능에 '분통'",
+  "ko": "\"수능 하루 전에도 연기 가능하다\"…미미미누, AI 부정행위 대책없는 수능에 '분통'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611160800582767",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b29671a945",
+  "time": "2026-11-15T23:43:02+00:00",
+  "title": "젠슨 황 떠난 빈자리, 삼성전자에 기회?…“탈엔비디아 시대 수혜주” [오늘 나온 보고서]",
+  "ko": "젠슨 황 떠난 빈자리, 삼성전자에 기회?…“탈엔비디아 시대 수혜주” [오늘 나온 보고서]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12209584",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5c28c8ddb4",
+  "time": "2026-11-15T23:42:55+00:00",
+  "title": "SK증권 \"코스닥, 정책 모멘텀 남아있다…시점은 불분명\"",
+  "ko": "SK증권 \"코스닥, 정책 모멘텀 남아있다…시점은 불분명\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116022400008",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "90f4585436",
+  "time": "2026-11-15T23:42:12+00:00",
+  "title": "DB증권 \"한화, 목표가↓…내년 건설 실적개선·주주환원 기대\"",
+  "ko": "DB증권 \"한화, 목표가↓…내년 건설 실적개선·주주환원 기대\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116022600008",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2565eb8a4c",
+  "time": "2026-11-15T23:40:34+00:00",
+  "title": "\"앤트로픽 IPO 청약에 중국·홍콩 기관투자자 배제\"",
+  "ko": "\"앤트로픽 IPO 청약에 중국·홍콩 기관투자자 배제\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116020300009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "24d7c7e3a8",
+  "time": "2026-11-15T23:40:14+00:00",
+  "title": "신한證 \"네이버, 본업 우려와 AI DC 기대감…목표가↓\"",
+  "ko": "신한證 \"네이버, 본업 우려와 AI DC 기대감…목표가↓\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003868999",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "72a3b25829",
+  "time": "2026-11-15T23:38:47+00:00",
+  "title": "수능 'AI 커닝' 우려 속…최교진, 시험장 준비상황 점검",
+  "ko": "수능 'AI 커닝' 우려 속…최교진, 시험장 준비상황 점검",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003868983",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ae6c4ca196",
+  "time": "2026-11-15T23:37:11+00:00",
+  "title": "실적은 잘 나왔는데…SK오션플랜트 목표가 5곳 줄하향",
+  "ko": "실적은 잘 나왔는데…SK오션플랜트 목표가 5곳 줄하향",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611160829045397",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9280383a03",
+  "time": "2026-11-15T23:32:19+00:00",
+  "title": "NHN KCP, 스테이블코인 학술 컨퍼런스 패널 참석…실증 성과 설명",
+  "ko": "NHN KCP, 스테이블코인 학술 컨퍼런스 패널 참석…실증 성과 설명",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003868975",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "255f4dc6bf",
+  "time": "2026-11-15T23:31:15+00:00",
+  "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…\"AI發 수요 선점 지속\"",
+  "ko": "삼성SDI, 美서 수조원대 ESS 배터리 수주…\"AI發 수요 선점 지속\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261116_0003868943",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "7851d14ba9",
   "time": "2026-11-15T23:28:07+00:00",
   "title": "세무사회 \"AI 없는 실무수습 평가로 부정행위자 걸러낼 것\"",
@@ -13,6 +313,54 @@
   "official": false,
   "also": [
    "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "70a3829213",
+  "time": "2026-11-15T23:27:10+00:00",
+  "title": "KB증권, 현대해상 목표가↓…\"투자손익 변동성 확대, 실적부진\"",
+  "ko": "KB증권, 현대해상 목표가↓…\"투자손익 변동성 확대, 실적부진\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261116019600008",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5e598b3fd1",
+  "time": "2026-11-15T23:26:27+00:00",
+  "title": "Trump prepares for China trip amid Nvidia scandal",
+  "ko": "Trump prepares for China trip amid Nvidia scandal",
+  "lang": "en",
+  "outlet": "CNN",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHlTN25pQzNuYWJSZDM3bURpTWtZTVNRTkdYTDBaUXIzbWtYS0RnQTVnam5ZTDl2Sm1mWHQxXzlxRGhYZXl5cU8xLUhtcVRfakxLUUhZNDU0bV90d1V4XzNMaS1US1lHN3AtOXNRVmt5V1lmVTl1RkhJaVc3MTJ5NWNoek9WOGV2NFhGYTdIVXk4UlgzXzRr?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4561dbfe35",
+  "time": "2026-11-15T23:26:02+00:00",
+  "title": "\"젠슨황 떠나도 AI 제국 커진다...삼성전자는 탈엔비디아 최대 수혜주\"",
+  "ko": "\"젠슨황 떠나도 AI 제국 커진다...삼성전자는 탈엔비디아 최대 수혜주\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611160822449785",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스"
   ]
  },
  {
@@ -143,7 +491,9 @@
   "people": [],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "파이낸셜뉴스"
+  ]
  },
  {
   "id": "adee9c4531",
@@ -234,6 +584,25 @@
   "flash": false,
   "official": false,
   "also": []
+ },
+ {
+  "id": "b2cbb96a56",
+  "time": "2026-11-15T22:57:00+00:00",
+  "title": "Jensen Huang weighs Nvidia CEO comeback as ally plans ‘war room’: report",
+  "ko": "Jensen Huang weighs Nvidia CEO comeback as ally plans ‘war room’: report",
+  "lang": "en",
+  "outlet": "Fox Business",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXFvaVN4cUdxZEFfeE92OF9ZWmhUbXB1MURzaVBvTkUydlJ2aDF4ajdJSVNJNzAzYUw3elh5UFAzOXN5bzE5OElzUG5LX2xyUmNMaUwyZWNMSHVWM3FnejM3aFV0ZW1qbFdyT1NSRHNYeWJCQnYwLWtMZUxQWV9XOVRqUFlGUW92d00zZFBVRnBHei1lanBtZjRxZ05sM2FYMG85NWlXU3rSAa4BQVVfeXFMUFV0WnZzcWdPTnF1RFItOHhHQXMzV1RIVTQ2RWo2WnhuQ3IzOGdrTkx5Nm1yczdoYVJxNVVDdFhGTlNjWkkxdHo1cm00enNsVnJsU3Q3bjd5Nm80Q2twTWNtaDRFbzBfOTdCdXFmbmhzUlZ4bEZVZ3VyZU1kSXB6d0RUVWZObHA5QVNibko3VHhVMXhlM0Mtb2hoSWM3N1ZjX2hJVVR2V3gxbHVLaU13?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Financial Times",
+   "Reuters"
+  ]
  },
  {
   "id": "9095d8a51b",
@@ -815,6 +1184,7 @@
   "flash": false,
   "official": false,
   "also": [
+   "중앙일보",
    "한국경제"
   ]
  },
@@ -881,7 +1251,8 @@
   "flash": false,
   "official": false,
   "also": [
-   "Financial Times"
+   "Financial Times",
+   "Fox Business"
   ]
  },
  {
@@ -948,6 +1319,7 @@
   "flash": false,
   "official": false,
   "also": [
+   "Fox Business",
    "Reuters"
   ]
  },
@@ -5040,181 +5412,5 @@
   "flash": false,
   "official": false,
   "also": []
- },
- {
-  "id": "65dee3b2a6",
-  "time": "2026-11-13T23:57:18+00:00",
-  "title": "美 \"트럼프 중국 방문 계기 북한과 대화 계획 전혀없어\"",
-  "ko": "美 \"트럼프 중국 방문 계기 북한과 대화 계획 전혀없어\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261114_0003867981",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f101725c37",
-  "time": "2026-11-13T23:55:00+00:00",
-  "title": "Democrats senators order Musk to preserve SpaceX records over Ukraine Starlink access, WSJ reports",
-  "ko": "Democrats senators order Musk to preserve SpaceX records over Ukraine Starlink access, WSJ reports",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX25Kck55T1o2eEtVLW5rSlBkRzM0MnR4OWpYTGNYcHFJc0I4dW1UaTc5VEtJUzZGT1EtVGdSd2FQdm1iNEl4YzE0eFRDc1VPUFR4NmR6RjR1cW1veHpEZVowQlFMV1JpWGRpZUdOaTBiQ0R6MEdUQW1HdEZtWFhWdHBaZGlvaHZJRlZOLXFHWUU0aUkxQ01rdkwwN3JiZGgxNWZiZG9pTmM3eDRjQkhJYkhwQkw2VFdseG82U0tsWlNQQnVCaEg3eWdGYTJ5Ync?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Wall Street Journal"
-  ]
- },
- {
-  "id": "1fccb0edab",
-  "time": "2026-11-13T23:48:00+00:00",
-  "title": "Super Micro, run by Jensen Huang’s friend, says Megaspeed was ‘never’ its customer",
-  "ko": "Super Micro, run by Jensen Huang’s friend, says Megaspeed was ‘never’ its customer",
-  "lang": "en",
-  "outlet": "Fortune",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWtYMllsc1Rta1ozeUZSM0RncUhIdkVhRnliTFNrQXBtOUdkaUhfU0pKbHQtVVhVeUlXX21ZY2phU0ZoaHpGYjBqVXpweGdCWjhnUElZR1A2NlNKeUFNLTlmbnZwQU9ueW5fbUJuU05hb1JvMWhjbTM0NEFhZXFMQUVrNlpSZUxLdEJ4WGVVdw?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "77b85366f3",
-  "time": "2026-11-13T23:46:08+00:00",
-  "title": "[속보]美고위관계자, 트럼프 방중앞 \"북한과 대화 계획 없어\"",
-  "ko": "[속보]美고위관계자, 트럼프 방중앞 \"북한과 대화 계획 없어\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261114_0003867976",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7e114e31d7",
-  "time": "2026-11-13T23:44:29+00:00",
-  "title": "[속보]美 \"트럼프, 18일 中선전 도착…19일 APEC 만찬 참석\"",
-  "ko": "[속보]美 \"트럼프, 18일 中선전 도착…19일 APEC 만찬 참석\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261114_0003867974",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "46fb672e54",
-  "time": "2026-11-13T23:44:00+00:00",
-  "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
-  "ko": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
-  "lang": "en",
-  "outlet": "AP",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2dc972d563",
-  "time": "2026-11-13T23:42:00+00:00",
-  "title": "오픈AI, 챗GPT에 AI지갑 도입…AI가 사람 대신 결제한다[글로벌AI브리핑]",
-  "ko": "오픈AI, 챗GPT에 AI지갑 도입…AI가 사람 대신 결제한다[글로벌AI브리핑]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611140831394681",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "758ae05855",
-  "time": "2026-11-13T23:40:20+00:00",
-  "title": "젠슨황 퇴진에 금융사 이탈 움직임...670조원 AI 금융 구상 '휘청'",
-  "ko": "젠슨황 퇴진에 금융사 이탈 움직임...670조원 AI 금융 구상 '휘청'",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611140821049925",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9896210f0d",
-  "time": "2026-11-13T23:39:26+00:00",
-  "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-  "ko": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9e10b21c0c",
-  "time": "2026-11-13T23:35:00+00:00",
-  "title": "Trump Administration Delays Rollout of Tougher Medicaid Work Requirements",
-  "ko": "Trump Administration Delays Rollout of Tougher Medicaid Work Requirements",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtGa1A1d1FmWUY2cUtoNHhYMS0xU0x3YjVmN0J0SVEzNzF3djZyYldkUGFaQXZMWk53X0pTTjdtRE9kS3lCNmFWZmc0aEJvRl9GaERHbFc1Z2JWeHNNWUFkTHlTTzg3VHlHcEJVQzh4Q0hQLS14aGdPUTl0QnJUWWlvT1liaGUxd1VabVM0V0dYcFM4S0FOXzltMWo3MjE3eXh0WEQ1eC1WbjlWWnc3YVRTUG1Belk3ZktRYg?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "aaf4986df3",
-  "time": "2026-11-13T23:33:00+00:00",
-  "title": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access",
-  "ko": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZF9udEVzb0ExTk1fRlVWNVRLX1BYVlU3RXY3X08xaXFGXzRiMVMxd2xXWEt0T0dBb3ZQaVFqNDhjSHQ5cDE4Q2ZZRXhUbm80cW9UNVZUT0hVbGVxYV80U3FYbnVPT3lBVnRKcHFNMG9YSHlUVUZoOS1rQVA3My12SUVmdTVBSm9UNWJ0Vjg1bzRhMXRIclZhT3JiVGhOYkJxdTd3NVZEN1hxaDdNbjlGbDhEcEM?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Reuters"
-  ]
  }
 ]
