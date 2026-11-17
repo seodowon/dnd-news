@@ -1,5 +1,1732 @@
 [
  {
+  "id": "4172e2a46e",
+  "time": "2026-11-17T02:14:32+00:00",
+  "title": "중소 제조현장에 AI 입힌다...기정원, 공정최적화 R&D 10개 과제 선정",
+  "ko": "중소 제조현장에 AI 입힌다...기정원, 공정최적화 R&D 10개 과제 선정",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171059233937",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dcd2d669af",
+  "time": "2026-11-17T02:13:00+00:00",
+  "title": "부동산원, 공시 업무에 AI 에이전트 도입…자료 검색·문서 작성 줄인다",
+  "ko": "부동산원, 공시 업무에 AI 에이전트 도입…자료 검색·문서 작성 줄인다",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171101469576",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fbcd99c24f",
+  "time": "2026-11-17T02:12:42+00:00",
+  "title": "\"AI 차단\" 전북도, 김제 용지 밀집단지 사육 마릿수 감축",
+  "ko": "\"AI 차단\" 전북도, 김제 용지 밀집단지 사육 마릿수 감축",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871256",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "66ee560c57",
+  "time": "2026-11-17T02:12:34+00:00",
+  "title": "연금공단 신임 상임감사에 이종렬 전 한은 부총재보",
+  "ko": "연금공단 신임 상임감사에 이종렬 전 한은 부총재보",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871263",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "b5e519d09b",
+  "time": "2026-11-17T02:11:23+00:00",
+  "title": "'AI커닝 자백' 세무사 수석, \"공범 있나\" 질문에 답 없이 조사실로",
+  "ko": "'AI커닝 자백' 세무사 수석, \"공범 있나\" 질문에 답 없이 조사실로",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171053521519",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f533954a16",
+  "time": "2026-11-17T02:11:14+00:00",
+  "title": "평택세관 10월 수출 149.6% 급증…\"반도체가 이끌었다\"",
+  "ko": "평택세관 10월 수출 149.6% 급증…\"반도체가 이끌었다\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871251",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "234a720b0f",
+  "time": "2026-11-17T02:09:09+00:00",
+  "title": "삼성중공업·삼성전자 우선주 담고…삼성전자 본주는 매도 [주식 초고수는 지금]",
+  "ko": "삼성중공업·삼성전자 우선주 담고…삼성전자 본주는 매도 [주식 초고수는 지금]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210998",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "37d4ea809c",
+  "time": "2026-11-17T02:08:21+00:00",
+  "title": "\"나도 AI로 의대 갔다\"…'익명'으로 쏟아지는 자백글, 경찰이 추적한다",
+  "ko": "\"나도 AI로 의대 갔다\"…'익명'으로 쏟아지는 자백글, 경찰이 추적한다",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171102232143",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "48e8d47d49",
+  "time": "2026-11-17T02:07:41+00:00",
+  "title": "물류 경쟁, 배송 속도 넘어 운영 효율로…CJ대한통운 AI 전환 가속",
+  "ko": "물류 경쟁, 배송 속도 넘어 운영 효율로…CJ대한통운 AI 전환 가속",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171049066616",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c1439949da",
+  "time": "2026-11-17T02:06:27+00:00",
+  "title": "AI가 차량·금융상품 추천…우리금융캐피탈 서비스 12월 출시",
+  "ko": "AI가 차량·금융상품 추천…우리금융캐피탈 서비스 12월 출시",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117075200002",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9e38e785f0",
+  "time": "2026-11-17T02:06:22+00:00",
+  "title": "'AI 무장' 중국 연계 해킹조직, 한국 외교 조직까지 노렸다",
+  "ko": "'AI 무장' 중국 연계 해킹조직, 한국 외교 조직까지 노렸다",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117076500017",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3df4e4bb71",
+  "time": "2026-11-17T02:01:43+00:00",
+  "title": "AI부정행위 우려 속 70년째 양심 지킨 '무감독 시험'",
+  "ko": "AI부정행위 우려 속 70년째 양심 지킨 '무감독 시험'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117074100065",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "086821bbd4",
+  "time": "2026-11-17T02:00:35+00:00",
+  "title": "AI 부정행위 논란 확산…금융당국, 회계사 등 자격시험 별도 조사",
+  "ko": "AI 부정행위 논란 확산…금융당국, 회계사 등 자격시험 별도 조사",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871031",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e9b1d3fbd9",
+  "time": "2026-11-17T01:57:53+00:00",
+  "title": "충주시, 생성형 AI로 'PC 오류 자동 복구' 프로그램 개발",
+  "ko": "충주시, 생성형 AI로 'PC 오류 자동 복구' 프로그램 개발",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117074700064",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1b37a7cc2b",
+  "time": "2026-11-17T01:57:27+00:00",
+  "title": "[올댓차이나] 위안화 기준치 1달러=6.7132위안…0.013% 절상",
+  "ko": "[올댓차이나] 위안화 기준치 1달러=6.7132위안…0.013% 절상",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871223",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0081e6da22",
+  "time": "2026-11-17T01:57:12+00:00",
+  "title": "靑, 'AI 악용 부정행위 비상대응TF' 가동…수능 앞두고 대책 점검",
+  "ko": "靑, 'AI 악용 부정행위 비상대응TF' 가동…수능 앞두고 대책 점검",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871213",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a490c9c62f",
+  "time": "2026-11-17T01:55:53+00:00",
+  "title": "장성 종오리 농장서 AI 항원 확인…고병원성 여부 검사",
+  "ko": "장성 종오리 농장서 AI 항원 확인…고병원성 여부 검사",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117073800030",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3295e29cdf",
+  "time": "2026-11-17T01:55:01+00:00",
+  "title": "\"앤트로픽 직원들, 보유 주식 팔려면 60일 전 신고해야\"",
+  "ko": "\"앤트로픽 직원들, 보유 주식 팔려면 60일 전 신고해야\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117059500091",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d19faa015d",
+  "time": "2026-11-17T01:52:35+00:00",
+  "title": "與 \"AI 시험 부정행위 선처 없어…영구적 응시자격 박탈 필요\"(종합)",
+  "ko": "與 \"AI 시험 부정행위 선처 없어…영구적 응시자격 박탈 필요\"(종합)",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871175",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b9592a5dfa",
+  "time": "2026-11-17T01:52:15+00:00",
+  "title": "젠슨 황, 엔비디아 간판 행사서 이름 빠져…대외 활동 잇단 취소",
+  "ko": "젠슨 황, 엔비디아 간판 행사서 이름 빠져…대외 활동 잇단 취소",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003870995",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "03ab0508a2",
+  "time": "2026-11-17T01:50:55+00:00",
+  "title": "[영상] \"책임질 것\" 허리 숙인 'AI커닝' 세무사 수석…'혼자 했나' 묻자",
+  "ko": "[영상] \"책임질 것\" 허리 숙인 'AI커닝' 세무사 수석…'혼자 했나' 묻자",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117069000704",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "70fb76223a",
+  "time": "2026-11-17T01:49:30+00:00",
+  "title": "젠슨 황 사임에 대만 IT업계 '복귀 촉구'…타이베이101에 응원 메시지",
+  "ko": "젠슨 황 사임에 대만 IT업계 '복귀 촉구'…타이베이101에 응원 메시지",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003871093",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "52d6edad61",
+  "time": "2026-11-17T01:48:59+00:00",
+  "title": "中·印은 전파 차단, 日은 안경 단속…亞각국 'AI 커닝' 비상",
+  "ko": "中·印은 전파 차단, 日은 안경 단속…亞각국 'AI 커닝' 비상",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117066300083",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e66b682f3d",
+  "time": "2026-11-17T01:46:44+00:00",
+  "title": "\"수능 AI 스마트안경 단속에 수험생 보호 대책도 필요\"",
+  "ko": "\"수능 AI 스마트안경 단속에 수험생 보호 대책도 필요\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117070400063",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6c9eed3301",
+  "time": "2026-11-17T01:46:40+00:00",
+  "title": "ETRI, 우주용 전력반도체 2종 국산화 쾌거",
+  "ko": "ETRI, 우주용 전력반도체 2종 국산화 쾌거",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171040570620",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "539362b11f",
+  "time": "2026-11-17T01:46:28+00:00",
+  "title": "반도체초격차…경기도는 '큰 그림' 화성시는 '현장성과'",
+  "ko": "반도체초격차…경기도는 '큰 그림' 화성시는 '현장성과'",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261117_0003870683",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d5c96b6c33",
+  "time": "2026-11-17T01:46:21+00:00",
+  "title": "\"텔레비전만 팔던 시대 끝\" 삼성전자, '스마트TV 콘텐츠 강화' 인재 확보나서",
+  "ko": "\"텔레비전만 팔던 시대 끝\" 삼성전자, '스마트TV 콘텐츠 강화' 인재 확보나서",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261113_0003867013",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e1500e7286",
+  "time": "2026-11-17T01:46:06+00:00",
+  "title": "\"오픈AI 계획용량 14GW 전부 데이터센터 중단 지지 주에\"",
+  "ko": "\"오픈AI 계획용량 14GW 전부 데이터센터 중단 지지 주에\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117059700009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "19d9f2c15e",
+  "time": "2026-11-17T01:45:45+00:00",
+  "title": "연천군 '대한민국소통어워즈' AI 브랜드 대상 수상",
+  "ko": "연천군 '대한민국소통어워즈' AI 브랜드 대상 수상",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117070000060",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6f545b9ba5",
+  "time": "2026-11-17T01:44:40+00:00",
+  "title": "젠슨 황 사임에 AI 불안 확산…연준·IMF도 경고음",
+  "ko": "젠슨 황 사임에 AI 불안 확산…연준·IMF도 경고음",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171041598570",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "de2878b4f6",
+  "time": "2026-11-17T01:41:20+00:00",
+  "title": "젠슨황·앤트로픽·금리…'삼중고'에 짓눌린 코스피",
+  "ko": "젠슨황·앤트로픽·금리…'삼중고'에 짓눌린 코스피",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117065400008",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c36e9a5e3f",
+  "time": "2026-11-17T01:40:19+00:00",
+  "title": "美법원, 트럼프 '유학생 4년·외신기자 240일 체류 제한' 무효화",
+  "ko": "美법원, 트럼프 '유학생 4년·외신기자 240일 체류 제한' 무효화",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117058500072",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "ded1f27988",
+  "time": "2026-11-17T01:39:20+00:00",
+  "title": "업비트·빗썸 예치금 2조5천억원 줄어…코인 평가액도 '뚝'",
+  "ko": "업비트·빗썸 예치금 2조5천억원 줄어…코인 평가액도 '뚝'",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117064900002",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ccb9a4e870",
+  "time": "2026-11-17T01:39:14+00:00",
+  "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고",
+  "ko": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117064100009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dcf975537c",
+  "time": "2026-11-17T01:38:31+00:00",
+  "title": "[오전시황] 코스피 5000선 회복…하이닉스·기판주 상승 전환",
+  "ko": "[오전시황] 코스피 5000선 회복…하이닉스·기판주 상승 전환",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202611171364i",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "254d64e3b0",
+  "time": "2026-11-17T01:34:53+00:00",
+  "title": "[개장시황]美 AI 칩 규제·엔비디아 여파에 코스피 5010선 후퇴…옵토닉스·나노팀 급등",
+  "ko": "[개장시황]美 AI 칩 규제·엔비디아 여파에 코스피 5010선 후퇴…옵토닉스·나노팀 급등",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202611171350i",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "21678f3a92",
+  "time": "2026-11-17T01:31:35+00:00",
+  "title": "트럼프 美정부, '젠슨황 스캔들' 간첩 의혹 선긋기…\"증명 안돼\"",
+  "ko": "트럼프 美정부, '젠슨황 스캔들' 간첩 의혹 선긋기…\"증명 안돼\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117052800071",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "de6d8a605a",
+  "time": "2026-11-17T01:30:40+00:00",
+  "title": "ETRI, 우주용 전력반도체 2종 국산화…위성 핵심 부품 확보",
+  "ko": "ETRI, 우주용 전력반도체 2종 국산화…위성 핵심 부품 확보",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117063700063",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "c6aa1839d3",
+  "time": "2026-11-17T01:28:55+00:00",
+  "title": "김민석, 'AI커닝 난 못잡을 것 같다' 최교진에 \"답변 정정했어야\"(종합)",
+  "ko": "김민석, 'AI커닝 난 못잡을 것 같다' 최교진에 \"답변 정정했어야\"(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117024251001",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0ebcd8f5d9",
+  "time": "2026-11-17T01:26:17+00:00",
+  "title": "인천해수청, 연안화물선 유가보조금 지원 확대…소급 지급",
+  "ko": "인천해수청, 연안화물선 유가보조금 지원 확대…소급 지급",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117065000065",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "40b76ea3a3",
+  "time": "2026-11-17T01:25:12+00:00",
+  "title": "국민연금 신임 상임감사에 이종렬 전 한국은행 부총재보",
+  "ko": "국민연금 신임 상임감사에 이종렬 전 한국은행 부총재보",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117063900530",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "72c912276a",
+  "time": "2026-11-17T01:25:04+00:00",
+  "title": "\"앤트로픽 지수 편입 늦지만 추종 자금 26조원 수요\"",
+  "ko": "\"앤트로픽 지수 편입 늦지만 추종 자금 26조원 수요\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261117058300009",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f5b6086cad",
+  "time": "2026-11-17T01:25:00+00:00",
+  "title": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여",
+  "ko": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111712527",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6319fb0e2a",
+  "time": "2026-11-17T01:24:00+00:00",
+  "title": "라온시큐어, 구글 손잡고 업무용 단말기 보안 강화",
+  "ko": "라온시큐어, 구글 손잡고 업무용 단말기 보안 강화",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170915046244",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b25303442e",
+  "time": "2026-11-17T01:23:00+00:00",
+  "title": "[속보] 한 총리 “’AI 부정행위’ 사회악으로 규정“",
+  "ko": "[속보] 한 총리 “’AI 부정행위’ 사회악으로 규정“",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGamtkZFlEeXB2SzFuX3g5V1lISDlnVS1oMXJBVDdaVkszTXh6Nm5FY01SN0hPeEVPbXBDazJ3NktDMjlqNGZjdlRQNW1kVFBadXA2X1p6U1FPeExBeVZ6dl9yWUd3UGs?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e30d65d021",
+  "time": "2026-11-17T01:18:55+00:00",
+  "title": "엠로, 'AI 에이전트로 구매 업무 처리 시간 50% 단축'",
+  "ko": "엠로, 'AI 에이전트로 구매 업무 처리 시간 50% 단축'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171016039884",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3429be7c8c",
+  "time": "2026-11-17T01:16:30+00:00",
+  "title": "[속보] 김민석 “AI 부정행위 적발 땐 최대 10년 응시 제한”…입법 추진",
+  "ko": "[속보] 김민석 “AI 부정행위 적발 땐 최대 10년 응시 제한”…입법 추진",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SX1Fldm9WS3Rrb3dMOElZSkYyNnVkcnl0RXI3TlNtZVVoRkRETEw5U3Z4U2FrY1I1MHNud25XcUFSZTExd1NWMHRBWTZ4T2tzV0FhTUNn?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9236fa8c01",
+  "time": "2026-11-17T01:15:51+00:00",
+  "title": "\"차라리 팬티만 입고 시험 보자\"…AI 부정행위에 소환된 10년 전 인도 '그 시험'",
+  "ko": "\"차라리 팬티만 입고 시험 보자\"…AI 부정행위에 소환된 10년 전 인도 '그 시험'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170955559370",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7fb845ef4f",
+  "time": "2026-11-17T01:15:21+00:00",
+  "title": "티맥스티베로, 국방 분야 AI·데이터 혁신 데이터베이스 전략 제시",
+  "ko": "티맥스티베로, 국방 분야 AI·데이터 혁신 데이터베이스 전략 제시",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611171012326542",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2a7a3b5f7e",
+  "time": "2026-11-17T01:12:00+00:00",
+  "title": "업스테이지, 캐나다 코히어와 AI 동맹…기업용 AI 시장 공략",
+  "ko": "업스테이지, 캐나다 코히어와 AI 동맹…기업용 AI 시장 공략",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170958090557",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "adbf9b84c2",
+  "time": "2026-11-17T01:02:23+00:00",
+  "title": "구심점 사라진 AI 생태계 … 앤트로픽·삼전닉스가 구해낼까",
+  "ko": "구심점 사라진 AI 생태계 … 앤트로픽·삼전닉스가 구해낼까",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210916",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ca10ff93b5",
+  "time": "2026-11-17T00:57:00+00:00",
+  "title": "[속보] \"수험생께 진심으로 죄송\", 'AI 부정행위' 세무사 수석 경찰 출석",
+  "ko": "[속보] \"수험생께 진심으로 죄송\", 'AI 부정행위' 세무사 수석 경찰 출석",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hS015NUloM1NrMDFoXzRZNTVxR3lFT2txeTdpOUdZWVozckc4Z2NkNXZEekc2TWVZSnpwdjV2WUROZnRuTFIwY3huM1dRVmhRbjhkbC1jTmZOUEg2bFBjSS1R?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "JTBC",
+   "뉴스1"
+  ]
+ },
+ {
+  "id": "670c050924",
+  "time": "2026-11-17T00:52:03+00:00",
+  "title": "SG, 3분기 매출 10.9% 증가·영업이익 흑자전환… “4분기 실적 개선 기대”",
+  "ko": "SG, 3분기 매출 10.9% 증가·영업이익 흑자전환… “4분기 실적 개선 기대”",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210912",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b39adf659b",
+  "time": "2026-11-17T00:51:34+00:00",
+  "title": "델, 엔비디아 AI팩토리 고도화…토큰 소비량 최대 76% 절감",
+  "ko": "델, 엔비디아 AI팩토리 고도화…토큰 소비량 최대 76% 절감",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170908241233",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "dd212239e5",
+  "time": "2026-11-17T00:50:45+00:00",
+  "title": "코스피, 장 초반 5000선 깨져...'젠슨 황' 여파에 AI투심 위축[fn오전시황]",
+  "ko": "코스피, 장 초반 5000선 깨져...'젠슨 황' 여파에 AI투심 위축[fn오전시황]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170931045856",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "309adc4f8e",
+  "time": "2026-11-17T00:50:11+00:00",
+  "title": "美, AI데이터센터 中원격접속 차단…제3국 데이터센터 통한 컴퓨팅 연산능력 제공 차단",
+  "ko": "美, AI데이터센터 中원격접속 차단…제3국 데이터센터 통한 컴퓨팅 연산능력 제공 차단",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170939128904",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "8cd81e2da2",
+  "time": "2026-11-17T00:49:01+00:00",
+  "title": "\"AI 부정행위 탐지 기술 개발 착수\"…지슨, 또 장중 상한가",
+  "ko": "\"AI 부정행위 탐지 기술 개발 착수\"…지슨, 또 장중 상한가",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111710966",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "bc3bedc6a0",
+  "time": "2026-11-17T00:46:47+00:00",
+  "title": "구글 \"AI가 사람없이 공격코드 개발\"…해킹시간 더 빨라진다",
+  "ko": "구글 \"AI가 사람없이 공격코드 개발\"…해킹시간 더 빨라진다",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170932533716",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7414075a15",
+  "time": "2026-11-17T00:42:57+00:00",
+  "title": "청약에 4.4조 몰리더니…옵토닉스, 상장 첫날 공모가 두 배 훌쩍",
+  "ko": "청약에 4.4조 몰리더니…옵토닉스, 상장 첫날 공모가 두 배 훌쩍",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210901",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6485ba4650",
+  "time": "2026-11-17T00:42:00+00:00",
+  "title": "‘AI 커닝’ 세무사 수석 경찰 출석…“수험생 분들께 죄송”",
+  "ko": "‘AI 커닝’ 세무사 수석 경찰 출석…“수험생 분들께 죄송”",
+  "lang": "ko",
+  "outlet": "동아일보",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ZWJhS3hMSHJEek93MktCUGZZbjNCcmpIcmNubnUzZ2phVGlXUmtrRllQS1R6dnBpUEF3bTZvcXFjU00ySVk4RmdqN19UUi14c2lZQzBpVk9TSEl5UVNoNTV3YzdaY0tiVC12d2dUb2xfNWNtb2fSAWZBVV95cUxQcnBIRWFtTm51OGtvRGtNemdJM2VoZkJndXc2VGhOUzF4V1FLT0FHWjNKSUZzUDRTZHR4bDg1cDk5ZVZqSEZUSGFldEl6YWQ3czNrUWE4aFdLZDJ5TnUwd3RLX3ZwbWc?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "47e72f6545",
+  "time": "2026-11-17T00:38:00+00:00",
+  "title": "[속보] ’AI커닝 자수’ 세무사 수석 경찰 출석…“잘못에 대한 책임 지겠다“",
+  "ko": "[속보] ’AI커닝 자수’ 세무사 수석 경찰 출석…“잘못에 대한 책임 지겠다“",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZVmNDX3VkTjI1VlJKS2tzdk5XXzZoU1RtMElVdU4zZjBjQzl1d2NHcEdLOXIyR19EeWlReXZLUU5ONzVFTGRZazlHcGhydmdCU1pCTGFkWGJwVXZfQjJ2T2E5bnZhQnc?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "경향신문",
+   "매일경제"
+  ]
+ },
+ {
+  "id": "44e16f3998",
+  "time": "2026-11-17T00:35:31+00:00",
+  "title": "NH투자증권, 리서치포럼서 내년 코스피 목표치 9200 제시",
+  "ko": "NH투자증권, 리서치포럼서 내년 코스피 목표치 9200 제시",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111710776",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "20c3bd8bb1",
+  "time": "2026-11-17T00:34:56+00:00",
+  "title": "'AI 커닝' 세무사 수석 합격자 경찰 출석…범행 수법·공범 여부 조사",
+  "ko": "'AI 커닝' 세무사 수석 합격자 경찰 출석…범행 수법·공범 여부 조사",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170733185253",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4fac924938",
+  "time": "2026-11-17T00:32:13+00:00",
+  "title": "CJ, 주가 반토막·영업익 하락…증권가 목표가 조정에 4%↓",
+  "ko": "CJ, 주가 반토막·영업익 하락…증권가 목표가 조정에 4%↓",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111710446",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "052d704558",
+  "time": "2026-11-17T00:28:00+00:00",
+  "title": "SK이노, AI 스타트업 3곳 선정…최대 2000만원 사업화 지원",
+  "ko": "SK이노, AI 스타트업 3곳 선정…최대 2000만원 사업화 지원",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170925326575",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "21e8331893",
+  "time": "2026-11-17T00:26:14+00:00",
+  "title": "\"잠자던 주식들 깨어났다\"…트럼프 한마디에 주가 25% 급등 [종목+]",
+  "ko": "\"잠자던 주식들 깨어났다\"…트럼프 한마디에 주가 25% 급등 [종목+]",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111709776",
+  "section": "kr",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ae7c4ddc9a",
+  "time": "2026-11-17T00:25:00+00:00",
+  "title": "[속보] 세무사 시험 AI 부정행위 자수자 경찰 출석…피의자 전환",
+  "ko": "[속보] 세무사 시험 AI 부정행위 자수자 경찰 출석…피의자 전환",
+  "lang": "ko",
+  "outlet": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FQjZDSVBLeHNUTlFQVEtxWG9MWjdsQlA4OXJsb2JOUGtZTDFjTFRWX0xNYjE3dHB6T2NSVVVneFZLR0U3SWphdnRfdFcwZ3k5d0NLNFEzZGVkVHZM?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴시스",
+   "매일경제",
+   "서울신문",
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "fdaae98fb6",
+  "time": "2026-11-17T00:25:00+00:00",
+  "title": "[속보] ‘AI 커닝’ 세무사 수석, 경찰 출석… “잘못 책임지겠다”",
+  "ko": "[속보] ‘AI 커닝’ 세무사 수석, 경찰 출석… “잘못 책임지겠다”",
+  "lang": "ko",
+  "outlet": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVc2RHk0UGM4VDhZbkpCR3BTa3F2emY3QklBLTZhOFdsTWtuY1J0ZUFHX2RCbWFNc2VqNlBMdF8wWFlFcGRNakdTVDhqWGN1M3BPU1Jad09DZmNOVHkxY1JkWHVaczhCUDNUeTBOazJad2tOTzFmZGlod1lrV2U1b2gtMk9NWDRuc1HSAZ4BQVVfeXFMTlF1UGVaR2QtTEFfMnFUaE9pRFRmclQyOTFjY0pSbGxCMV9zWC1FM3F0eTc0WDBqX283V2ZGanhWUHA1T3ZnOXd1OS1WaVVkdFlSQmJqblozal9saXllcUdpUDAxNXliQXlRR3NSZ25rRmRyQ0VlVjd6QXFqRGNlOTl2c3pwOW1jM05CSU1vVHN3TU5OYS1kbjlnMlBST0E?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d25530b5e4",
+  "time": "2026-11-17T00:24:55+00:00",
+  "title": "LF, 3분기 호실적에 강세",
+  "ko": "LF, 3분기 호실적에 강세",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111710196",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d2c52b9377",
+  "time": "2026-11-17T00:23:30+00:00",
+  "title": "[마켓라이브]美 AI 칩 규제·엔비디아 여파에 흔들리는 코스피",
+  "ko": "[마켓라이브]美 AI 칩 규제·엔비디아 여파에 흔들리는 코스피",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202611170984i",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0eda4707ab",
+  "time": "2026-11-17T00:23:11+00:00",
+  "title": "\"수능 AI커닝 100% 잡겠나\" 묻자, 교육부 장관 \"제 나이가 있어서, 못 할 것 같다\" 황당 답변",
+  "ko": "\"수능 AI커닝 100% 잡겠나\" 묻자, 교육부 장관 \"제 나이가 있어서, 못 할 것 같다\" 황당 답변",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170915220661",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7a0d39736c",
+  "time": "2026-11-17T00:22:37+00:00",
+  "title": "[속보] ‘AI커닝 자수’ 세무사 수석 경찰 출석…피의자 전환",
+  "ko": "[속보] ‘AI커닝 자수’ 세무사 수석 경찰 출석…피의자 전환",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zbGxuV3RYUUdLVnN4MW5ud1V6MUhha3pIcU1qY2RQZFcwT21jQ05zbGlkcGJaMnl3aFIzdXQxdzlkY2VOdUt3UVhjSjVuV0ZreTQ4Ml9R?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "JTBC",
+   "뉴스핌",
+   "뉴시스",
+   "서울신문"
+  ]
+ },
+ {
+  "id": "2934a2104b",
+  "time": "2026-11-17T00:22:36+00:00",
+  "title": "[속보] ‘AI 부정행위 자수’ 세무사 수석 경찰 출석…“수험생에 죄송”",
+  "ko": "[속보] ‘AI 부정행위 자수’ 세무사 수석 경찰 출석…“수험생에 죄송”",
+  "lang": "ko",
+  "outlet": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFM1lfeHdvMlJiS0lyY1l6X3Q0S04yYm51MF9VNHdGU1NNQTlxaWF1M0JPd2pLLUQySjhfTVVlOEZEZVgxY2pBdnVCS2ZhQUN0MUlWT3BSQ0lHWkh2cTV5UFRYVl9SRUhiZG5sTUR2Y3VuVFFPYXJvd3F5WQ?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "JTBC",
+   "뉴스핌",
+   "매일경제",
+   "아시아경제"
+  ]
+ },
+ {
+  "id": "97991b50d4",
+  "time": "2026-11-17T00:22:05+00:00",
+  "title": "[속보]'AI 부정행위' 세무사 수석 \"수험생께 죄송…잘못 책임질 것\"",
+  "ko": "[속보]'AI 부정행위' 세무사 수석 \"수험생께 죄송…잘못 책임질 것\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UX2xBN0xzaHNBQTNLUFVrb0dQRnEySkFWOEhHX3hnUDhhZ2J6MmdxYms0d296SHo2T0pCX3UwZGhOZWpwY0s1eGsycHY1QTd2WTRKSC1IOF95TzV1WkgtStIBeEFVX3lxTE55di1jOUF1WEZsLWlkUkV5RURjSTVUV3dzZEtMc2E4THFveGxIc2lISEh2TEpYMGg4RjNkWmZxUzlwVEJ6VmJ3d3dOSEJQeGY0Tlp6SjVrbF9MSUlmcTZlTVppUjJYZDVJQVBnZVZyYVpsRDZxTkRVVA?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "아시아경제"
+  ]
+ },
+ {
+  "id": "f005b1408a",
+  "time": "2026-11-17T00:21:00+00:00",
+  "title": "[속보] ‘AI커닝 자수’ 세무사 수석 경찰 출석 \"수험생께 죄송\"",
+  "ko": "[속보] ‘AI커닝 자수’ 세무사 수석 경찰 출석 \"수험생께 죄송\"",
+  "lang": "ko",
+  "outlet": "JTBC",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MT0FYaXdNdWp4UnFybjNWUDZrcFQ5WERJbTZGck1qeWlmQll3eWJYZHZ2UFlsZFowWDh2SDZ4UHpacWdlVTBYS1dJNU5xRXpPb3FBZA?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스1",
+   "매일경제",
+   "서울신문",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "9c445def1b",
+  "time": "2026-11-17T00:21:00+00:00",
+  "title": "[속보]세무사시험 수석, ‘AI 부정행위’ 경찰 출석…“잘못에 대한 책임 지겠다”",
+  "ko": "[속보]세무사시험 수석, ‘AI 부정행위’ 경찰 출석…“잘못에 대한 책임 지겠다”",
+  "lang": "ko",
+  "outlet": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02UmtPblpBd2N0NkRTZk12RWZPM081UDFET3g0Z0VHLTQ3UzRrM05Fb01FLUhlcjJKTzR5eWw0WkxZZGV2WVFYZmtwb1FpdXozeXI4bFpTZ2Njdw?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "9b4fb1a894",
+  "time": "2026-11-17T00:19:34+00:00",
+  "title": "[속보] 'AI커닝 자수' 세무사 수석 합격자 경찰 출석…피의자 전환",
+  "ko": "[속보] 'AI커닝 자수' 세무사 수석 합격자 경찰 출석…피의자 전환",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170919044233",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스핌",
+   "매일경제",
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "eb3b88b805",
+  "time": "2026-11-17T00:19:23+00:00",
+  "title": "[속보]'AI 부정행위' 세무사 수석합격자 경찰 출석",
+  "ko": "[속보]'AI 부정행위' 세무사 수석합격자 경찰 출석",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhYU83U1JyNUVCRmxWb001Nlg4WjVDaE9UQ2JJaUF5ZTZLRzcxTXlhUUNDYVR2UEd5NVNhTmJZeDVETFdQYmdteWFYd2h0WGxnMnEwWWFQZ3llRVhCaFJlWg?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴시스",
+   "서울신문"
+  ]
+ },
+ {
+  "id": "ffa5f594a8",
+  "time": "2026-11-17T00:19:18+00:00",
+  "title": "[속보] ‘AI 부정행위’ 자수한 한모씨 경찰 출석…피의자 전환",
+  "ko": "[속보] ‘AI 부정행위’ 자수한 한모씨 경찰 출석…피의자 전환",
+  "lang": "ko",
+  "outlet": "헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Qc0lFaUxvOUVLRFRCNnZKRXdmN0pJYTl6eGhZRXJXLURTcUtJdEtJQklBUnhoSmJCRW42MjNfUmJTdFlkdnplVTNWLTEzYXR4aU0yNmJB?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스핌",
+   "뉴시스",
+   "매일경제"
+  ]
+ },
+ {
+  "id": "05170875a4",
+  "time": "2026-11-17T00:18:52+00:00",
+  "title": "\"코스피 1만p 고점 아닌 뉴노멀\" 모건스탠리, 갑자기 '한국 르네상스'",
+  "ko": "\"코스피 1만p 고점 아닌 뉴노멀\" 모건스탠리, 갑자기 '한국 르네상스'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170735518427",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5077cbcf5b",
+  "time": "2026-11-17T00:18:27+00:00",
+  "title": "[MK시그널] 케어젠, 핵심 파이프라인 가치 재평가 기대감 등에 주가 상승세...MK시그널 추천 후 상승률 19.47% 기록",
+  "ko": "[MK시그널] 케어젠, 핵심 파이프라인 가치 재평가 기대감 등에 주가 상승세...MK시그널 추천 후 상승률 19.47% 기록",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210873",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fd2b6be7b4",
+  "time": "2026-11-17T00:18:00+00:00",
+  "title": "[속보] ’AI 커닝 자수’ 세무사 수석 합격자 경찰 출석…피의자 전환",
+  "ko": "[속보] ’AI 커닝 자수’ 세무사 수석 합격자 경찰 출석…피의자 전환",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uSjFIU1VfX0tOVkVERlZBTlFVX05JZWxfbzVfQmsxVkVJaVV4M0QycmowUXdLcERtSFFDNGVBVkVKYjlOYjBBNzV3cng0ZnI5MFFZVmxNeGN1dEplZU1DR2l4SG5GMWc?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스핌",
+   "매일경제",
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "ca16ff1d65",
+  "time": "2026-11-17T00:17:48+00:00",
+  "title": "[속보]'AI 부정행위' 세무사 수석, 경찰 출석…피의자 전환",
+  "ko": "[속보]'AI 부정행위' 세무사 수석, 경찰 출석…피의자 전환",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hNXF5QTRRaGEwSVlydElscDVQbFR6WHAtX1hNSmJCWWxMcEx0OUNHSTVGOXFfelk1VW9OTFBucUJIbVRsbHpIY0M2aVF5TWxkMmZ6elFySUFVbjdydVB5ZFp3?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스핌",
+   "매일경제",
+   "아시아경제",
+   "헤럴드경제"
+  ]
+ },
+ {
+  "id": "2d8546df69",
+  "time": "2026-11-17T00:17:42+00:00",
+  "title": "[속보] 'AI 커닝' 세무사 수석 합격자, 첫 경찰 출석 \"수험생에 죄송\"",
+  "ko": "[속보] 'AI 커닝' 세무사 수석 합격자, 첫 경찰 출석 \"수험생에 죄송\"",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rOW9rVHBON1dCVzhaQnQ2djFEeVgzWEtNTVpZUGEtSkkxZWNVVU9rZHRic2ZSM1lJbXJ6S1FiM0RsaS0xRmNVWVdRNHBUTk44NFd3MHZ5ZjhySVBnTjVxUWNYTzE?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "JTBC",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "4fe524918b",
+  "time": "2026-11-17T00:16:59+00:00",
+  "title": "SV인베, 생성형 AI 의료영상 판독 솔루션 '숨빗AI'에 투자",
+  "ko": "SV인베, 생성형 AI 의료영상 판독 솔루션 '숨빗AI'에 투자",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170911013695",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e84fdc5d7b",
+  "time": "2026-11-17T00:14:12+00:00",
+  "title": "[속보]코스피 장초반 5000붕괴 2% 급락…삼전 2%↓",
+  "ko": "[속보]코스피 장초반 5000붕괴 2% 급락…삼전 2%↓",
+  "lang": "ko",
+  "outlet": "문화일보",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHeW14cUVSZ0RTc1RWMEUwY2xxUk9ISzZDY28za2hUbzYyZ0g2b0VFYXB1eWRudlN1MEZ1YmxWdHFmaUh6bHpPWG4yd3F4R1RG?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "380af58365",
+  "time": "2026-11-17T00:14:00+00:00",
+  "title": "[속보]코스피 1.8% 급락에 5000선 위태",
+  "ko": "[속보]코스피 1.8% 급락에 5000선 위태",
+  "lang": "ko",
+  "outlet": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bb0hOUlk3dU1fY0NXeFh5ZjJuRzZjR2k2WnEyM0pkNzM1VnBkYThYa2lDc19VMi1Vc0hxMC1PLXJBcHFEWWlpZU9LSjRqRWo5bDJOOUxySXNmZ9IBX0FVX3lxTE5DZ0NuUlE2QkVYTjZoaENldENWUXVRUzRMS0NFbDA2UHNobHdVWXh0aExZVFV4SDZLSUR3UW1oQzJpVEUyQndvN1BXQk5GeDhFckpLVGV1Q1NuLWtaUjF3?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스핌"
+  ]
+ },
+ {
+  "id": "bde280b083",
+  "time": "2026-11-17T00:13:03+00:00",
+  "title": "[속보] 코스피, 장초반 2% 하락…5000선 하회",
+  "ko": "[속보] 코스피, 장초반 2% 하락…5000선 하회",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111709757",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "7df4671640",
+  "time": "2026-11-17T00:11:52+00:00",
+  "title": "코스피, 美 AI주 급락에 하락 출발…삼전닉스 동반 약세",
+  "ko": "코스피, 美 AI주 급락에 하락 출발…삼전닉스 동반 약세",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111708786",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1345cef2e5",
+  "time": "2026-11-17T00:10:01+00:00",
+  "title": "옵토닉스, 코스닥 상장 첫날 장 초반 '따블'",
+  "ko": "옵토닉스, 코스닥 상장 첫날 장 초반 '따블'",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111709636",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6f3ae4f510",
+  "time": "2026-11-17T00:07:15+00:00",
+  "title": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
+  "ko": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111709556",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "매일경제",
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "349781f9e1",
+  "time": "2026-11-17T00:07:00+00:00",
+  "title": "[속보] 코스피 2%대 급락에 5000선 깨져",
+  "ko": "[속보] 코스피 2%대 급락에 5000선 깨져",
+  "lang": "ko",
+  "outlet": "뉴스핌",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKQ2x2WTNaV3ptOUFGV1R2MGQ2cVdHWjFNVWRVMnNqZXVSTUxnWEZPQWpnRlp4UGZYakt6Vlh1WWNmdlFwanVCTTRLdktjdHQzZ0ZNTWZnMEhoWDdl?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "경향신문"
+  ]
+ },
+ {
+  "id": "d4a078fdc5",
+  "time": "2026-11-17T00:04:52+00:00",
+  "title": "[속보] 코스피 장 초반 2%대 하락‥5천 선 아래로",
+  "ko": "[속보] 코스피 장 초반 2%대 하락‥5천 선 아래로",
+  "lang": "ko",
+  "outlet": "MBC",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nMkFUUkIxdU1YZ2ZsQWZSWkZ4X2RvSmVGV0hFNF96MGkyQWJ5WEJaTDg2Z3d2ZGp6YWNOQ2I0c0k0QV9YWTQ3QkExM3FhQjktVnJZa0lYSVltdVlja3h2MHp3bUZjZ3l6Yjd1QU5ReTFOVWN00gF0QVVfeXFMTzI4OC1UNDhHQmppMHJCZ2VmZmVLSmN1SWJULWRuZWp3dEFCM2VPWnF5d0hFcG1lWTlWVGx5bnQzVUR2YXJaQXdFWkpLSEhLRzE4ZDlxZG9weDFnR2t1bGVJMmpibWxLUFFIdkFEZWZ6YlNiLTY?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "52953cf984",
+  "time": "2026-11-17T00:04:00+00:00",
+  "title": "[속보] 코스피, 엔비디아 실적 발표 앞두고 1.81% 내린 5008.09 출발",
+  "ko": "[속보] 코스피, 엔비디아 실적 발표 앞두고 1.81% 내린 5008.09 출발",
+  "lang": "ko",
+  "outlet": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjc5T3hfN0VKMm9DWGczbUdiZE9DeC04bzk3V2VNN1ZvNTJzUGhkN2ZmamNqUHozUE1hYTFBSURxLUhreDFYWDkzeGI0b29aamQyOVoyaVZJWnZBNlN5WG9QaGZyWXJ3MHRoWEVqM2tHVmpiMGNrUDBsMGlvYmhySG1jQTZCOFhu0gGcAUFVX3lxTFBwVGxzSkFYcDdYcnZRc0VYLWtrZm9MMGktd1FzdjhEU1hxNnhBQ1RVZjY5NVFZSEcwWDEyWW5xOHhzZEw3V2dwaEg1ell1eGFRM2lOMnFPcGJvQTJyc1NYTzdYYjlDMGExVGd5QlNSVW1WN1ctX040WnhtbmYwZlpQZU1qa21rUHpvNGsxNTJycFBNUDBha0ZscTdaVQ?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "10be9ca9f4",
+  "time": "2026-11-17T00:04:00+00:00",
+  "title": "[속보]코스피, 2% 하락하며 5000선 아래로",
+  "ko": "[속보]코스피, 2% 하락하며 5000선 아래로",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oVFBwZ1dEMXh4MTNTdWtXUTBVWjVJTFZxY1JodURyalh0V2JLUEdtV0tiaFJnWkQ0TFltWnpGNHVjTWRtY2hkR01wUkM3ZF9kMUxYa2VNXzZWTVlTMjZmazB3?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fc362beefb",
+  "time": "2026-11-17T00:03:37+00:00",
+  "title": "\"K뷰티 열풍 덕봤다\" 대봉그룹 계열사 동반 최대 실적 일궈",
+  "ko": "\"K뷰티 열풍 덕봤다\" 대봉그룹 계열사 동반 최대 실적 일궈",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170901193371",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3ba852ba89",
+  "time": "2026-11-17T00:02:57+00:00",
+  "title": "가상현실로 AI 직접 체험한다...삼성전자, AI클래스에 XR 적용",
+  "ko": "가상현실로 AI 직접 체험한다...삼성전자, AI클래스에 XR 적용",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170845362170",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1fe1b04018",
+  "time": "2026-11-17T00:02:56+00:00",
+  "title": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
+  "ko": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZkEyTjNMTEFKUlR6MjRHUFVvT2FHRjBCbDJtU3lXMUlnb1Z1Unh6WlpTTktRa1Z5WldIRWVZT0VaQUFkYnBBd3ZPaUR3U3JPa2l2RVQyWjYtdl9WbVBhdNIBYEFVX3lxTE9FZkEyTjNMTEFKUlR6MjRHUFVvT2FHRjBCbDJtU3lXMUlnb1Z1Unh6WlpTTktRa1Z5WldIRWVZT0VaQUFkYnBBd3ZPaUR3U3JPa2l2RVQyWjYtdl9WbVBhdA?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "매일경제",
+   "한국경제"
+  ]
+ },
+ {
+  "id": "324d345d31",
+  "time": "2026-11-17T00:02:56+00:00",
+  "title": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
+  "ko": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZY21hcjNLUXAwdVVNdmZ2bUlpbmlCLXhITzNTQVJIaGdLOXJyZ0tpSm5iRFlONEtmUWNxRHpta2pXdFJtdkRDS1hCdXVDVU5QRGc?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스",
+   "한국경제"
+  ]
+ },
+ {
+  "id": "f52092a7a6",
+  "time": "2026-11-17T00:01:40+00:00",
+  "title": "[속보]코스닥, 8.83포인트(1.33%) 내린 656.82 개장",
+  "ko": "[속보]코스닥, 8.83포인트(1.33%) 내린 656.82 개장",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DMlRlY2FGdzNKVENZaUNTSTRuYlpSZnRtc1dKbzcwc3ppeFpIdWZRZC0tay1Jb2VPQXRUX3hSdFV2cERIdXNCOXpPcF8xYThMRzNiUWxVcUxWa0V5WlJYS29R?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "971f4c7394",
+  "time": "2026-11-17T00:01:34+00:00",
+  "title": "[속보]코스피, 92.41포인트(1.81%) 내린 5008.09 개장",
+  "ko": "[속보]코스피, 92.41포인트(1.81%) 내린 5008.09 개장",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSzF3T3hKZDNOZkpjMWdJWjR0em5ncGhuMTFLNjlzbC1KQzlCOGZ5cmM4UmljbndHQTMwbXNjRUpRaENQVGpnLVk1VGsxelBoQkZzRnZWS0N3ZE9YX3IyRNIBeEFVX3lxTFB2bG9WUXB5WWYxNkFGRE1YTHdQeUEyYTVQQXJuVG9oVjc3VXJGN25DU1JKYWdNWE1fZWxSV01GemZRYnpkWUt4R2FwVzhPa2hvNEE2Q1M2X2RqOGVwSzVNVC1qNHhtV2YyeU1oekcxdW5qRXJQRUd6Mw?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e1cde72408",
+  "time": "2026-11-17T00:01:30+00:00",
+  "title": "[속보] 코스피 5000선 위태...5008.09 개장",
+  "ko": "[속보] 코스피 5000선 위태...5008.09 개장",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170850466049",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c3c0b6c7fc",
+  "time": "2026-11-17T00:00:02+00:00",
+  "title": "'포스트 젠슨 황' 첫 시험대…엔비디아 실적발표에서 주목해야할 5가지",
+  "ko": "'포스트 젠슨 황' 첫 시험대…엔비디아 실적발표에서 주목해야할 5가지",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202611170715i",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "ecd1e44136",
+  "time": "2026-11-16T23:52:37+00:00",
+  "title": "\"EU '탄소 관세' 막아라\"...충남도, 전국 첫 대응 TF 가동",
+  "ko": "\"EU '탄소 관세' 막아라\"...충남도, 전국 첫 대응 TF 가동",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170834283128",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f74e08d5f6",
+  "time": "2026-11-16T23:48:45+00:00",
+  "title": "50일 파업에 실적 급감…리노공업 목표가 하향",
+  "ko": "50일 파업에 실적 급감…리노공업 목표가 하향",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170844053301",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4fbe8571d4",
+  "time": "2026-11-16T23:47:55+00:00",
+  "title": "한국앤컴퍼니그룹 임직원 48명, 생성형 AI로 업무 서비스 직접 개발",
+  "ko": "한국앤컴퍼니그룹 임직원 48명, 생성형 AI로 업무 서비스 직접 개발",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170843405085",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c139ad83f4",
+  "time": "2026-11-16T23:47:16+00:00",
+  "title": "\"젠슨 황은 나의 영웅\"…스캔들 퇴진에 샘 올트먼이 꺼낸 한마디",
+  "ko": "\"젠슨 황은 나의 영웅\"…스캔들 퇴진에 샘 올트먼이 꺼낸 한마디",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170830148915",
+  "section": "people",
+  "people": [
+   "젠슨 황",
+   "샘 올트먼"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5ab43a79c3",
+  "time": "2026-11-16T23:43:14+00:00",
+  "title": "멤레이비티, AI 인프라 수요 타고 3분기 흑자전환…매출 165% 급증",
+  "ko": "멤레이비티, AI 인프라 수요 타고 3분기 흑자전환…매출 165% 급증",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170841372579",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4ca7558f33",
+  "time": "2026-11-16T23:36:54+00:00",
+  "title": "“LS, 미국 AI 투자 불확실”…목표가 38만→29만5000원",
+  "ko": "“LS, 미국 AI 투자 불확실”…목표가 38만→29만5000원",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210830",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f2c620410a",
+  "time": "2026-11-16T23:34:02+00:00",
+  "title": "'젠슨황 불륜녀'까지 감싸준 트럼프, 주식계좌에 '엔비디아 최대 830억'",
+  "ko": "'젠슨황 불륜녀'까지 감싸준 트럼프, 주식계좌에 '엔비디아 최대 830억'",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170756147569",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "374076cdd0",
+  "time": "2026-11-16T23:29:42+00:00",
+  "title": "에브리봇, 3분기 누적 순이익 52억 흑자전환… ‘피지컬AI사업본부’ 출범 추진",
+  "ko": "에브리봇, 3분기 누적 순이익 52억 흑자전환… ‘피지컬AI사업본부’ 출범 추진",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210817",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "82b50ada83",
+  "time": "2026-11-16T23:28:00+00:00",
+  "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+  "ko": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3f02a94c0c",
+  "time": "2026-11-16T23:27:58+00:00",
+  "title": "\"엔비디아 악재가 한국엔 호재?\"…증권가서 나온 반전 전망 [분석+]",
+  "ko": "\"엔비디아 악재가 한국엔 호재?\"…증권가서 나온 반전 전망 [분석+]",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026111707276",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5b74c0772d",
+  "time": "2026-11-16T23:22:05+00:00",
+  "title": "오픈AI, 병원 행정 처리하는 에이전트 공개...진료기록 읽고 보험신청까지[글로벌AI브리핑]",
+  "ko": "오픈AI, 병원 행정 처리하는 에이전트 공개...진료기록 읽고 보험신청까지[글로벌AI브리핑]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611170756368840",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "505d249226",
+  "time": "2026-11-16T23:20:55+00:00",
+  "title": "세미어낼러시스 “AI 가속기 수요증가 둔화”[월가월부]",
+  "ko": "세미어낼러시스 “AI 가속기 수요증가 둔화”[월가월부]",
+  "lang": "ko",
+  "outlet": "매일경제",
+  "url": "https://www.mk.co.kr/news/stock/12210812",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "345fd41f4b",
+  "time": "2026-11-16T23:20:35+00:00",
+  "title": "[오늘의 증권가 콜]엇갈린 증권가 전망… 반도체 장비주 '웃고' 지주사·방산주는 '울상'",
+  "ko": "[오늘의 증권가 콜]엇갈린 증권가 전망… 반도체 장비주 '웃고' 지주사·방산주는 '울상'",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/202611170721i",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "95af644bd1",
   "time": "2026-11-16T22:52:31+00:00",
   "title": "Nvidia not considering reinstating Huang, despite support from Trump, Musk",
@@ -380,7 +2107,9 @@
   ],
   "flash": false,
   "official": false,
-  "also": []
+  "also": [
+   "연합뉴스"
+  ]
  },
  {
   "id": "8d02c213db",
@@ -4213,1803 +5942,5 @@
    "Financial Times",
    "Reuters"
   ]
- },
- {
-  "id": "9095d8a51b",
-  "time": "2026-11-15T22:53:00+00:00",
-  "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-  "ko": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblNsX09zbmEwUEVYUDhQTnFXUy1UMDVfX2NjTV8za2wyLXZTWjNiMlh3MHNLMGo2SW1veUVETEQ1S3pyZTB4d1p2dlVTdkNJSFg4VDRFS3d1NUpZSV9NNnVRVFMwX19wRngxeVZDSFB6amdaMEdTdUdxcUE0WnBhSjNvT3hsTDBQQTJlZU5iQ3ZCSk13ZXRBQw?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eaebae30a4",
-  "time": "2026-11-15T22:50:38+00:00",
-  "title": "[오늘의 증시]美 반도체주 급락·연준 '고평가' 경고…코스피, 또 하락하나",
-  "ko": "[오늘의 증시]美 반도체주 급락·연준 '고평가' 경고…코스피, 또 하락하나",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868899",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "594445426a",
-  "time": "2026-11-15T22:50:00+00:00",
-  "title": "Cassidy says questions remain about Trump’s FDA pick ahead of committee vote",
-  "ko": "Cassidy says questions remain about Trump’s FDA pick ahead of committee vote",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVU5BTUdlOFdjOTRQcm9mM3NrN1BjY1FXejJDZG9HekViWXpHTk5rbWpSZzZTZmJFNGdNZ25mQzV0dmVKZ096cnNxc3pFUDJvN013QUozZ0JmQTBsT0NKVU5jZE9zSDdXb2ItSGpvR1VqQVhwd3JqWXJNeG9xMFdUa1pPS1_SAYoBQVVfeXFMTUptN2J5V3p0SVhaNmJQT0RiN2oyTVpDWnlOZ0hZYjg0ZWVzTmNsMjFxYzAwX3JqY0NIbUowS3FSQjJheTItTldGUUVrUEhZNXg5VVZHVnFyMDZKdldfM3lRZFVaOUhrWXozSWY3M0tMTldVUE92di0wMENHTjVpNllmbGtiaVBPOFp3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Politico"
-  ]
- },
- {
-  "id": "31753ddd92",
-  "time": "2026-11-15T22:48:54+00:00",
-  "title": "Senate health chair unsure if Trump’s FDA pick has support to pass committee’s vote",
-  "ko": "Senate health chair unsure if Trump’s FDA pick has support to pass committee’s vote",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTg5b1hUSE41UHdpdXhfVnFmRHB5LTRVdG54QzdGWDJtZk1mcHg2MTBKSXp4YXhHWFAzV2RhcFhQUTluVTVtOUM0b1JTZVRISm80OFZhemROcDA1Xy1FczgyUDZENUFQNUxpRldPZ2w0YXZ3dkpzaTZtTWlxbUlTLUFudUZ3YWJQdGZGVktpOURPdWpISkppWDVOaVVaMG0yU0QteGVWTHZjdVYwdWZMbUFUeDM2cmk5aFJ6RTZ6RTU3VVNDNWlB?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "84087d1de4",
-  "time": "2026-11-15T22:43:00+00:00",
-  "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-  "ko": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45T3U1RGpyMzNYbGczZTRycnZXYjBKcDdERms3WEtoT1JHYkN2R09HLTlpa0QyMlNONmNCcTU4U3drX084emNHakZlRXpfa1lESXBBeUZ1Y1BmUDNRYUl1MG10NzAtdGxjRFFfNzV0bUVKdFV1cWN0YTE1b3l1dDQ?oc=5",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "201802e2a9",
-  "time": "2026-11-15T22:40:48+00:00",
-  "title": "Trump blames Biden for airline ground stop",
-  "ko": "Trump blames Biden for airline ground stop",
-  "lang": "en",
-  "outlet": "ABC News",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWVXa1gzUEZOSVdCR2VvX1lJQnN2SGNBT3plTTVsU2hDZjdWSFg5Wi1TU2VUdzBuQVJheFhWRUo5Y2RBU2R2b29uVFU4OXVodnlyelpidHl4MzRMMlhwNFZoTTVHV1hqUnEwQ3g1T0dKYUVNSjl6RjV2MkI2dV8zZ2xUVmhUb1huSG1WZmlYLUxIb3VCS0JXVmVlaw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "71fbb02b26",
-  "time": "2026-11-15T22:38:00+00:00",
-  "title": "Trump to meet Xi and Putin in China",
-  "ko": "Trump to meet Xi and Putin in China",
-  "lang": "en",
-  "outlet": "Semafor",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEs3WTNxckFULWtGNndyNVFrTmpTQ0hlUFhiblNuSTAtYkhucGdmNjNqVzlzQ2dIZ1dRS2M5TUM4UFhSRHVHVmZQNnExQVZMZG5TX25Va0hRRUZoRUlVUWhuOFpHYlk1U2ZFeF9qaHVuOS1EZmhtUUhmVTlxSHphUWl1cVM?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "NBC News",
-   "NPR"
-  ]
- },
- {
-  "id": "f35aac2e40",
-  "time": "2026-11-15T22:37:43+00:00",
-  "title": "\"트럼프-푸틴 합의한 러 경유 美 반입, 법 위반 우려에 난항\"",
-  "ko": "\"트럼프-푸틴 합의한 러 경유 美 반입, 법 위반 우려에 난항\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261116010000071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "13f4d51aca",
-  "time": "2026-11-15T22:31:00+00:00",
-  "title": "An Nvidia engineer says he's quitting because Jensen Huang was ousted: 'So disappointing'",
-  "ko": "An Nvidia engineer says he's quitting because Jensen Huang was ousted: 'So disappointing'",
-  "lang": "en",
-  "outlet": "Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1E5M2dQU2lJZTItcGoxT3RMV2Rsak9GUXphQWhtSjBkalhjenlCR21MX1dzRlRqSEJHX1o5cWhzck0ydk9lc1pPR2t3dDBvcXZxeTNteldyZzlMdkM0cS1kTUc3VlNGOGRuTTJJcjdJLTY1a3NWMi03RmRsRnNlV0hJWDdPUnBMVFBqNlFB?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "791c5dfc15",
-  "time": "2026-11-15T22:28:49+00:00",
-  "title": "SK하이닉스, 100조 주주환원에 쏠린 눈 \"시간은 매수자의 편\"",
-  "ko": "SK하이닉스, 100조 주주환원에 쏠린 눈 \"시간은 매수자의 편\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160726431862",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9bdb6e67d9",
-  "time": "2026-11-15T22:28:30+00:00",
-  "title": "Trump’s lame-duck summit",
-  "ko": "Trump’s lame-duck summit",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFFRQ0dmOHQtZlRfWWdkc1I4R0Y2NmM5V2g3VEJYZXAyV1ZBS2lqd05Oc0NGVVktbzJWLXpfd2d3bGNlMjVvNkNxY3QwWlN0VjhSS2g3ajJKT0N2Vk5oczVZTF9nYlVyM1BfYzdGODJVVEMwcHBaRHNzOF9rTVhDQzIwNGVVOXVJbUFna3hDU2VwM2M?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c6f717fdbe",
-  "time": "2026-11-15T22:24:20+00:00",
-  "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-  "ko": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-  "lang": "en",
-  "outlet": "BBC",
-  "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "79072fd7b9",
-  "time": "2026-11-15T22:23:55+00:00",
-  "title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격자 걸러낼 것\"",
-  "ko": "세무사회 \"AI 없는 수습세무사 평가로 부정합격자 걸러낼 것\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160701135649",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "646d08b18b",
-  "time": "2026-11-15T22:22:16+00:00",
-  "title": "\"수능도 뚫린다, 금속테 AI 안경 있다\"…강성태, 부정행위 차단 경고",
-  "ko": "\"수능도 뚫린다, 금속테 AI 안경 있다\"…강성태, 부정행위 차단 경고",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160644320169",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "210978b01d",
-  "time": "2026-11-15T22:11:26+00:00",
-  "title": "What to expect from Trump and Xi's upcoming meeting in China",
-  "ko": "What to expect from Trump and Xi's upcoming meeting in China",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGN2U1E0NThsTi1Ga202VFBidDBBTzJhQXY5MmpjSnFmekhsVWozWWN5Q3pqYUpvZlVGQUk2NEl1T011V2h0R0hkRmZPX3FITURqbWJnWkVUU1REbGtZd1RkQmd2WDE1WkEtNWtvcnpwcHdKalNQazZpcU9Qc1p5b3BicXZiT1ZVUTdhYzY3dTEtZXNYckl3MUdqSFhxY3k0Nm5fc1lEZw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Semafor"
-  ]
- },
- {
-  "id": "643de3cd04",
-  "time": "2026-11-15T22:05:51+00:00",
-  "title": "트럼프 변수·회원국 갈등, 내년 알바니아 NATO 정상회담 건너 뛸 가능성",
-  "ko": "트럼프 변수·회원국 갈등, 내년 알바니아 NATO 정상회담 건너 뛸 가능성",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868854",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "05ae1230e2",
-  "time": "2026-11-15T22:01:02+00:00",
-  "title": "AI로 친구 놀리는 노래 만들고 옷찢은 중학생…\"학폭 처분 정당\"",
-  "ko": "AI로 친구 놀리는 노래 만들고 옷찢은 중학생…\"학폭 처분 정당\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261113070900051",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5af8b99e19",
-  "time": "2026-11-15T21:56:35+00:00",
-  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-  "ko": "Is bad news for Jensen Huang also bad news for the AI industry?",
-  "lang": "en",
-  "outlet": "TechCrunch",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3d5dHZ4d1E4c1VxWjdzMEFka3ZyMGdNN2hCSk54X1Z3eWV4bEVpWWN2UnBRVGtIQmdQNEFxRl91c3hsMjBTSi1fOGpCdXhuck5pbUxHNVB6WmdLLWZVM0pwN0pNb2FhY2g5RDlQYWs3aERVU2U1RHlmeUluRkZBRENFOTdlRkVIeVIyVFU0ZUJKOVJMeVlYODJBVkZ3dw?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0391940b79",
-  "time": "2026-11-15T21:53:53+00:00",
-  "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
-  "ko": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3JnTVhjc3hod2dzTHF4UTlmNHZFTTJDOUJOM0NWRnhiZk9URldUOHAxZ3ZZLWxtQ0lGU2xuSFBqM3ZtQkxIWnJqVzBSU1dsUTdibGdsQTl3SVhjZ3hwOHlxQktxREIycHI5UjFSMEVVU3JuQWRydXdMUHRnNkFqbFZGLWI?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Reuters"
-  ]
- },
- {
-  "id": "7d437c4a5f",
-  "time": "2026-11-15T21:47:16+00:00",
-  "title": "AI 부정 사태에 미미미누, 'D-3 수능' 연기 촉구",
-  "ko": "AI 부정 사태에 미미미누, 'D-3 수능' 연기 촉구",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868856",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2d4ffde95c",
-  "time": "2026-11-15T21:46:18+00:00",
-  "title": "아시아 찾는 '레임덕' 트럼프…각국은 대미접근 방향 가늠 분주",
-  "ko": "아시아 찾는 '레임덕' 트럼프…각국은 대미접근 방향 가늠 분주",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261116006200071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2100499fb4",
-  "time": "2026-11-15T21:45:48+00:00",
-  "title": "김혜수 몸매 인증한 절친 김완선…\"AI 같은 몸매\"",
-  "ko": "김혜수 몸매 인증한 절친 김완선…\"AI 같은 몸매\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868852",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "20501c6f3f",
-  "time": "2026-11-15T21:44:40+00:00",
-  "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
-  "ko": "Nvidia Fallout Looms Over Trump-Xi Meeting",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "17a50854e9",
-  "time": "2026-11-15T21:39:14+00:00",
-  "title": "韓美日 등 9개국, 中 견제 AI 공급망 보호 협정 체결…희토류·반도체 협력",
-  "ko": "韓美日 등 9개국, 中 견제 AI 공급망 보호 협정 체결…희토류·반도체 협력",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160629314745",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "122205296c",
-  "time": "2026-11-15T21:36:00+00:00",
-  "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
-  "ko": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lSFBGZkNRM3dvVllFNU9qdlVUX2JNYkFsVVdwQzBwVkdTVUEtN01meG9lczg3WktsbnpKX3E4allFQno2cW5oR2xjbzhRNzNqbll0NGRfSUVEQl9CazNhYkVjQWJuc09oOTBhS2l3VHlzQmp0cE9yRGx5MWfSAYIBQVVfeXFMT0l4NkREMWJ5ZktWQ2FlRXpzS241Ynp3Y1ZGempMWWlUWmh0VllxNTRTS1VaWjktbDVWQ2E4d1cwUFowejJySnRxTmFaa3hmSDh5MF9lYkNXVS0zYkdQLUJaVFVIbW9YZlFQRms0cnE0UWpPOF85bGw4b1djZmJHVDViUQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d842a4d076",
-  "time": "2026-11-15T21:32:00+00:00",
-  "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-  "ko": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ef860958ef",
-  "time": "2026-11-15T21:30:59+00:00",
-  "title": "\"당신이 죽었으면 좋겠다\"…젠슨 황, 엔비디아 내부 증언 파문",
-  "ko": "\"당신이 죽었으면 좋겠다\"…젠슨 황, 엔비디아 내부 증언 파문",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160611562708",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2e640c0981",
-  "time": "2026-11-15T21:26:35+00:00",
-  "title": "\"바이든 재앙\" 前정부 탓... 이틀만에 美항공사태 입 연 트럼프",
-  "ko": "\"바이든 재앙\" 前정부 탓... 이틀만에 美항공사태 입 연 트럼프",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160618230460",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6d2cefd56a",
-  "time": "2026-11-15T21:24:00+00:00",
-  "title": "Texas prosecutor accuses Warren of targeting Trump associates with investigations",
-  "ko": "Texas prosecutor accuses Warren of targeting Trump associates with investigations",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVFlndjc2STluNUJYMXN0azVaRGlGNWtkRmxwRGFuQTdhbHVUbC10ektyNnIyRndQYnlKX3FseTlwMWVhWFpwT0JubmhQVnpXZGdQU1c2S19BQWl3N29mNFR1MzVJRlFSblBPekdkdFFBSzNkS0FiN2hOSGNxU1XSAYQBQVVfeXFMTW9LdUxoSmxHSkZLTk5HMGNvdXU0UExQZklIdWJsZTN3aF9MWjY4bXFiZkFjQWtiZ2ppUnlabjJNZV9CUzF1TUJlNjY3azYzLWJvSkswX1FUVzFJalRkSTEtUllPSTZzQWEtckRFNTZhcmg5Y0dlWWlSR3h5SEQzdDhNNEc0?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5d94dce6cf",
-  "time": "2026-11-15T21:17:16+00:00",
-  "title": "Nvidia scandal looms large over upcoming Trump-Xi meeting",
-  "ko": "Nvidia scandal looms large over upcoming Trump-Xi meeting",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWxCb09qZkdvY1l3VXI1WHdwQ05aT2ttaEJFR3RTQVJzTUh3N3ZPMXpQeUl0aWtjWU5ScW00eHFoekU5LVpSdjJpRmhfV19oR3ZpQzJ1d0hzNi1DQUtGTlFQR2s0elI0OGZfT1lLdVZrUURfLTdOZ092NnEyNGZrblAtaHpKSFpUQy04T1p1Z2NqdHFOdU93WjB3WFc3MzFrQUJRWQ?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a80af762ee",
-  "time": "2026-11-15T21:00:00+00:00",
-  "title": "구글로 맛집 찾고 길 안내까지 한번에…네이버·카카오 승부수는?",
-  "ko": "구글로 맛집 찾고 길 안내까지 한번에…네이버·카카오 승부수는?",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261113_0003867751",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1565b53048",
-  "time": "2026-11-15T21:00:00+00:00",
-  "title": "사흘 뒤 수능인데…'AI 커닝' 실토에 정부·업계 초비상",
-  "ko": "사흘 뒤 수능인데…'AI 커닝' 실토에 정부·업계 초비상",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868784",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "99ec903d06",
-  "time": "2026-11-15T21:00:00+00:00",
-  "title": "기관 주가전망 35년치 뒤져보니 … 하락장에 매입하는 당신이 진짜 ‘프로’",
-  "ko": "기관 주가전망 35년치 뒤져보니 … 하락장에 매입하는 당신이 진짜 ‘프로’",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12209328",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "899f61b701",
-  "time": "2026-11-15T20:59:51+00:00",
-  "title": "협상도 공격도 없이…경제 제재로 이란 붕괴 기다리는 트럼프",
-  "ko": "협상도 공격도 없이…경제 제재로 이란 붕괴 기다리는 트럼프",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160556358368",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "e795e0f6e6",
-  "time": "2026-11-15T20:54:58+00:00",
-  "title": "강경한 베선트 美재무장관 \"젠슨 황 후임, 엔비디아 밖에서 찾아야\"",
-  "ko": "강경한 베선트 美재무장관 \"젠슨 황 후임, 엔비디아 밖에서 찾아야\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160552268930",
-  "section": "ai",
-  "people": [
-   "젠슨 황",
-   "베선트"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "1ffcc2b305",
-  "time": "2026-11-15T20:52:45+00:00",
-  "title": "Trump, McDonald’s and Burger King among targets of past X posts that contain redirected website links",
-  "ko": "Trump, McDonald’s and Burger King among targets of past X posts that contain redirected website links",
-  "lang": "en",
-  "outlet": "CNN",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkxOQWdxNXZHY21QMXJuMHVKYTRpSXdndGp4U0V1c0JjZjJkUEFvMGNGdFpOV3VQR084c2hXWHY5aGVoVjBDZnAxY25yTXZDMzBtVGVjTGdmUlFmN2MxRHJLRG1iZnZxX1A3WFBwLVZ1N0ROVWJzMG8tZlJBZTFPb0JOYktCeThLUkZPWWFzczRQSngyRVRvNzg2S05KbFZmWUFmOGJCVVpmQnZ5YkZrU0FIZy03NUMwcEQzYlRrSWxSdEVwQzRINHpB?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a914b48d6a",
-  "time": "2026-11-15T20:51:50+00:00",
-  "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-  "ko": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611160547436936",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "중앙일보",
-   "한국경제"
-  ]
- },
- {
-  "id": "cc6f543f02",
-  "time": "2026-11-15T19:37:00+00:00",
-  "title": "Opinion | Trump Won’t Open a Bridge Biden Closed",
-  "ko": "Opinion | Trump Won’t Open a Bridge Biden Closed",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMDQ5RHI2LThxd2VfaUVydEUzZHJGQ0lTZnJFU0lpVDFNYlk3T19zVlM4elJTeHFnLU1CUkNSTGQzOXBpdHJQRkVtNkZkTDBjakZWY0NzdHZGSmxUc3V6cVdWRTJWSG5DNW05d2V6RGM4VHNQc1BNc2xaUG5zUXc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a672f528b4",
-  "time": "2026-11-15T19:30:00+00:00",
-  "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-  "ko": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6041ccc85a",
-  "time": "2026-11-15T19:29:00+00:00",
-  "title": "Bill Cassidy says Trump’s FDA pick faces uncertain committee vote",
-  "ko": "Bill Cassidy says Trump’s FDA pick faces uncertain committee vote",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXRqTWhLVWZLRndtYXkzMW9fSnhRYUg5ZWNMaXlUcFlTb09VRDdkdXZZRU40SDFuRjlTMV85SHRVNmVLdTBKWlA2OXVXblRVR2F6U1ZzdXI2TGUtd3NoSU9sWjI3bng3RkswR2JIanp1d3ljQWdKbUR2cktKYnUxTjhmTFZXQXEyNzBhekVJTF9DSVNmX3ItRFdEZXdpNXJ6akJ3V3NVdFlTbFZRQXc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "The Hill"
-  ]
- },
- {
-  "id": "65938dcc0f",
-  "time": "2026-11-15T19:26:44+00:00",
-  "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-  "ko": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Financial Times",
-   "Fox Business"
-  ]
- },
- {
-  "id": "59ddebe6c5",
-  "time": "2026-11-15T19:17:35+00:00",
-  "title": "Trump vows appeal of East Potomac ruling as golf operations remain unclear",
-  "ko": "Trump vows appeal of East Potomac ruling as golf operations remain unclear",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1BqbXE4Qld3YzBLa0NXMmk2WHBFMDlNZWM2ZnRXazhKS1J3N01WU0ttblRaYzhmOVk4R0FuUDcwMXlnN040eHVLTnhuWnAwU1NXOFlqLS1FdENyZ2JNYjNwaWhUMFJyekEzaVBCTEM2YTNpemtSNlVkNlRQN1JaTDhZaFotcGxjRGJuYnp3M2lKTmJ2M0MyaUVQVDFtSDdXSUZhcHA0dXVuY2RSSTBNT3h5elNQTUEtMXc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "40a0615390",
-  "time": "2026-11-15T19:10:40+00:00",
-  "title": "Nvidia’s Jensen Huang Scandal Tests Trump, as Does Emboldened Congress",
-  "ko": "Nvidia’s Jensen Huang Scandal Tests Trump, as Does Emboldened Congress",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWk9fUEF3QVhYbWVydFo1UjB4Z3VaakszcXFZWWZmYVF1NEliMFkyVXFDbXUzN016QXZVemMzMWZ1Q1EyakxlVVZoNGtVcWRzbjhqaUMzQ2NQd1NUMjd4aV94WFdtVm9mdVIwZ2x3NFk1Y21jOGNCYUlHTXAwWEIzZll1M2ZCZGx5TGZiWE1hSVpkODFlUE45WkcxTVFWVEdxcHZjcjByUzFkc095S2pBUHBydw?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프",
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "91a5365f5e",
-  "time": "2026-11-15T19:10:00+00:00",
-  "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
-  "ko": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
-  "lang": "en",
-  "outlet": "AP",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "94fb009283",
-  "time": "2026-11-15T19:03:41+00:00",
-  "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-  "ko": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Fox Business",
-   "Reuters"
-  ]
- },
- {
-  "id": "cf2c8671e8",
-  "time": "2026-11-15T19:00:00+00:00",
-  "title": "Could Trump turn against the AI barons?",
-  "ko": "Could Trump turn against the AI barons?",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43dGVoV0NSdkFCeFZ4bktmWXFvOHk0MnQtcFBVS1VBWDd2akthbEdHMC10d1R5dEg5S2dnOVpNeThCYzdlaENkN2ktVl9hdG5HUEplU3BQWW5HOGdRa0I3RHpvd29sSXlWSV9aZHdCT3FCUkNsRkRCedIBfkFVX3lxTFBIcnJ1OE4zWktacmFjTjkzUWlwNlFtUXFDQTM4eVlmWDdFODBaY05XN0Y1OHlEeDh3d0xSQkhmNDFsbXF3NFJkZ3JrZHpVQjZLZ2x2ZEQtZVZoNjVmYmdEOUc3NlkwdzdQbVZyYzhUb21TeDRvSXlfcE1uUHVkdw?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2f4133d0ba",
-  "time": "2026-11-15T19:00:00+00:00",
-  "title": "Foreign leaders look beyond Trump on his Asian meeting spree",
-  "ko": "Foreign leaders look beyond Trump on his Asian meeting spree",
-  "lang": "en",
-  "outlet": "Politico",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wci1tVVRaX05DXzNoNHROT2h1aGVyaS1IM1ZaTk5DX1pKdGV3TXdjY0I3cVZWbmxMWEVDV0VvVm1Hd2l5MEdzeVVTSExucy15c2tJZktVWmpHemRBcWJ4RXo3eVNzSzJFeGk1SEhSRTRtVFdxdVlBNU1NZjU5QQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dd1d76053e",
-  "time": "2026-11-15T18:55:23+00:00",
-  "title": "美 주도 'AI 공급망 동맹'에 한국 합류…中 견제·핵심 기술 공동 보호",
-  "ko": "美 주도 'AI 공급망 동맹'에 한국 합류…中 견제·핵심 기술 공동 보호",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868836",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "96fa46bc09",
-  "time": "2026-11-15T18:51:33+00:00",
-  "title": "협상도 공격도 없이…트럼프, 제재로 이란 붕괴 기다리나",
-  "ko": "협상도 공격도 없이…트럼프, 제재로 이란 붕괴 기다리나",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261116002200071",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "7270836804",
-  "time": "2026-11-15T18:51:00+00:00",
-  "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-  "ko": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS011eWdma2F4NjhqUEdkSG1FWTEycFU3S2ZxTXROLVE0ZlVja29ZWTJsOVN5TWtzT0tlVGRieVhsQWhGNDhieFB4QWJFLWViLTRxSzZGNjFVQjVqVnhwWGc4M1Azajl5RThiUzlfa2ZxbURlYmc0dUtYVG4xeUgzdDNzWk1mc2R4bHlIOA?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4134568383",
-  "time": "2026-11-15T18:47:32+00:00",
-  "title": "\"'젠슨황 스캔들'로 궁지 몰린 러트닉, 트럼프 亞순방 동행\"",
-  "ko": "\"'젠슨황 스캔들'로 궁지 몰린 러트닉, 트럼프 亞순방 동행\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261116002600071",
-  "section": "people",
-  "people": [
-   "트럼프",
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a5c2dee1a7",
-  "time": "2026-11-15T18:46:47+00:00",
-  "title": "In newly blue Texas, far-right Christian nationalists gather to plan a future after Trump",
-  "ko": "In newly blue Texas, far-right Christian nationalists gather to plan a future after Trump",
-  "lang": "en",
-  "outlet": "CNN",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmhEVnNpWW5LZUtENmlSekFsNGdnY0RFQnp0NE5NSm52VHFyRnZVaUNoSU82Y3MtbTdYUTMya2h0bm9MbjdnREhTR0VzSklUdXJRN3VoTkd3dHFCZUIyLWlSd2lCWDh5clVuekV1WThZZ2NMTmZwNEcxVTJnblZUYXJ1YlpRWTRm?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1dd428e129",
-  "time": "2026-11-15T18:35:39+00:00",
-  "title": "베선트 美재무장관 \"젠슨 황 후임, 엔비디아 밖에서 찾아야\"",
-  "ko": "베선트 美재무장관 \"젠슨 황 후임, 엔비디아 밖에서 찾아야\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261116002400075",
-  "section": "ai",
-  "people": [
-   "젠슨 황",
-   "베선트"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "파이낸셜뉴스"
-  ]
- },
- {
-  "id": "882bb95c1d",
-  "time": "2026-11-15T18:27:27+00:00",
-  "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
-  "ko": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6ef9458096",
-  "time": "2026-11-15T18:12:25+00:00",
-  "title": "베선트 \"엔비디아 CEO 외부 영입해야\"…中 우회 수출 의혹 해명 촉구",
-  "ko": "베선트 \"엔비디아 CEO 외부 영입해야\"…中 우회 수출 의혹 해명 촉구",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868835",
-  "section": "ai",
-  "people": [
-   "베선트"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bfd17a3f5b",
-  "time": "2026-11-15T17:57:00+00:00",
-  "title": "Opinion | The Success of President Trump’s Tariff Policy",
-  "ko": "Opinion | The Success of President Trump’s Tariff Policy",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
-  "section": "money",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6300109431",
-  "time": "2026-11-15T17:51:46+00:00",
-  "title": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it",
-  "ko": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it",
-  "lang": "en",
-  "outlet": "CNN",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXdaYi1Bdk8xNl9lV2lRUG4zRHBYM3VLaHBHME0wZko0OTg3RGVNMEdrTkQ5NXBWM0IzWTVma25sakc4b2pzcTFUQ2dNNVMtSjJjNlN2d0M2cERPVGtBaHZrclN2LUlqWEw1YmpyRlI5MnZ3NzM0TmVxQ1lvN0dLcm80OUNMbmFxZTFxSkJB?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "eff268b51f",
-  "time": "2026-11-15T17:50:28+00:00",
-  "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
-  "ko": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프",
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "47074057ee",
-  "time": "2026-11-15T17:44:54+00:00",
-  "title": "In Asia, Trump Can Make A Deal To Boost America’s U.S.-Flagged Fleet",
-  "ko": "In Asia, Trump Can Make A Deal To Boost America’s U.S.-Flagged Fleet",
-  "lang": "en",
-  "outlet": "Forbes",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXBKVkZoY01WZlhCanpaN0hqODNwTk9zTUEzUkRtWmVOQlRlVktnTS0wQi1fMGhTN0EwX1NmXzl0YThLU1BlTy0zUkVkS2RZaGFkM3ZLWUxpSklUMXNCdU90aDhpbkRNRkx5SFhqY1JMcWJmZ2dIdVFoODhFUFVoWF9NTmhfZWVwSkFzQkdoSFdkSUhBQWtyOUFWdDU4VzdBb3FuajM3bEh6Z1NLemd5RlhNMGRqRll3?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d6ed8a5001",
-  "time": "2026-11-15T17:39:53+00:00",
-  "title": "젠슨 황 불륜 상대 앨리스 황, 작년 퇴사…메가스피드 자체 조사 착수",
-  "ko": "젠슨 황 불륜 상대 앨리스 황, 작년 퇴사…메가스피드 자체 조사 착수",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261116_0003868834",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "97627c9494",
-  "time": "2026-11-15T17:16:51+00:00",
-  "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
-  "ko": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261116001300071",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "24bbd62e7b",
-  "time": "2026-11-15T14:33:09+00:00",
-  "title": "Nvidia CEO’s affair exposes loophole Chinese firms use to access high-end chips",
-  "ko": "Nvidia CEO’s affair exposes loophole Chinese firms use to access high-end chips",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2hPSWp5RThSSER6RU9KM2xsRkplcUx2eXVFdUlLYURuQ0tkQVFPeDRUa0t6cUJ2TmRMU0pFaGV1YU1GalExUWtqVTc4LS10THUyRFJJeXI3cUt4Sm9uRWhTOElzYzJhekJUWTR4RXRoQXV4aGR2NzRMZmdDTDFQVXVrSkd3Z0N6OFhvTGNFS0U0M1A0bGJKMUVOaTdscEZQakYxR3hoakxMdHpCaHVEVExyZ0o4Q1FLYkE?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "00b10417b4",
-  "time": "2026-11-15T14:20:59+00:00",
-  "title": "SNL teaches tech billionaires the lessons of the Jensen Huang affair",
-  "ko": "SNL teaches tech billionaires the lessons of the Jensen Huang affair",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmRzVzFHR0NCUXpxOEN2NDhzaVdhOVpvTnJ6c3F3OHJubGRaUnBVbVJrRTZMREF0a2hrM0tHVUd4MHhBRThGLTNkQm9xSzE1Tk1jR3RKRXhhLVQ4TUpQb1pkQXpxWFBRN0JzT2lqT1Zod1ZhVDJtWEpLM0g5Sl92RmFRZDNjemkwS000aWJ3QjdxT2lXQ3VIbDNtaUZ2THVjbGEyUF9nekk4ZE9KMDFoQnl0eHFOMVo4?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "728e6903d4",
-  "time": "2026-11-15T14:12:23+00:00",
-  "title": "‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang",
-  "ko": "‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGNZN0t6Z3A0U3Q0RUY2UzBIQlJsdGtwU2VXTFR6R3I5T0VOcFNfN0FsVUN2Ukd4YTAwaEVMemxuN1cyRTFIV2JibEhnSzZyVC1BWGV3YTJjdllEM25UNFBtMVpzd3QzdnJnQnE3Y1FjaXhJMlYyQURBQkh3ZGhiVUdWUzBxZWtHVzhlVXZDcGxWOWludk4wNTMxZDhDeFdDaXVLQ0lzYw?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2705f9c619",
-  "time": "2026-11-15T14:05:17+00:00",
-  "title": "돈냄새 귀신인 글로벌 큰손들…엔비디아 판 돈으로 인텔·하닉ADR 샀다",
-  "ko": "돈냄새 귀신인 글로벌 큰손들…엔비디아 판 돈으로 인텔·하닉ADR 샀다",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12209538",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fa0713fa32",
-  "time": "2026-11-15T14:04:27+00:00",
-  "title": "'남미 트럼프' 밀레이, 재선가도 흔들…월가, 승률 50%미만 예상",
-  "ko": "'남미 트럼프' 밀레이, 재선가도 흔들…월가, 승률 50%미만 예상",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115054900009",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "688a186e5e",
-  "time": "2026-11-15T14:03:54+00:00",
-  "title": "젠슨 황 스캔들 후폭풍…美 의회, 中 AI 반도체 수출 규제 속도",
-  "ko": "젠슨 황 스캔들 후폭풍…美 의회, 中 AI 반도체 수출 규제 속도",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868807",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "14856864b7",
-  "time": "2026-11-15T14:00:09+00:00",
-  "title": "‘Bring Jensen back’: support surges for Huang’s return to Nvidia",
-  "ko": "‘Bring Jensen back’: support surges for Huang’s return to Nvidia",
-  "lang": "en",
-  "outlet": "South China Morning Post",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0tjUU5CQ2lEZ1VFZVRNVkxEenJ2eEdEN2dLWm1vSW9UQ1ZLX3phM19Qa0dUN1RqWkt6ZGV5T3ljaEd4OEFoanFkZGFwTFotZnJHMm5JRlpMdlNHc0JNSXdXcGVZSlZNM3VKUmxGQ0gwOUJXVjZrNk1YYmV5S215MDdBYWswZnBtWmpsekNnVDVxcTdJSHA3UHdnUUJEdXdfMllIWmFWdnA1TER5NDVOdHg5RXp1U1NHMDl6N3E5S3dPQ0N3TzMyOUtXcVRtR0U?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "96ecadd8cc",
-  "time": "2026-11-15T14:00:00+00:00",
-  "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-  "ko": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2b65f49987",
-  "time": "2026-11-15T14:00:00+00:00",
-  "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-  "ko": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-  "lang": "en",
-  "outlet": "CoinDesk",
-  "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "7767fa0558",
-  "time": "2026-11-15T13:57:26+00:00",
-  "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
-  "ko": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFZaWU0ZEdlakM1WnlreGY5X19qOTNjVjFlWTJXZWFwZkl6QlNYdUlYZ1JCNkNtQ0U3T04zaDNPYnNyd0NqZUtTYlJlRkhwaUwwYl82aWpUaEZ3Y2FCcGh6UHdXaW5FUmZEZU93NE81U0UyYVhia1JXdnVZUG1kYW1UbGZWTlJsQVh6bGZFMkZtY0I3SEdCNHFlVUlsYU1rRUNF?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "57c4f41f4d",
-  "time": "2026-11-15T13:45:00+00:00",
-  "title": "Europe Is Quitting Putin's Gas, But Trump Buys In At Ukraine’s Expense",
-  "ko": "Europe Is Quitting Putin's Gas, But Trump Buys In At Ukraine’s Expense",
-  "lang": "en",
-  "outlet": "Forbes",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaklwR3B6V1NqZGFYUGtHTmRNUzVacjVfVy1hdlF1VnVKdV9nSXhJbW1kX2swZ1BYZy1sc0xIemlxWmpWbGhyajZYakozMU9tdFM0aTl6S0c4ZmtwaHhFR2NyRHk2T2ltRS1lakxTSUM0clVKQVlfeGtiZ0FjTmJRMWFaRTBNUDI0NElfdjJVUVZxb1BjV0NIZjBFaGZNR1c5NmQyMEhpN0JLUUVFQUJZUTdBa0k4Y2xRdnVuMlVIMzQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "79fbedb1f9",
-  "time": "2026-11-15T13:39:30+00:00",
-  "title": "민주당 초선 모임, '이재명 탄핵 반대 발언' 최민희 최고위원 대응 논의… \"사안 엄중, 내일 결론\"",
-  "ko": "민주당 초선 모임, '이재명 탄핵 반대 발언' 최민희 최고위원 대응 논의… \"사안 엄중, 내일 결론\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611152238066019",
-  "section": "people",
-  "people": [
-   "이재명"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "16c0061a7f",
-  "time": "2026-11-15T13:39:27+00:00",
-  "title": "Opinion | Don’t assume Nvidia will rebound",
-  "ko": "Opinion | Don’t assume Nvidia will rebound",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYm5nSGRhdjdQOWhYTlllbnAtZXlVVkllVVZETnV1YzFNd01UX1dZTE9aelZUb3NrMmdBQS1IaWtMbnQ1OXV6ZlNmbjZkV2hNbVVoOWZjb3hqVVRDNGlrUnN3eE5LZG1iU1MyUEw2NFNCNEdFSUN5VUVDVHZHQ3VwMmRpLWV6Y2Q4VFdPYm1SdG9KclRoQnZSaGJxRkt6bVdxbVUyT2RRbmRqbEhzQVFxcQ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c5c192ff33",
-  "time": "2026-11-15T13:33:34+00:00",
-  "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home",
-  "ko": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home",
-  "lang": "en",
-  "outlet": "AP",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b7b507c9dd",
-  "time": "2026-11-15T13:30:00+00:00",
-  "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
-  "ko": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "98827c0220",
-  "time": "2026-11-15T13:18:00+00:00",
-  "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
-  "ko": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
-  "lang": "en",
-  "outlet": "AP",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmRvNmpTaUZRVTFzb3lpYUgxd3NoY1d1TDBVVUlIcE1tWFFFM1FiLXFzNDV2WGRiN3dwZjBGVXNzWTk5bVUtejdYaWg4eFRmZ2psWXJtcXdMdmdXNnUtTFdxd0pNS0d6aFMzRmJFUmpmT1lWai1RN1pKRUw5b014Q2RBcEV0OU1PRTU3M3FKV0YwV2pwb0dtNUR4dVh2RXdvMHJYMVhBZUxTRWtibVM4d1plLU5IRVN6S2c?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "747b601c8a",
-  "time": "2026-11-15T13:09:19+00:00",
-  "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
-  "ko": "How the tech industry and markets have responded to Jensen Huang's resignation",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEZRV0tvZV9CR2tCZkdleDdWOWR4dHZkSXA3OUhydTdqaV9vS0N6U0JGcUxEMTRGdEhMVXhSNDFmMEV4ckFmOXhmemlRTFpRb0pDZllxbVJfdHF1Q1BYOXlCOUlsejJvU3FCckRBU0U3b05RamVJaS15N0VTV1RhTlpTd0hBc1JUR0hEZ2xXX3FCZ3JaN1hKWlpSN3JTVGVQMjc3MV9lRk5Sb0hYR05XbXVLVVhWdWlaaHNSdUNvaw?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fafef8b92e",
-  "time": "2026-11-15T13:09:13+00:00",
-  "title": "Trump will attend a summit of Southeast Asian countries. What does it mean for the US?",
-  "ko": "Trump will attend a summit of Southeast Asian countries. What does it mean for the US?",
-  "lang": "en",
-  "outlet": "NPR",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHBpY2NOVzE4aWZzQUloNFAxWWg5YkY5UW8xVjZxQU43VXBDbUU5Z2hKVGptR21pQ1ZMOEVGUzZLZXg5YUtFUWM4YlFOdDl2eDJfSkt3MmdUVE8zcnpzTllORHVqajlxVTJNQnozN0d2N2pSZ3AxNGNVbFJDR1VMWldEWTd4ak1sM01KeEc1ZmdXUERWMXEweFpLbTcxZ2RYSW1Wck5kN01Ka3VZZFd6RUw0SzNDLU03Qi13X3JCa2NyRk1fTk5jdg?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "2872054724",
-  "time": "2026-11-15T13:02:00+00:00",
-  "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
-  "ko": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVJPaGFQel9iOFVleXFta3ZybVhldVV5LW9oRk9HckJxeWgzRVBwWWRGaDdDUFdoYjRhZEZZVjJSd1ZXWHVHWkR0bDVvTkIzOUIwbGdORng1X0xtVEREWVlaeXRDaEhLNlloZVB6M3ZPaXlMQjRJYmpzcUljSzc3Y2xUS2o?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e62454d1ce",
-  "time": "2026-11-15T13:00:05+00:00",
-  "title": "Republicans blame everyone but Trump for midterm drubbing",
-  "ko": "Republicans blame everyone but Trump for midterm drubbing",
-  "lang": "en",
-  "outlet": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkMzQnN5MHBjd1ZFdnRxQlBBLVpqRFBmYnpFNlhrNGhzVmJzUVJaOE11TFBnTGs5ZjMzVU9uVmw0Z0tabEk1SmZjWlJrWFRuS1luT2JDSnJXa3REN3lfRWlyWVFrWFBia0JtS0ZKU2pMYzRIR01SbjVUbnhyNjVlN3YtbzI?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0ad07a5392",
-  "time": "2026-11-15T13:00:00+00:00",
-  "title": "An overview of Jensen Huang’s messy days",
-  "ko": "An overview of Jensen Huang’s messy days",
-  "lang": "en",
-  "outlet": "The Verge",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXZoUkQwa3FZTndBcmMyTGhFV243RUJhbGJkOFVqWWlpTHJqSEdNNXBpVVg1dVVrc0VmUU5qNS1vM3BtLWF0anFqQ0hTUFBhR1RkRlhvb2hoRW5pWG5kcjFJZ2lQT042Um1jZjlTdGtZSzVaeUJZZmw4d2dfMnh1Y2FhOWVXcVFyTzBlSGd2cUJURGJmazBZ?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ff00ff14e6",
-  "time": "2026-11-15T12:57:00+00:00",
-  "title": "Bodyguards aren't enough: After Jensen Huang's exit, CEOs need counterintelligence training",
-  "ko": "Bodyguards aren't enough: After Jensen Huang's exit, CEOs need counterintelligence training",
-  "lang": "en",
-  "outlet": "Fortune",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2hrNDVCVEViOGJwSnlnRmh1TGFrWW1kUHlhdmxTVGxMbE0wMkg1VGNRLXR6elktMkYwQzQ4cXdtaHZMc0hjN1JOZmRTeC1zU2x1Q2xmV3o4SEpmOU9XR0ppeGJZazJaOGsyb1dZS2xOQjlFY09aSE1IQ0p1V0g3bWxNOE9SME5paWJLZ2N4cklqdF9ocHdGT2dn?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "32269430d3",
-  "time": "2026-11-15T12:54:18+00:00",
-  "title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
-  "ko": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115054200002",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "54e30db5bd",
-  "time": "2026-11-15T12:30:00+00:00",
-  "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-  "ko": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-  "lang": "en",
-  "outlet": "MarketWatch",
-  "url": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0210b98a10",
-  "time": "2026-11-15T12:02:00+00:00",
-  "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-  "ko": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkNOSlJyemt4TXN1VkJOdUtXaW1jZ2NJcHlwaFdfV1prS1pNajVRSkE4YkVhb1pVTzBORFFSYWFSVTZ2T01MMnpobk5rMWhRMGtpUTdtaE94N3lzc01CMXlqc2U1TGFkYzgxdlNRUERMR3g2cnVBWVhtVGRmckI0czZyYlFJamlzcGttalZ6Z1VnREVj?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bdd643b802",
-  "time": "2026-11-15T12:00:06+00:00",
-  "title": "The new Steve Jobs? Why the Apple legend looms over Jensen Huang debate",
-  "ko": "The new Steve Jobs? Why the Apple legend looms over Jensen Huang debate",
-  "lang": "en",
-  "outlet": "South China Morning Post",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNml4X0JuTEZ1aTk1NjBjWTNhYmc3d2F1THNwdTFjNU9qclB3bXhCVDFMUTVlcG1FaWRzelp1aXZ1eEpIN0piTlhqcThQYlJ1RlpJdnBFNFpyN21VMzlMTkhmekZWZEJQb0EyamN0OURUeE9HUlBtTkM0Wk8wNUM0WkpkTG41SjVZZ0dmRUtsZE1jNHlwY3A3VVdoSEdybFhKSEZadkhmTVp5MjR6RWlUWFIwaXJueDdFSkNMc1VoSdIBvwFBVV95cUxQV0ljRk5SYWtYZFBBbFhuUFdRUXZ5SjJ1NDNLSldVNTJ0Y2hyejNNMEZJV3lrQUdfd29Fa0g1UWdjc056cHRTLTIyWVZPc1JNbF91czJQRDM5TmtfYXZ0Q09kbHA5TTgtSkFYVjFHbVZPWFozXzhnWEVESEJLdUZhUm1IdEVkeHhVNXlQamZnV1BnZWgwRkU5QTNtTklqekZMaE04UFFGRDNYX1o5eUw4VHNVc205WUVvZnRNRHVGOA?oc=5",
-  "section": "people",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "106d251c18",
-  "time": "2026-11-15T11:55:31+00:00",
-  "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks",
-  "ko": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmgzajlTc2t4SmdLb1g1X3o1VWhhMlFTWnJ3Sk5sOW9JcDBUU0ZYU0tkX0s4M28za1ZVRGw0S1FlZEJVNXhVRGhwTjI5Um9HRzJxb0lRWk8yeE9pb3ZuQXk3a3F4WU1wNDRHcTQ5SV9jRnpHOHlOOGZBWUliVU16bThPM0R5OElKQk5hXzNGR2pZc3BFYTcxa2IxcVVoLWhNaTJobDR1RHhZa3B1dHotX0hId1NPajBKSjBRa3BZSHUtN2RrV084?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a81acbe1ba",
-  "time": "2026-11-15T11:51:04+00:00",
-  "title": "반년새 전세계 데이터 센터 건설관련 주가 5600조원 '빠져'…AI주 붐 식자",
-  "ko": "반년새 전세계 데이터 센터 건설관련 주가 5600조원 '빠져'…AI주 붐 식자",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868787",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c8a5b61a3b",
-  "time": "2026-11-15T07:04:39+00:00",
-  "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-  "ko": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
-  "section": "ai",
-  "people": [
-   "트럼프",
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c6fdcd8796",
-  "time": "2026-11-15T06:57:55+00:00",
-  "title": "'AI 커닝' 세무사 수석 처벌은…챗GPT·스마트안경 적발보니",
-  "ko": "'AI 커닝' 세무사 수석 처벌은…챗GPT·스마트안경 적발보니",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115034600004",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f83018e9d1",
-  "time": "2026-11-15T06:53:42+00:00",
-  "title": "[단독] 머스크 이어 박현주도 ‘젠슨황 복귀 청원’ 동참…“사임 너무 성급”",
-  "ko": "[단독] 머스크 이어 박현주도 ‘젠슨황 복귀 청원’ 동참…“사임 너무 성급”",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12209229",
-  "section": "people",
-  "people": [
-   "머스크",
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3aea222526",
-  "time": "2026-11-15T06:51:58+00:00",
-  "title": "\"코스피 저평가지만 모멘텀이 없다\"…암울한 전망 나왔다",
-  "ko": "\"코스피 저평가지만 모멘텀이 없다\"…암울한 전망 나왔다",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868412",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "576bec3a89",
-  "time": "2026-11-15T06:45:27+00:00",
-  "title": "'낙장불입' 안 통하는 부정응시 처벌...\"AI 썼다가 징역 살 수도\" [서초삼거리]",
-  "ko": "'낙장불입' 안 통하는 부정응시 처벌...\"AI 썼다가 징역 살 수도\" [서초삼거리]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611151059058849",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fdcc8f9ff3",
-  "time": "2026-11-15T06:43:40+00:00",
-  "title": "초소형 카메라까지 동원한 AI 부정행위…수능 감독 교사들 '비상'",
-  "ko": "초소형 카메라까지 동원한 AI 부정행위…수능 감독 교사들 '비상'",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611151338569828",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e8590ccaac",
-  "time": "2026-11-15T06:42:41+00:00",
-  "title": "인력공단, 세무사시험 AI부정행위 사과…국가자격시험 전수조사",
-  "ko": "인력공단, 세무사시험 AI부정행위 사과…국가자격시험 전수조사",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115034900530",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fd69e8c56b",
-  "time": "2026-11-15T06:33:54+00:00",
-  "title": "회계사 시험서도 'AI 부정행위'…금감원 \"올해 2차 시험부터 AI 안경 전수검사\"(종합)",
-  "ko": "회계사 시험서도 'AI 부정행위'…금감원 \"올해 2차 시험부터 AI 안경 전수검사\"(종합)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868634",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5046fe6495",
-  "time": "2026-11-15T06:33:24+00:00",
-  "title": "안경뿐 아니라 귓속까지 봐야 하나…수능 'AI 부정행위' 감독 비상(종합)",
-  "ko": "안경뿐 아니라 귓속까지 봐야 하나…수능 'AI 부정행위' 감독 비상(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115026651530",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "596077fcaa",
-  "time": "2026-11-15T06:32:41+00:00",
-  "title": "역대급 실적에도 엔비디아가 늘 하락했던 진짜 이유ㅣ월가는 이렇게 읽는다(3화) [매플 인뎁스]",
-  "ko": "역대급 실적에도 엔비디아가 늘 하락했던 진짜 이유ㅣ월가는 이렇게 읽는다(3화) [매플 인뎁스]",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12209208",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d9d3cd385f",
-  "time": "2026-11-15T06:24:00+00:00",
-  "title": "[속보] AI 부정행위 합격자 \"업무방해로 고소\"...칼 빼든 산업인력공단",
-  "ko": "[속보] AI 부정행위 합격자 \"업무방해로 고소\"...칼 빼든 산업인력공단",
-  "lang": "ko",
-  "outlet": "중앙일보",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNVliUTlzZFBlazlJNy13Z0tZRFhnc011S1BPS2pLQ3pqbTFQcVI3Wi1td3dibDhoa3dlQ3FPcERLMm5sWEw5dlk5UXBmMVlNN0hCQ1JCbGowZnA5S2tPVEpR?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0f679c4cc0",
-  "time": "2026-11-15T06:22:00+00:00",
-  "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-  "ko": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVVlSnBZdEozSzJxR3NrX283ZzhzUXloWlhmOXRycGFhaTNfWEdLUjdFVEVxaE0xTEtVa0NrT1lqdl9idkVMOFpqU3lpcVF5VXVsaS1wMDJyY1A5Q29pMFlQZ294NGdaOVlvaWZxZjFkc1NuNG1zZjhmVGVUVWlmb2RzTTMxRDdHUENSbmRhQ2s1c0stVjZsaE9LYi1CZkpiMkNjTV80UFIwOXRhbHhPS0ZtX2RUMFVMd1JWSE5JQnFSTFJsOTViTk1rOEtNd0pNcFZfYUtxMGpOWmhLeThYTm13?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "89a4e46e96",
-  "time": "2026-11-15T06:18:24+00:00",
-  "title": "여야, '세무사시험 AI 부정행위'에 한목소리 대책 마련 촉구(종합)",
-  "ko": "여야, '세무사시험 AI 부정행위'에 한목소리 대책 마련 촉구(종합)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868639",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5fad78a2a0",
-  "time": "2026-11-15T06:18:23+00:00",
-  "title": "홍콩, AI 안면인식 감시망 가동…용의자 동선 실시간 추적",
-  "ko": "홍콩, AI 안면인식 감시망 가동…용의자 동선 실시간 추적",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115024600009",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4d5167168b",
-  "time": "2026-11-15T06:18:15+00:00",
-  "title": "이재명·이재용 맛본 구내식당…화성·온양 이어 평택까지 '급식 영토' 넓힌 회사는?",
-  "ko": "이재명·이재용 맛본 구내식당…화성·온양 이어 평택까지 '급식 영토' 넓힌 회사는?",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868615",
-  "section": "people",
-  "people": [
-   "이재명",
-   "이재용"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c26efa9a19",
-  "time": "2026-11-15T06:16:35+00:00",
-  "title": "산업인력공단 \"세무사 시험 AI 부정행위 고소…전수조사·대책\"",
-  "ko": "산업인력공단 \"세무사 시험 AI 부정행위 고소…전수조사·대책\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868624",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ebcd544a5c",
-  "time": "2026-11-15T06:14:19+00:00",
-  "title": "\"AI 안경 부정행위, 증거 없으면 못 잡는다?\"…변호사 출신 강사 \"다 잡는다\"",
-  "ko": "\"AI 안경 부정행위, 증거 없으면 못 잡는다?\"…변호사 출신 강사 \"다 잡는다\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868580",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dbc129cc91",
-  "time": "2026-11-15T06:13:16+00:00",
-  "title": "AI가 끌고 제약·상사가 밀고…日 주요 상장사 순익 6년 연속 최대 전망",
-  "ko": "AI가 끌고 제약·상사가 밀고…日 주요 상장사 순익 6년 연속 최대 전망",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/world/12209199",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f13bc836bd",
-  "time": "2026-11-15T06:12:08+00:00",
-  "title": "코인원, 상담 수탁사 해킹에 고객정보 유출됐다 [크립토브리핑]",
-  "ko": "코인원, 상담 수탁사 해킹에 고객정보 유출됐다 [크립토브리핑]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611151506217040",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a6e0abfa41",
-  "time": "2026-11-15T06:10:55+00:00",
-  "title": "교육위, 내일 'AI안경 부정행위 대책' 현안보고…수능 대책 주목",
-  "ko": "교육위, 내일 'AI안경 부정행위 대책' 현안보고…수능 대책 주목",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115032200001",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9a5f14a40d",
-  "time": "2026-11-15T06:10:00+00:00",
-  "title": "[속보] 세무사 수석 AI 부정행위에…산업인력공단 고소·합격 취소 추진",
-  "ko": "[속보] 세무사 수석 AI 부정행위에…산업인력공단 고소·합격 취소 추진",
-  "lang": "ko",
-  "outlet": "SBS",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VTlQ5d2Q1aXdOd2VwVjRpZXhVcTE4LXk2MlN2VXpyNU5FTWhhY3A3dy01VEZJSzlnTnJtU2F6eFk2bnVzekw0MmVaNGVQWko4Unp0aUh4VjUxRy1QZkxPUGtGN2JYdnPSAVhBVV95cUxNVVpCaDFfVzZndGdtc2dZTlhBTmtfOWQ3RW5sRVdFUVh6Vzhma2lNMDBEeEtodjRVNHh2bmVrVzBydll1S3hUWC0wZFFsVmtfdU92U0FfVVp6?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "74d55f1b01",
-  "time": "2026-11-15T06:09:33+00:00",
-  "title": "\"세무사 시험 AI부정행위 지휘-감독 방기\" 전·현직 재경부 장관 경찰 고발",
-  "ko": "\"세무사 시험 AI부정행위 지휘-감독 방기\" 전·현직 재경부 장관 경찰 고발",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611151505251177",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a978509926",
-  "time": "2026-11-15T06:06:52+00:00",
-  "title": "[속보]청와대 “세무사 시험 AI 부정 행위, 엄중히 보고 있다” 오후 대책 회의",
-  "ko": "[속보]청와대 “세무사 시험 AI 부정 행위, 엄중히 보고 있다” 오후 대책 회의",
-  "lang": "ko",
-  "outlet": "문화일보",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CRnV6U205NmlqV2FaQUF3R0d3M2tpYnRvbF91RXBURF91VlJlWVVzSlQ3dWhNX0JjV0VzdkRfTDh1ekVYTk1oVmtVMXBNTHhJ?oc=5",
-  "section": "ai",
-  "people": [],
-  "flash": true,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d8a26f48a9",
-  "time": "2026-11-15T06:06:07+00:00",
-  "title": "靑, 민·관·군 IT 자산 관리 체계 점검… AI 사이버 공격 대응",
-  "ko": "靑, 민·관·군 IT 자산 관리 체계 점검… AI 사이버 공격 대응",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868621",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ca6f11cef0",
-  "time": "2026-11-15T06:05:57+00:00",
-  "title": "與 \"반도체 과실 고루 퍼지도록\"…국힘 장외투쟁엔 \"직무유기\"",
-  "ko": "與 \"반도체 과실 고루 퍼지도록\"…국힘 장외투쟁엔 \"직무유기\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261115032400001",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5247f485f2",
-  "time": "2026-11-15T06:02:02+00:00",
-  "title": "\"세무사·회계사 시험 이어 수능도?\" AI 부정행위 초비상…IT 전문가들이 보는 해법은",
-  "ko": "\"세무사·회계사 시험 이어 수능도?\" AI 부정행위 초비상…IT 전문가들이 보는 해법은",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261115_0003868588",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6da70ea569",
-  "time": "2026-11-15T06:00:00+00:00",
-  "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-  "ko": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-  "lang": "en",
-  "outlet": "The Guardian",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
  }
 ]
