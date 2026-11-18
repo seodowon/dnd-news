@@ -1,0 +1,1357 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T10:30:19.235620+09:00",
+ "mode": "draft",
+ "articles": [
+  {
+   "headline": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 10,
+   "outlets": [
+    "AI타임스",
+    "JTBC",
+    "MBC",
+    "뉴스1",
+    "머니투데이",
+    "서울신문",
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "AI타임스",
+     "title": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217512",
+     "published": "2026-11-18T05:37:19+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "[속보] 엔비디아, \"젠슨 황 CEO 복귀 검토 안 한다\"",
+     "url": "https://www.hankyung.com/article/202611183306i",
+     "published": "2026-11-17T22:07:54+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴스1",
+     "title": "[속보] 엔비디아 이사회 의장 \"젠슨 황 CEO 복귀시킬 계획 없다\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JR1I3VUEtVWVMU3d1Q3hwM1BMdFBZTUpQVXY1TEJPeGJoS0tUNDIyMDh2a3JHdy0yaVZqb1ItQzlvT0p1WXRxbWVYWXVKOF91dWFuV3NGTTN1MXdGUEN5RDVadkw1WHc?oc=5",
+     "published": "2026-11-17T22:04:40+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "머니투데이",
+     "title": "젠슨 황 \"이사회가 원하면 CEO로 돌아갈 것\"…사임 후 첫 공개발언",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hSEVkeUk0OHdkZ1o5VHBlaVllLXZzbkdHRm94dlJod0lEUGJwa0hVVWgtUm16MmJTRGhkUngzTGt1ajhlWVU0Qno4REVySUZkQzFtQ2k5Y1AwTndpeDhCM3F2c0dBZEFxdXlzaGVZR2VCSlBCTkHSAXtBVV95cUxNMC1BR1lhRFRvRExFTU5KU2Jub2paSmZZdDFaQ0hKVDZTT19XZnZIVDJ6UVVoQTdwLVliRmo0a3AtblNCeW9mWlNKVEY1clBSZlY4cG15VE84WWRFaU1NcWdyNFZWUHpRXzlsZFJiSnNveDRGZklTbGxwa1E?oc=5",
+     "published": "2026-11-17T21:03:01+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "침묵 깬 젠슨 황 \"이사회가 요청하면 CEO 복귀\"",
+     "url": "https://www.hankyung.com/article/2026111831897",
+     "published": "2026-11-17T20:57:25+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "한국경제",
+     "title": "닷새 만에 침묵 깬 젠슨 황 \"이사회가 원하면 복귀\" [전문]",
+     "url": "https://www.hankyung.com/article/202611183159i",
+     "published": "2026-11-17T17:31:54+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 1,
+   "slug": "01"
+  },
+  {
+   "headline": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 10,
+   "outlets": [
+    "AP",
+    "BBC",
+    "Barron's",
+    "CBS News",
+    "CNBC",
+    "CNN",
+    "CoinDesk",
+    "Cointelegraph",
+    "Decrypt",
+    "Forbes",
+    "Fortune",
+    "NBC News",
+    "NPR",
+    "New York Times",
+    "Politico",
+    "Reuters",
+    "South China Morning Post",
+    "TechCrunch",
+    "The Economist",
+    "The Guardian",
+    "The Verge",
+    "Wall Street Journal",
+    "Wired"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "BBC",
+     "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-18T01:18:18+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "South China Morning Post",
+     "title": "Nvidia board says it has no plans to reinstate Jensen Huang as CEO",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXdBNFExUU1KeUtCdnIwZzVvRnpBTUtOSEprYUUzRWstQk9yUU9YM0VnTUtfYnhJM2FwdnNJajVEbXhTckNONWFJSDhkaU51dEVXN0VyZnRQeXo3RTRIZmg2OEl5UG8ySmlMei1wdnZkdEJpcjgxSFMtbWwwOTlPak9vb01WLXgxWTlhZFFHLXRhZjRMOXEybkJNSnRKOF9WQUNTadIBpAFBVV95cUxPZWZsY3o2Mk1fUzRKZlVtREVSMzloSkpjeDZOSWlzU3ZmemM5QmZ3V3JQaEhNNVdEQnN5MU4tb3Z0YmRHRGdQcHZXbjI5N2RtMFJRbDBWOFA0MU01ZTJKdGNGOTJoUzlIN2RhRndubTdGaklqSDBYX0hIdjV2eDZXY1J0Vjg5NC1EOXZpdzByNXVBTG9VSzdNV3pSVlpRQ0FSZzgtSg?oc=5",
+     "published": "2026-11-18T00:36:34+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "New York Times",
+     "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHY0NU1Fd0lrTWFZQmI4M2cxV2RFd3NCYko2aF83QmJWdEUxM3hNc01HV18ycklKZElhbldzREtZRVNneVp5QkdpVWJFV0t6anpmWXZfTFJHVTRlNHR4aW5VRWpCTVNPX0RFblVLQ3BoT2lnZU1sd2xmdnNweWVWX1pWNA?oc=5",
+     "published": "2026-11-18T00:27:30+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "CBS News",
+     "title": "Nvidia records strong growth in first earnings report without Jensen Huang",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zbkVuZVV1aE51bVM3Vkxyc2lYQVR4Qms5TDhnOTVwQTV4cG9MMkZtQVAxQXlWdDVSR25hUE9uMnRVbXZpWE5kTXZKNlZzdTlnV2NydUtYeklYaTNldjhFclBfaVZvTllXdFJ0dXRqQ3BhMzJSSlNpOTJtdVg?oc=5",
+     "published": "2026-11-18T00:25:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "The Economist",
+     "title": "Jensen Huang’s departure will cause lasting damage to Nvidia",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkFRUkZ1VUhjY2NYQVpwYkNNSTI0bzFIU0RKVUQzVk5IT3E4em9jcGpUbnpXZDFYUFlBYlVUSk9sTExGY0lJcE1CdzBwWXkzT19QZFJBX2llME9NTDdJWjZwYXFHZjAxQm4ySFNfZWoxLXpQSVBGYUFJUXpFa3JMYkZSVUxYUmFGdzFfa1FyOWdVQmZ5UFBUalVjSUJaMWRGTWpJMzNUWGg?oc=5",
+     "published": "2026-11-18T00:20:05+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "AP",
+     "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
+     "published": "2026-11-18T00:07:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 2,
+   "slug": "02"
+  },
+  {
+   "headline": "엔비디아 호실적에…코스피, 3% 상승해 5000선 회복",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 10,
+   "outlets": [
+    "뉴스1",
+    "뉴스핌",
+    "뉴시스",
+    "머니투데이",
+    "비즈니스포스트",
+    "서울경제",
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "비즈니스포스트",
+     "title": "코스피 엔비디아 호실적에 장중 3%대 상승 5120선, 코스닥도 3%대 올라",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PR1VDWXJTQTkyRUppd21DX0V0Y0U3WnR3bE91eGJVSTdWT3JBQWl3Ukw2dDhmV1o2RjBYT250MzR4Sl9IR2JsWEhHZWdwQy14RW1YUWUwVFAtWUQ3c0JIU3otaEJ4UmJBR1RaUnBTSWJTYkU?oc=5",
+     "published": "2026-11-18T01:12:09+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "코스피, 엔비디아 호실적에 2%대 상승…장중 '5천피' 탈환(종합)",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UYmw2em10X3hzbWhSdXNTMXRRaUtOaDU2ZkFyNVZPdWd5TlVNVklNZGxkamNVM29pdFVpZm1tX2o3UWhmUGctYnhxN2FBVmV4dElVZzB4UEpidw?oc=5",
+     "published": "2026-11-18T00:32:20+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "코스피, 엔비디아 호실적에 2%대 상승…장중 '5천피' 탈환(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261118047900008",
+     "published": "2026-11-18T00:31:44+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴시스",
+     "title": "코스피, 엔비디아 호실적에 5100선 회복…장 초반 3% 상승",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWU1mZHZGaVlEemw4LWtHLXJabkstQ1VOYVZoTjZ1MG5qLVVHWVBUQjBfeVZScEJnN2VRWlU2RDBQcXZ2Q3VCUHlHQXZEam1JZ3FGQkRacFFiR0hmZV9BaNIBeEFVX3lxTFBITmJXZDVycXc3NlpxRThaSDdlRmVieU5HR2o4QXB0d2U4aF9RTlJwOGp0SzVzdjRwR2JMeE51U3dXSlpYb2tsTEJ2aVhYeW0tVzM1QUxuWUJQQTdPbXh3WVY5THg1cVl6SlNMRUxnNjRpSFNKUGZDdA?oc=5",
+     "published": "2026-11-18T00:28:23+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "뉴스1",
+     "title": "엔비디아 호실적에 코스피 2%대 반등…5100선 회복[개장시황]",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jeUpvNWFhSk9JT0IzOUJIeDFsVGlqV05LS2FzVGRUTGU2SmI4Q1dCaHc3VFdIdm11QlRKTU1ReVE4TGtRaHBHTHRzbzE5NWtaekRDQUczdjVPSS0ydHNV?oc=5",
+     "published": "2026-11-18T00:23:56+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "서울경제",
+     "title": "엔비디아 호실적에 코스피 5000선 회복…삼전 3%·하이닉스 5%↑ [코주부]",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNGdSeXlGVUMzRlRaVTRTWndBZVhNRHhaQnFOSUFxRjVTZFV5blNYWjZnNEpWM1A2bk03UVZJa0d6WDZEOGhzSTliN2wwOXZPS3fSAVNBVV95cUxNcFUybWxjYkI0VDJTbE1VMDdYekFBYldpNUd4bVF0cm5yZHhla0VRbHoydGRjc2Eybkg4eWkyWGJ2Z1UtbmxFZmI2ZnctTHUwWUowbw?oc=5",
+     "published": "2026-11-18T00:16:30+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 128,
+   "rank": 3,
+   "slug": "03"
+  },
+  {
+   "headline": "젠슨황 없는 엔비디아, 3분기 매출 1158억달러 '역대 최대'",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 9,
+   "outlets": [
+    "MBC",
+    "뉴스핌",
+    "연합뉴스",
+    "전자신문",
+    "파이낸셜뉴스",
+    "한겨레",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한겨레",
+     "title": "엔비디아, 분기 매출 1158억달러…전년 동기 대비 103%↑",
+     "url": "https://www.hani.co.kr/arti/economy/global/1287867.html",
+     "published": "2026-11-18T01:30:13.828632+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "전자신문",
+     "title": "젠슨황 없는 엔비디아, 3분기 매출 1158억달러 '역대 최대'",
+     "url": "https://www.etnews.com/20261118000001",
+     "published": "2026-11-17T21:46:10+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "MBC",
+     "title": "[속보] 젠슨황 없는 엔비디아, 3분기 매출 155조 원‥전망치 뛰어넘어",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95V19kQi1rN016X0RwTnpMN2pseEdLMXREcHNtakVDQUZuZ3pESmlTVTc1TWduNjBGRHp4cE1PQl9nenk2SmdFQjRKdkhQRzEwU2tSWDVobjhBY0xXXzkxUDZzU2Y3MnZ1NGpSZVFsVWZQYkNN0gF0QVVfeXFMTm9Bb0E3ODFOOUs0RC1aa3dRUkJqWlNSU3gyazl2VXctVi0xdFZvREdvLXlzWnBQdFZWZ2J2dFoyX2FKUTMwZDk4OXQ1N2lzWnlVMTkwbmIydFFyWFE0eVV3TmFtb1owMnNMY01mQ3h2TjJfTVE?oc=5",
+     "published": "2026-11-17T21:41:29+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "엔비디아, 3분기 매출 1158억달러…4분기 전망도 '깜짝'",
+     "url": "https://www.fnnews.com/news/202611180637159779",
+     "published": "2026-11-17T21:38:28+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한국경제",
+     "title": "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망",
+     "url": "https://www.hankyung.com/article/202611183254i",
+     "published": "2026-11-17T21:35:32+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "젠슨황 없는 엔비디아, 3분기 매출 155조원…전망치 뛰어넘어",
+     "url": "https://www.yna.co.kr/view/AKR20261118006500091",
+     "published": "2026-11-17T21:31:07+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 4,
+   "slug": "04"
+  },
+  {
+   "headline": "李대통령, 오늘 시진핑과 한중 정상회담…靑 \"한반도 평화·안정 논의\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "people",
+   "importance": 9,
+   "outlets": [
+    "MBC",
+    "뉴스1",
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스",
+    "한겨레",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "李대통령, 오늘 시진핑과 한중 정상회담…靑 \"한반도 평화·안정 논의\"",
+     "url": "https://www.fnnews.com/news/202611180940381448",
+     "published": "2026-11-18T00:46:39+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "李대통령·시진핑, 오늘 정상회담 “한반도 평화·안정 방안 논의”",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/18/HE3GEMRTMQ2TINZRMNSGKZDDG4/",
+     "published": "2026-11-18T00:21:41+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "[속보] 이 대통령, 오늘 오전 시진핑과 정상회담",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3b1dVR3ZDZG0zd0dNamdma2hOUy1vX2FYVHBuWHlXUnlDWF9ZVnd3X29EcENHaDR4dGdoRnVvekVMRGRWMzZGS0FFd3pwSDhWaVMwU3gzMjNpNHRKXzVJQU8yaENFdjQ?oc=5",
+     "published": "2026-11-18T00:11:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "[속보] 이 대통령, 시진핑과 정상회담…\"경제 협력 확대 등 상호 관심사 교환\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rYmNub05BamJFdVhoaEl2OVVoSkZOX1EtaTJGbzdTYXh3eFRPNVBRRVFxdENnYk15Um5VNmFnQ2hYT1I4ajl2Q3JGSllIMlMyeU5hdU94aE5fR05palRqakgwaHdUcTA?oc=5",
+     "published": "2026-11-18T00:11:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "한겨레",
+     "title": "[속보] 이 대통령, 시진핑 주석과 오늘 정상회담…한반도 정세 논의",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MU3RTVXdxR0lfUkVQVnIyRmxGTFlVaFJoX1BGNmFMQlJuTEYyb1R4WDFDdDlrZ1dfOUVSbGNPVVM1R1hCYWVaeDNPVkc1TzBWdFBvUnRac3dYaWQ3RGhzNTRjNFFuNzBCWFlV?oc=5",
+     "published": "2026-11-18T00:10:00+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "MBC",
+     "title": "오늘 한-중 정상회담 개최‥\"한반도 평화 등 의견 교환\"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11dDh0T25FOFBvaVFGYm9XUlg1ZVBWbE5hc3pYNUtHa2N5RUdGNnZIbjc2SEljUmRtWlZvTndnV2o2eWpZWm5DaVpnYXpkZXdNWmw1X3BmRVB6QmN1U2lERjYxQmVpOTZsVThmSmxXeHE3bWh6ODBuV9IBeEFVX3lxTE5sUXc1SEh1SUI5WnVocTNqWlJvUEpDQTIwYlUwbTRTZ1l5bmowdTdSYlRCVW5xQ3FRZndNZE0ydGFTSnZMcmRTYmRra3ZOU3ZUM3hCbEoycXAxS2x5MGFFSy1hTXJOSzhrZWR0UjRLRFctU01TZ3I5aQ?oc=5",
+     "published": "2026-11-18T00:08:50+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 5,
+   "slug": "05"
+  },
+  {
+   "headline": "[속보] 엔비디아 임시 CEO \"삼성전기와 반도체 기판 공급 신규 계약\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 9,
+   "outlets": [
+    "뉴스1",
+    "아시아경제",
+    "연합뉴스",
+    "조선일보",
+    "지디넷코리아",
+    "파이낸셜뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "지디넷코리아",
+     "title": "삼성전기, 엔비디아향 기판·MLCC 공급 확대…AI 동맹 강화",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wQUNkdm9WbUZIVVpWNkNBcEkxTWkzUVlMam1DSjl6QzVfTEhsbENkc3I4RW9pNUlXemk0TEhTX0Jab1V4bFZ3bjNKdUd4S2xtUXNlX2VB?oc=5",
+     "published": "2026-11-18T00:29:47+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "한국경제",
+     "title": "삼성전기, 엔비디아와 AI 동맹 강화에 8%대 '급등'",
+     "url": "https://www.hankyung.com/article/2026111836896",
+     "published": "2026-11-18T00:14:44+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "삼성전기·엔비디아, 차세대 GPU 기판 공급 확대…MLCC도 협력",
+     "url": "https://www.yna.co.kr/view/AKR20261118031800003",
+     "published": "2026-11-17T23:45:29+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "조선일보",
+     "title": "엔비디아, 삼성전기와 AI 기판 공급 계약…MLCC까지 협력 확대",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/18/GE4GMMJWG42WINRYGBSWIZDEGM/",
+     "published": "2026-11-17T23:29:04+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "파이낸셜뉴스",
+     "title": "삼성전기, 엔비디아와 AI 반도체 협력 확대…기판 이어 MLCC까지 공급 추진",
+     "url": "https://www.fnnews.com/news/202611180803386863",
+     "published": "2026-11-17T23:22:50+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "아시아경제",
+     "title": "[속보]엔비디아 \"삼성전기와 기판 신규 계약 체결\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PaGdXS2pqTi04eXVWeE1laVFud0FuYmk5ZkgzcjJnWTZRNHZZUjdwZkJiWUhrcTlhWWd3WXVJSTlPalp3dDFNSC1BTWt4QkVlWkR1R1Q2aVlHY1l5WHJYTg?oc=5",
+     "published": "2026-11-17T22:44:11+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 115,
+   "rank": 6,
+   "slug": "06"
+  },
+  {
+   "headline": "에이엘로봇, 코스닥 상장 첫날 20% 급락",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 8,
+   "outlets": [
+    "뉴스핌",
+    "머니투데이",
+    "연합뉴스",
+    "이데일리",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴스핌",
+     "title": "에이엘로봇 코스닥상장 기념식",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6TVRsNmttMng5aUxBOU1lRElKSXQyTUJxQUhVeVhyMTZnbVVRdDNJVXBlVi1UQWxqNGNWbVpCLU1fQy1Oc0tCU3JsaDFiYmRHbnFHNFFobl90ejhr?oc=5",
+     "published": "2026-11-18T01:04:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴스핌",
+     "title": "[특징주] 에이엘로봇, 코스닥 상장 첫날 10%대 '급락'",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16VFhhVVVSd2gtRklmaUxoWW1iUHZjVHRCcDVsd3dxS3FYSXFXT0NxaUlQX0tsNUlvMzhBdjZoZC1hU2R4VXN0eXFKcURsLXR5ejFLTVRfaHpOV01Q?oc=5",
+     "published": "2026-11-18T00:36:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "머니투데이",
+     "title": "에이엘로봇, 코스닥 상장 첫날 8%대 하락",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3N0x1OVR6V05jRkNSSG56YldZR212dEdpTjBhM0ZjcWJDcWpFQk12cnpGZklabmdqcWphWWNTMm5wVklKX1AxVXBqT3V6bnhuQjYxM181dm5lSWYweF8weUxXQkJqU1JiU1UtLWc4dTA5VVU1UEHSAXtBVV95cUxQVWxMdUd2UUJQa3ZxamhSNWNXUFlacnhnazNBOVlYLTJfTkUwUTdIc1U1NjBydmxWVHBqbVlaTS1CVnBaQUI2WXN4VG93YWNxOTN5UGxDdE5QT2FkbmZ5TWtfZWMyQ0NVQTZlcll4U2lOeDhfSVRwMW9Nblk?oc=5",
+     "published": "2026-11-18T00:27:25+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "이데일리",
+     "title": "에이엘로봇, 코스닥 상장 첫날 공모가 대비 20%대↓[특징주]",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02227126645647032",
+     "published": "2026-11-18T00:11:53+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "조선일보",
+     "title": "[특징주] 에이엘로봇, 코스닥 상장 첫날 공모가 대비 20% 급락",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/18/GI4TMODDHE2DMODEGAZWMYJQG4/",
+     "published": "2026-11-18T00:10:37+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "[특징주] 에이엘로봇, 코스닥 상장 첫날 장초반 18% 하락",
+     "url": "https://www.yna.co.kr/view/AKR20261118041300008",
+     "published": "2026-11-18T00:07:38+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 102,
+   "rank": 7,
+   "slug": "07"
+  },
+  {
+   "headline": "[속보]산업은행, 한국투자금융지주와 KDB생명 매각협상 결렬",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 7,
+   "outlets": [
+    "머니투데이",
+    "블로터",
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "블로터",
+     "title": "한국투자금융지주, KDB생명 인수 불발…산은과 협상 결렬",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=678968",
+     "published": "2026-11-18T10:28:49+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "머니투데이",
+     "title": "[속보]산업은행, 한국투자금융지주와 KDB생명 매각협상 결렬",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mcGZPeFBGX2padnpqVGZCOUc0TkdaVi05UW12bHM1ZUVFcXBZNjAyWTBWUmN1MDZJbDh4cDVZZDJ2VkNaSmI0ZGVJRVQ2R21CSi1QM1pKSFZrRkp2VkZBVlR0NFUwQkVsM1Nn0gFwQVVfeXFMTVlPRWhwb1J2c0NWYWZNVkxiR2hKQnR5NmFUbWM1d0tNZkVKclkyR1VsWU4xVGoyMWJkbGdoUVpVTm9zSTVGd3Boc0R6ZE9iYU5Gc19QZDhjVEp5MFRBUjRsSktUNS1PNTUyMTRNcEdhbA?oc=5",
+     "published": "2026-11-18T00:13:56+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "산은 \"한국금융지주와 KDB생명 매각 협상 종료…대안 모색\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118039400002",
+     "published": "2026-11-18T00:04:58+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "한국경제",
+     "title": "[속보] 산업은행, 한국투자금융지주와 KDB생명 매각협상 결렬",
+     "url": "https://www.hankyung.com/article/2026111836187",
+     "published": "2026-11-18T00:02:44+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "조선일보",
+     "title": "산은, 한투금융지주와 KDB생명 매각 협상 결렬",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/18/7WGBRPCZ75AK3CLFEO5UMUM7R4/",
+     "published": "2026-11-18T00:00:47+00:00"
+    },
+    {
+     "n": 6,
+     "outlet": "연합뉴스",
+     "title": "[속보] 산은 \"한투금융과 KDB생명 매각 협상 종료…대안 모색\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118035500002",
+     "published": "2026-11-17T23:49:14+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 8,
+   "slug": "08"
+  },
+  {
+   "headline": "김민석 \"AI부정행위 원스트라이크 원칙…올 수능부터 적용\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 7,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "머니투데이",
+    "연합뉴스",
+    "조선일보"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "김민석 \"AI부정행위 원스트라이크 원칙…올 수능부터 적용\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118058900001",
+     "published": "2026-11-18T00:58:23+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴스1",
+     "title": "[속보] 김민석 \"AI 부정행위, 원스트라이크 원칙…입학취소·형사처벌\"",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTVVUR05EU3dDUzBua0k3ZDhxRUt6aWhldS1OMEw4c3UxVkFNQVlxbGI0bmxTN2NVaFFRSmhsd2lTbDJ6Y2ZQTDNzVV85S0EwNjJyNkhkdzN6UQ?oc=5",
+     "published": "2026-11-18T00:44:36+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "조선일보",
+     "title": "[속보] 김민석 \"AI 부정 강력 대응 법 개정…이번 수능부터 적용\"",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2l6dndkdU1BWVVROXktWHphMEdpaDRRRDZzdlpPTXBjWERIb0x1UmlLSDFBMG9BRG9FelRWeHlEbVdFTXBZbE5FdmVwTHVLQjFlcnJVN2ZSclR5VlBKNXdHTUJsMFB3aHJHWkYxWE51c2tydmd2SFlOcXhuaUNlT2VKU0VGb0I4aGZBbGZ3aVM?oc=5",
+     "published": "2026-11-18T00:44:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "뉴시스",
+     "title": "[속보]김민석 \"AI 부정행위 강력 대응 위해 관련법 제정…올 수능부터 적용\"",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54RjF1eUw1Y2t5NE1qYU1VVlh3TnJ0cE5fcEZVZGZxanh2cXRmemVTN3JtcFlHQ3JtcGVjRE9PS0RaNVUzNDZJdS01dEUwRGdvNHVnYUloVHh4OVlwaDlUMFlR?oc=5",
+     "published": "2026-11-18T00:43:09+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "머니투데이",
+     "title": "[속보]김민석 대표 \"수능 부정행위 입학취소·형사처벌 법 근거 만들 것\"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rOUoyMC1adHZsWGI4a2kzSjV5M2ROUmpsbzRkbk9MTFZzQVJpUjQ4LWtzSmdfQno2UHNxeHE0T1pYenVaMmhSOEJpYW9aTkZIY1VSYzVPR0hDekZjcXgyVjl4UWtqeE9XWENhdGd5OU15bUpidHg3V9IBfkFVX3lxTE5wd3RGMWE0bmZUaWx1NzdWdE52dzZtVzd2blRhaUhXc0NScmlxVlAtZUNfR042WkdlNVlDLUwwYnAxN2QxQTNlS1NJcHVQa2ZjZHJ5ZElITTVSNzB1SnNVdU40YWVhRTlRWmh6d3NQLVA5STAwMlNXWEh1OHNoQQ?oc=5",
+     "published": "2026-11-18T00:40:20+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 9,
+   "slug": "09"
+  },
+  {
+   "headline": "엔비디아 실적 앞두고 3대 지수 ‘뚝’…S&P500 7월 이후 최저 [뉴욕증시]",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 7,
+   "outlets": [
+    "SBS",
+    "매일경제",
+    "연합뉴스",
+    "조선일보",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "매일경제",
+     "title": "엔비디아 실적 앞두고 3대 지수 ‘뚝’…S&P500 7월 이후 최저 [뉴욕증시]",
+     "url": "https://www.mk.co.kr/news/world/12212047",
+     "published": "2026-11-18T00:19:02+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261118011351072",
+     "published": "2026-11-17T22:28:40+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "한국경제",
+     "title": "엔비디아 실적 경계감에 일제히 하락…S&P500, 7월 이후 최저 [뉴욕증시 브리핑]",
+     "url": "https://www.hankyung.com/article/2026111833106",
+     "published": "2026-11-17T22:09:34+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "조선일보",
+     "title": "반도체주 매도세에 다우 849포인트 하락… S&P500, 7월 이후 최저",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/18/MQQ5EYB5LVESTO2R6IK5NOMZWE/",
+     "published": "2026-11-17T21:36:38+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "SBS",
+     "title": "[속보] 엔비디아 실적 앞두고 美증시 하락…나스닥 4월 이후 최저",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QVlk2QUF5czVOcTU0SURCSjJka1VIWnVMMjBGTE10VS1vMjhaN0tlc2cySHpHenhDLVdfeUlzTzRCRzQtT0VHOHNlN3lrWHlZSUpQMmdTNWJpZFVKQTZhOFlIcWQyem_SAVhBVV95cUxPOG5CZy1QSGtqYTQxWnhzOUZ1ckRsSzhIWDFTN2JmZUpiLWI0bTdHYnBKV0dJSEVXdEFJeTF6TzBrOGhramNBOUxKMWY2WHNDcnVOMVJtbFZ1?oc=5",
+     "published": "2026-11-17T21:04:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 10,
+   "slug": "10"
+  },
+  {
+   "headline": "코스닥, 14.87P 오른 664.93 출발(2.29%↑)",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "kr",
+   "importance": 7,
+   "outlets": [
+    "뉴스1",
+    "뉴시스",
+    "머니투데이",
+    "아시아경제",
+    "연합뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "[속보]코스닥, 14.87포인트(2.29%) 오른 664.93 개장",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSC13dTNLc1hYLTNyTHlnOVFQMWhnal9zOGVUUnBvUE03Q3NEc25pNklUN2JETzZSRVNDcGpWX2J0SGV6S2p1ZjdPU3JneEF6c3oyWTFOWno4YS1ReHVFYdIBeEFVX3lxTE96cUxxWEJfNEEydERKVEVCbl83R0U4bmllMnRhY0VzQ3ppU3l2Y3VjN0JtaHdQSS1HWHhSQ2IxOXR1MDNGYnRxNE05WTA4YzlPMElYMWpuSXhtVnQ5MHNKZHkxTWdkdF9rS1lwQXhCZ0EtSDM1WUozQw?oc=5",
+     "published": "2026-11-18T00:02:29+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "아시아경제",
+     "title": "코스닥, 14.87P 오른 664.93 출발(2.29%↑)",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVkJfNXNnajBzaXRfeFdjY3JibjA4dXBVUWVzT1JnWnk4YUVpYkJITi13dG5BcnBkY2o0TTQxWm9SY3lZTWY1WlR4ZVU0RktPYnBLVU9Qa1NleVpOMjlTSQ?oc=5",
+     "published": "2026-11-18T00:02:06+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "머니투데이",
+     "title": "[스팟]코스닥 14.87포인트(2.29%) 오른 664.93 출발",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZ0UzSkNMbjhNUXN1RUN1TTQ2WWJlMFQ2OE1BSjZ1X1k4SkhwbENELXpjYWVkMjR6MnliT1oyZDhNc19OYW9EU2xESUVVY3pUc3VTYXNnTkZ5bkZTVVJieUlfbWx0bFVFbzkwX01iT0ptZjJLN1HSAXtBVV95cUxNUkFGTUdfYTIwTEJGaU1zZldPQWd6aGpzZHczaHRXdHVlZGVlajJjOVdpMzVEV1BIcHJnb1VlaEs4bTR6bllLcTR1SzlqZHFmZ0FUbHlEWkVNcTJVRzR0dUtpb1FOMHBsbm5HZVlJNjdTTENLVkhMM3VoTE0?oc=5",
+     "published": "2026-11-18T00:01:37+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "연합뉴스",
+     "title": "[코스닥] 14.87p(2.29%) 오른 664.93(개장)",
+     "url": "https://www.yna.co.kr/view/AKR20261118039600008",
+     "published": "2026-11-18T00:01:34+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "뉴스1",
+     "title": "[코스닥] 14.87p(2.29%) 오른 664.93 출발",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VTzE4M181dmUxSE52N0RtelBLTGhmcXUwRFk1WlUzeDZPaWVETkhyTmgzOWZDSEo5REtlc3Q2TUVzdW1EaTFPRmgwbGVBdDk2dEpHUUkyUjdwYVRNUWR3?oc=5",
+     "published": "2026-11-18T00:01:30+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 89,
+   "rank": 11,
+   "slug": "11"
+  },
+  {
+   "headline": "[속보] 경찰, 수능일 오전6시부터 전국 ’경계강화’ 발령",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 6,
+   "outlets": [
+    "뉴시스",
+    "매일경제",
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "연합뉴스",
+     "title": "[속보] 경찰, 수능일 오전6시부터 전국 ’경계강화’ 발령",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UUW9JXzBHVmxSY2ZVdHNtT3F0ZTRMSjdaY1Q3aDRoTl8wUl9xM3VXcHptRlRVU2ZORkt6Q1ljbkZkcDd1Qks5TTNPQWhUSmFfOTBzQ0N4NDlqc2ZCUE5xcVJCYjdwZ1E?oc=5",
+     "published": "2026-11-18T00:45:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "매일경제",
+     "title": "[속보] 경찰, 수능일 오전 6시부터 전국 ‘경계강화’ 발령…부정행위 대비",
+     "url": "https://www.mk.co.kr/news/society/12212110",
+     "published": "2026-11-18T00:35:25+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "[속보] 경찰, 내일 오전 6시부터 경계 강화…수능 부정행위 대비",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSEtER1JmSGdKdDM5NmgyekxWeVBFUlFfcHktSDZMRGFmdV9ZSHM1UWlORHdVXzVnLWlYTDJfQklmWjFkUzJ6dG1ST3dtOVgwc3N6ZkNlWnVjajJ3TFROVUhEZ0VwRFU?oc=5",
+     "published": "2026-11-18T00:35:00+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "AI 커닝 우려에…경찰, 수능 당일 전국 '경계강화' 발령",
+     "url": "https://www.fnnews.com/news/202611180920086945",
+     "published": "2026-11-18T00:30:00+00:00"
+    },
+    {
+     "n": 5,
+     "outlet": "뉴시스",
+     "title": "[속보]경찰, 수능 당일 오전 6시부터 전국 '경계강화' 발령",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tYzdYTVF0RjdKaGtPcnZaaTlVYzY2MFQ0WS1BRzJCc0VGdVdsRW41ek11blNCNkh4VnVJWk4yQV9ydjc3dmE5bDZWeWxEOGtyMkoyS0ZQWTk3X3hOTUR6d0Vn?oc=5",
+     "published": "2026-11-18T00:30:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 76,
+   "rank": 12,
+   "slug": "12"
+  },
+  {
+   "headline": "비슷한 사업 합치고 AI·디지털금융 키우고…대기업 계열사 5곳 줄어",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "머니투데이",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "대기업 계열사 재편…AI·디지털 금융 키우고 유사 법인 정리",
+     "url": "https://biz.heraldcorp.com/article/10940647",
+     "published": "2026-11-18T10:00:00+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "비슷한 사업 합치고 AI·디지털금융 키우고…대기업 계열사 5곳 줄어",
+     "url": "https://www.newsis.com/view/NISX20261118_0003872424",
+     "published": "2026-11-18T01:00:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "머니투데이",
+     "title": "대기업 계열사, 3개월 간 5개 줄었다…AI·디지털 금융 '집중'",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xd3FPSngtUUlsS29KX0drTktfd3cyYUxvcXMyU3BIa3JzSG9GbjhvM0lUOWQ1WWRiVHVPT1VnUXFCTjJ5c2k2TDE0ZVplb0g0cE16bFdFdklGQzZabU5OTjNnX0g0UHMtdjRz0gFwQVVfeXFMTkpVVEJ4NVF5MVh6RzJPV0U2Y3I3VGxwUzFodkluOWFUTWRGb1hWcW05MWtPeDlrclB1ZnFYOXBzVXFqaklkTjBmZHVxcE9OSlMxcjlDX2x5TU0tSGR0c3VJMUJJLWZKRHR4ckRoc2dPbQ?oc=5",
+     "published": "2026-11-18T01:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 13,
+   "slug": "13"
+  },
+  {
+   "headline": "CJ올리브네트웍스, 와이즈메디 진천 제2공장에 AI 팩토리 구축",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "CJ올리브네트웍스, 와이즈메디 진천 제2공장에 AI 팩토리 구축",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/18/MJSGMMRSMY2DSYTCGNRWMNDBME/",
+     "published": "2026-11-18T01:02:02+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "CJ올리브네트웍스, 와이즈메디 AI 팩토리 구축 '제약AX 선도'",
+     "url": "https://www.fnnews.com/news/202611180908590571",
+     "published": "2026-11-18T00:14:55+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "[AI픽] CJ올리브네트웍스, 수액제 공장에 AI 검사·관리체계 구축",
+     "url": "https://www.yna.co.kr/view/AKR20261118032000017",
+     "published": "2026-11-17T23:37:35+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 14,
+   "slug": "14"
+  },
+  {
+   "headline": "“앤트로픽 공모가 78달러 웃돌 듯”… ‘AI 투자 회의론’ 속 흥행 기대감",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "조선일보",
+     "title": "“앤트로픽 공모가 78달러 웃돌 듯”… ‘AI 투자 회의론’ 속 흥행 기대감",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/18/GRRTAM3EMY4WMMBWGEZGKZLBGA/",
+     "published": "2026-11-18T00:47:57+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "\"앤트로픽 공모가 78달러 웃돌 듯\"…AI 투자 열기 되살릴까",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGQ3RqOTNWdkJvS0RiVjBhNVV0VE94bVNUNXEzNFNwNXZPSWZTMk1nUVk2N3N4NWRhbk5YUC1IQWo1eEJwWURxS21QcEF5V2h4dnMzWVF1NTE0bzloMVFFbEh1YUdhd28?oc=5",
+     "published": "2026-11-18T00:09:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "앤트로픽 공모가 희망범위 상단 웃돌듯…흥행 기대감",
+     "url": "https://www.yna.co.kr/view/AKR20261118005800072",
+     "published": "2026-11-17T17:22:24+00:00"
+    },
+    {
+     "n": 4,
+     "outlet": "파이낸셜뉴스",
+     "title": "앤트로픽 공모가 78달러 넘나…AI 거품론 속 흥행 조짐",
+     "url": "https://www.fnnews.com/news/202611172316592845",
+     "published": "2026-11-17T15:18:31+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 15,
+   "slug": "15"
+  },
+  {
+   "headline": "한국콜마, 화학연구원과 AI 기반 화장품 피부 안전성 예측기술 개발",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "조선일보",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "파이낸셜뉴스",
+     "title": "'AI로 화장품 피부 안전성 예측' 화학연-한국콜마 공동연구",
+     "url": "https://www.fnnews.com/news/202611180932542207",
+     "published": "2026-11-18T00:41:23+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "조선일보",
+     "title": "한국콜마, 화학연구원과 AI 기반 화장품 피부 안전성 예측기술 개발",
+     "url": "https://www.chosun.com/economy/market_trend/2026/11/18/HEZTMNJSME2GGNJWGEZTOZRQME/",
+     "published": "2026-11-18T00:21:27+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "화장품 만들기 전 피부 안전성 확인…한국콜마, AI기술 개발",
+     "url": "https://www.yna.co.kr/view/AKR20261118038800030",
+     "published": "2026-11-18T00:06:03+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 16,
+   "slug": "16"
+  },
+  {
+   "headline": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "이데일리"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "이데일리",
+     "title": "[마켓무버]뉴욕증시, 엔비디아 실적 경계에 일제히 하락…장 마감 후 '어닝 서프라이즈'",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02007366645647032",
+     "published": "2026-11-17T23:37:43+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "뉴시스",
+     "title": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓",
+     "url": "https://www.newsis.com/view/NISX20261118_0003872330",
+     "published": "2026-11-17T21:35:24+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "뉴욕증시, 엔비디아 실적 발표 대기하며 하락 출발",
+     "url": "https://www.yna.co.kr/view/AKR20261117178600009",
+     "published": "2026-11-17T14:40:09+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 17,
+   "slug": "17"
+  },
+  {
+   "headline": "美연준 쿡 이사, 백악관 청문회 불참 시사…\"해임 결론 정해놨다\"",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "money",
+   "importance": 5,
+   "outlets": [
+    "뉴시스",
+    "연합뉴스",
+    "파이낸셜뉴스"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "뉴시스",
+     "title": "美연준 쿡 이사, 백악관 청문회 불참 시사…\"해임 결론 정해놨다\"",
+     "url": "https://www.newsis.com/view/NISX20261118_0003872372",
+     "published": "2026-11-17T22:53:59+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "연합뉴스",
+     "title": "美연준 쿡 이사, 백악관 청문회 불참의사…\"불공정 절차 거부\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118006900072",
+     "published": "2026-11-17T18:35:47+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "파이낸셜뉴스",
+     "title": "리사 쿡, 백악관 청문회 불참 시사…\"연준 독립성 위협\"",
+     "url": "https://www.fnnews.com/news/202611172243143429",
+     "published": "2026-11-17T14:15:17+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 18,
+   "slug": "18"
+  },
+  {
+   "headline": "젠슨황 복귀할까…엔비디아는 별도 헤드헌터 통해 차기 물색",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "연합뉴스",
+    "파이낸셜뉴스",
+    "한국경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "한국경제",
+     "title": "젠슨 황 복귀 의사 밝혔지만…엔비디아, 헤드헌터 통해 후임 물색",
+     "url": "https://www.hankyung.com/article/2026111833637",
+     "published": "2026-11-17T22:40:31+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "파이낸셜뉴스",
+     "title": "젠슨황 복귀할까…엔비디아는 별도 헤드헌터 통해 차기 물색",
+     "url": "https://www.fnnews.com/news/202611180624434662",
+     "published": "2026-11-17T21:27:46+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "연합뉴스",
+     "title": "젠슨황 복귀할까…엔비디아는 별도 헤드헌터 통해 차기 물색",
+     "url": "https://www.yna.co.kr/view/AKR20261118007200075",
+     "published": "2026-11-17T19:01:17+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 19,
+   "slug": "19"
+  },
+  {
+   "headline": "KIEP, 내년 세계 성장률 3.2%로 상향…AI 투자 지속·비용 부담 여전",
+   "dek": "",
+   "key_points": [],
+   "body": [],
+   "tags": [],
+   "section": "ai",
+   "importance": 5,
+   "outlets": [
+    "경향신문",
+    "뉴시스",
+    "헤럴드경제"
+   ],
+   "official": false,
+   "draft": true,
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "헤럴드경제",
+     "title": "KIEP “내년 세계경제 3.2% 성장”…AI 투자 조정은 위험요인",
+     "url": "https://biz.heraldcorp.com/article/10940013",
+     "published": "2026-11-17T15:14:28+00:00"
+    },
+    {
+     "n": 2,
+     "outlet": "경향신문",
+     "title": "KIEP, 내년 세계 성장률 3.2%로 상향···AI 투자 둔화·미중 갈등 변수",
+     "url": "https://www.khan.co.kr/article/202611171555001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+     "published": "2026-11-17T06:55:00+00:00"
+    },
+    {
+     "n": 3,
+     "outlet": "뉴시스",
+     "title": "KIEP, 내년 세계 성장률 3.2%로 상향…AI 투자 지속·비용 부담 여전",
+     "url": "https://www.newsis.com/view/NISX20261117_0003871333",
+     "published": "2026-11-17T06:00:00+00:00"
+    }
+   ],
+   "factcheck": null,
+   "score": 63,
+   "rank": 20,
+   "slug": "20"
+  }
+ ],
+ "market": {
+  "fetched_at": "2026-11-18T10:30:20.994472+09:00",
+  "groups": {
+   "지수": [
+    {
+     "ticker": "^KS11",
+     "name": "코스피",
+     "value": 5062.72021484375,
+     "change": -37.77978515625,
+     "pct": -0.7407074827222804,
+     "date": "2026-11-18"
+    },
+    {
+     "ticker": "^KQ11",
+     "name": "코스닥",
+     "value": 665.760009765625,
+     "change": 0.1099853515625,
+     "pct": 0.016522999703827423,
+     "date": "2026-11-18"
+    },
+    {
+     "ticker": "^GSPC",
+     "name": "S&P 500",
+     "value": 7340.52978515625,
+     "change": -76.06005859375,
+     "pct": -1.0255395026037006,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "^IXIC",
+     "name": "나스닥",
+     "value": 24328.3828125,
+     "change": -181.376953125,
+     "pct": -0.7400193019410195,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "^DJI",
+     "name": "다우",
+     "value": 50759.421875,
+     "change": -848.75,
+     "pct": -1.6446038857097167,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "^SOX",
+     "name": "필라델피아 반도체",
+     "value": 9642.8779296875,
+     "change": 32.2275390625,
+     "pct": 0.33533150986262417,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "^N225",
+     "name": "닛케이 225",
+     "value": 59132.9296875,
+     "change": -529.08984375,
+     "pct": -0.8868118241838419,
+     "date": "2026-11-18"
+    },
+    {
+     "ticker": "000001.SS",
+     "name": "상하이종합",
+     "value": 3602.570068359375,
+     "change": -31.782958984375,
+     "pct": -0.8745149066491265,
+     "date": "2026-11-16"
+    }
+   ],
+   "환율·금리": [
+    {
+     "ticker": "KRW=X",
+     "name": "원/달러",
+     "value": 1330.47998046875,
+     "change": -5.1900634765625,
+     "pct": -0.388573772399059,
+     "date": "2026-11-18"
+    },
+    {
+     "ticker": "JPYKRW=X",
+     "name": "원/100엔",
+     "value": 831.4000129699707,
+     "change": -5.7384490966796875,
+     "pct": -0.6854838663741591,
+     "date": "2026-11-18"
+    },
+    {
+     "ticker": "EURKRW=X",
+     "name": "원/유로",
+     "value": 1461.199951171875,
+     "change": -6.25,
+     "pct": -0.42590890374208934,
+     "date": "2026-11-18"
+    },
+    {
+     "ticker": "DX-Y.NYB",
+     "name": "달러인덱스",
+     "value": 103.65899658203125,
+     "change": 0.1089935302734375,
+     "pct": 0.10525690686744582,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "^TNX",
+     "name": "미 국채 10년(%)",
+     "value": 5.102999687194824,
+     "change": -0.018000125885009766,
+     "pct": -0.35149631989899177,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "^VIX",
+     "name": "VIX 변동성",
+     "value": 25.459999084472656,
+     "change": 2.549999237060547,
+     "pct": 11.130507437993685,
+     "date": "2026-11-17"
+    }
+   ],
+   "원자재": [
+    {
+     "ticker": "CL=F",
+     "name": "WTI 원유",
+     "value": 85.61000061035156,
+     "change": -0.1100006103515625,
+     "pct": -0.12832548855002957,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "BZ=F",
+     "name": "브렌트유",
+     "value": 93.0999984741211,
+     "change": 0.6599960327148438,
+     "pct": 0.7139723228947181,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "GC=F",
+     "name": "금",
+     "value": 3823.5,
+     "change": -29.5,
+     "pct": -0.7656371658448013,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "SI=F",
+     "name": "은",
+     "value": 46.689998626708984,
+     "change": -0.095001220703125,
+     "pct": -0.20305914505283074,
+     "date": "2026-11-17"
+    },
+    {
+     "ticker": "HG=F",
+     "name": "구리",
+     "value": 6.002999782562256,
+     "change": 0.005499839782714844,
+     "pct": 0.09170220650582817,
+     "date": "2026-11-17"
+    }
+   ]
+  },
+  "crypto": [
+   {
+    "name": "비트코인",
+    "id": "bitcoin",
+    "usd": 64545,
+    "krw": 85904393,
+    "pct": -0.009830390096517035
+   },
+   {
+    "name": "이더리움",
+    "id": "ethereum",
+    "usd": 1810.7,
+    "krw": 2409906,
+    "pct": -0.17123379556886312
+   },
+   {
+    "name": "솔라나",
+    "id": "solana",
+    "usd": 74.46,
+    "krw": 99100,
+    "pct": 4.046874668024559
+   },
+   {
+    "name": "리플",
+    "id": "ripple",
+    "usd": 0.974513,
+    "krw": 1297.0,
+    "pct": 2.206758738100963
+   }
+  ],
+  "kimchi_premium": 2.1137142470373016,
+  "flows": null
+ },
+ "stats": {
+  "collected": 2067,
+  "outlets": 65,
+  "verified_stories": 85,
+  "dropped_by_factcheck": 0,
+  "seconds": 10
+ }
+}
