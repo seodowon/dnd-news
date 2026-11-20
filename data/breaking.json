@@ -1,5 +1,161 @@
 [
  {
+  "id": "bcc134bcd7",
+  "time": "2026-11-20T01:02:00+00:00",
+  "title": "[속보] 中, 기준금리 1년물 LPR 3.0% 5년물 3.5%…18개월 연속 동결",
+  "ko": "[속보] 中, 기준금리 1년물 LPR 3.0% 5년물 3.5%…18개월 연속 동결",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876355",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5e34cdece8",
+  "time": "2026-11-20T01:01:49+00:00",
+  "title": "인텍플러스, 146억 규모 반도체·기판 검사 장비 공급계약",
+  "ko": "인텍플러스, 146억 규모 반도체·기판 검사 장비 공급계약",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876349",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fbeba89be1",
+  "time": "2026-11-20T01:01:37+00:00",
+  "title": "프로텍, 삼성전자와 234억 규모 반도체 제조장비 공급계약",
+  "ko": "프로텍, 삼성전자와 234억 규모 반도체 제조장비 공급계약",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876303",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4979ae90c5",
+  "time": "2026-11-20T01:00:00+00:00",
+  "title": "금감원, 가상자산업계에 \"AI 해킹, 외부접점 원점 점검해야\"",
+  "ko": "금감원, 가상자산업계에 \"AI 해킹, 외부접점 원점 점검해야\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876253",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c9fceb7290",
+  "time": "2026-11-20T00:58:21+00:00",
+  "title": "\"영끌해서 집 샀는데 금리까지 올라\"…남유정, 대출 이자에 한숨",
+  "ko": "\"영끌해서 집 샀는데 금리까지 올라\"…남유정, 대출 이자에 한숨",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611200941213167",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "34ce838730",
+  "time": "2026-11-20T00:55:59+00:00",
+  "title": "\"역대급 실적에 보상했다\"…삼성전자, 사장 승진 3명 전원 '반도체부문'",
+  "ko": "\"역대급 실적에 보상했다\"…삼성전자, 사장 승진 3명 전원 '반도체부문'",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876134",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2200966f22",
+  "time": "2026-11-20T00:55:08+00:00",
+  "title": "삼성전자 '갤럭시' 새 수장에 최원준…노태문 사장은 로봇 신사업 집중",
+  "ko": "삼성전자 '갤럭시' 새 수장에 최원준…노태문 사장은 로봇 신사업 집중",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876328",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d86b3620a6",
+  "time": "2026-11-20T00:55:03+00:00",
+  "title": "[속보] 코스피, 장중 5% 가까이 하락…4900선 이탈",
+  "ko": "[속보] 코스피, 장중 5% 가까이 하락…4900선 이탈",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611200951301522",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "5beaabfb93",
+  "time": "2026-11-20T00:53:22+00:00",
+  "title": "[속보]코스피, 4900선 아래로…4%대↓",
+  "ko": "[속보]코스피, 4900선 아래로…4%대↓",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSWxqSU45OGNOQzEzLXVUbm9fUG9uRFg4VDJvcGU0SWlKUTg5Z0gwOHFMZ1dUbk9PSHlqd2NXSDRZUVVhNUItd0I1a05ncUhPTmdhTUY1SVFsLTI1U2FCdw?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6e1212030b",
+  "time": "2026-11-20T00:53:02+00:00",
+  "title": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\"",
+  "ko": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261120049100009",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5578fa5497",
+  "time": "2026-11-20T00:51:56+00:00",
+  "title": "앤트로픽 상장에도 美 기술주 급락..삼성전자 5%·SK하이닉스 6%대 '휘청'[종목NOW]",
+  "ko": "앤트로픽 상장에도 美 기술주 급락..삼성전자 5%·SK하이닉스 6%대 '휘청'[종목NOW]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611200949074096",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "f0f16a57c9",
   "time": "2026-11-20T00:50:09+00:00",
   "title": "[속보]코스피, 장중 낙폭 5% 가까이 확대…4900선도 내줘",
@@ -11,7 +167,9 @@
   "people": [],
   "flash": true,
   "official": false,
-  "also": []
+  "also": [
+   "파이낸셜뉴스"
+  ]
  },
  {
   "id": "73c782fcee",
@@ -246,6 +404,20 @@
   "also": []
  },
  {
+  "id": "95dde4af06",
+  "time": "2026-11-20T00:29:01+00:00",
+  "title": "크라우드웍스, 불성실공시법인 지정 예고에 23.34% 급락",
+  "ko": "크라우드웍스, 불성실공시법인 지정 예고에 23.34% 급락",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026112092446",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "d3e0cc0e35",
   "time": "2026-11-20T00:27:23+00:00",
   "title": "\"SK텔레콤, 앤스로픽 지분가치 5조원…주가엔 44%만 반영\"",
@@ -283,6 +455,22 @@
   "url": "https://www.yna.co.kr/view/AKR20261120041900008",
   "section": "ai",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4df4571c60",
+  "time": "2026-11-20T00:23:45+00:00",
+  "title": "National cyber director to leave Trump administration",
+  "ko": "National cyber director to leave Trump administration",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV25hLW5oeDRERmYweVpzX2JmaFU1eFJidXI3ZjVBbGFwUnpBcWdCdFVCdjU3YzBYS2VYX09GNjhYZy01ZUZwdkNfUmVmekhrYzBZODRXTHhlcGptcmdhUllXZHNEaWhSOUJHVHVlNTVMOHdkaWxqZ2t0WDQxb2tqZFlPNmcyaktSNDZSak5hWnQ2VFNrSGRaWUcySmdtZ2FoMXRSZm5TUHQ1dWFBTWc?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -565,6 +753,22 @@
    "아시아경제",
    "연합뉴스"
   ]
+ },
+ {
+  "id": "e663aa1783",
+  "time": "2026-11-20T00:14:03+00:00",
+  "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+  "ko": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GdFotQkIzYXF6QzFVMTJ6MUFZaEFNa3BaSlVHRWNoQXEyaTR6QXRFM3pwWW56RUVZRlMxQXJSOHR5X2hsVVVWU0dScWhmeGJPc3RrNnpNTmFpbGZqUnZ0Y3R1Qnd4ZXFEcElodjJJaDRFVFk?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
  },
  {
   "id": "4614bbc40c",
@@ -950,6 +1154,20 @@
    "연합뉴스",
    "한국경제"
   ]
+ },
+ {
+  "id": "de7f24c799",
+  "time": "2026-11-20T00:03:51+00:00",
+  "title": "[속보]삼성전자, 전영현·노태문 체제 유지…메모리사업부장 황상준·MX사업부장 최원준",
+  "ko": "[속보]삼성전자, 전영현·노태문 체제 유지…메모리사업부장 황상준·MX사업부장 최원준",
+  "lang": "ko",
+  "outlet": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kYU5vZWtDX19KdUl2d3dkUWk1Wkh3ZnpuZG5XWmp2V3IyUG9SZTJvOTNQXzBqMmpUTzlQeExNMlB1NkMyMHR6bktRRmdZVVNEem1lRFJIcVQzRWZCNmwtanNjWDRUU3hBa2M40gFwQVVfeXFMUFFPX2hWNnFlNzdvVVlTYlUydk9mNGpBODRYZFJ2ajMzUXdUUl9yRFNjZW9TTG5yNEpteVBmOUhZMHYyNFJ2cGd6ZWVRdTVQV1JnUzQ3cWVIQkhwaUVwTVB6bE5xUFI4RzMtbnYtV2VIVA?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
  },
  {
   "id": "1a45aca8ce",
@@ -1482,6 +1700,22 @@
   "also": []
  },
  {
+  "id": "b8fba5348a",
+  "time": "2026-11-19T23:15:00+00:00",
+  "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+  "ko": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "25f5cf0fb1",
   "time": "2026-11-19T23:14:22+00:00",
   "title": "앤트로픽 화려하게 데뷔했지만…스페이스X 따라갈까, 랠리 시작할까",
@@ -1637,6 +1871,22 @@
   "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
   "section": "global",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2536bc1a9a",
+  "time": "2026-11-19T22:48:52+00:00",
+  "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+  "ko": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -11320,9 +11570,7 @@
   "people": [],
   "flash": false,
   "official": false,
-  "also": [
-   "연합뉴스"
-  ]
+  "also": []
  },
  {
   "id": "5d03b00fe8",
@@ -11618,332 +11866,6 @@
   "people": [
    "트럼프"
   ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1d3e8d1808",
-  "time": "2026-11-18T01:03:27+00:00",
-  "title": "[특징주] 보안주·통신장비주, 美 잇단 시스템 장애에 강세",
-  "ko": "[특징주] 보안주·통신장비주, 美 잇단 시스템 장애에 강세",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118062400008",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b4b440034f",
-  "time": "2026-11-18T01:02:57+00:00",
-  "title": "두산·두산우, 엔비디아 호실적에 13%대 급등",
-  "ko": "두산·두산우, 엔비디아 호실적에 13%대 급등",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261118_0003872747",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "87acd08989",
-  "time": "2026-11-18T01:02:04+00:00",
-  "title": "\"반도체 습도제어 통했다\" 저스템, 'JFS' 세계일류상품 등극",
-  "ko": "\"반도체 습도제어 통했다\" 저스템, 'JFS' 세계일류상품 등극",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611180959314422",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3e8580b790",
-  "time": "2026-11-18T01:01:39+00:00",
-  "title": "Man convicted in Iran-backed plot to murder Trump gets 27.5 years in prison",
-  "ko": "Man convicted in Iran-backed plot to murder Trump gets 27.5 years in prison",
-  "lang": "en",
-  "outlet": "CBS News",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjJ1M0lSbVJxODBxcUE1emJmYnpNcllxSnhjYU5LZ3hRLXcxR082V3FURGI3eTBjZTlMZUgyZjkxRzZBWGZWRUdQN08yaWRkczhfLU9TNmdoNnJEa1R0cjdVWmRxT0U3SUMtdk0yWG1sQmpHMmhPNGJHLWVURGo4eU5FekI5dW9ObTlZRnVpRTlNZmtHc1JlVGVR?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0db53cbb32",
-  "time": "2026-11-18T01:00:08+00:00",
-  "title": "광주권 재개발·재건축 '청신호'...광주특별시, 반도체 클러스터 조성 맞춰 행정 지원 강화",
-  "ko": "광주권 재개발·재건축 '청신호'...광주특별시, 반도체 클러스터 조성 맞춰 행정 지원 강화",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611180947130800",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f711ab392d",
-  "time": "2026-11-18T01:00:06+00:00",
-  "title": "정부, '의료 AI' 건강보험 수가 개편…\"합리적 보상체계 마련\"",
-  "ko": "정부, '의료 AI' 건강보험 수가 개편…\"합리적 보상체계 마련\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261117161500530",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "49985a3d76",
-  "time": "2026-11-18T01:00:02+00:00",
-  "title": "수출 중고차 원산지 증명 간소화…한-UAE FTA 특혜관세 길 열려",
-  "ko": "수출 중고차 원산지 증명 간소화…한-UAE FTA 특혜관세 길 열려",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118045000002",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "d6b9de0bda",
-  "time": "2026-11-18T01:00:00+00:00",
-  "title": "비슷한 사업 합치고 AI·디지털금융 키우고…대기업 계열사 5곳 줄어",
-  "ko": "비슷한 사업 합치고 AI·디지털금융 키우고…대기업 계열사 5곳 줄어",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261118_0003872424",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dd6c1ee6d8",
-  "time": "2026-11-18T01:00:00+00:00",
-  "title": "의료와 인공지능 연결…투자지원으로 '지·필·공' AX 가속화",
-  "ko": "의료와 인공지능 연결…투자지원으로 '지·필·공' AX 가속화",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261118_0003872658",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4af6b0ebfe",
-  "time": "2026-11-18T00:59:45+00:00",
-  "title": "[AI픽] 어린이 환자와 놀고 검사 안내까지…KT, 병원 AI 로봇 실증",
-  "ko": "[AI픽] 어린이 환자와 놀고 검사 안내까지…KT, 병원 AI 로봇 실증",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118056600017",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "bf54f4ea25",
-  "time": "2026-11-18T00:59:37+00:00",
-  "title": "中, 美 AI 반도체 원격 접근 제한에 반발…\"반격 경고\"",
-  "ko": "中, 美 AI 반도체 원격 접근 제한에 반발…\"반격 경고\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261118_0003872559",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0a3ed19136",
-  "time": "2026-11-18T00:59:07+00:00",
-  "title": "장동혁 \"'AI 부작용·산업 발전' 동시에 고민해야 할 시점\"",
-  "ko": "장동혁 \"'AI 부작용·산업 발전' 동시에 고민해야 할 시점\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261118_0003872740",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6a222b9345",
-  "time": "2026-11-18T00:58:48+00:00",
-  "title": "\"수능 AI 부정행위 예방 총력\" 경남, 무선인터넷 등 차단",
-  "ko": "\"수능 AI 부정행위 예방 총력\" 경남, 무선인터넷 등 차단",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261118_0003872718",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5d845b96a1",
-  "time": "2026-11-18T00:58:46+00:00",
-  "title": "여수시의회, AI 데이터센터 유치 지원 조례 제정",
-  "ko": "여수시의회, AI 데이터센터 유치 지원 조례 제정",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118057200054",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f4bccc12a0",
-  "time": "2026-11-18T00:58:28+00:00",
-  "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
-  "ko": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12212141",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3d152f43df",
-  "time": "2026-11-18T00:58:23+00:00",
-  "title": "김민석 \"AI부정행위 원스트라이크 원칙…올 수능부터 적용\"",
-  "ko": "김민석 \"AI부정행위 원스트라이크 원칙…올 수능부터 적용\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118058900001",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "98149b6926",
-  "time": "2026-11-18T00:58:08+00:00",
-  "title": "\"앤트로픽 매출 2026년 71조원, 2030년 676조원 예상\"",
-  "ko": "\"앤트로픽 매출 2026년 71조원, 2030년 676조원 예상\"",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611180948485393",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "70627c4ae4",
-  "time": "2026-11-18T00:57:49+00:00",
-  "title": "강동구, CCTV 330대에 AI 탑재해 안전관리…\"사각지대 살핀다\"",
-  "ko": "강동구, CCTV 330대에 AI 탑재해 안전관리…\"사각지대 살핀다\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118060900004",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5746620a58",
-  "time": "2026-11-18T00:57:00+00:00",
-  "title": "[AI프리즘] 회의실 파고든 AI 통역…한국 5배·일본 7배 급증",
-  "ko": "[AI프리즘] 회의실 파고든 AI 통역…한국 5배·일본 7배 급증",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118055400017",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "66f0433937",
-  "time": "2026-11-18T00:56:56+00:00",
-  "title": "韓총리 \"당정청 AI부정행위 총력 대응…수험생 걱정 덜 것\"",
-  "ko": "韓총리 \"당정청 AI부정행위 총력 대응…수험생 걱정 덜 것\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118058700001",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "108a74511d",
-  "time": "2026-11-18T00:55:42+00:00",
-  "title": "베이조스 아마존 창업자 \"엔비디아 차기 CEO, 내부에서 구해야\"",
-  "ko": "베이조스 아마존 창업자 \"엔비디아 차기 CEO, 내부에서 구해야\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118045200091",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "06bdd34476",
-  "time": "2026-11-18T00:54:55+00:00",
-  "title": "SK바이오팜, 세노바메이트 성장에 신약 도입·AI 접목...중장기 전략 제시",
-  "ko": "SK바이오팜, 세노바메이트 성장에 신약 도입·AI 접목...중장기 전략 제시",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611180918233010",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f883e3f928",
-  "time": "2026-11-18T00:54:01+00:00",
-  "title": "美 인프라 연쇄 먹통에 'AI 사이버 재앙설' 확산",
-  "ko": "美 인프라 연쇄 먹통에 'AI 사이버 재앙설' 확산",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261118057300009",
-  "section": "ai",
-  "people": [],
   "flash": false,
   "official": false,
   "also": []

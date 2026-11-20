@@ -1,5 +1,161 @@
 [
  {
+  "id": "bcc134bcd7",
+  "time": "2026-11-20T01:02:00+00:00",
+  "title": "[속보] 中, 기준금리 1년물 LPR 3.0% 5년물 3.5%…18개월 연속 동결",
+  "ko": "[속보] 中, 기준금리 1년물 LPR 3.0% 5년물 3.5%…18개월 연속 동결",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876355",
+  "section": "money",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5e34cdece8",
+  "time": "2026-11-20T01:01:49+00:00",
+  "title": "인텍플러스, 146억 규모 반도체·기판 검사 장비 공급계약",
+  "ko": "인텍플러스, 146억 규모 반도체·기판 검사 장비 공급계약",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876349",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "fbeba89be1",
+  "time": "2026-11-20T01:01:37+00:00",
+  "title": "프로텍, 삼성전자와 234억 규모 반도체 제조장비 공급계약",
+  "ko": "프로텍, 삼성전자와 234억 규모 반도체 제조장비 공급계약",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876303",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4979ae90c5",
+  "time": "2026-11-20T01:00:00+00:00",
+  "title": "금감원, 가상자산업계에 \"AI 해킹, 외부접점 원점 점검해야\"",
+  "ko": "금감원, 가상자산업계에 \"AI 해킹, 외부접점 원점 점검해야\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876253",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "c9fceb7290",
+  "time": "2026-11-20T00:58:21+00:00",
+  "title": "\"영끌해서 집 샀는데 금리까지 올라\"…남유정, 대출 이자에 한숨",
+  "ko": "\"영끌해서 집 샀는데 금리까지 올라\"…남유정, 대출 이자에 한숨",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611200941213167",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "34ce838730",
+  "time": "2026-11-20T00:55:59+00:00",
+  "title": "\"역대급 실적에 보상했다\"…삼성전자, 사장 승진 3명 전원 '반도체부문'",
+  "ko": "\"역대급 실적에 보상했다\"…삼성전자, 사장 승진 3명 전원 '반도체부문'",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876134",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2200966f22",
+  "time": "2026-11-20T00:55:08+00:00",
+  "title": "삼성전자 '갤럭시' 새 수장에 최원준…노태문 사장은 로봇 신사업 집중",
+  "ko": "삼성전자 '갤럭시' 새 수장에 최원준…노태문 사장은 로봇 신사업 집중",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261120_0003876328",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d86b3620a6",
+  "time": "2026-11-20T00:55:03+00:00",
+  "title": "[속보] 코스피, 장중 5% 가까이 하락…4900선 이탈",
+  "ko": "[속보] 코스피, 장중 5% 가까이 하락…4900선 이탈",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611200951301522",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴시스"
+  ]
+ },
+ {
+  "id": "5beaabfb93",
+  "time": "2026-11-20T00:53:22+00:00",
+  "title": "[속보]코스피, 4900선 아래로…4%대↓",
+  "ko": "[속보]코스피, 4900선 아래로…4%대↓",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSWxqSU45OGNOQzEzLXVUbm9fUG9uRFg4VDJvcGU0SWlKUTg5Z0gwOHFMZ1dUbk9PSHlqd2NXSDRZUVVhNUItd0I1a05ncUhPTmdhTUY1SVFsLTI1U2FCdw?oc=5",
+  "section": "kr",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6e1212030b",
+  "time": "2026-11-20T00:53:02+00:00",
+  "title": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\"",
+  "ko": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261120049100009",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "5578fa5497",
+  "time": "2026-11-20T00:51:56+00:00",
+  "title": "앤트로픽 상장에도 美 기술주 급락..삼성전자 5%·SK하이닉스 6%대 '휘청'[종목NOW]",
+  "ko": "앤트로픽 상장에도 美 기술주 급락..삼성전자 5%·SK하이닉스 6%대 '휘청'[종목NOW]",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611200949074096",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "f0f16a57c9",
   "time": "2026-11-20T00:50:09+00:00",
   "title": "[속보]코스피, 장중 낙폭 5% 가까이 확대…4900선도 내줘",
@@ -11,7 +167,9 @@
   "people": [],
   "flash": true,
   "official": false,
-  "also": []
+  "also": [
+   "파이낸셜뉴스"
+  ]
  },
  {
   "id": "73c782fcee",
@@ -246,6 +404,20 @@
   "also": []
  },
  {
+  "id": "95dde4af06",
+  "time": "2026-11-20T00:29:01+00:00",
+  "title": "크라우드웍스, 불성실공시법인 지정 예고에 23.34% 급락",
+  "ko": "크라우드웍스, 불성실공시법인 지정 예고에 23.34% 급락",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://www.hankyung.com/article/2026112092446",
+  "section": "kr",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "d3e0cc0e35",
   "time": "2026-11-20T00:27:23+00:00",
   "title": "\"SK텔레콤, 앤스로픽 지분가치 5조원…주가엔 44%만 반영\"",
@@ -283,6 +455,22 @@
   "url": "https://www.yna.co.kr/view/AKR20261120041900008",
   "section": "ai",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4df4571c60",
+  "time": "2026-11-20T00:23:45+00:00",
+  "title": "National cyber director to leave Trump administration",
+  "ko": "National cyber director to leave Trump administration",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV25hLW5oeDRERmYweVpzX2JmaFU1eFJidXI3ZjVBbGFwUnpBcWdCdFVCdjU3YzBYS2VYX09GNjhYZy01ZUZwdkNfUmVmekhrYzBZODRXTHhlcGptcmdhUllXZHNEaWhSOUJHVHVlNTVMOHdkaWxqZ2t0WDQxb2tqZFlPNmcyaktSNDZSak5hWnQ2VFNrSGRaWUcySmdtZ2FoMXRSZm5TUHQ1dWFBTWc?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -565,6 +753,22 @@
    "아시아경제",
    "연합뉴스"
   ]
+ },
+ {
+  "id": "e663aa1783",
+  "time": "2026-11-20T00:14:03+00:00",
+  "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+  "ko": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GdFotQkIzYXF6QzFVMTJ6MUFZaEFNa3BaSlVHRWNoQXEyaTR6QXRFM3pwWW56RUVZRlMxQXJSOHR5X2hsVVVWU0dScWhmeGJPc3RrNnpNTmFpbGZqUnZ0Y3R1Qnd4ZXFEcElodjJJaDRFVFk?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
  },
  {
   "id": "4614bbc40c",
@@ -950,6 +1154,20 @@
    "연합뉴스",
    "한국경제"
   ]
+ },
+ {
+  "id": "de7f24c799",
+  "time": "2026-11-20T00:03:51+00:00",
+  "title": "[속보]삼성전자, 전영현·노태문 체제 유지…메모리사업부장 황상준·MX사업부장 최원준",
+  "ko": "[속보]삼성전자, 전영현·노태문 체제 유지…메모리사업부장 황상준·MX사업부장 최원준",
+  "lang": "ko",
+  "outlet": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kYU5vZWtDX19KdUl2d3dkUWk1Wkh3ZnpuZG5XWmp2V3IyUG9SZTJvOTNQXzBqMmpUTzlQeExNMlB1NkMyMHR6bktRRmdZVVNEem1lRFJIcVQzRWZCNmwtanNjWDRUU3hBa2M40gFwQVVfeXFMUFFPX2hWNnFlNzdvVVlTYlUydk9mNGpBODRYZFJ2ajMzUXdUUl9yRFNjZW9TTG5yNEpteVBmOUhZMHYyNFJ2cGd6ZWVRdTVQV1JnUzQ3cWVIQkhwaUVwTVB6bE5xUFI4RzMtbnYtV2VIVA?oc=5",
+  "section": "ai",
+  "people": [],
+  "flash": true,
+  "official": false,
+  "also": []
  },
  {
   "id": "1a45aca8ce",
@@ -1482,6 +1700,22 @@
   "also": []
  },
  {
+  "id": "b8fba5348a",
+  "time": "2026-11-19T23:15:00+00:00",
+  "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+  "ko": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "25f5cf0fb1",
   "time": "2026-11-19T23:14:22+00:00",
   "title": "앤트로픽 화려하게 데뷔했지만…스페이스X 따라갈까, 랠리 시작할까",
@@ -1637,6 +1871,22 @@
   "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
   "section": "global",
   "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "2536bc1a9a",
+  "time": "2026-11-19T22:48:52+00:00",
+  "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+  "ko": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
   "flash": false,
   "official": false,
   "also": []
@@ -5793,254 +6043,6 @@
   "lang": "ko",
   "outlet": "연합뉴스",
   "url": "https://www.yna.co.kr/view/AKR20261119040600030",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0fe0b7bd1b",
-  "time": "2026-11-19T00:28:16+00:00",
-  "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
-  "ko": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12213292",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "64de024251",
-  "time": "2026-11-19T00:27:51+00:00",
-  "title": "성남시, 'AI스마트도시' 서비스…'시티패스' 등 27개 도입",
-  "ko": "성남시, 'AI스마트도시' 서비스…'시티패스' 등 27개 도입",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261119_0003874422",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "dfd73f18f0",
-  "time": "2026-11-19T00:26:00+00:00",
-  "title": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan",
-  "ko": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan",
-  "lang": "en",
-  "outlet": "The Hill",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raTJreThiUkNqVXNrSTM5WE4zVE9SX2llZG4wbDJicmJEMUdvWDkxbDBUYkZyTDF6QUM3d3RJanEzR3N2V1hiYnVhUVlfLTNGcWhweHhXRk95QTNrellreG54RHgzVjB4T2pJcG1DdUFuNDhDdTB4eTFrMjZrX2PSAYQBQVVfeXFMTnV2ajlQcm9ac3hGQzZ5aDFEb2hJa0tFWDNpS1dGbTlQdmRzVWhqU0I4WHhFOEozZkZBX3hXUGxYNlk2SmxXQ2FqNVdyZU8tbG5BOEgweGRVTG0tZkltcUUwdnl1b1hiamRmNlpZNndwMmVKanh4VnF3cjhvUENKOVh0T3JR?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "fbb5886968",
-  "time": "2026-11-19T00:24:22+00:00",
-  "title": "\"배당은 내년, 실적 회복은 2028년\"…강원랜드 목표가 하향",
-  "ko": "\"배당은 내년, 실적 회복은 2028년\"…강원랜드 목표가 하향",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611190833320678",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "56de75aa20",
-  "time": "2026-11-19T00:23:59+00:00",
-  "title": "\"흔들려도 믿는 건 미장\"…KODEX 미국S&P500, 개인 순매수 3조 넘었다",
-  "ko": "\"흔들려도 믿는 건 미장\"…KODEX 미국S&P500, 개인 순매수 3조 넘었다",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611190921100827",
-  "section": "global",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "3ad8e85a99",
-  "time": "2026-11-19T00:22:13+00:00",
-  "title": "SG \"포스코인터내셔널, 인니 JV 출자 완료\"",
-  "ko": "SG \"포스코인터내셔널, 인니 JV 출자 완료\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261119_0003874423",
-  "section": "crypto",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "cdc7545571",
-  "time": "2026-11-19T00:21:38+00:00",
-  "title": "넥센타이어, 체코서 AI 기반 타이어 개발 프로세스 공개",
-  "ko": "넥센타이어, 체코서 AI 기반 타이어 개발 프로세스 공개",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261119_0003874394",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "ae13305090",
-  "time": "2026-11-19T00:20:34+00:00",
-  "title": "[수능] \"AI 논란 있지만 실력 발휘를\"…인천서도 응원 속 수험생 입실",
-  "ko": "[수능] \"AI 논란 있지만 실력 발휘를\"…인천서도 응원 속 수험생 입실",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261119038400065",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "c98d893af3",
-  "time": "2026-11-19T00:20:00+00:00",
-  "title": "'I feel pretty foolish': Elon Musk says he regrets spending so much money on the midterms",
-  "ko": "'I feel pretty foolish': Elon Musk says he regrets spending so much money on the midterms",
-  "lang": "en",
-  "outlet": "Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzRzTTdTUFJNU3g1S2FSX214VUY5LV9iTFFCUm1NZUpUMF9tRmNqTVpUZjhOYnEzcEktY2hTYUQzTEJSRjF5OUZ3RklDUkYyZHUtZmRoNEZwY3o1UEFaaUlDbEhxU1BSNjJxZmdOUl9tNGZLQ080anNmQlFaT29FMlRjVXBQekNrSTEwOHZnY2ZTUzk1OWp5bGVwRWtTSkNoLUE?oc=5",
-  "section": "people",
-  "people": [
-   "머스크"
-  ],
-  "flash": false,
-  "official": false,
-  "also": [
-   "Washington Post"
-  ]
- },
- {
-  "id": "cf699c31ec",
-  "time": "2026-11-19T00:19:17+00:00",
-  "title": "옷·안경 바꾼 수험생들…AI커닝에 불안감 \"그래도 최선\"[2027 수능]",
-  "ko": "옷·안경 바꾼 수험생들…AI커닝에 불안감 \"그래도 최선\"[2027 수능]",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261119_0003874379",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "908b6c969f",
-  "time": "2026-11-19T00:18:55+00:00",
-  "title": "Video: Mamdani Reflects on Relationship With Trump",
-  "ko": "Video: Mamdani Reflects on Relationship With Trump",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXZZUGxlaFNkclpEbFZjcGUyOU5jaVlFdmFCTmlNVVAwYUFTc2ZUUlRNYVo2WGduSEdNZVVDbDNPMHFoMkJjME11SzF3TXJtaFI0U1VFcm9JRTAwM0pXRFNTbGtJN3ZGOUttOVprYlJvLW9haXZqZTZNNTVVU2pDaUZ4M21FSi1PSXlxMTNmMGU2dXpCcFJvbHk5SQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "8839b523c5",
-  "time": "2026-11-19T00:17:29+00:00",
-  "title": "코스피 40% 빠질 때 88% 뛴 코스맥스…\"여름 비수기도 없었다\"",
-  "ko": "코스피 40% 빠질 때 88% 뛴 코스맥스…\"여름 비수기도 없었다\"",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202611185231i",
-  "section": "kr",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1328e1ecf7",
-  "time": "2026-11-19T00:17:26+00:00",
-  "title": "$TRUMP 홍보 만찬 최소 참가비 100분의 1 이하로 추락",
-  "ko": "$TRUMP 홍보 만찬 최소 참가비 100분의 1 이하로 추락",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261119_0003874336",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "40e3d7dd45",
-  "time": "2026-11-19T00:16:55+00:00",
-  "title": "\"한 달 만에...\" 한국투자금융지주,최대 5000억 회사채 발행 추진 [fn마켓워치]",
-  "ko": "\"한 달 만에...\" 한국투자금융지주,최대 5000억 회사채 발행 추진 [fn마켓워치]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611190856497135",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "688657b25a",
-  "time": "2026-11-19T00:16:54+00:00",
-  "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
-  "ko": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261119_0003874383",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1386890e89",
-  "time": "2026-11-19T00:14:43+00:00",
-  "title": "\"AI보다 전력이 돈 된다\"…IFM이 주목한 투자처는? [fn마켓워치]",
-  "ko": "\"AI보다 전력이 돈 된다\"…IFM이 주목한 투자처는? [fn마켓워치]",
-  "lang": "ko",
-  "outlet": "파이낸셜뉴스",
-  "url": "https://www.fnnews.com/news/202611190911167587",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "4bdad70534",
-  "time": "2026-11-19T00:10:01+00:00",
-  "title": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
-  "ko": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261119033100009",
   "section": "ai",
   "people": [],
   "flash": false,
