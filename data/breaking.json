@@ -1,5 +1,1526 @@
 [
  {
+  "id": "0e7a9e1b76",
+  "time": "2026-11-23T14:37:00+00:00",
+  "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
+  "ko": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "3a974d1c98",
+  "time": "2026-11-23T14:36:21+00:00",
+  "title": "[속보] 뉴욕증시, 젠슨 황 CEO 복귀에 상승…나스닥 6%·엔비디아 29%↑",
+  "ko": "[속보] 뉴욕증시, 젠슨 황 CEO 복귀에 상승…나스닥 6%·엔비디아 29%↑",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003880072",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "abc25bde67",
+  "time": "2026-11-23T14:34:04+00:00",
+  "title": "트럼프 \"젠슨 황, 위대한 애국자…불법 행위 관여 증거 없어\"",
+  "ko": "트럼프 \"젠슨 황, 위대한 애국자…불법 행위 관여 증거 없어\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003880069",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9edcdf98db",
+  "time": "2026-11-23T14:33:17+00:00",
+  "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+  "ko": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "7bd9e235cd",
+  "time": "2026-11-23T14:33:17+00:00",
+  "title": "Fight to chair the GOP tests Trump’s clout after midterm wipeout",
+  "ko": "Fight to chair the GOP tests Trump’s clout after midterm wipeout",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTl2bk4tSzJhT1NrSjJTY2dnY1RSaDU3MXJwMDNyOFV3ZlU0ZjJOdUZkTzRQS0daTUVsYy1RaS16V1M1Qi03d1dmLXN2d1YzbGtoekVzWEZ0RklLMUNjaFg5SWdrZ09ybElsRFhXRDd1SzZCSmRNbW5TQmJkZEdlVnN3dC1GNlBGYVVjUmVpMVBoS1NYXzc5WnBERWQ4VHhzM1J0R3NaRHpSSHo0LVE?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "be6125d9cd",
+  "time": "2026-11-23T14:33:15+00:00",
+  "title": "Trump says Nvidia board made right call on Huang reinstatement",
+  "ko": "Trump says Nvidia board made right call on Huang reinstatement",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "db2f70c057",
+  "time": "2026-11-23T14:33:12+00:00",
+  "title": "Jensen Huang went to war with Washington — and won a path to China",
+  "ko": "Jensen Huang went to war with Washington — and won a path to China",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ01rTDUyQUlHbDdURmstWlM2VWZFTkk3OTBNWWdOUWpfM3BKeE5yMXpEbUlzNGxLZUx2b0pOZWZZUm53WDFSUjhCMjJDTHdfbGJ3SmVGVG1wNzhRV1YwVnVYNkFtRG42LTVSVUNjZUw4UU5LdXRaZktCUzF6ZndpUFdFM2lZdmh5OTFVcG9BYkRZUEdyMC02T0RvNTJQcnJGUjZxMHgxaERRT0t1NFRIYk91OVZBdVU?oc=5",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "559598839a",
+  "time": "2026-11-23T14:33:00+00:00",
+  "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+  "ko": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "CoinDesk",
+   "The Verge"
+  ]
+ },
+ {
+  "id": "e67f280b33",
+  "time": "2026-11-23T14:31:21+00:00",
+  "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+  "ko": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+  "lang": "en",
+  "outlet": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Axios",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "0bafd67020",
+  "time": "2026-11-23T14:29:00+00:00",
+  "title": "[속보]‘불륜 스캔들’ 젠슨 황, 다시 엔비디아 CEO로···불명예 퇴진 11일만",
+  "ko": "[속보]‘불륜 스캔들’ 젠슨 황, 다시 엔비디아 CEO로···불명예 퇴진 11일만",
+  "lang": "ko",
+  "outlet": "경향신문",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HZG5WUjNNdWotRV9BYjNWYUI3TWttdkU3NENVbks3ZTMxaVVWV1hKM0U5bVRIY2pQd28ySlRHLURjU2hxdGc4M3l5OExnNENvTjgzazV6dFJuQdIBX0FVX3lxTFBzTVhIQTlvakRoSGlxSTd0MXkydmNaYnBPUTJsTmN6dDB1enEyQ3BRYmxkcDVVS0FmOXFydUh0SWN0bHpTMG5EWFFRWVlwaTMtZDFjbkE0bnFCRFhIVHJ3?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4bf98a4d2f",
+  "time": "2026-11-23T14:28:14+00:00",
+  "title": "Jensen Huang reinstated as CEO of Nvidia",
+  "ko": "Jensen Huang reinstated as CEO of Nvidia",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU0dIS2Y5Q0VLSlNTbDV6Zm9BWmoyOXNubHJfZzlzN1dKbS1DMHc1ZWR5YlhPcGVvbzhpMjF5Z2NsMUx4OExEWG5qMG5wcFBmNHRRMWdBUWE5R29UbmhQUklxb2syYWVNVkM2WWJlT3d5S094TVZ6LWxhSmVLNU9WMU8tcDBIZGQ4UHJzVXNrQ04?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "e1d9d8045f",
+  "time": "2026-11-23T14:27:37+00:00",
+  "title": "[속보]젠슨황, 엔비디아 CEO 전격 복귀…“빨리 일하고파”",
+  "ko": "[속보]젠슨황, 엔비디아 CEO 전격 복귀…“빨리 일하고파”",
+  "lang": "ko",
+  "outlet": "문화일보",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nMWFFdDBvSVdJcjZDUFNqbFhLMnRDSFAwcWRPSjVfTHR5VTE1aWFxN1NBaHRiUkhtbEFvM2VFUWVxY2pIYThmSnpWMUlGaGV4?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e0c4abbf41",
+  "time": "2026-11-23T14:26:35+00:00",
+  "title": "[속보]젠슨 황 \"가족의 사랑·지지 감사…업무 복귀 고대\"",
+  "ko": "[속보]젠슨 황 \"가족의 사랑·지지 감사…업무 복귀 고대\"",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93RmlLR2lRMG9Sb1I4d0VLSGVjeHBIUnpwSWxMUHl4VmJYWXVFZkdsSjlVZ1NtUWZYLUpjXzNvdEU5SjdqNkRxR2NRRWdKblc3TlVKdUJWZlpDLXcyYmRwaA?oc=5",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "SBS",
+   "연합뉴스",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "e770246a83",
+  "time": "2026-11-23T14:26:15+00:00",
+  "title": "Nvidia board Reinstates Jensen Huang as CEO",
+  "ko": "Nvidia board Reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXRFOVpPQ1FxaTlVS0hfVGV5Tl91TzVUWldXTVgwVmI3eHRoYXhYbmllLUFobHhSWThOaXRTSVRDRkJ2ZTdsRDRHSElWRmU0SUFiQTU3VXk5V0pyREk0VFMwWUdFdTdUd2tCcEdNQmprZjFoM0VuUDNJNi1DYjdoc3FjV1RCZGxqRjdqX1MxQmtsZ9IBlwFBVV95cUxNdXhERGZiakd4c2ZlSnQ4UGZwNVVjUjNqTUhtNEozUXRUTVdkR09DeExjRllITG0tU0s3V05uYmwtQ1RPc2d4S2cxWTBjVW5rWk1RQVh3bEZLNms0NjFiZ2F2ZnBWYmJtTzFhYXhGVWVfcWFLN1liaEVfSEh2aGNvZGpyMzhEQ2VfT1Bzejl3TXpVdUNDSkU0?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Ars Technica",
+   "Axios",
+   "Barron's"
+  ]
+ },
+ {
+  "id": "77d773881d",
+  "time": "2026-11-23T14:26:01+00:00",
+  "title": "트럼프, 젠슨 황 복귀 전폭 지지…\"불법 증거 없다\"",
+  "ko": "트럼프, 젠슨 황 복귀 전폭 지지…\"불법 증거 없다\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611232322142069",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "588bf51163",
+  "time": "2026-11-23T14:25:12+00:00",
+  "title": "[속보] 젠슨 황 “가족의 사랑·지지 감사…업무 복귀 고대”",
+  "ko": "[속보] 젠슨 황 “가족의 사랑·지지 감사…업무 복귀 고대”",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Ql9rT1paNzBsQXktQXdhLTEyVnRscEFOSXU5aU56SlhIdlRJR1hMc0lYSmhFWlhaRVNfSTRnLVlBOFh2Z01ad08wd0dqeEsyVl93VDdB?oc=5",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "SBS",
+   "아시아경제",
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "a83890e0b6",
+  "time": "2026-11-23T14:25:00+00:00",
+  "title": "[속보] 젠슨 황 가족의 사랑·지지 감사…업무 복귀 고대",
+  "ko": "[속보] 젠슨 황 가족의 사랑·지지 감사…업무 복귀 고대",
+  "lang": "ko",
+  "outlet": "SBS",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rRGxkMS16WXBxNldMTk5UeDRlREFfWEgySmVuZVBLZzF3ejBEQ1NJWTZGQlI2b1Rpa2JSaGxZMlhNeTdPekIwdkRvWUJSaHJZdXJz0gFYQVVfeXFMT0lLUGVGeElMMnpZLUhjVmtXckFQSkd1WThnT3pDeGFHSXkxT2RGZFdDUmRpcjZCNGVmUUVpY25YMXMxZkFhZm54MmhBZXAtT3pFRmcyaTVlNg?oc=5",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "아시아경제",
+   "연합뉴스",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "4b86f031f1",
+  "time": "2026-11-23T14:23:13+00:00",
+  "title": "[속보] 젠슨 황 \"가족의 사랑·지지 감사…업무 복귀 고대\"",
+  "ko": "[속보] 젠슨 황 \"가족의 사랑·지지 감사…업무 복귀 고대\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123175200071",
+  "section": "people",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "SBS",
+   "아시아경제",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "0293466dda",
+  "time": "2026-11-23T14:23:00+00:00",
+  "title": "Nvidia reinstates Jensen Huang as CEO",
+  "ko": "Nvidia reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "NBC News",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "4cc45859f6",
+  "time": "2026-11-23T14:22:54+00:00",
+  "title": "젠슨 황, 엔비디아 CEO로 11일만에 복귀…이사회 만장일치 의결(종합)",
+  "ko": "젠슨 황, 엔비디아 CEO로 11일만에 복귀…이사회 만장일치 의결(종합)",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123174351072",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스",
+   "서울신문",
+   "파이낸셜뉴스"
+  ]
+ },
+ {
+  "id": "b4cf60d631",
+  "time": "2026-11-23T14:21:59+00:00",
+  "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "ko": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "lang": "en",
+  "outlet": "TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0gyUTBCNk1BX2hqS1pIUS03bl9KUkU2SlI2Vkh1YzNrTlExcFhqSWVad0RmQlFYUU1PRFdZQmprV1BXMWFISG96Zy1LNy1CZnNGaWU3cXhWZ21EQTNITWEtejBjbzhfRGg4TTN6VzNUdTZ0cVFwNzhEUmRSenBLbzRfVWpGOFZzbkhMbDhGcXZYaXdoX0lWbg?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Axios",
+   "Business Insider",
+   "CBS News"
+  ]
+ },
+ {
+  "id": "92666f6343",
+  "time": "2026-11-23T14:20:16+00:00",
+  "title": "[속보] 트럼프 \"엔비디아, 젠슨 황 CEO 복귀 결정 적절\"",
+  "ko": "[속보] 트럼프 \"엔비디아, 젠슨 황 CEO 복귀 결정 적절\"",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSUVY4akx1QU9ERGo2OWlnWVRINnN0MnRYM3FTV2xWcm1rdkRJMzV4WWZ1U3NDelJ4VDRmcGZvQjZJck9zcTkxUUhpV2IwWkhib1Z6OUMyR2I?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스",
+   "이데일리",
+   "조선일보",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "bffd6e780d",
+  "time": "2026-11-23T14:19:00+00:00",
+  "title": "[속보]엔비디아, 젠슨 황 CEO 전격 복귀… 사임 11일 만",
+  "ko": "[속보]엔비디아, 젠슨 황 CEO 전격 복귀… 사임 11일 만",
+  "lang": "ko",
+  "outlet": "한겨레",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13MlJSeWJKaFpHN2R6VHVxdnVDcDJZZ1BLNFozcWNZRndJZTdFZENsTjlfWDB3dE96Z01YMWlPZlN5RDhTNnlDanV1eHR6djZOcFktTFFMT3RFMkxOTEV2QWRDTlIwSDZMSHExNDFaTQ?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "아시아경제"
+  ]
+ },
+ {
+  "id": "aefc0accb7",
+  "time": "2026-11-23T14:18:00+00:00",
+  "title": "[속보] 트럼프 “젠슨 황 엔비디아 CEO 복귀, 올바른 결정”",
+  "ko": "[속보] 트럼프 “젠슨 황 엔비디아 CEO 복귀, 올바른 결정”",
+  "lang": "ko",
+  "outlet": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGtVWmJkM1pwTHlhMV9BZEtua3NiNEgwOGcyVXlScldRZ3dYZmdZWml1MDFpanFxaHlEUUZ5ZWJMZWZOTTc5enh0bHA5S3hqMDhzQkpodFdOSVRhWEZDZ3BfZ1hiVFRlWjlMekV1WUNla0QybEUxODBDeEdxN2pOb3AtRnNqeW9jbk92TWhRVDRQY1VlaUIyMlRGXzNoUdIBsgFBVV95cUxOaTJkLU15d3ZLdDVUV1RxVjd1VHpSbnpVQ1ZwaGxoSVhiWGw0OC0zM05vdXlmc3ZlS19VTkliT0hVdGlUQVVEakVmb0h3S1ZocTZvSVNxV3RjcEVZNUd3NWphZ0xOZ0VTMXNqRWQxT3gwdGxRRUJ2UUNhdk9FQS16R1pYeGh4X3hoMUJwdDkwSHdlVFQtbmhWLVJlWENSTkE3S1NLTnNaWFpTOU5ibmJxQ3JR?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "서울경제",
+   "연합뉴스",
+   "중앙일보",
+   "한국경제"
+  ]
+ },
+ {
+  "id": "7351d2861f",
+  "time": "2026-11-23T14:17:52+00:00",
+  "title": "[속보] 젠슨 황, 퇴진 2주도 안 돼 엔비디아 CEO 복귀…주가 27% 넘게 급등｜Global Money Club",
+  "ko": "[속보] 젠슨 황, 퇴진 2주도 안 돼 엔비디아 CEO 복귀…주가 27% 넘게 급등｜Global Money Club",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VU0ZQRm1acUZVeXhsZFdVTFBGYVA3NndjVDd2SGVqUGk3VFd1QW5oQVBPc3p1enRqOFVXTHZ4ejI2TGlpUTNiWU1ZYWpDSDdPalVJOEx5TUFGQ3M?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "b3555d5d87",
+  "time": "2026-11-23T14:17:34+00:00",
+  "title": "Opinion | The Supreme Court bucked Trump on tariffs. The asylum ban will be harder.",
+  "ko": "Opinion | The Supreme Court bucked Trump on tariffs. The asylum ban will be harder.",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNk5PeGNpdVVJOWxIUGFiaERiU0tVbXV4WDVQaTlRb3ZsT1ktaWRLbkVCUzhMVmJrVU5ULUZRUWJOcXUxdFhJWmZJZGVjMDN5R3F6bG82d3BqM21ROEhJelIzMy1pMEJjbVlzZWMycnl4bE9QaG1lUThURWVSWHhZM1Zkb0t3c2hUbFAxUTBIeGJuU09ybk5iNURRZXFyM2dCNWVHM1NXSllTWGNtRVB5YUlvZ0lpdUs3?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "298c3f21ba",
+  "time": "2026-11-23T14:17:00+00:00",
+  "title": "Nvidia board votes unanimously to reinstate Jensen Huang after deciding he ‘poses no national security risk’",
+  "ko": "Nvidia board votes unanimously to reinstate Jensen Huang after deciding he ‘poses no national security risk’",
+  "lang": "en",
+  "outlet": "Fortune",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb2pJV3BqMU1NVElTZjBUU1ZjYUVxd3hGUVhET3poaW9vYkJHMU53UWVLMS1LWDlBR1F4cnhET2lpN1MwY2p6RGdHMS03Y0gwYkhmcUVmRmw5dTVUY2h6a0FkRk5jR0dhdlEwSVAwS0RnWjBCZFZrWlJtci1lWDV4TjlRclFsNHp6dm9CM1A1aE1FcEVYQTVDRXNPT2MwTzFySTJHMy1wckJEUGJGa1h1WTlPdkxIb05tYWY4ZnEtbnBtS1JBZ0ZkTm1EYndrNm1MTExQZg?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Axios",
+   "CNN"
+  ]
+ },
+ {
+  "id": "8abbef9176",
+  "time": "2026-11-23T14:17:00+00:00",
+  "title": "Jensen Huang reinstated as Nvidia CEO",
+  "ko": "Jensen Huang reinstated as Nvidia CEO",
+  "lang": "en",
+  "outlet": "The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFBBeGFicDBLX3Y4UThaWThONElNX3lyTkxwVlJHYmxlUU8ybzBYOG1UOWY2Sl9TY1h2bTczVkItZEJQQW04RXZPTTF0NnNJOVM2YmpUOXJndTZQSnpiTnJFN2ZzZ0xPeXBWVDN3Zkw4eTdsc1dfVEw3VXhiRnNtMkVPMGo3UzlKOFRoeWRSS242clN5SHB5OTJ6MkUxakE4T0E?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "201a3f2d29",
+  "time": "2026-11-23T14:16:45+00:00",
+  "title": "젠슨 황, 엔비디아 CEO로 전격 복귀",
+  "ko": "젠슨 황, 엔비디아 CEO로 전격 복귀",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611232314440835",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "연합뉴스",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "fa4eb5e22f",
+  "time": "2026-11-23T14:15:54+00:00",
+  "title": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정…트럼프 \"옳은 결정\"",
+  "ko": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정…트럼프 \"옳은 결정\"",
+  "lang": "ko",
+  "outlet": "머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VUVppSjNfRDA2bVRnTThLQ1FqMXpzekFRY1pXMWg0RTFoMUpRVVdkSFdkTFBDTHRyOUV6Mk45UTQ1VEV3RDQ5WFBwcUxTM1hMWlVscmF3cUdCTWlGMzdpemxQMmlBRHhl0gFuQVVfeXFMUDdyeGw1MmJFaW9TeTJJUUYtcjNySnZmWXVfZ0hUdEFjSUV0NnZ5dWd5cFA3THhDWndRd2tMd292SDI0MWwzYzB2bU9XYWRvMlQyWjJZdUwyMnBjeTExZEhzYXRKcGQ0ankwd0p2bmc?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "아시아경제",
+   "연합뉴스",
+   "이데일리",
+   "조선일보"
+  ]
+ },
+ {
+  "id": "123d104b83",
+  "time": "2026-11-23T14:15:42+00:00",
+  "title": "Trump hosts crypto gala as his meme coin falls below $1",
+  "ko": "Trump hosts crypto gala as his meme coin falls below $1",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YVmxyWXZjRzQybjNMSzJYdlBydllNeEVzektWX3FiUTdmaXFWc0QtRlJmVjNzaWV1cjAtc0JWSTl4NTdfb0F6NGdqbExLRVc3MXF1Ty0yVU1aUGI3RV9mQno5RUdVME5D0gFuQVVfeXFMT2xKV0tQMHpNUThZOGUyYVpieHhBQ2JNdnU3aVdSeGtxWkJhVlEtWTgxeHkySk1yUkVCZnBFVnBBU1dWMUtSOUJaQXFjb1RBbmEydDN6NWthd0QwYThvcmx4dXdvZjdjOG9MM0JEelE?oc=5",
+  "section": "crypto",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "40fc4d2280",
+  "time": "2026-11-23T14:15:41+00:00",
+  "title": "젠슨 황, 엔비디아 CEO 전격 복귀…이사회 만장일치 결정",
+  "ko": "젠슨 황, 엔비디아 CEO 전격 복귀…이사회 만장일치 결정",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123174600072",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "뉴시스",
+   "서울신문",
+   "이데일리",
+   "조선일보"
+  ]
+ },
+ {
+  "id": "75792d2a9c",
+  "time": "2026-11-23T14:15:31+00:00",
+  "title": "[속보] 트럼프 \"젠슨 황 복귀, 올바른 결정…수출통제 내부 조사는 계속해야\"",
+  "ko": "[속보] 트럼프 \"젠슨 황 복귀, 올바른 결정…수출통제 내부 조사는 계속해야\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003880068",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "e9b29e82fd",
+  "time": "2026-11-23T14:15:00+00:00",
+  "title": "[속보] 트럼프 ＂젠슨 황 복귀, 올바르고 적절한 결정＂",
+  "ko": "[속보] 트럼프 ＂젠슨 황 복귀, 올바르고 적절한 결정＂",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBheGs4aXE3aEhlWEQtV1l2YlM0bWxZMmhvYVFoUXJwMWlCVjNvN0xZejRfbEdyV0E3d1BtcEE3VEFNeVppYlJJQTkyTFRBYVo1V2t3bThqN2JhaGJjdndXYUZHY29YVkRJUGFXOFBoQlMwLW14WkE0?oc=5",
+  "section": "people",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "f99d6ef1d1",
+  "time": "2026-11-23T14:15:00+00:00",
+  "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+  "ko": "Nvidia Board Reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "Wall Street Journal",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMndVRkJQcnJ1a3ZXTmZpQ0t4d3dBUFFUUnRjS1htT0JxSHRYN1pSelFROGsxTkxHWV83R2h3Z1ViRUhuZS1XSVZSR3djWU5ITXJ2SThvN1oxVGRvMVdOZUk4WUU5bndkY1lBR0pOMmJrWG5OQjVQOVZaaXVfMG1FZG53Rjc5bXdW?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "4106394f20",
+  "time": "2026-11-23T14:13:55+00:00",
+  "title": "Nvidia board unanimously reinstates Jensen Huang as CEO",
+  "ko": "Nvidia board unanimously reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "AP",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "c6885ade78",
+  "time": "2026-11-23T14:13:44+00:00",
+  "title": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
+  "ko": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Axios",
+   "Business Insider",
+   "CBS News"
+  ]
+ },
+ {
+  "id": "bfe6dd9ef4",
+  "time": "2026-11-23T14:13:39+00:00",
+  "title": "젠슨 황 엔비디아 CEO 즉시 복귀…이사회 만장일치 결정",
+  "ko": "젠슨 황 엔비디아 CEO 즉시 복귀…이사회 만장일치 결정",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003880064",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "서울신문",
+   "연합뉴스",
+   "이데일리",
+   "조선일보"
+  ]
+ },
+ {
+  "id": "422350e287",
+  "time": "2026-11-23T14:12:52+00:00",
+  "title": "[속보] 젠슨 황 엔비디아 CEO 즉시 복귀…트럼프 \"올바르고 적절한 결정\"",
+  "ko": "[속보] 젠슨 황 엔비디아 CEO 즉시 복귀…트럼프 \"올바르고 적절한 결정\"",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611232312335283",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "머니투데이",
+   "연합뉴스",
+   "이데일리",
+   "조선일보"
+  ]
+ },
+ {
+  "id": "84efaf4a94",
+  "time": "2026-11-23T14:11:45+00:00",
+  "title": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "ko": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "lang": "ko",
+  "outlet": "이데일리",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOek9OSVNBdk1yUnF5SzF1V0lZSUVyNk9FeXhpTUdhQ05LNVZ1OHVwQXpOQk45Snc4WkxkY0JHV1RROTZEajA1cmlqOVJ2eWtrM1JMMDUwTUJGdlVSOWt2VDRZMHkxR2NlUnc0bFpyRnBmblZ2UU53elREWVE5dTBlVg?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스1",
+   "뉴시스",
+   "머니투데이",
+   "서울경제"
+  ]
+ },
+ {
+  "id": "216dad9d42",
+  "time": "2026-11-23T14:11:15+00:00",
+  "title": "Nvidia board reinstates Jensen Huang as CEO",
+  "ko": "Nvidia board reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "Axios",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nY19pcE53aXlWQUtPQmRyb2hhWE5CZUxlTHhlbEYxQ2EtQUEtLUFuYjZscTY4bURqLThBT1g5QlB0aThJaTlMZW41aFVHS1pySk9xLUhnQmk5TWdTNzhUQk5Zc3lhSzZINkJpNzdIb0ZPSmc?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Barron's"
+  ]
+ },
+ {
+  "id": "8d635aa57d",
+  "time": "2026-11-23T14:11:10+00:00",
+  "title": "Nvidia board reinstates Jensen Huang as CEO",
+  "ko": "Nvidia board reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "CNN",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0dMMklraHlRTEN3OWZJNUxMeTVBdmtkTGEzXzFMWWE2U0d6bnUtcDBBRjR1Q0VwYWg2MlVhYjV2aXhqck9Wb1dUekN1LTVQN2JXajdVSnR5SHRWeHgzMGQ4NlRrVlkzQkYzak5OekVBVE8tMW5HaFdsM19Da1pvWWx5ZnVFZ1FLUEdN?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "0f1e2a0cf5",
+  "time": "2026-11-23T14:11:00+00:00",
+  "title": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "ko": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "lang": "ko",
+  "outlet": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWlTSW8zdm5XNkdJZjlkUkUxTU9zcDZHcF9Od1FkQ0ZjWVhURWVxME9KSy1lRW56Zko3d291bFNWNlFvTGtDNjIxM3ZXb0RKM0VXX3RCT0otTXZjOUlmRGlLUEdzLUstOVdhMHdJVWZzT0dfTEtEak90RElTQXNhS05R0gGWAUFVX3lxTE51VHJVdm5RMm83SEI3SHpNc1pFRi1XV1FZeTI0S19tNktpOUloZkZ3LXFiN2ZzMm1TcVlIWVYtZDIxTzdTU1NvcFYzb2VFRGY1WHRwcUl6ei1OcWpJcGp3bldkUlNFWVFNTW9fbmh5dXo5RjBjUms5X1lwak1aRXlMUEV5cFgycktEZ2FhWVc4Y21pRHJEdw?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스1",
+   "뉴시스",
+   "머니투데이",
+   "서울경제"
+  ]
+ },
+ {
+  "id": "26478e660a",
+  "time": "2026-11-23T14:10:29+00:00",
+  "title": "[속보] 트럼프 \"젠슨 황 엔비디아 CEO 복귀, 올바르고 적절한 결정\"",
+  "ko": "[속보] 트럼프 \"젠슨 황 엔비디아 CEO 복귀, 올바르고 적절한 결정\"",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123174500071",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "조선일보",
+   "중앙일보",
+   "파이낸셜뉴스",
+   "한국경제"
+  ]
+ },
+ {
+  "id": "a96c291836",
+  "time": "2026-11-23T14:10:18+00:00",
+  "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+  "ko": "Jensen Huang reinstated as Nvidia CEO, board chair",
+  "lang": "en",
+  "outlet": "Ars Technica",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXRzSmVNWjEway1Vbk1EQmpnZXdMdzNySDZEeUpOMnQta1hZWFEyMUxGTU5QVFFNeGt5Ui1LMktDTDZsRTltLWdiVFkzbG1NUXdOZmZBdXBiT2RXMzYzbUZhOWtzeDJCcTJZQTJIWm5leXoxbGEtWktQVWZ3dlhPUzd6a21NTFZLazRwOU13?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Axios",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "46e3345385",
+  "time": "2026-11-23T14:10:09+00:00",
+  "title": "Nvidia reinstates Jensen Huang as CEO",
+  "ko": "Nvidia reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmVPSXJ2blBCY2Fpd21fZHBMZ0tHdWVrXzVBcmR0d19SbmJLUkRvaVppZFpKRU5WZzQ0cGtlLWpXUmZvV2lTbTVNMnc4RWxNYkpaNUJoTVJMZ2tqcGhEY3BaMlRQZmo1bGI3YUFvUEVSdS1NdUt6NFBpWFNyOTc5WlV4OG5WMjA?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "5c5254a49f",
+  "time": "2026-11-23T14:10:00+00:00",
+  "title": "[속보] 트럼프 ＂젠슨 황 엔비디아 CEO 복귀, 올바르고 적절한 결정＂",
+  "ko": "[속보] 트럼프 ＂젠슨 황 엔비디아 CEO 복귀, 올바르고 적절한 결정＂",
+  "lang": "ko",
+  "outlet": "한국경제",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZlpQU3dKaFN0aTR3MkFJM2UyWmJnUDZacW1kUjdyWUwyZ2J3eW51bTFQTTMtRVBzRUItMi1jRGM2ekJrSmsxRjNqRUlEd1ZPbkR5OHR0dEhVbmxXUFo0V0ZXQXZhUGpyZng4d2JvSHd2VVdoMjllTDRjcjV1Z1NGRQ?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스",
+   "이데일리",
+   "조선일보",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "0b2c5dff24",
+  "time": "2026-11-23T14:10:00+00:00",
+  "title": "Jensen Huang reinstated as Nvidia CEO",
+  "ko": "Jensen Huang reinstated as Nvidia CEO",
+  "lang": "en",
+  "outlet": "The Hill",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFE3OWx4RmN4V0xzLTZsWmtDQnpCbkR1U3drX0dGd3NPY2Jlak15MklURmI2WXFhMDNpeWZhQW5vRDV1TW1taE1tQXhzTXRaeE53RUt6eHhsVW42SnFRTF8yX1lPV1dtRUlua0hKYmN2WmxWRlhzVW1EeDBvV293SEhwakVLVTVp0gGOAUFVX3lxTE51Qmxub3dFSkNPRmJfdUFpS0NveGRTbTUtaUxPeHlQRW5EbWZ0VjdncW54Um5nQXlObml1enJlcUNob3pFeG9idkJUUWFmY3lvQ2VnM3BkZFVkNVl4bFVZekV4VHNEUTU0WFIwTVBoalR1QnpiNnJiWmdvaFZoelItSGpteWoxRElEWjNSRUE?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "fce6665d89",
+  "time": "2026-11-23T14:09:57+00:00",
+  "title": "[속보]엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "ko": "[속보]엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "lang": "ko",
+  "outlet": "아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvT1gzaDlUNUU1X211akU3ZzlqTWNRQ19Rb0hXTy1idFlaTnVQUjg4QktNbjRsdHc3d180aDZGWWNmbHp1alJ2aV9CWnRlT3lGNTFsY1NXSjhPSHB4ZHB5Sw?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "머니투데이",
+   "연합뉴스",
+   "이데일리",
+   "조선일보"
+  ]
+ },
+ {
+  "id": "1f4b67aebe",
+  "time": "2026-11-23T14:09:50+00:00",
+  "title": "Nvidia reinstates Jensen Huang as CEO",
+  "ko": "Nvidia reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "CBS News",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTG1PUmk1dXpsYV9CRXRKenhpb1NIcklTM3V6ZW9nOFlYVHpzTEJaQ2xiY21EWExqT0JDSmxRVWZyNHF6cHhibVlUWTQxVWFyXzI4WTB2R1otejRqRmh4cFhLT3RBNU9udXJKWU94c2Y3UQ?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "a8f7b2b4ee",
+  "time": "2026-11-23T14:09:18+00:00",
+  "title": "[속보] 젠슨 황, 엔비디아 CEO 복귀",
+  "ko": "[속보] 젠슨 황, 엔비디아 CEO 복귀",
+  "lang": "ko",
+  "outlet": "중앙일보",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMNmdIWXdHOGozcHE0cFoxQ1hWUC1LOWl6ZUp0X3RTeFY2ZmV4YlRCUndMZXh0MXdzQ0wxUmk1SE1LU1gzaGp5UnpQeXIzQU5RSGVESFhR?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스1",
+   "머니투데이",
+   "서울경제",
+   "아시아경제"
+  ]
+ },
+ {
+  "id": "24572825ae",
+  "time": "2026-11-23T14:08:17+00:00",
+  "title": "[속보]젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…이사회 만장일치",
+  "ko": "[속보]젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…이사회 만장일치",
+  "lang": "ko",
+  "outlet": "서울신문",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yX1I1TUl1aFBkSENLLWU0Y3RueWs1M1NQMHMtZk14YnZEOWNIQmE0UDd2SktDQzI4MkdfZm5TWWtuTVBjVU9kNWJQeUc2VkNJSXdmNWRZTTJNbTVETE1aLXJRTlpCZjFPWHdmcDd2WVZvRVRxbTdKa0ZBZw?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴시스",
+   "연합뉴스"
+  ]
+ },
+ {
+  "id": "8c66e5d55c",
+  "time": "2026-11-23T14:08:00+00:00",
+  "title": "Nvidia Reinstates Jensen Huang as CEO With Government Input",
+  "ko": "Nvidia Reinstates Jensen Huang as CEO With Government Input",
+  "lang": "en",
+  "outlet": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUdrM2RVQ3FJb1pGcHc3cTVyM0VKNXRkT1hmLTlvUm5PZzlYYWp3Mm83emNwZ2dzb1lRYTZEb2w1SF9OVEtzTmV3T2szWVMtQTVpWmo2MUdYa1pNV19sZU1jS29pcmpyNUFKLXVvQndpNV9ORTRnTnN0RXJDRmlCYkxKR2xiMDZpOUdkM1NLNUZQNE9KaHdNNmFOSWRNVzNUaEJtMmlORkh0bGh4cURZ?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Axios",
+   "Barron's",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "b1967777dc",
+  "time": "2026-11-23T14:07:59+00:00",
+  "title": "Jensen Huang Returns As Nvidia CEO Despite Affairs Scandal—Stock Surges 30%",
+  "ko": "Jensen Huang Returns As Nvidia CEO Despite Affairs Scandal—Stock Surges 30%",
+  "lang": "en",
+  "outlet": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVkdiSW9HRTZFMklXekxnXzd5NDFGZnRxcXJwZnVjNXpEWGg5SFB0dmFKOHhGaTVNRktORWxRVHc3ckRPTVNfSDFsNnJQT1BWM3l0bEgwUU81LXg5VnhhTWlMeUFha2pUQnBxdDJDd0JvdTZvcWFpREFhSDRoejd0a3N3b3dHWGNHQ2dfM3gyUm9iVS12V3Bxdi14MGwzOFdncUM5dnBPekR3LWlYSGgxWENOdEhURXFLMUNQZ21UR0NhRERtYXYw?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Business Insider",
+   "CBS News",
+   "CNBC",
+   "NBC News"
+  ]
+ },
+ {
+  "id": "d853a82858",
+  "time": "2026-11-23T14:07:39+00:00",
+  "title": "[속보] 엔비디아 \"젠슨 황 CEO로 복귀…즉시 효력 발휘\"",
+  "ko": "[속보] 엔비디아 \"젠슨 황 CEO로 복귀…즉시 효력 발휘\"",
+  "lang": "ko",
+  "outlet": "뉴스1",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sdmJSVkdjQVdOZkw0bnhaVVlhNUJuVUtIRDRmNUhBY01YaTdla2U2R1dSNm04bWxNT2FXVDdtakRHRjNLaWxfbDNaUks4VW9UMUFXbU54YXI?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "4a67219e4f",
+  "time": "2026-11-23T14:07:00+00:00",
+  "title": "Nvidia stock soars as Jensen Huang returns as CEO",
+  "ko": "Nvidia stock soars as Jensen Huang returns as CEO",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTE3UTJiTDJBdGEteFJpU1RwQjQ3NW56dVJyc2ZXcTd0M0V5b3hfMDZEdnEzaW9GNmJjV25iYl9Gb01jallBT2VMaDgxWndBdnU4WERzcXo5TEpKTU1EUGJXTTRxWFoyZ0dmSUJFenZrdG81ZWNkN0pXNmo5SDhWOHFuRkYyMHZjWmlDck1nS2toS0dhMnlmRWhWRFIyU2gyZ0lIaktGVEVjMDRoMkFzcWVyRkt4blFjRVpCOHNsb2s?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Axios",
+   "Barron's"
+  ]
+ },
+ {
+  "id": "dde66e20a8",
+  "time": "2026-11-23T14:06:42+00:00",
+  "title": "[속보] 엔비디아 이사회 “젠슨 황 엔비디아 CEO 복귀”",
+  "ko": "[속보] 엔비디아 이사회 “젠슨 황 엔비디아 CEO 복귀”",
+  "lang": "ko",
+  "outlet": "서울경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPUlJTY1FWei1YMklVX3huejJZaXBOZnRCNlk3MDViOURBOWJZMVkyYXJJQXIzU2p4T3JOVERkMFdnSlNnRldsV1RMd21BNFhHQXfSAVNBVV95cUxQcUZwSHZINkhYc0tMOFh2dk40YUNqb285YkxXNGFwZUVSOWNKOXJPUms5QzAwNnZNMW1tMjVVdl8yajNQS2dhbVB6a0hwdkZhMkRqNA?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "연합뉴스",
+   "이데일리",
+   "조선일보",
+   "중앙일보"
+  ]
+ },
+ {
+  "id": "0658a01c66",
+  "time": "2026-11-23T14:06:17+00:00",
+  "title": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "ko": "[속보] 엔비디아 이사회, 젠슨 황 CEO 복귀 결정",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123174300072",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": true,
+  "official": false,
+  "also": [
+   "뉴스1",
+   "뉴시스",
+   "머니투데이",
+   "서울경제"
+  ]
+ },
+ {
+  "id": "31e1b0024c",
+  "time": "2026-11-23T14:06:00+00:00",
+  "title": "Nvidia Stock Surges More Than 30% After Company Reinstates Jensen Huang as CEO",
+  "ko": "Nvidia Stock Surges More Than 30% After Company Reinstates Jensen Huang as CEO",
+  "lang": "en",
+  "outlet": "Barron's",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fN3hxWUc4RGwweVk4bk9Kak9VT21rd0czY1V3bzQ4anFGUERTYlJNRzk5eUozQ2dPU0oxMzk4Xzk0akJrQU8ya2w5clZWYnlFNHJ1amhkenU1QUt5T3BseGlueHZBNHVFTjNkajJzQnpwTkk?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Axios",
+   "Bloomberg",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "ab5450e7d1",
+  "time": "2026-11-23T14:06:00+00:00",
+  "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+  "ko": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+  "lang": "en",
+  "outlet": "Fox Business",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sMENaWHBjQlR3MlEtaUp1Tnh2cjdLR2hkTVZERVpXZUhnVFRBSnU4Y2d2ekJXdTR0dzUzeUhheEg0QTVlSHJyRWpKd1dHMUp2UDR6cTQwM3ZoVTVfaEl6eGJ1R0NPaGJlcDdxUDY2anBOMDFqOXN5Ykl30gF_QVVfeXFMT1JJV0lvT2lBam42VWJwYTRsVFRRQjdWOFg4RmVDeUdOaWN2VUZlZENDYzViTUxVeDd2M1QtTEY5b3Y0dDlWZlN4Zl9ra2VaUWYzLXpjX0x0N05iVVRMMHVSS0RtRXR4Uncyalpfc3Z6elRpc3FneDV3cDYxNHJnMA?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Axios",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "60abfa048d",
+  "time": "2026-11-23T14:04:54+00:00",
+  "title": "Nvidia reinstates Jensen Huang as chief executive",
+  "ko": "Nvidia reinstates Jensen Huang as chief executive",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Ars Technica",
+   "Axios",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "0dc1f36f9e",
+  "time": "2026-11-23T14:04:24+00:00",
+  "title": "Jensen Huang is back as Nvidia’s CEO",
+  "ko": "Jensen Huang is back as Nvidia’s CEO",
+  "lang": "en",
+  "outlet": "The Verge",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uYllqbklvT0RSZnJBazM1dEJTd1lEYWJLelpMVDRrcFM2a0lkVTQyb3VvOGlpa3IzZmk1bGRhblkzRWtVaDBWemlfU1VqX1ZDUy11SzVQTGJaSzlmMm5wM05WZ1VINlNySmdqSzlGR3B2UFZlc1dUSTViUk0?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios",
+   "Business Insider"
+  ]
+ },
+ {
+  "id": "5d55e25aca",
+  "time": "2026-11-23T14:03:00+00:00",
+  "title": "Nvidia Reinstates Jensen Huang As CEO",
+  "ko": "Nvidia Reinstates Jensen Huang As CEO",
+  "lang": "en",
+  "outlet": "Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUhUVXhQMXRKaGtNdXN3MTV3UTdhVzJjZzVvcTdLU0JZZnoxWGlaU1FpYkdfU211MWpzbmN0SHZ3ZGFLT1BMV1hkV2k4ajIwYVJhaVd5ZE9vUmVpcjhJN1cxTmhvN1o4R0twOVFZMEk5RFZpTUwwT1BkWW1LY0xURzdXcVRHcDcyUFlqSjdCbGo1SXJp?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Ars Technica",
+   "Axios"
+  ]
+ },
+ {
+  "id": "fb0d4f3ee9",
+  "time": "2026-11-23T13:59:23+00:00",
+  "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
+  "ko": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
+  "lang": "en",
+  "outlet": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McnlkOWZjTEROTXNrdGgtS19oWmNzcTFQSFBwUUdmbzBkOVFYQWY4R2JSdloweTM0V0F1a1gyZExpV2ktdC0zcTExdGxlbVgzaFRGTFR0cjViMTZkeTdyQzMtQ0JYMmJPQUNReNIBckFVX3lxTE00WXNRTHAtbXVYeEpKUVFhaExjRzNtSVg4VWphUk04cWIxOUpRY0VQeWNtdHdCT0Y4dXRZc3pqbDRQWkZ0UFk3S3NVRTFXazFOY3pyLWgwcVZFcWFMZUQ0b2Qzd1dDQjZWV0lGd2tvaDhiQQ?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "AP",
+   "Al Jazeera",
+   "Axios",
+   "CBS News"
+  ]
+ },
+ {
+  "id": "3fbcb06d02",
+  "time": "2026-11-23T13:55:05+00:00",
+  "title": "엔비디아 차기 CEO 1순위 하스, 2033년까지 ARM 잔류 계약",
+  "ko": "엔비디아 차기 CEO 1순위 하스, 2033년까지 ARM 잔류 계약",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611232252394966",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0b1117d12e",
+  "time": "2026-11-23T13:47:00+00:00",
+  "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+  "ko": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0ff1873946",
+  "time": "2026-11-23T13:35:00+00:00",
+  "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+  "ko": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+  "lang": "en",
+  "outlet": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "923803aee1",
+  "time": "2026-11-23T13:25:41+00:00",
+  "title": "美민주 \"한국 등 대미 투자 들여다 볼 것…모든 관세 조사\"",
+  "ko": "美민주 \"한국 등 대미 투자 들여다 볼 것…모든 관세 조사\"",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003880047",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "02ecb5d076",
+  "time": "2026-11-23T13:19:23+00:00",
+  "title": "Can Jensen Huang Return to Nvidia?",
+  "ko": "Can Jensen Huang Return to Nvidia?",
+  "lang": "en",
+  "outlet": "New York Times",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTdNRXQ4QjNsTzloVXNLN0MyNHJYY21LazBueU1rSm9UaXg1WjBqYnc2dE55cEtlVUMyLWNUeE5ucHZQTGtDNkZ3ZmlrQm5iQ3BqOVIwZEtvX3Z4ODg1M0JXbUhTaWhZSHhDYUZiMWlQcDVoOXhPeG9rRE02SG9IWHQxTQ?oc=5",
+  "section": "ai",
+  "people": [
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": [
+   "Business Insider",
+   "MarketWatch"
+  ]
+ },
+ {
+  "id": "55514db81a",
+  "time": "2026-11-23T13:15:49+00:00",
+  "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S.",
+  "ko": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S.",
+  "lang": "en",
+  "outlet": "Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlhuUEVYcUhfSzZoYm1EM3RHZ1NmdkJkZ0JqX01MZzZJbzRZdFdMVl8tV1BGWG5Ba1FwWnlwVUNUVVNiN25OQ2JPLUN3TGotNjd3UEMyVGcyc0lIVWJsWDFvN2FodTdwSnVzWnhsRXNpc3NrNHVNOGlEdGFUVVBOdHV3VGFwOVJ0eVBWSEQwaUk3QkFodnhSNWc2QmJhN3h5eGR6enBWcUxFbnVsZ0RhUDJFa25BWUQ0Vnh6NThn?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "젠슨 황"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "df5c3d4d38",
+  "time": "2026-11-23T13:01:20+00:00",
+  "title": "Live updates: Bitcoin climbs back to $64,000 as Nasdaq soars 6% on Huang return",
+  "ko": "Live updates: Bitcoin climbs back to $64,000 as Nasdaq soars 6% on Huang return",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6d192fa23b",
+  "time": "2026-11-23T12:30:25+00:00",
+  "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+  "ko": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "29e1e1ebf7",
+  "time": "2026-11-23T12:21:55+00:00",
+  "title": "Traders start to move US copper to China as Trump tariff fears ease",
+  "ko": "Traders start to move US copper to China as Trump tariff fears ease",
+  "lang": "en",
+  "outlet": "Financial Times",
+  "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+  "section": "money",
+  "people": [
+   "트럼프"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "d2c97c72bb",
+  "time": "2026-11-23T12:20:00+00:00",
+  "title": "Scott Bessent has changed his tune on Nvidia leadership as President Trump says chipmaker should ‘rehire’ Huang",
+  "ko": "Scott Bessent has changed his tune on Nvidia leadership as President Trump says chipmaker should ‘rehire’ Huang",
+  "lang": "en",
+  "outlet": "Fortune",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkk1WEJLT3MwT0FvU3o5cGRVQUVGaHZtbUlFVERubFJkM2JvMTFKNHRZZ2N2ZzlNbEtfOGktcnFzWVJTbElTNjVmOUszZVdKWnRsUHFhUnhvVmVfR3ZlOWZfX2prXzZqMjZzRUR0b3RfdndHUWR4SktpSk51eUlrbVJwd0ZTdnBpbEE?oc=5",
+  "section": "ai",
+  "people": [
+   "트럼프",
+   "베선트"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "0c87325980",
+  "time": "2026-11-23T12:13:35+00:00",
+  "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+  "ko": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+  "section": "crypto",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "a0043aeed8",
+  "time": "2026-11-23T12:09:41+00:00",
+  "title": "여자농구 신한은행, 하나은행 잡고 4연승…단독 선두 질주",
+  "ko": "여자농구 신한은행, 하나은행 잡고 4연승…단독 선두 질주",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123170700007",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "6f143e97a4",
+  "time": "2026-11-23T12:06:28+00:00",
+  "title": "'사쿠라 22점 폭발' 선두 신한은행, 진안 복귀한 하나은행 꺾고 4연승 질주",
+  "ko": "'사쿠라 22점 폭발' 선두 신한은행, 진안 복귀한 하나은행 꺾고 4연승 질주",
+  "lang": "ko",
+  "outlet": "뉴시스",
+  "url": "https://www.newsis.com/view/NISX20261123_0003880016",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "59c863c73b",
+  "time": "2026-11-23T12:00:00+00:00",
+  "title": "Virginia, Oregon sue Musk’s AI company over sexual deepfakes",
+  "ko": "Virginia, Oregon sue Musk’s AI company over sexual deepfakes",
+  "lang": "en",
+  "outlet": "Politico",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5",
+  "section": "ai",
+  "people": [
+   "머스크"
+  ],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "f52b3883aa",
+  "time": "2026-11-23T11:55:12+00:00",
+  "title": "[여자농구 인천전적] 신한은행 63-59 하나은행",
+  "ko": "[여자농구 인천전적] 신한은행 63-59 하나은행",
+  "lang": "ko",
+  "outlet": "연합뉴스",
+  "url": "https://www.yna.co.kr/view/AKR20261123170300007",
+  "section": "money",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "9e136b5671",
+  "time": "2026-11-23T11:51:09+00:00",
+  "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+  "ko": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+  "lang": "en",
+  "outlet": "CoinDesk",
+  "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
+  "section": "global",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
+  "id": "1a09f69409",
+  "time": "2026-11-23T11:45:14+00:00",
+  "title": "겨울방학 맞은 서대문구 청소년, 연세대서 '융합 AI' 배운다",
+  "ko": "겨울방학 맞은 서대문구 청소년, 연세대서 '융합 AI' 배운다",
+  "lang": "ko",
+  "outlet": "파이낸셜뉴스",
+  "url": "https://www.fnnews.com/news/202611232042105722",
+  "section": "ai",
+  "people": [],
+  "flash": false,
+  "official": false,
+  "also": []
+ },
+ {
   "id": "a0e24bc9b7",
   "time": "2026-11-23T04:10:14+00:00",
   "title": "화성산업진흥원 지원기업 오리누, CES2027 AI혁신상 수상",
@@ -5154,268 +6675,6 @@
   "section": "people",
   "people": [
    "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a88b10bcdd",
-  "time": "2026-11-21T11:19:44+00:00",
-  "title": "Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad",
-  "ko": "Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNElHV3B6cVdUUEJLODFyNXAxbkpxZk5laXp1VVJ2N19lUHdFSl9wdFF2QzBFdVFiY3FySU1fQ3hzZHo2QW5DMjV1RnlvcEFsamtUdTlBWkJDSFZKY1g1ZFRXNTMtMDJDYk02VXBoUm1YeHFvUVgtY21lNmozZ2hlRmVRUm9mWW9BSzA3TzhZWGVPRGtBUEhEUDJvOWVRMG5BcEVBaHd6RFQ2SVBwckdDQjFjTVN0U1RGQnc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6e439045be",
-  "time": "2026-11-21T11:17:30+00:00",
-  "title": "\"AI로 167년 난제 풀었다\" 앤트로픽 수학자의 '리만 가설' 증명, MIT 검증 프로그램 통과",
-  "ko": "\"AI로 167년 난제 풀었다\" 앤트로픽 수학자의 '리만 가설' 증명, MIT 검증 프로그램 통과",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261121_0003877815",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "d2a652c711",
-  "time": "2026-11-21T11:02:36+00:00",
-  "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-  "ko": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-  "lang": "en",
-  "outlet": "Washington Post",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "e52f321b97",
-  "time": "2026-11-21T10:32:22+00:00",
-  "title": "AI 버블 붕괴 신호탄인가, 숨 고르기인가…유동성 한계 부딪힌 미국 증시",
-  "ko": "AI 버블 붕괴 신호탄인가, 숨 고르기인가…유동성 한계 부딪힌 미국 증시",
-  "lang": "ko",
-  "outlet": "한국경제",
-  "url": "https://www.hankyung.com/article/202611211559i",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "6d21760fb8",
-  "time": "2026-11-21T10:30:00+00:00",
-  "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-  "ko": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-  "lang": "en",
-  "outlet": "Wall Street Journal",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZ5R1J5S3R5UjEzbTdiVW1OTl9RRkFkcFdyYTJNVHpOMVR0TTlQM0YxUUI3VFZwdVEzSFdKMmdCTDVla3VBY3dtOGVxTnEwWFdyeFJneFEwTkZTb3FQQkZveUdGNUI2allxaUNZcVI?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "5c15706277",
-  "time": "2026-11-21T10:30:00+00:00",
-  "title": "Jensen Huang has 5 ways to push for an Nvidia comeback",
-  "ko": "Jensen Huang has 5 ways to push for an Nvidia comeback",
-  "lang": "en",
-  "outlet": "Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTE4OGlzQlBTVnd2S1M0ZGJaZm96Nk5HQVgxWmdHcE9FdjhsMDZ4c29tMXJsLUFyUVA5WDN0d3R6bTN4QWZ2dWlnME9nY005bzd0YktJRU5BYVVtOGU4aHdZU0MtcWVRdE80UTNFOVJueUY1N0FYOVN5ZmdEQi1JNUNtNUNfOVk0YXJiMmxWZ0RrZ3FsaGVOa1dxQjBIWm10cTJzdg?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "0e43abeee6",
-  "time": "2026-11-21T10:15:00+00:00",
-  "title": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
-  "ko": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
-  "lang": "en",
-  "outlet": "NBC News",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODZxNWluLV9HWmFpeHlZUVpId0thQU5INktoaVJaNk4ya29zOTNieWNoTTQ5ZGNjbHEyZktIaVBpYS1Kd3p2Yl9uVVctX1lZeXFWeHM3cm1iN1MtMkt0VGExNm0xd0Vlakc2NE5zSHR6d2F5R2tMdUlrRHFzZnNiOE5VRG0?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "9576f8edeb",
-  "time": "2026-11-21T10:12:12+00:00",
-  "title": "“앤트로픽 상장했는데 내 주식도 오를까”…수혜주 살펴보니",
-  "ko": "“앤트로픽 상장했는데 내 주식도 오를까”…수혜주 살펴보니",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12215326",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "f78cbf04e4",
-  "time": "2026-11-21T10:12:11+00:00",
-  "title": "주식만 떨어진 게 아니네…美 AI투자 지연 우려에 고점서 12% 넘게 빠진 ‘이것’",
-  "ko": "주식만 떨어진 게 아니네…美 AI투자 지연 우려에 고점서 12% 넘게 빠진 ‘이것’",
-  "lang": "ko",
-  "outlet": "매일경제",
-  "url": "https://www.mk.co.kr/news/stock/12215325",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "a169399f99",
-  "time": "2026-11-21T10:05:00+00:00",
-  "title": "I was a director at Nvidia under Jensen Huang. He had a genuinely warm, human side behind his intensity.",
-  "ko": "I was a director at Nvidia under Jensen Huang. He had a genuinely warm, human side behind his intensity.",
-  "lang": "en",
-  "outlet": "Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0xaVTFYVkNSSFM0aGFkRHc5SnFrRjBtSHRXQXQxWjl4ZWJnTFAzLTRueWRVM291NFpsS3ZuUVo5T1c4N21HaFo1SVpSaDEwRGp4SGZYZUFCOTc1Y28ySEREOHpIbHFKdk5pZWhGLVlsTUdCVS01TVhPWHFPVWRmaExXQTFXSkhlMFhINDhGM3ZLTlV3Y21pLTNDRFdwVC05UkVQZQ?oc=5",
-  "section": "ai",
-  "people": [
-   "젠슨 황"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "21787379c7",
-  "time": "2026-11-21T10:02:02+00:00",
-  "title": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-  "ko": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-  "lang": "en",
-  "outlet": "New York Times",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Ym9wLVQtS0pLTDc1eUp3Y1phbzFSQ29lN3NwT01NTF8xeHAtbWJjTDJTaHNxbkVqb3ltSHVLZEttc3pwOWg3cjRMdTJES3BIVGczR2VKOGpSbTJxNGp3SHR4cmlOSjluYmJfU3V5X2IxZUEzQWc?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "b8d0376dbf",
-  "time": "2026-11-21T09:37:05+00:00",
-  "title": "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
-  "ko": "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261121045700084",
-  "section": "ai",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "71906daf7d",
-  "time": "2026-11-21T09:12:54+00:00",
-  "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-  "ko": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-  "lang": "en",
-  "outlet": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "83a2980425",
-  "time": "2026-11-21T09:04:56+00:00",
-  "title": "네타냐후, 새해 전 이란 공격 압박…트럼프 \"서두르지 않겠다\"",
-  "ko": "네타냐후, 새해 전 이란 공격 압박…트럼프 \"서두르지 않겠다\"",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261121_0003877766",
-  "section": "people",
-  "people": [
-   "트럼프"
-  ],
-  "flash": false,
-  "official": false,
-  "also": []
- },
- {
-  "id": "1a84ea33f7",
-  "time": "2026-11-21T08:56:10+00:00",
-  "title": "여자농구 신한은행, 3연승으로 공동 선두…BNK는 2연패 탈출(종합)",
-  "ko": "여자농구 신한은행, 3연승으로 공동 선두…BNK는 2연패 탈출(종합)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261121_0003877782",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "연합뉴스"
-  ]
- },
- {
-  "id": "995627833a",
-  "time": "2026-11-21T08:50:58+00:00",
-  "title": "여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁(종합)",
-  "ko": "여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁(종합)",
-  "lang": "ko",
-  "outlet": "연합뉴스",
-  "url": "https://www.yna.co.kr/view/AKR20261121043751007",
-  "section": "money",
-  "people": [],
-  "flash": false,
-  "official": false,
-  "also": [
-   "뉴시스"
-  ]
- },
- {
-  "id": "c23d1e61e9",
-  "time": "2026-11-21T08:43:59+00:00",
-  "title": "국힘, 대구서 '조작기소 특검법' 규탄 장외집회…\"이재명 탄핵만이 답\"(종합)",
-  "ko": "국힘, 대구서 '조작기소 특검법' 규탄 장외집회…\"이재명 탄핵만이 답\"(종합)",
-  "lang": "ko",
-  "outlet": "뉴시스",
-  "url": "https://www.newsis.com/view/NISX20261121_0003877785",
-  "section": "people",
-  "people": [
-   "이재명"
   ],
   "flash": false,
   "official": false,
